@@ -2,18 +2,18 @@
 #define _CELL_H_
 
 #include <unistd.h>
-#include <commun.h>
+#include "commun.h"
 
 /* Definition des types de base */
 
-typedef struct cell_s 
+typedef struct cell_s
 {
   pid_t pid ;
   char marque ;
 } cell_t ;
 
 /*
- * Definition des fonctions 
+ * Definition des fonctions
  */
 
 /* Affichage d'une case */
@@ -38,8 +38,8 @@ extern char
 cell_marque_lire( const cell_t cell );
 
 /*
- * Comparaison de 2 cases 
- * Retour < 0 si p1 < p2  
+ * Comparaison de 2 cases
+ * Retour < 0 si p1 < p2
  *        = 0 si p1 = p2
  *        > 0 si p1 > p2
  */

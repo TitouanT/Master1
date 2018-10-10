@@ -161,12 +161,12 @@ int main (int nb_arg, char * tab_arg[]) {
 			arrivee = PISTE_LONGUEUR-1;
 			fini = VRAI;
 		}
-		// if (arrivee == ) continue;
+		if (arrivee == depart) continue;
 
 		// decoler -- effacement de la case de départ si besoin
 		verrouiller(sem_piste, depart);
 		piste_cell_lire(piste, depart, &cell_cheval_ennemi);
-		if (cell_comparer(cell_cheval, cell_cheval_ennemi))
+		if (cell_comparer(cell_cheval, cell_cheval_ennemi) == 0)
 			piste_cell_effacer(piste, depart);
 		deverrouiller(sem_piste, depart);
 
@@ -227,11 +227,11 @@ int main (int nb_arg, char * tab_arg[]) {
 	* Suppression du cheval de la liste
 	*/
 	// supression du cheval de la piste:
-	verrouiller(sem_piste, depart);
-	piste_cell_lire(piste, depart, &cell_cheval_ennemi);
+	verrouiller(sem_piste, arrivee);
+	piste_cell_lire(piste, arrivee, &cell_cheval_ennemi);
 	if (cell_comparer(cell_cheval, cell_cheval_ennemi))
-		piste_cell_effacer(piste, depart);
-	deverrouiller(sem_piste, depart);
+		piste_cell_effacer(piste, arrivee);
+	deverrouiller(sem_piste, arrivee);
 
 	// supression de la liste
 	verrouiller(sem_liste, 0);
@@ -268,11 +268,11 @@ int getSEM (int cle, int size) {
 		perror("Pb semget");
 		exit(-1);
 	}
-	for (int i = 0; i < size; i++)
-		if (semctl(semid, i, SETVAL, 1) == -1) {
-			perror("Pb semctl SETVAL");
-			exit(-1);
-		}
+	// for (int i = 0; i < size; i++)
+	// 	if (semctl(semid, i, SETVAL, 1) == -1) {
+	// 		perror("Pb semctl SETVAL");
+	// 		exit(-1);
+	// 	}
 
 	return semid;
 }

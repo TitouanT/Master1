@@ -5,7 +5,7 @@
 
 #include <stdlib.h>
 
-#include <cell.h>
+#include "cell.h"
 
 /* Definition des types de base */
 
@@ -18,11 +18,11 @@ typedef struct piste_s
 typedef unsigned int piste_id_t ;
 
 /*
- * Definition des fonctions 
+ * Definition des fonctions
  */
 
 /* Affectation d'une case de la piste */
-extern void 
+extern void
 piste_cell_affecter( piste_t * piste ,
 		     const piste_id_t indice,
 		     const cell_t cell );
@@ -39,7 +39,7 @@ piste_cell_lire( piste_t * piste ,
  *        FAUX sinon
  */
 
-extern booleen_t 
+extern booleen_t
 piste_cell_libre( piste_t * piste ,
 		  const piste_id_t indice);
 
@@ -81,16 +81,16 @@ piste_initialiser( piste_t * piste );
 
 /*
  * Comparaison de 2 pistes p1 et p2
- * Retour < 0 si p1 < p2  
+ * Retour < 0 si p1 < p2
  *        = 0 si p1 = p2
  *        > 0 si p1 > p2
  */
 extern int
 piste_comparer( piste_t * const p1 , piste_t * const p2 )  ;
 
-/* 
+/*
  * Affectation d'une piste : p1 <-- p2
- * p1 doit etre creee avant l'appel a cette fonction 
+ * p1 doit etre creee avant l'appel a cette fonction
  */
 extern void
 piste_affecter( piste_t * p1 , piste_t * const p2 );

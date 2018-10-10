@@ -1,8 +1,8 @@
 #ifndef _LISTE_H_
 #define _LISTE_H_
 
-#include <commun.h>
-#include <elem.h>
+#include "commun.h"
+#include "elem.h"
 
 
 /*
@@ -11,12 +11,12 @@
 
 #define LISTE_MAX 50
 
-/* 
- * Definition des types 
+/*
+ * Definition des types
  */
 
 
-typedef struct liste_s 
+typedef struct liste_s
 {
   elem_id_t nb ;
   elem_t liste[LISTE_MAX] ;
@@ -25,38 +25,38 @@ typedef struct liste_s
 typedef elem_id_t liste_id_t ;
 
 /*
- * Definitions des fonctions 
+ * Definitions des fonctions
  */
 
 /* Fonctions de lectures */
 
-extern 
-elem_id_t 
+extern
+elem_id_t
 liste_nb_lire( liste_t * const liste );
 
-extern 
-elem_t * 
+extern
+elem_t *
 liste_liste_lire( liste_t * const liste ) ;
 
-extern 
-elem_t 
+extern
+elem_t
 liste_elem_lire( liste_t * const liste ,
 		 const liste_id_t i ) ;
 
 
 /* Fonctions d'affectations */
 
-extern 
+extern
 void
 liste_nb_affecter( liste_t * liste ,
 		   const elem_id_t nb );
 
-extern 
+extern
 void
 liste_liste_affecter( liste_t * liste ,
 		      elem_t * const l );
 
-extern 
+extern
 void
 liste_elem_affecter( liste_t * liste ,
 		     const liste_id_t i ,
@@ -71,9 +71,9 @@ liste_elem_rechercher( int * ind_recherche ,
 		       const elem_t elem );
 
 
-/* 
- * Suppression d'un element dans la liste 
- * Les autres elements sont decales 
+/*
+ * Suppression d'un element dans la liste
+ * Les autres elements sont decales
  */
 
 extern
@@ -96,21 +96,21 @@ liste_afficher( liste_t * const liste );
 
 /* Initialisation de la liste */
 
-extern 
-int 
+extern
+int
 liste_initialiser( liste_t * liste ) ;
 
-/* 
+/*
  * Decanillage d'un cheval:
  */
-extern 
+extern
 int
 liste_elem_decaniller( liste_t * liste ,
 		       const elem_id_t ind_cheval ) ;
 
 /*
  * Comparaison de 2 listes l1 et l2
- * Retour < 0 si l1 < l2  
+ * Retour < 0 si l1 < l2
  *        = 0 si l1 = l2
  *        > 0 si l1 > l2
  */
@@ -118,13 +118,13 @@ extern
 int
 liste_comparer( liste_t * const l1 , liste_t * const l2 ) ;
 
-/* 
+/*
  * Affectation d'une liste : l1 <-- l2
- * l1 doit etre creee avant l'appel a cette fonction 
+ * l1 doit etre creee avant l'appel a cette fonction
  */
 
-extern 
-void 
+extern
+void
 liste_affecter( liste_t * l1 , liste_t * const l2 ) ;
 
 #endif
