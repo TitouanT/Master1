@@ -5,8 +5,8 @@
 #include "liste.h"
 #include "piste.h"
 
-#define keyListe 10
-#define keyPiste 20
+#define keyListe 22
+#define keyPiste 11
 #define droit IPC_CREAT|0666
 
 int main() {

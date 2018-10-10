@@ -19,8 +19,8 @@ fich_obj_test_liste = test_liste.o elem.o liste.o cell.o commun.o
 # Options for compilation
 #
 
-GCCOBJ = gcc -c 
-GCCLNK = gcc 
+GCCOBJ = gcc -c
+GCCLNK = gcc
 
 # compilation sous Linux
 #opt_SE = -D_LINUX_
@@ -43,7 +43,7 @@ opt = -g -Wall -D_DEBUG_
 cheval : $(fich_obj_cheval)
 	$(GCCLNK) $(fich_obj_cheval) $(opt) -o cheval -I ./
 
-cheval.o : cheval.c 
+cheval.o : cheval.c
 	$(GCCOBJ) $(opt_SE) $(opt) cheval.c -o cheval.o -I ./
 
 #
@@ -53,14 +53,14 @@ cheval.o : cheval.c
 test_piste : $(fich_obj_test_piste)
 	$(GCCLNK) $(fich_obj_test_piste) $(opt) -o test_piste -I ./
 
-test_piste.o : test_piste.c 
+test_piste.o : test_piste.c
 	$(GCCOBJ) $(opt_SE) $(opt) test_piste.c -o test_piste.o -I ./
 
 
 test_liste : $(fich_obj_test_liste)
 	$(GCCLNK) $(fich_obj_test_liste) $(opt) -o test_liste -I ./
 
-test_liste.o : test_liste.c 
+test_liste.o : test_liste.c
 	$(GCCOBJ) $(opt_SE) $(opt) test_liste.c -o test_liste.o -I ./
 
 #
@@ -68,30 +68,37 @@ test_liste.o : test_liste.c
 #
 
 elem.o : elem.h elem.c
-	$(GCCOBJ) $(opt_SE) $(opt) elem.c -o elem.o -I ./	
+	$(GCCOBJ) $(opt_SE) $(opt) elem.c -o elem.o -I ./
 
 liste.o : liste.h liste.c
-	$(GCCOBJ) $(opt_SE) $(opt) liste.c -o liste.o -I ./	
+	$(GCCOBJ) $(opt_SE) $(opt) liste.c -o liste.o -I ./
 
-piste.o : piste.c piste.h 
+piste.o : piste.c piste.h
 	$(GCCOBJ) $(opt_SE) $(opt) piste.c -o piste.o -I ./
 
-cell.o : cell.c cell.h 
+cell.o : cell.c cell.h
 	$(GCCOBJ) $(opt_SE) $(opt) cell.c -o cell.o -I ./
 
-commun.o : commun.c commun.h 
+commun.o : commun.c commun.h
 	$(GCCOBJ) $(opt_SE) $(opt) commun.c -o commun.o -I ./
 
 #
 #-------- Headers -------------
 #
 
+
+ressources:
+	gcc clearRessources.c -o clearR
+	gcc createRessources.c -o creatR
+
+
 #
 #-------- Clean objects -------
 #
 
-clean : 
-	rm -f *.o 
+clean :
+	rm -f *.o
+	rm -f clearR creatR
 
 
 #

@@ -28,6 +28,10 @@ int       getListeSEM (int cle_liste);
 void  verrouiller (int sem, int index);
 void deverrouiller (int sem, int index);
 
+void say(char *msg) {
+	// printf("%i: %s\n", getpid(), msg);
+}
+
 int main (int nb_arg, char * tab_arg[]) {
 	/*
 	DÉCLARATION
@@ -115,14 +119,19 @@ int main (int nb_arg, char * tab_arg[]) {
 	/*
 	* Enregistrement du cheval dans la liste
 	*/
+	say("Je m'apprête à m'ajouter dans la liste");
 	verrouiller(sem_liste, 0);
+	say("J'ai la main sur la liste");
 	liste_elem_ajouter(liste, elem_cheval);
+	say("je me suis ajouter, et je vais rendre la liste");
 	deverrouiller(sem_liste, 0);
+	say("je viens de rendre la liste");
 
 
 
 	while (! fini) {
 		/* Attente entre 2 coup de de */
+		say("j'attend mon tour\n\n");
 		commun_attendre_tour();
 
 		/*
@@ -130,18 +139,25 @@ int main (int nb_arg, char * tab_arg[]) {
 		*/
 
 		// debut de mon tour, je prend le controle de la liste
+		say("Je veux la liste");
 		verrouiller(sem_liste, 0);
+		say("J'ai la liste");
 
 		// je récupère l'element qui me représente dans la liste
 		elem_cheval = pullElem(liste, cell_cheval);
 		// je me verouille afin de me déplacer en toute serenité
+		say("je prend ma semaphore");
 		elem_sem_verrouiller(&elem_cheval);
 
 		// puis je rend la main sur la liste
+		say("je rend la main sur la liste");
 		deverrouiller(sem_liste, 0);
 
 		// si decanillé alors la course est fini pour moi
-		if (elem_etat_lire(elem_cheval) == DECANILLE) break;
+		if (elem_etat_lire(elem_cheval) == DECANILLE){
+			say("je viens de voir que je suis decanille, c'est fini pour moi");
+			break;
+		}
 
 
 
@@ -161,37 +177,60 @@ int main (int nb_arg, char * tab_arg[]) {
 			arrivee = PISTE_LONGUEUR-1;
 			fini = VRAI;
 		}
-		if (arrivee == depart) continue;
+		if (arrivee == depart) {
+			piste_afficher_lig (piste);
+			continue;
+		}
 
 		// decoler -- effacement de la case de départ si besoin
+		say("je veux la main sur la piste, pour ma case de depart");
 		verrouiller(sem_piste, depart);
+		say("j'ai la main sur la piste");
 		piste_cell_lire(piste, depart, &cell_cheval_ennemi);
-		if (cell_comparer(cell_cheval, cell_cheval_ennemi) == 0)
+		if (cell_comparer(cell_cheval, cell_cheval_ennemi) == 0) {
 			piste_cell_effacer(piste, depart);
+			say("je viens d'effacer ma position de depart");
+		}
+		else {
+			say("qqun est present sur ma case, je le laisse");
+		}
+		say("je vais liberer la piste");
 		deverrouiller(sem_piste, depart);
+		say("j'ai liberer la piste");
 
 		// je plane
+		say("j'attend la fin de mon saut");
 		commun_attendre_fin_saut();
 
 		// atterissage -- affectation en case d'arrivée
+		say("je veux la main sur la piste, pour ma case d'arrivée");
 		verrouiller(sem_piste, arrivee);
+		say("j ai la main sur la piste");
 		if (piste_cell_occupee(piste, arrivee)) {
+			say("ma case d'arrivée est occupée !!");
 			piste_cell_lire(piste, arrivee, &cell_cheval_ennemi);
 			// deverrouiller(sem_piste, arrivee);
+			say("je veux la main sur la liste");
 			verrouiller(sem_liste, 0);
+			say("j ai la main sur la liste");
 			elem_cheval_ennemi = pullElem(liste, cell_cheval_ennemi);
 			if (elem_sem_lire(elem_cheval_ennemi) > 0) {
+				say("le sem du cheval qui est sur ma case d'arrivée est disponible, donc je le decanille");
 				elem_decanille(elem_cheval_ennemi);
 				pushElem(liste, elem_cheval_ennemi);
 			}
 			else {
-				printf("Le cheval présent sur ma case d'arrivée est en train de sauter ! Je ne le décanille donc pas\n");
+				say("Le cheval présent sur ma case d'arrivée est en train de sauter ! Je ne le décanille donc pas");
 			}
+			say("je vais rendre la main sur la liste");
 			deverrouiller(sem_liste, 0);
+			say("j'ai rendu la main sur la liste");
 
 		}
 		piste_cell_affecter(piste, arrivee, cell_cheval);
+		say("je me place sur la piste, sur ma case d'arrivée et je rend la main sur la piste");
 		deverrouiller(sem_piste, arrivee);
+		say("la main sur la piste est rendu");
 
 
 		#ifdef _DEBUG_
@@ -201,10 +240,16 @@ int main (int nb_arg, char * tab_arg[]) {
 
 
 		// j'ai fini de sauter, je rend la main sur le sémaphore qui protège mon élément dans la liste
+		say("je demande la main sur la liste");
 		verrouiller(sem_liste, 0);
+		say("j'ai la main sur la liste");
 		elem_cheval = pullElem(liste, cell_cheval);
+		say("je vais maitenant rendre le sem sur mon cheval");
 		elem_sem_deverrouiller(&elem_cheval);
+		say("le sem cheval est rendu");
+		say("je vais rendre la liste");
 		deverrouiller(sem_liste, 0);
+		say("la liste est rendu");
 
 
 		/* Affichage de la piste */
@@ -213,30 +258,52 @@ int main (int nb_arg, char * tab_arg[]) {
 		depart = arrivee;
 	}
 
-	if (fini) printf ("Le cheval \"%c\" A FRANCHIT LA LIGNE D ARRIVEE\n", marque);
+	if (fini) {
+		printf ("Le cheval \"%c\" A FRANCHIT LA LIGNE D ARRIVEE\n", marque);
+		//on passe en etat arrivé
+		say("je vais me passé en etat ARRIVE");
+		say("je demande le controle de la liste");
+		verrouiller(sem_liste, 0);
+		say("j ai la main sur la liste");
+		elem_etat_affecter(&elem_cheval, ARRIVE);
+		pushElem(liste, elem_cheval);
+		say("j ai maj mon etat, et je vais rendre la liste");
+		deverrouiller(sem_liste, 0);
+		say("j ai rendu la liste");
+	}
 	else printf("Le cheval \"%c\" A ÉTÉ DÉCANILLÉ\n", marque);
 
-	//on passe en etat arrivé
-	verrouiller(sem_liste, 0);
-	elem_etat_affecter(&elem_cheval, ARRIVE);
-	pushElem(liste, elem_cheval);
-	deverrouiller(sem_liste, 0);
 
 
 	/*
 	* Suppression du cheval de la liste
 	*/
+	say("JE VAIS ME SUPPRIMER DE LA PISTE");
 	// supression du cheval de la piste:
+	say("je demande le controle de la piste");
 	verrouiller(sem_piste, arrivee);
+	say("je l ai");
 	piste_cell_lire(piste, arrivee, &cell_cheval_ennemi);
-	if (cell_comparer(cell_cheval, cell_cheval_ennemi))
+	if (cell_comparer(cell_cheval, cell_cheval_ennemi) == 0) {
 		piste_cell_effacer(piste, arrivee);
+		say("je me suis effacer de la piste");
+	} else say("je n'y suis déjà plus");
+	say("je vais rendre la main sur la piste");
 	deverrouiller(sem_piste, arrivee);
+	say("je rend la main sur la piste");
 
+	say("JE VAIS ME SUPPRIMER DE LA LISTE");
 	// supression de la liste
+	say("je demande la main sur la liste");
 	verrouiller(sem_liste, 0);
+	say("je l ai");
 	delElem(liste, elem_cheval);
+	say("je me suis retiré et je rend la main");
 	deverrouiller(sem_liste, 0);
+	say("la liste est rendu");
+
+	say("je supprime ma semaphore");
+	elem_sem_detruire(&elem_cheval);
 
 
 	exit(0);
@@ -268,11 +335,6 @@ int getSEM (int cle, int size) {
 		perror("Pb semget");
 		exit(-1);
 	}
-	// for (int i = 0; i < size; i++)
-	// 	if (semctl(semid, i, SETVAL, 1) == -1) {
-	// 		perror("Pb semctl SETVAL");
-	// 		exit(-1);
-	// 	}
 
 	return semid;
 }
