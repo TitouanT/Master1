@@ -3,13 +3,14 @@
 #include <stdlib.h>
 #include <sys/sem.h>
 #include <sys/shm.h>
+#include <sys/wait.h>
 
 #define N 5
 #define REP 10
 #define TEMPS_PENSER 5
 #define TEMPS_MANGER 5
 
-enum {PENSE, MANGE, RIEN};
+enum {PENSE, MANGE, ATTENDSEM, FINI};
 
 int sem;
 int * shm;
@@ -21,7 +22,7 @@ void penser(int p) {
 	// printf("%d pense  (%d sec)\n", p, t);
 	shm[p] = PENSE;
 	sleep(t);
-	shm[p] = RIEN;
+	shm[p] = ATTENDSEM;
 }
 
 void manger(int p) {
@@ -29,18 +30,19 @@ void manger(int p) {
 	// printf("%d MANGE  (%d sec)\n", p, t);
 	shm[p] = MANGE;
 	sleep(t);
-	shm[p] = RIEN;
+	shm[p] = ATTENDSEM;
 }
 
 void monitor() {
 	printf("Penser = ' '\nManger = '|'\nEn attente sur un semaphore = '-'\n");
-	while(shm[N]) {
+	while(shm[N] != FINI) {
 		printf("#");
 		for (int i = 0; i < N; i++) {
 			switch(shm[i]) {
-				case PENSE: printf("   "); break;
-				case MANGE: printf(" | "); break;
-				case RIEN:  printf(" - "); break;
+				case PENSE:      printf("   "); break;
+				case MANGE:      printf(" | "); break;
+				case ATTENDSEM:  printf(" + "); break;
+				case FINI:       printf("..."); break;
 			}
 		}
 		printf("#\n");
@@ -50,6 +52,7 @@ void monitor() {
 
 
 void philosophe(int p) {
+	srandom(getpid());
 	const int f1 = p;
 	const int f2 = (p+1)%N;
 	struct sembuf op_P[] = {
@@ -68,19 +71,17 @@ void philosophe(int p) {
 		manger(p);
 		semop(sem, op_V, 2);
 	}
+	shm[p] = FINI;
 }
 
 int main(int argc, char const *argv[]) {
-
-	srandom(getpid());
 
 	/*
 	Segment de memoire partagé
 	*/
 	shmid = shmget(IPC_PRIVATE, (N+1) * sizeof(int), IPC_CREAT | 0666);
 	shm = shmat(shmid, 0,0);
-	for (int i = 0; i < N; i++) shm[i] = RIEN;
-	shm[N] = 1;
+	for (int i = 0; i <= N; i++) shm[i] = ATTENDSEM;
 
 	/*
 	initialisation des semaphores
@@ -109,7 +110,7 @@ int main(int argc, char const *argv[]) {
 
 
 	for (int i = 0; i < N; i++) wait(NULL);
-	shm[N] = 0;
+	shm[N] = FINI;
 
 	semctl(sem, 0, IPC_RMID, 0);
 	shmctl(shmid, IPC_RMID, NULL);
