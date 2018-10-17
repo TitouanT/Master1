@@ -1,4 +1,3 @@
-
 color(jaune).
 color(vert).
 color(rouge).

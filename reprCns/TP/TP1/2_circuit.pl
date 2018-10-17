@@ -1,3 +1,5 @@
+
+
 comp_not(1, 0).
 comp_not(0, 1).
 
