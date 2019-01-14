@@ -1,0 +1,126 @@
+Christiane est la mere de Stephanie
+Albert est le pere de Christiane
+Eugenie est la mere de Christiane
+Christiane est la mere de Thierry
+Christiane est la mere de Sylvain
+Albert est le pere de Martine
+Eugenie est la mere de Martine
+Martine est la mere de Herve
+Martine est la mere de Laurent
+Martine est la mere de Nicolas
+Albert est le concubin de Eugenie
+Eugenie est la mere de Daniel
+Daniel est le pere de Eric
+Daniel est le pere de Philipe
+Albert est le pere de Daniel
+Philipe est le frere de Eric
+Eric est le frere de Philipe
+Eugenie est la grand mere de Eric
+Albert est le grand pere de Eric
+Eugenie est la grand mere de Philipe
+Albert est le grand pere de Philipe
+Thierry est le frere de Sylvain
+Stephanie est la soeur de Sylvain
+Sylvain est le frere de Stephanie
+Sylvain est le frere de Thierry
+Eugenie est la grand mere de Sylvain
+Albert est le grand pere de Sylvain
+Stephanie est la soeur de Thierry
+Thierry est le frere de Stephanie
+Eugenie est la grand mere de Thierry
+Albert est le grand pere de Thierry
+Eugenie est la grand mere de Stephanie
+Albert est le grand pere de Stephanie
+Laurent est le frere de Nicolas
+Herve est le frere de Nicolas
+Nicolas est le frere de Herve
+Nicolas est le frere de Laurent
+Eugenie est la grand mere de Nicolas
+Albert est le grand pere de Nicolas
+Herve est le frere de Laurent
+Laurent est le frere de Herve
+Eugenie est la grand mere de Laurent
+Albert est le grand pere de Laurent
+Eugenie est la grand mere de Herve
+Albert est le grand pere de Herve
+Christiane est la soeur de Daniel
+Daniel est l'oncle de Sylvain
+Sylvain est le neveu de Daniel
+Eric est le cousin de Sylvain
+Philipe est le cousin de Sylvain
+Daniel est l'oncle de Thierry
+Thierry est le neveu de Daniel
+Eric est le cousin de Thierry
+Philipe est le cousin de Thierry
+Daniel est l'oncle de Stephanie
+Stephanie est la niece de Daniel
+Eric est le cousin de Stephanie
+Philipe est le cousin de Stephanie
+Martine est la soeur de Daniel
+Daniel est l'oncle de Nicolas
+Nicolas est le neveu de Daniel
+Eric est le cousin de Nicolas
+Philipe est le cousin de Nicolas
+Daniel est l'oncle de Laurent
+Laurent est le neveu de Daniel
+Eric est le cousin de Laurent
+Philipe est le cousin de Laurent
+Daniel est l'oncle de Herve
+Herve est le neveu de Daniel
+Eric est le cousin de Herve
+Philipe est le cousin de Herve
+Eugenie est la concubine de Albert
+Daniel est le frere de Martine
+Martine est la tante de Eric
+Eric est le neveu de Martine
+Nicolas est le cousin de Eric
+Laurent est le cousin de Eric
+Herve est le cousin de Eric
+Martine est la tante de Philipe
+Philipe est le neveu de Martine
+Nicolas est le cousin de Philipe
+Laurent est le cousin de Philipe
+Herve est le cousin de Philipe
+Daniel est le frere de Christiane
+Christiane est la tante de Eric
+Eric est le neveu de Christiane
+Sylvain est le cousin de Eric
+Thierry est le cousin de Eric
+Stephanie est la cousine de Eric
+Christiane est la tante de Philipe
+Philipe est le neveu de Christiane
+Sylvain est le cousin de Philipe
+Thierry est le cousin de Philipe
+Stephanie est la cousine de Philipe
+Martine est la soeur de Christiane
+Christiane est la tante de Nicolas
+Nicolas est le neveu de Christiane
+Sylvain est le cousin de Nicolas
+Thierry est le cousin de Nicolas
+Stephanie est la cousine de Nicolas
+Christiane est la tante de Laurent
+Laurent est le neveu de Christiane
+Sylvain est le cousin de Laurent
+Thierry est le cousin de Laurent
+Stephanie est la cousine de Laurent
+Christiane est la tante de Herve
+Herve est le neveu de Christiane
+Sylvain est le cousin de Herve
+Thierry est le cousin de Herve
+Stephanie est la cousine de Herve
+Christiane est la soeur de Martine
+Martine est la tante de Sylvain
+Sylvain est le neveu de Martine
+Nicolas est le cousin de Sylvain
+Laurent est le cousin de Sylvain
+Herve est le cousin de Sylvain
+Martine est la tante de Thierry
+Thierry est le neveu de Martine
+Nicolas est le cousin de Thierry
+Laurent est le cousin de Thierry
+Herve est le cousin de Thierry
+Martine est la tante de Stephanie
+Stephanie est la niece de Martine
+Nicolas est le cousin de Stephanie
+Laurent est le cousin de Stephanie
+Herve est le cousin de Stephanie

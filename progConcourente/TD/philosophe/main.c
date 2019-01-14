@@ -75,7 +75,6 @@ void philosophe(int p) {
 }
 
 int main(int argc, char const *argv[]) {
-
 	/*
 	Segment de memoire partagé
 	*/

@@ -3,9 +3,11 @@
 
 #include <ligne_ncurses.h>
 
-/*
- * Affichage d'une ligne 
- */
+
+/* ########################## */
+/* # Affichage d'une ligne  # */
+/* ########################## */
+
 extern void
 ligne_wprint( ecran_t * const ecran ,			/* Ecran sur lequel on affiche                */
 	      const ligne_t * const ligne ,		/* Section a voie unique a afficher           */
