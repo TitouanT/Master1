@@ -1,0 +1,5 @@
+1 2 today t
+2 3 <eps> ax0
+3 4 <eps> d
+4 5 <eps> ey1
+5

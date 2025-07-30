@@ -1,0 +1,372 @@
+Voici une photo
+prise par l'artiste Michael Najjar,
+et elle est vraie,
+dans le sens où il est allé en Argentine
+pour prendre cette photo.
+Mais c'est aussi de la fiction. Il y a eu beaucoup de travail sur cette photo ensuite.
+Et ce qu'il a fait
+c'est qu'il a en fait redessiné, numériquement,
+tous les contours des montagnes
+pour suivre les vicissitudes du Dow Jones.
+Alors ce que vous voyez,
+ce précipice, ce précipice profond avec la vallée,
+c'est la crise financière de 2008.
+La photo a été faite
+quand nous étions tout au fond de la vallée là-bas.
+Je ne sais pas où nous sommes maintenant.
+Voici l'indice Hang Seng
+de la bourse de Hong Kong.
+Et une topographie similaire.
+Je me demande pourquoi
+Et c'est de l'art. C'est une métaphore.
+Mais je pense que l'important, c'est
+que c'est une métaphore qui a des dents.
+Et c'est avec ces dents que je veux vous proposer aujourd'hui
+de repenser un peu ensemble
+au rôle des mathématiques contemporaines,
+pas seulement les maths financières, mais les maths en général.
+Repenser au fait que les maths sont passées
+de quelque chose qu'on extrait et qu'on dérive du monde
+à quelque chose qui en fait commence à le façonner,
+ce monde qui nous entoure et ce monde qui est en nous.
+Et il s'agit en particulier des algorithmes,
+qui sont essentiellement les maths
+que les ordinateurs utilisent pour prendre des décisions.
+Ils acquièrent le sens de la vérité
+parce qu'ils recommencent sans cesse.
+Et il se sclérosent et se calcifient
+et deviennent réels.
+Je réfléchissais à ça dans un endroit improbable,
+à bord d'un vol transatlantique il y a deux ans,
+parce que je m'étais retrouvé assis à côté
+d'un physicien hongrois qui avait à peu près mon âge,
+et nous discutions
+de ce qu'était la vie des physiciens en Hongrie
+pendant la guerre froide.
+Et j'ai dit, "Alors que faisiez-vous ?"
+Et il a dit, "Et bien la plupart du temps on détruisait les boucliers furtifs.
+Et j'ai dit, "C'est bien. C'est intéressant.
+Comment ça marche ?"
+Et pour comprendre ça,
+il faut comprendre un peu comment fonctionne un bouclier furtif.
+Et donc, je simplifie à l'extrême,
+mais en gros, ce n'est pas
+comme de faire passer un signal radar
+à travers 156 tonnes d'acier dans le ciel.
+Ça ne va pas disparaitre.
+Mais si on peut prendre cette chose énorme,
+et la transformer
+en un million de petites choses,
+comme un vol d'oiseaux par exemple,
+alors le radar qui cherche ça
+doit être capable de voir
+tous les vols d'oiseaux dans le ciel.
+Et si vous êtes un radar, c'est vraiment un sacré boulot.
+Et il a dit, "Oui, mais c'est si vous êtes un radar.
+Alors nous n'avons pas utilisé un radar ;
+nous avons construit une boite noire qui cherchait des signaux électriques,
+des communications électroniques.
+Et chaque fois que nous voyions un vol d'oiseaux qui avait des communications électroniques,
+on se disait que ça avait un rapport avec les américains."
+Et j'ai dit, "Oui.
+C'est bien.
+Vous avez donc en réalité réduit à néant
+60 ans de recherches aéronautiques.
+Et ensuite, que faites-vous ?
+Et quand vous serez grand, vous ferez quoi ?"
+Il a répondu,
+'Des services financiers."
+J'ai dit, "Oh"
+Parce qu'on en avait parlé dans les infos récemment.
+Et j'ai dit, Comment ça marche?
+Et il a répondu "Eh bien, il y a actuellement 2000 physiciens à Wall Street"
+et j'en fait partie."
+Et j'ai dit, "C'est quoi la boite noire pour Wall Street?"
+Et il a répondu, "C'est drôle que vous demandiez ça,
+parce que en fait on appelle ça le trading automatique ou black box trading.
+On l'appelle aussi parfois algo trading,
+trading algorithmique."
+Et le trading algorithmique a évolué en partie
+parce que les traders institutionnels ont les mêmes problèmes
+qu'avait l'US Air Force,
+c'est-à-dire qu'ils changent leur positions,
+que ce soit Proctor & Gamble ou Accenture, peu importe,
+ils transfèrent un million d'actions de quelque chose
+dans le marché.
+Et s'ils font ça d'un seul coup,
+c'est comme jouer au poker et tout miser tout de suite.
+Vous dévoilez votre jeu.
+Et donc ils doivent trouver une solution,
+et pour ça ils utilisent des algoritmes,
+pour diviser ce gros paquet
+en un million de petites transactions.
+Et ce qui est magique et horrible là-dedans
+c'est que les mêmes maths
+qu'on utilise pour diviser le gros truc
+en un million de petits trucs
+peut être utilisé pour trouver un million de petits trucs
+et les réassembler
+et comprendre ce qui se passe vraiment dans le marché.
+Alors si vous devez vous faire une image
+de ce qui se passe à la bourse en ce moment,
+ce que vous pouvez visualiser c'est un tas d'algoritmes
+essentiellement programmés pour se cacher,
+et un tas algorithmes qui sont programmés pour les trouver et agir.
+Et tout ça c'est super, et c'est bien.
+Et ça représente 70%
+de la bourse aux Etats-Unis,
+70% du système opérateur
+qu'on appelait auparavant votre retraite,
+votre hypothèque.
+Et qu'est-ce qui pourrait aller de travers?
+Ce qui pourrait aller de travers
+c'est qu'il y a un an,
+9% de la totalité du marché a disparu en 5 minutes,
+et on a appelé ça le crash flash de 2:45.
+Tout à coup, 9% disparaissent,
+et à ce jour personne
+n'est d'accord sur ce qui s'est apssé,
+parce que personne n'en a donné l'ordre, personne n'a voulu ça.
+Personne n'avait le moindre contrôle sur ce qui se passait vraiment.
+Tout ce qu'ils avaient
+c'était un écran devant eux
+qui affichait des chiffres
+et un unique bouton rouge
+qui disait, "Stop."
+Et c'est ça le truc,
+c'est que nous écrivons des trucs,
+nous écrivons ces trucs que nous ne savons plus lire.
+Et nous avons rendu quelque chose
+illisible.
+Nous avons perdu le sens
+de ce qui se passe vraiment
+dans le monde que nous avons fabriqué.
+Et nous commençons à faire notre chemin.
+Il y a une compagnie à Boston qui s'appelle Nanex,
+et ils utilisent les maths et la magie
+et je ne sais pas quoi d'autre,
+et ils vont chercher toutes les données du marché
+et ils trouvent, parfois, certains de ces algorithmes.
+Et quand ils les trouvent, ils les extraient,
+et les épinglent au mur comme des papillons.
+Et ils font ce que nous avons toujours fait
+quand nous sommes confrontés à d'énormes quantités de données
+que nous ne comprenons pas, nous leur donnons un nom
+et une histoire.
+En voici un qu'ils ont trouvé,
+ils l'ont appelé le Couteau,
+le Carnaval,
+le Jongleur,
+Twilight.
+Et le gag c'est que
+bien sûr, ils ne se contentent pas de fonctionner pour le marché.
+On trouve ce genre de trucs où qu'on regarde
+une fois que vous savez comment les trouver.
+Vous voyez ça ici : ce livre sur les mouches
+que vous avez peut-être cherché sur Amazon.
+Vous l'avez peut-être remarqué
+quand son prix est monté à 1,7 millions de dollars.
+Il est épuisé, pourtant ...
+(Rires)
+Si vous l'aviez acheté à 1,7 millions, vous auriez fait une affaire.
+Quelques heures plus tard, il était monté
+à 23,6 millions de dollars,
+plus le port et l'emballage.
+Et la question est :
+Personne n'achetait ni ne vendait rien ; que se passait-il?
+Et vous voyez ce comportement sur AMazon
+tout aussi surement que vous le voyez à Wall Street.
+Et quand vous voyez ce genre de comportement,
+ce que vous voyez c'est la preuve
+que des algorithmes sont en conflit,
+des algorithmes pris mutuellement dans des boucles
+sans surveillance humaine,
+sans supervision humaine,
+pour dire, "En fait, 1,7 million c'est beaucoup."
+(rires)
+Il il est arrivé la même chose à Netflix qu'à Amazon.
+Netflix a eu
+plusieurs algorithmes différents au fil du temps.
+Ils ont commencé avec Cinematch, et ils en ont essayé un tas d'autres.
+Dinausaur Planet, Gravity.
+A présent ils utilisent Pragmatic Chaos.
+Pragmatic Chaos, comme tous les algorithmes de Netflix,
+essaye de faire la même chose :
+Il essaye de vous mettre le grappin dessus,
+sur le firmware à l'intérieur du crâne humain,
+pour vous recommander quel film
+vous pourriez avoir envie de voir ensuite,
+ce qui est un problème très, très difficile.
+Mais la difficulté du problème
+et le fait que nous ne nous ne l'avons pas vraiment cerné,
+c'est qu'il n'enlève rien
+aux effets du Chaos Pragmatique
+Le Chaos Pragmatique, comme tous les algorithmes de Netflix,
+détermine, en fin de compte,
+60%
+des films qui seront effectivement loués.
+Donc un bout de code
+qui a une idée sur vous
+est responsable de 60 % de ces films.
+Mais si vous pouviez évaluer ces films
+avant qu'ils ne soient tournés?
+Ce serait pratique, non?
+Et bien, quelques spécialistes britanniques des données sont à Hollywood,
+et ils ont des algorithmes d'histoires,
+une compagnie du nom d'Epagogix.
+Et vous pouvez leur soumettre votre scénario,
+et ils peuvent vous dire,de façon quantifiable,
+que c'est un film à 30 millions de dollars
+ou un film à 200 millions de dollars.
+Et le truc, c'est que ce n'est pas Google.
+Ce n'est pas de l'information.
+Ce ne sont pas des statistiques financières ; c'est de la culture.
+Et ce que vous voyez ici,
+ou, plutôt, ce que normalement vous ne voyez pas,
+c'est qu'il s'agit de la physique de la culture.
+Et si ces algorithmes,
+comme ceux de Wall Street,
+plantent un jour ou deviennent défaillants,
+comment le saurons-nous,
+à quoi cela ressemblera-t-il?
+Et ils sont dans vos maisons.
+Voici deux algorithmes se disputant votre salon.
+Ce sont deux robots nettoyeurs différents
+qui ont des idées différentes quant au nettoyage.
+Et vous pouvez le voir
+si vous filmez en ralenti et que vous fixez des lumières dessus.
+Ils sont en quelque sorte les architectes secrets de votre chambre à coucher.
+Et l'idée que l'architecture même
+est d'une certaine façon sujette à optimisation algorithmique
+n'est pas si exagérée.
+Elle est très réelle et ça se passe autour de vous.
+Vous le ressentez le plus
+quand vous êtes dans une boite en métal scellée,
+un ascenseur moderne,
+on appelle ça des ascenseurs à système de contrôle de destination.
+Ce sont ceux où vous devez appuyer sur l'étage où vous allez
+avant d'entrer dans l'ascenseur.
+Il utilise ce qu'on appelle un algorithme de conditionnement de boîtes.
+Donc rien d'insensé
+comme de laisser chacun entrer dans la cabine de son choix.
+Tous ceux qui veulent aller au 10ème étage montent dans la cabine numéro 2,
+et tous ceux qui veulent aller au 3ème étage montent dans la cabine 5.
+Et là, le problème est que
+les gens flippent.
+Les gens paniquent.
+Et vous voyez pourquoi.
+C'est parce qu'il manque à l'ascenseur
+un équipement important, les boutons.
+(Rires)
+Le truc que les gens utilisent.
+Tout ce qu'il possède,
+c'est le chiffre qui monte et qui descend
+et ce bouton rouge marqué "Stop."
+Et c'est le but de notre travail de conception.
+Nous concevons
+pour ce dialecte de machine.
+Et jusqu'où peut-on aller? Jusqu'où peut-on pousser ça?
+On peut aller très, très loin.
+Alors permettez-moi de revenir à Wall Street.
+Parce que les algorithmes de Wall Street
+dépendent d'une qualité par dessus tout,
+et c'est la vitesse.
+Et ils opèrent à la milliseconde et à la microseconde.
+Et pour vous donner une idée de ce qu'est une microseconde,
+il vous faut 500 000 microsecondes
+rien que pour cliquer sur une souris.
+Mais si vous êtes un algorithme de Wall Street
+et que vous avez 5 microsecondes de retard,
+Vous êtes fini.
+Donc si vous étiez un algorithme,
+vous chercheriez un architecte comme celui que j'ai rencontré à Francfort
+qui vidait un gratte-ciel,
+il jetait tous les meubles, toute l'infrastructure destinée à l'usage humain,
+et ne mettait que de l'acier dans les étages
+pour préparer l'arrivée des serveurs à installer,
+tout ça pour qu'un algorithme
+puisse se rapprocher d'internet.
+Et vous pensez qu'internet est une sorte de système décentralisé.
+Et bien sûr, c'est le cas, mais il est décentralisé depuis des endroits précis.
+A New York, voici d'où il est décentralisé :
+le Carrier Hotel
+sur Hudson Street.
+Et c'est vraiment de là que les cables partent vers la ville.
+Et la réalité est que plus vous vous en éloignez,
+plus vous prenez des microsecondes de retard
+Ces gars à Wall street,
+Marco Polo and Cherokee Nation,
+ont 8 microsecondes de retard
+sur tous ces gars-là
+qui vont dans des immeubles qu'on vide
+autour du Carrier Hotel.
+Et ça va continuer comme ça.
+Nous allons continuer à les vider,
+parce que vous, centimètre pour centimètre,
+livre pour livre, dollar pour dollar,
+aucun d'entre vous ne pourrait tirer un profit de cet espace
+comme le Jongleur peut le faire.
+Mais si vous prenez du recul,
+si vous prenez du recul,
+vous verrez une tranchée de 1 300 kilomètres
+entre New York et Chicago
+construite ces dernières années
+par une compagnie appelée Spread Networks.
+C'est un câble de fibre optique
+qui a été posé entre ces deux villes
+dans le seul but de faire passer un signal
+37 fois plus vite qu'un clic de souris,
+rien que pour ces algorithmes,
+Rien que pour le Carnaval et le Couteau.
+Et quand vous y réfléchissez,
+que nous traversons les Etats-Unis
+avec de la dynamite et des scies à roches
+pour qu'un algorithme puisse conclure un marché
+trois microseconde plus vite,
+tout ça pour une structure de communication
+qu'aucun humain ne connaitra jamais,
+qui est une sorte de destin manifeste
+et qui cherchera toujours une nouvelle frontière.
+Malheureusement, nous avons du pain sur la planche.
+Tout ça est théorique.
+Voici des mathématiciens du MIT.
+Et la vérité est que une grande partie de ce qu'ils disent
+est incompréhensible pour moi.
+Ils parlent de cônes lumineux, de liaisons quantiques,
+et ce sont des choses que je ne comprend pas vraiment.
+Mais je peux lire cette carte.
+Et ce que cette carte dit
+c'est que, si vous essayez de faire de l'argent sur ces marchés représentés par des points rouges,
+c'est là que sont les gens, que sont les villes,
+vous allez devoir mettre les serveurs là où il y a des points bleus
+pour avoir le maximum d'efficacité.
+Et ce que vous avez peut-être remarqué à propos de ces points bleus
+c'est qu'il y en a beaucoup en plein océan.
+Alors voilà ce que nous allons faire, nous allons construire des bulles,
+ou des plateformes,
+nous allons partager les eaux pour de bon
+pour tirer de l'argent depuis l'air,
+parce qu'il y a un avenir radieux
+si vous êtes un algorithme.
+(Rires)
+Et ce n'est pas l'argent qui est si intéressant en fait.
+C'est la motivation que l'argent amène.
+Le fait que nous transformons
+la planète-même
+avec ce genre d'efficacité algorithmique.
+Et sous cet éclairage,
+vous retournez voir
+les photos de Michael Najjar,
+et vous vous rendez compte qu'elles ne sont pas métaphoriques, elles sont prophétiques.
+Elles annoncent
+les effets sismiques, les effets terrestres
+des mathématiques que nous construisons.
+Et le paysage a toujours été façonné par
+cette collaboration étrange et malaisée
+entre la nature et l'homme.
+Mais maintenant il y a une troisième force co-évoutionnaire : les algorithmes,
+le Jongleur, le Carnaval.
+Et nous allons devoir les comprendre comme faisant partie de la nature.
+Et dans un sens, c'est vrai.
+Merci.
+(Applaudissements)

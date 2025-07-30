@@ -1,0 +1,142 @@
+Je vais commencer par vous demander de vous souvenir quand vous étiez enfant,
+et que vous jouiez avec des cubes.
+Tandis que vous découvriez comment tendre le bras et les saisir,
+les soulever et les déplacer,
+vous appreniez en fait à réfléchir et à résoudre des problèmes
+en comprenant et en manipulant des relations dans l'espace.
+Le raisonnement dans l'espace est profondément lié
+à notre façon de comprendre une grande partie du monde qui nous entoure.
+Donc, en tant qu'informaticien
+inspiré par cette utilité de nos interactions avec les objets physiques,
+avec l'aide de ma conseillère Pattie, et de mon collaborateur Jeevan Kalanithi,
+j'ai commencé à me demander... qu'adviendrait-il si pour utiliser un ordinateur,
+au lieu d'avoir ce curseur de souris qui sert de doigt numérique
+qui se promène sur un bureau plat,
+on pouvait tendre les deux mains et saisir l'information physiquement,
+pour l'arranger de la manière qu'on veut ?
+Cette question était tellement fascinante que nous avons décidé d'étudier la réponse,
+en fabriquant les Siftables.
+Pour résumer, un Siftable est un ordinateur interactif
+de la taille d'un cookie.
+On peut les déplacer à la main,
+ils peuvent se reconnaître entre eux, ils peuvent sentir leur mouvement,
+et ils sont équipés d'un écran et d'une radio sans fil.
+Plus important encore, ce sont des objets physiques,
+donc tout comme les cubes, on peut les déplacer simplement en tendant le bras et en les prenant en main.
+Et les Siftables sont un exemple de nouvel écosystème
+d'outils pour manipuler l'information numérique.
+A mesure que ces outils deviennent de plus en plus physiques,
+davantage conscients de leur mouvement, de la présence des autres,
+et conscients des nuances dans notre façon de les déplacer,
+on peut commencer à étudier de nouveaux styles d'interactions amusants.
+Donc je vais commencer par quelques exemples simples.
+Ce Siftable est configuré pour montrer de la vidéo,
+et si je l'incline dans une direction, il fera avancer la vidéo dans ce sens,
+si je l'incline dans l'autre sens la vidéo reviendra en arrière.
+Et ces portraits interactifs sont conscients de la présence des autres.
+Donc si je les mets les uns à côté des autres, ils s'y intéressent.
+S'ils se retrouvent encerclés, ils s'en rendent compte aussi,
+et ils peuvent devenir un peu agités.
+Ils peuvent aussi sentir leur mouvement et leur inclinaison.
+Nous avons commencé à réaliser que l'une des implications intéressantes de l'interaction,
+c'était que l'on pouvait utiliser des gestes du quotidien avec les données,
+comme de verser une couleur de la même manière qu'on verserait un liquide.
+Donc dans ce cas, on a trois Siftables configurés en pots de peinture
+et je peux les utiliser pour verser des couleurs dans celui du milieu,
+où elles se mélangent.
+Si on en met trop, on peut en enlever un petit peu.
+Cela ouvre aussi de belles opportunités en ce qui concerne l'éducation,
+comme les langues, les mathématiques et les jeux de logique,
+où on veut donner aux gens la possibilité de faire des essais rapidement,
+et de constater les résultats immédiatement.
+Donc là je...
+(Applaudissements)
+C'est une suite de Fibonacci que je fais avec un simple programme d'équation.
+Ici on a un jeu de lettres qui est une espèce de mélange entre le Scrabble et le Boggle.
+En gros, à chaque tour
+une lettre est attribuée aléatoirement sur chaque Siftable,
+et tandis que vous essayez de faire des mots, il vérifie dans un dictionnaire.
+Ensuite, au bout de 30 secondes, il mélange à nouveau,
+et on a un nouvel ensemble de lettres et de nouvelles possibilités à explorer.
+(Applaudissements)
+Merci.
+(Applaudissements)
+Voici des enfants qui sont venus au Media Lab pour une sortie scolaire,
+et j'ai réussi à leur faire essayer, sous l'œil de la caméra.
+Ils ont vraiment adoré.
+De plus, l'un des aspects intéressants de ce genre d'application
+c'est qu'on n'a pas besoin de donner aux gens des tas d'instructions.
+Tout ce qu'on a à dire, c'est: "Fais des mots",
+et ils savent exactement quoi faire.
+Voici un autre groupe de gens en train de les essayer.
+Voilà notre plus jeune bêta testeur, en bas à droite.
+En fait, tout ce qui l'intéressait c'était d'empiler les Siftables.
+Pour lui, ce n'était que des cubes.
+Là, on a une application de dessin animé interactif.
+Nous voulions construire un outil d'apprentissage pour ceux qui apprennent des langues.
+Eh bien voilà Félix.
+Il peut amener de nouveaux personnages dans la scène,
+simplement en soulevant de la table les Siftables présentant ce personnage.
+Là, il fait lever le Soleil.
+Vidéo: Le Soleil se lève.
+David Merrill: Là il a ajouté un tracteur à la scène.
+Vidéo: Le tracteur orange.
+Bien joué ! Ouais !
+Donc en secouant les Siftables et en les plaçant les uns à côté des autres
+il peut faire interagir les personnages...
+Vidéo: Ouaf !
+DM: et inventer sa propre histoire.
+Vidéo: Salut !
+DM: C'est une histoire avec une fin ouverte,
+à lui de choisir le dénouement.
+Vidéo: Enfuis-toi, le chat.
+DM: Le dernier exemple que j'ai le temps de vous montrer aujourd'hui
+est un outil d'arrangement musical et de performance en direct
+que nous avons construit récemment,
+dans lequel les Siftables jouent le rôle de sons
+comme la voix principale, la basse et la batterie.
+Chacun d'entre eux possède quatre variations,
+on peut choisir celle qu'on veut utiliser.
+Et on peut intégrer ces sons dans une séquence
+que l'on peut assembler au sein du schéma qu'on veut.
+et on l'intègre simplement en cognant le Siftable de son contre un Siftable de séquence.
+Il y a des effets que l'on peut contrôler en direct, comme la réverbération et le filtre.
+On l'attache à un son en particulier et ensuite on incline pour l'ajuster.
+En plus, il y a des effets généraux comme le tempo et le volume
+qui s'appliquent à toute la séquence.
+Jetons un œil.
+Vidéo: (Musique)
+DM: On va commencer en mettant une voix principale
+dans deux Siftables de séquence, on les met à la suite,
+on allonge la suite avec un peu plus de voix principale.
+Là j'ajoute une ligne de basse.
+Vidéo: (Musique)
+DM: Maintenant je vais ajouter des percussions.
+Vidéo: (Musique)
+DM: Et maintenant je vais attacher le filtre à la batterie, pour pouvoir contrôler les effets en direct.
+Vidéo: (Musique)
+DM: Je peux accélérer toute la séquence
+en inclinant le tempo dans un sens ou dans l'autre.
+Vidéo: (Musique)
+DM: Et maintenant je vais attacher le filtre à la basse, pour plus d'expressivité.
+Vidéo: (Musique)
+DM: Je peux réorganiser la séquence pendant la lecture.
+Je n'ai donc pas besoin de la planifier à l'avance, mais je peux improviser,
+je peux l'allonger ou la raccourcir en plein milieu.
+Et enfin, je peux diminuer progressivement le volume de la séquence
+en utilisant le Siftable de volume, incliné sur la gauche.
+(Applaudissements)
+Merci.
+Donc, comme vous le voyez,
+ma passion est de créer de nouvelles interfaces entre humains et ordinateurs
+qui correspondent mieux à la façon dont fonctionnent notre cerveau et notre corps.
+Aujourd'hui, j'ai eu le temps de vous montrer un point de ce nouvel espace de conception,
+et quelques-unes des possibilités que nous cherchons à faire sortir du laboratoire.
+La dernière pensée que je veux vous transmettre,
+c'est que cette nouvelle génération d'outils s'annonce
+pour interagir avec les médias numériques,
+qui apporteront l'information dans notre monde
+à notre manière.
+Merci beaucoup.
+J'ai hâte de discuter avec vous tous.
+(Applaudissements)

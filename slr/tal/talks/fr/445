@@ -1,0 +1,369 @@
+Comment se fait-il, comment pouvons-nous étudier
+cette flore virale qui nous entoure, et aider la médecine?
+Comment pouvons-nous transformer notre connaissance cumulative de la virologie
+en un simple test de diagnostique, portable et unique.
+Je veux transformer tout ce que nous savons aujourd'hui sur la détection des virus
+et sur l'éventail des virus existant
+en, comment dirai-je, une petite puce.
+Quand nous avons commencé à réfléchir à ce projet --
+comment fabriquer un test de diagnostique unique
+pour dépister tous les agents pathogènes à la fois --
+eh bien, cette idée posait plusieurs problèmes.
+Tout d'abord, les virus sont assez complexes,
+mais ils évoluent aussi très rapidement.
+Ceci est un picornavirus.
+Les picornavirus -- ce sont des choses dont font partie
+le rhume commun et la polio, ce genre de choses.
+Ce que vous voyez, c'est la coque du virus,
+et la couleur jaune représente les parties du virus
+qui évoluent très, très vite,
+et les parties bleues n'évoluent pas très vite.
+Quand on réfléchit à la fabrication d'un réactif de détection de tous les virus,
+habituellement c'est l'évolution rapide qui pose problème,
+car comment pouvons-nous détecter des choses si elles changent constamment?
+Mais l'évolution est un équilibre:
+là où vous avez des changements rapides, vous avez aussi de l'ultra-conservation --
+des choses qui ne changent pratiquement jamais.
+Et donc nous avons étudié cela d'un peu plus près,
+et je vais maintenant vous montrer des données.
+C'est un truc simple que l'on peut faire sur un ordinateur dans son bureau.
+J'ai pris une poignée de ces petits picornavirus,
+tels que le rhume commun, la polio, et ainsi de suite,
+et je les ai simplement décomposés en petits segments,
+et ainsi j'ai pris ce premier exemple, qui s'appelle le virus Coxsackie,
+et je l'ai simplement décomposé en petites fenêtres.
+Et je colorie ces petites fenêtres en bleu
+si un autre virus possède une séquence identique dans son génome
+à celle de ce virus.
+Ces séquences tout en haut --
+qui ne codent même pas de protéine, soit dit en passant --
+sont pratiquement entièrement identiques pour tous ceux-ci,
+donc je peux utiliser cette séquence comme un marqueur
+pour dépister un large éventail de virus,
+sans avoir besoin de fabriquer quelque chose pour chacun.
+Bon, par ici il y a une grande diversité:
+c'est là que les choses évoluent rapidement.
+Là en bas vous pouvez voir une évolution plus lente: moins de diversité.
+Bon, une fois que l'on arrive ici, voyons,
+le virus de la paralysie aiguë de l'abeille --
+probablement un qu'il ne fait pas bon d'avoir si vous êtes une abeille --
+ce virus ne partage pratiquement aucune similarité avec le virus Coxsackie,
+mais je peux vous garantir que les séquences qui sont le plus conservées,
+parmi ces virus à la droite de l'écran
+le sont dans des régions identiques tout en haut.
+Donc nous pouvons incarner ces régions d'ultra-conservation
+tout au long de l'évolution -- la manière dont ces virus ont évolués --
+en choisissant simplement des éléments d'ADN ou d'ARN
+dans ces régions pour les représenter sur notre puce en tant que réactifs de dépistage.
+OK, donc c'est ce que nous avons fait, mais comment allons-nous faire cela?
+Bon, pendant longtemps, depuis que j'étais en troisième cycle à l'université,
+je me suis amusé à fabriquer des puces ADN --
+c'est à dire, à imprimer de l'ADN sur du verre.
+Et c'est ce qu'on voit ici:
+Ces petits grains de sel sont simplement de l'ADN fixé sur du verre,
+et je peux donc en mettre des milliers sur notre puce en verre
+et les utiliser comme des réactifs de détection.
+Nous avons amené notre puce chez Hewlett-Packard
+et avons utilisé leur microscope à force atomique sur un de ces points,
+et voici ce que l'on voit:
+on peut vraiment voir les brins d'ADN couchés sur le verre ici.
+Donc, on imprime juste de l'ADN sur du verre-
+ces petits trucs plats -- et ils vont servir de marqueurs pour agents pathogènes.
+OK, je fabrique des petits robots dans le laboratoire pour fabriquer ces puces,
+et j'aime beaucoup disséminer la technologie.
+Si vous avez assez d'argent pour vous acheter une Toyota Camry,
+vous pouvez aussi construire un de ceux là,
+et nous avons mis un manuel détaillé sur internet, entièrement gratuit,
+avec des pièces standard du commerce --
+on peut construire une machine à fabriquer des puces ADN dans son garage.
+Voici la partie qui traite de ce bouton capital, le bouton d'arrêt en cas d'urgence.
+(Rires)
+Toute machine importante doit avoir un gros bouton rouge.
+Mais en réalité, c'est assez solide.
+On peut vraiment fabriquer des puces ADN dans son garage,
+et décoder des programmes génétiques assez rapidement. C'est très amusant.
+(Rires)
+Et donc ce que nous avons fait -- et c'est vraiment un super projet --
+nous avons simplement commencé par faire une puce des virus respiratoires.
+J'en ai parlé --
+vous savez, quand on va dans un centre de consultation
+et qu'on ne diagnostique pas ce que l'on a?
+Bon, en gros nous avons mis tous les virus respiratoires humains
+sur une puce, et nous avons rajouté le virus de l'herpès pour faire bonne mesure --
+Après tout, pourquoi pas?
+La première chose que l'on fait en tant que scientifique est de
+s'assurer que ça marche.
+Et donc nous avons simplement pris des cellules de culture tissulaire
+et nous les avons infectées avec plusieurs virus,
+et nous les prenons et nous marquons de façon fluorescente l'acide nucléique,
+le matériel génétique qui provient de ces cellules de culture tissulaire --
+principalement viral -- et on le met sur la puce pour voir où il se colle.
+Or, si les séquences d'ADN correspondent, ils se collent ensemble,
+et donc nous pouvons regarder les points.
+Et si les points s'éclairent, nous savons qu'il y a un certain virus là dedans.
+Voilà ce à quoi ressemble vraiment une de ces puces,
+et ces points rouges sont en fait des signaux qui proviennent des virus.
+Et chaque point représente une famille de virus différente
+ou une espèce de virus différente.
+Et donc, c'est une façon compliquée de regarder les choses,
+donc je vais juste coder ça comme des petits codes barres
+regroupés par famille, pour que l'on puisse voir les résultats de façon intuitive.
+Voilà ce que nous avons fait, nous avons pris des cellules de culture tissulaire
+et les avons infectées avec des adénovirus,
+et vous pouvez voir ce petit code barre jaune à côté des adénovirus.
+Et, de même, nous les avons infectées avec le virus para-grippal de type 3 --
+c'est un paramyxovirus -- et vous voyez un petit code barre ici.
+Et ensuite nous nous sommes occupé du virus respiratoire syncytial.
+C'est partout un fléau pour les crèches --
+c'est comme une épidémie de crottes du nez.
+(Rires)
+Vous pouvez voir -- vous pouvez voir que ce code barre est de la même famille,
+mais qu'il est distinct de la para-grippe de type 3,
+lequel vous donne un très mauvais rhume.
+Et ainsi nous obtenons des signatures uniques, une empreinte pour chaque virus.
+Polio et rhino: ils sont dans la même famille, très proches l'un de l'autre.
+Rhino est le rhume commun, et vous savez tous ce qu'est la polio,
+et vous pouvez voir que ces signatures sont distinctes.
+Et le virus de l'herpès associé au sarcome de Kaposi
+nous donne une jolie petite signature ici en-bas.
+Et ainsi ce n'est pas n'importe quelle bande ou truc
+qui nous dit que nous avons un virus d'un type particulier ici;
+c'est le code barre qui dans son ensemble le représente entièrement.
+D'accord, je peux voir un rhinovirus --
+et voici un agrandissement du petit code barre du rhinovirus --
+mais qu'en est-il des différents rhinovirus?
+Comment est-ce que je sais quel rhinovirus j'ai?
+Il y a 102 variantes connues du rhume commun,
+et il n'y en a que 102 parce que les gens ont en eu marre de les recueillir:
+il y en a simplement de nouveaux qui apparaissent chaque année.
+Et donc voici quatre rhinovirus différents,
+et vous pouvez voir, même à l'oeil nu,
+sans aucun de ces programmes informatiques sophistiqués
+de reconnaissance des formes,
+que vous pouvez distinguer chacun de ces codes barres des autres.
+Bon, c'est un peu de la triche,
+parce que je connais la séquence génétique de tous ces rhinovirus
+et j'ai en fait conçu cette puce
+expressément pour être capable de les distinguer,
+mais qu'en est-il des rhinovirus qui n'ont jamais vu un séquenceur génétique?
+Nous ne savons pas quelle est leur séquence, on les a juste sortis du terrain.
+Donc, voici quatre rhinovirus
+dont on ne connait rien --
+personne ne les a jamais séquencés -- et vous pouvez aussi voir
+que l'on obtient des modèles uniques et reconnaissables.
+On peut imaginer construire une collection, réelle ou virtuelle,
+des empreintes de chaque virus.
+Mais ça aussi c'est un combat gagné d'avance, vous savez, n'est-ce pas?
+On a des cellules de culture tissulaire: il y a une tonne de virus.
+Qu'en est-il des vrais gens?
+On ne peut pas contrôler les vrais gens, comme vous le savez probablement.
+On n'a aucune idée de ce que quelqu'un va tousser dans un gobelet,
+et c'est probablement vraiment complexe, n'est-ce pas?
+Il peut y avoir beaucoup de bactéries, il peut y avoir plus d'un virus,
+et il y a certainement du matériel génétique de l'hôte,
+donc comment aborde t-on cela?
+Et comment faisons-nous un contrôle positif dans ce cas?
+Eh bien, c'est assez simple.
+Ça c'est moi, subissant un lavage nasal.
+Et l'idée c'est, inoculons expérimentalement un virus à des personnes
+et ainsi nous -- ceci a été approuvé par le Comité d'éthique médicale, au fait, ils sont payés.
+Et en gros nous inoculons expérimentalement aux gens
+le virus du rhume commun.
+Ou, encore mieux, prenons simplement des gens
+directement des urgences --
+des infections communautaires des voies respiratoires non définies.
+Vous n'avez pas idée de tout ce que nous voyons arriver.
+Bien, commençons d'abord par le contrôle positif,
+celui où nous savons que la personne était en bonne santé.
+On leur fait une injection de virus dans le nez,
+voyons ce qui arrive.
+Premier jour: rien ne se passe.
+Ils sont en bonne santé; ils sont propres -- c'est incroyable.
+En fait, on pensait que les voies nasales pourraient être pleines de virus
+même quand on se balade en bonne santé.
+Elles sont plutôt propres. Si on est en bonne santé, on est en assez bonne santé.
+Troisième jour: on obtient un modèle de rhinovirus très marqué,
+et ça ressemble beaucoup à ce que nous obtenons en labo
+quand nous faisons notre expérience avec une culture tissulaire.
+Donc c'est super, mais encore une fois, c'est de la triche, d'accord?
+On injecte une tonne de virus dans le nez de ce type. Donc --
+(Rires)
+-- Je veux dire, nous voulions que ça marche. Je veux dire, il a vraiment eu un rhume.
+Bon, et les gens qui viennent directement de l'extérieur?
+Voici donc deux individus représentés par leurs codes d'identité anonymes.
+Tous les deux ont des rhinovirus; nous n'avons jamais vu ce modèle en labo.
+Nous séquençons une partie de leurs virus;
+ce sont de nouveaux rhinovirus que vraiment personne n'a jamais vu.
+Rappelez-vous, nos séquences conservées malgré l'évolution
+que nous utilisons sur cette puce nous permettent de détecter
+des virus même non-caractérisés ou nouveaux,
+parce que nous sélectionnons ce qui est conservé tout au long de l'évolution.
+Voici un autre type. Vous pouvez jouer au jeu du diagnostic.
+Ces différents blocs représentent
+les différents virus de cette famille de paramyxovirus,
+donc vous pouvez prendre ces blocs un par un
+et voir où est le signal.
+Bien, il n'a pas la maladie de Carré des chiens, ce qui est probablement une bonne chose.
+(Rires)
+Mais quand on arrive au bloc numéro neuf,
+on voit ce virus syncytial respiratoire.
+Peut-être ont-ils des enfants. Et puis on peut aussi voir
+le membre de la famille qui est lié: on peut voir ici le sous-type B du VSR.
+Bon, c'est super.
+Voici un autre individu, pour lequel on a prélevé des échantillons sur deux jours différents --
+visites répétées au centre de consultation.
+Cet individu a le virus paragrippal de type 1,
+et on peut voir qu'il y a cette petite bande par ici
+pour le virus de Sendai: c'est la paragrippe de la souris.
+La parenté génétique est très proche là. C'est très amusant.
+Donc, nous avons construit la puce.
+Nous avons fabriqué une puce sur laquelle il y a tous les virus connus.
+Pourquoi pas? Tous les virus de plantes, tous les virus d'insectes, tous les virus marins.
+Tout ce que nous avons pu obtenir de la banque de gènes GenBank --
+qui est le dépôt national des séquences.
+Maintenant nous utilisons cette puce. Et pour quoi l'utilisons-nous?
+Bon, d'abord, quand on a une grosse puce comme celle-ci,
+on a besoin d'un peu plus d'informatique,
+donc nous avons conçu un système pour faire le diagnostique automatiquement.
+Et l'idée c'est que, nous avons simplement des modèles virtuels --
+parce que nous n'aurons jamais des échantillons de chaque virus;
+cela serait pratiquement impossible. Mais nous pouvons obtenir des modèles virtuels,
+et les comparer au résultat observé,
+qui est un mélange très complexe, et suggérer une sorte de note
+qui donne la probabilité que ce soit un rhinovirus ou autre chose.
+Et voici à quoi ça ressemble.
+Si, par exemple, on utilise une cellule de culture
+qui est infectée de façon chronique avec un papillome,
+voici ce qui s'affiche sur l'ordinateur,
+et notre algorithme dit qu'il s'agit probablement du papillome de type 18.
+Et c'est, en fait, ce avec quoi ces cellules-là
+sont infectées de façon chronique.
+Bon, faisons quelque chose d'un peu plus difficile.
+Nous mettons le beeper dans le centre de consultation.
+Quand quelqu'un se présente, et que l'hôpital ne sait pas quoi faire
+parce qu'ils ne peuvent pas faire de diagnostique, ils nous appellent.
+Voilà l'idée, et nous la mettons en place dans la région de San Francisco.
+Et donc, il y a trois semaines ce cas nous a été signalé.
+Nous avons une femme de 28 ans en bonne santé, qui n'a pas voyagé,
+[indistinct], qui ne fume pas, qui ne boit pas.
+10 jours de fièvre, de sueurs nocturnes, d'expectorations sanglantes --
+elle crache du sang -- de douleurs musculaires.
+Elle est allée au centre de consultation, et ils lui ont donné des antibiotiques, bien,
+et puis ils l'ont renvoyée chez elle.
+Elle est revenue après dix jours de fièvre -- elle a toujours de la fièvre --
+et elle souffre d'hypoxie -- elle n'a pas beaucoup d'oxygène dans les poumons.
+Ils lui ont fait un CT scan.
+Un poumon normal est tout bleu et noir ici.
+Tout ce blanc -- ce n'est pas bon.
+Cette sorte de formation en arbre et en bourgeons indique qu'il y a une inflammation;
+il y a probablement une infection.
+OK. Donc la patiente a alors été traitée
+avec une céphalosporine, un antibiotique de troisième génération, et de la doxycycline,
+et le troisième jour, ça n'avait rien fait: elle évolua vers une insuffisance aigüe.
+Ils ont dû l'intuber, donc ils lui ont mis un tube dans la gorge
+et ils ont commencé à la ventiler mécaniquement.
+Elle ne pouvait plus respirer par elle-même.
+Que faire maintenant? Pas d'idée.
+Changer les antibiotiques, donc ils lui ont donné un autre antibiotique,
+et du Tamiflu, qui --
+ce n'est pas clair pourquoi ils pensaient qu'elle avait la grippe --
+mais ils l'ont mise sous Tamiflu.
+Et le sixième jour, ils ont pratiquement jeté l'éponge.
+On pratique une biopsie pulmonaire ouverte quand on n'a pas d'autres choix.
+Il y a un taux de mortalité de huit pour cent du simple fait de pratiquer cette intervention,
+et donc en fait -- et que nous apprend-elle?
+Ce que vous regardez c'est sa biopsie pulmonaire ouverte.
+Je ne suis pas un pathologiste, mais on ne peut pas en déduire grand chose.
+Tout ce qu'on peut dire c'est qu'il y a un oedème important: bronchiolite.
+Ce n'était pas révélateur: c'est ce que dit le rapport du pathologiste.
+Et donc, ils lui firent subir quels tests?
+Ils ont leur propres tests, bien sûr,
+et donc ils lui ont fait subir 70 tests différents,
+pour toutes les sortes de bactérie, mycose et virus
+que l'on peut acheter tout prêts:
+SRAS, métapneumovirus, VIH, VRS --tous ceux-là.
+Tout est revenu négatif. Plus de 100.000 dollars de tests.
+Je veux dire, ils ont fait le maximum pour cette femme.
+Et en fait ils nous ont appelés lors de son huitième jour d'hospitalisation.
+Ils nous donnèrent une aspiration endotrachéale --
+vous savez, un peu de liquide prélevé dans la gorge,
+venant du tube qu'ils lui avaient mis là -- et il nous le donnèrent.
+Nous l'avons mis sur la puce; qu'avons nous vu? Et bien, nous avons vu le virus paragrippal de type 4.
+Mais, qu'est-ce-que ça peut bien être le virus paragrippal de type 4?
+Personne ne fait de contrôle pour le virus paragrippal de type 4. Personne ne s'en soucie.
+En fait, il n'a pas vraiment été séquencé tant que ca.
+On n'en a séquencé qu'un petit bout.
+Il n'y a pratiquement pas eu de recherche épidémiologique ni d'études à son sujet.
+Personne ne l'a même envisagé,
+parce que personne n'avait la moindre idée qu'il pouvait provoquer une insuffisance respiratoire.
+Et pourquoi cela? La simple habitude. Il n'y a pas de donnés --
+pas de données qui montrent s'il provoque une maladie grave ou bénigne.
+Manifestement, nous avons le cas d'une personne en bonne santé qui va de plus en plus mal.
+OK, c'est le compte rendu d'un cas.
+Je vais vous dire une dernière chose dans les deux minutes qui restent
+qui n'a pas été publiée -- cela va être rendu public demain --
+et c'est un exemple intéressant d'utilisation de cette puce
+pour trouver quelque chose de nouveau et ouvrir une nouvelle voie.
+Le cancer de la prostate. Je n'ai pas besoin de vous donner plein de statistiques
+sur le cancer de la prostate. La plupart d'entre vous les connaissent déjà:
+la troisième cause de décès par cancer aux Etats-Unis.
+Beaucoup de facteurs de risque,
+mais il y a une prédisposition génétique au cancer de la prostate.
+Dans peut-être 10 pour cent des cancers de la prostate,
+il y a des gens qui y sont prédisposés.
+Et le premier gène qui a été cartographié dans les études d'association
+sur ça, le cancer de la prostate chez l'homme jeune, était le gène qui s'appelle RNASEL.
+Qu'est-ce que c'est? C'est une enzyme antivirale.
+Donc nous restons assis à réfléchir,
+pourquoi les hommes qui ont cette mutation,
+un défaut dans le système de défense antiviral, développeraient-ils un cancer de la prostate?
+Ça n'est pas logique -- sauf si, peut-être, il y a un virus.
+Donc, nous avons mis des tumeurs -- et nous avons maintenant plus de 100 tumeurs -- sur notre puce.
+Et nous savons qui a ou non un RNASEL défectueux.
+Et je vous montre ici le signal sur la puce,
+et je vous le montre pour le bloc des oligos de rétrovirus.
+Et ce que je vous dis ici à partir du signal est
+que les hommes qui ont une mutation de cette enzyme antivirale,
+et qui ont une tumeur, ont souvent -- 40 pour cent des cas --
+une signature qui révèle un nouveau rétrovirus.
+OK, c'est plutôt fou. Qu'est-ce c'est?
+Donc, nous clonons le virus en entier.
+D'abord, je vous dirai qu'une rapide prévision automatisée nous a dit
+qu'il était très semblable à un virus de souris.
+Mais ça ne nous dit pas grand chose,
+donc nous l'avons vraiment cloné en entier.
+Et le génome que je vous montre juste ici?
+C'est un rétrovirus gamma classique, mais il est totalement nouveau;
+on ne l'avait jamais vu avant.
+Son plus proche parent vient, en fait, des souris,
+et donc nous l'appelons un rétrovirus xénotropique,
+parce qu'il infecte une autre espèce que les souris.
+Et ceci est un petit arbre phylogénétique
+pour voir quelles sont ses relations de parenté avec les autres virus.
+Et ensuite nous avons fait cela pour de nombreux patients,
+et nous pouvons dire que toutes ces infections sont indépendantes.
+Ils ont tous le même virus,
+mais ils sont suffisamment différents pour qu'on ait des raisons de croire
+qu'ils ont été infecté indépendamment.
+Est-ce vraiment dans les tissus. Et je finirai là-dessus. Oui.
+Nous prenons des coupes de ces biopsies de tissus tumoraux
+et utilisons ce matériel pour localiser vraiment les virus,
+et nous trouvons ici des cellules qui contiennent des particules virales.
+Ces types ont vraiment ce virus.
+Ce virus provoque-t-il le cancer de la prostate?
+Rien de ce que je dis ici n'implique la causalité. Je ne sais pas.
+Est-ce un lien vers l'oncogenèse? Je ne sais pas.
+Est-ce parce que ces types sont davantage sujets aux virus?
+C'est possible. Et ça peut n'avoir rien à voir avec le cancer.
+Mais maintenant ça ouvre une voie.
+Nous avons une forte association entre la présence de ce virus
+et une mutation génétique que l'on a liée au cancer.
+Voilà où nous en sommes.
+Donc, je crains que ça pose plus de questions que ça ne donne de réponses,
+mais ça, vous savez, c’est le point fort de la science.
+Tout cela est fait par les gens dans le labo;
+pour la majeure partie je ne peux pas m'en attribuer le mérite.
+C'est une collaboration entre moi-même et Don.
+C'est le type qui a commencé le projet dans mon labo,
+et lui c'est le type qui a fait les trucs sur la prostate.
+Merci beaucoup.

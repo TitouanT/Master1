@@ -1,0 +1,8 @@
+today	t ax0 d ey1
+today's	t ax0 d ey1 z
+is	ih1 z
+the	dh ah1
+last	l ae1 s t
+day	d ey1
+for	f ao1 r
+automata	ao0 t aa1 m ax0 t ax0

@@ -1,0 +1,204 @@
+Eric Berlow : Je suis écologiste, Sean est physicien,
+et nous étudions les réseaux complexes.
+Nous nous sommes rencontrés il y a quelques années, après avoir découvert
+que nous avions tous deux indépendamment parlé
+de l'écologie de guerre dans des conférences TED,
+et nous avons réalisé que nous étions reliés
+par les idées que nous partagions avant même de nous rencontrer.
+Nous nous sommes dit : il y a des milliers
+d'autres conférences, notamment les TEDx,
+qui pullulent partout dans le monde.
+Comment sont-elles liées ?
+À quoi ressemble cette conversation mondiale ?
+Sean va donc vous décrire comment nous avons répondu à ces interrogations.
+Sean Gourley : Nous avons pris 24 000 conférences TEDx
+venant du monde entier : 147 pays.
+Nous avons pris ces conférences
+et nous voulions trouver les structures mathématiques
+qui exprimaient les idées qu'elles contenaient.
+Nous voulions voir de quelle manière ces idées
+étaient connectées entre elles.
+Bien sûr, pour pouvoir réaliser ce genre de chose,
+il faut beaucoup de données.
+Les données, on les trouve sur un engin génial qui s'appelle YouTube,
+et on peut exploiter toutes les informations qui s'y trouvent :
+tous les commentaires, le nombre de vues,
+savoir qui regarde les vidéos d'où elles sont regardées,
+et ce qu'il est dit dans les commentaires.
+Mais on peut aussi analyser tous les textes de conférences
+en utilisant les transcriptions,
+et ça marche aussi pour les gens qui ont un accent bizarre comme moi !
+Ainsi, on peut prendre le texte
+et faire des trucs plutôt chouette.
+On peut utiliser des algorithmes de traitement du langage naturel
+pour qu'un ordinateur « lise » les données, ligne par ligne,
+pour en extraire les concepts-clés.
+Puis on prend ces concepts-clés, qui en fait representent
+une idée sous forme de structure mathématique.
+On appelle ça un « mème-ome ».
+Ce « mème-ome », pour faire simple,
+désigne l'interprétation mathématique d'une idée,
+et on peut faire des analyses très intéressantes avec ça,
+et j'aimerais les partager avec vous aujourd'hui.
+Donc chaque idée a son propre « mème-ome »,
+chaque idée est unique,
+mais bien sûr, les idées, s'inspirent les unes des autres
+parfois même elles puisent les unes des autres,
+et puis elles s'appuient évidement les unes sur les autres.
+Ainsi, on peut faire une analyse mathématique,
+prendre le « mème-ome » d'une conférence
+et le comparer aux « mème-ome » de toutes les autres conférences,
+et s'il y a une similarité avec une autre conférence,
+on peut créer un lien et illustrer ça sur un graphique,
+et c'est sur ce même principe qu'Eric et moi sommes reliés.
+C'est la théorie, c'est formidable.
+Voyons comment ça marche en pratique.
+Donc ici, nous avons l'empreinte mondiale
+de toutes les conférences TEDx
+des 4 dernières années
+de New York jusqu'à la Nouvelle-Zélande en bas à droite.
+Nous avons donc analysé le top de 25 % des conférences,
+et nous avons commencé à chercher où étaient les connections,
+où elles se connectaient entre elles.
+Cameron Russell qui parle d'image et de beauté
+est connecté à l'Europe.
+Nous avons une conversation plus étendue sur l'Israël et la Palestine
+rayonnant vers l'extérieur à partir du Moyen-Orient.
+Et nous avons quelque chose d'un peu plus large
+comme les données volumineuses avec une empreinte véritablement mondiale
+qui évoque une conversation
+qui se passe partout dans le monde.
+Donc sur cette base, on se heurte un peu aux limites
+de ce qu'on peut faire avec une projection géographique,
+mais heureusement, la technologie informatique permet
+d'utiliser un espace multidimensionnel.
+Ainsi nous pouvons prendre notre projection de réseau
+et trier les conférences par l’intermédiaire d'un moteur physique,
+qui fait en sorte de regrouper les conférences qui sont similaires
+et d’écarter celles qui diffèrent,
+et on obtient quelque chose d'assez beau.
+EB : Alors, je veux juste souligner ici que chaque nœud est une conférence,
+et qu'elles sont reliées si elles partagent des idées similaires.
+Ceci est déterminé par une lecture informatique
+des transcriptions des conférences,
+et toutes ces thématiques qui apparaissent
+ne surgissent pas des mots-clés.
+Elle proviennent de la structure du réseau
+des idées interconnectées. Continue.
+SG: Absolument. J'ai survolé ce point un peu trop rapidement
+mais il est là pour me ralentir.
+On voit que l'éducation est connectée à la narration d'histoires
+triangulées avec les médias sociaux.
+On a, bien sûr, le cerveau humain, juste à côté de la santé,
+ce dont on aurait pu se douter,
+mais on a aussi les jeux vidéo, qui sont à côté,
+car ces deux espaces communiquent entre eux.
+Mais je veux vous emmener dans une grappe
+qui m'importe particulièrement qui est l'environnement.
+Et je veux zoomer là-dessus
+et voir si on peut obtenir une plus grande résolution.
+En fait, ce dont on s'aperçoit,
+en appliquant ce moteur physique,
+c'est qu'une conversation
+se compose en réalité de plusieurs petites conversations.
+La structure commence à émerger,
+et on voit un comportement fractal
+des mots et du langage que l'on utilise
+pour décrire les choses qui sont importantes pour nous
+tout autour du monde.
+On a l'économie alimentaire et la nourriture locale en haut,
+les gaz à effet de serre, le solaire et les déchets nucléaires.
+Ce qu'on obtient est une gamme de petites conversations,
+chacune reliées aux autres à travers les idées
+et la langue qu'elles partagent,
+créant un concept plus large de l'environnement.
+Et bien sûr, à partir d'ici on peut zoomer
+et voir, et bien, que regardent les jeunes ?
+Ils s'intéressent aux technologies de l'énergie et à la fusion nucléaire.
+C'est ce à quoi ils s'intéressent
+dans les conversations qui tournent autour de la thématique de l'environnement.
+Si nous séparons selon le sexe,
+nous pouvons voir que les femmes s'intéressent fortement
+à l'économie alimentaire, mais aussi à l'espoir et à l'optimisme.
+Et donc on peut faire des tas de choses passionnantes,
+et je vais laisser la parole à Eric pour la prochaine partie.
+EB : Oui, je voudrais d'abord souligner
+qu'on ne peut pas obtenir ce genre de perspective
+par une simple recherche de mots-clés sur YouTube.
+Faisons maintenant un zoom arrière sur la totalité des conversations
+et regardons l'ensemble des conférences.
+Souvent, lorsqu'on est confronté à cette quantité de contenu,
+on fait quelques opérations pour simplifier.
+Nous pourrions dire, et bien,
+quelles sont les conférences les plus populaires ?
+Et quelques-unes remontent à la surface.
+Il y a une conférence à propos de la gratitude.
+Il y en a une autre sur la santé et la nutrition.
+Et bien sûr, il y en a une sur le porno !
+Et alors, nous pourrions dire : la gratitude, c'était l'an dernier.
+Qu'est-ce qui est en vogue ? Qu'est-ce qui est populaire en ce moment ?
+Et nous pouvons voir que le nouveau thème le plus en vogue
+est celui de l'intimité numérique.
+Donc c'est très bien. Ça simplifie les choses.
+Mais en même temps, il y a tellement de contenu créatif
+que l'on néglige quand on procède de cette manière.
+Et je déteste ça. Comment faire émerger les choses
+qui sont peut-être vraiment créatives et intéressantes ?
+Eh bien, nous pouvons revenir à la structure du réseau d'idées
+pour faire ça.
+N'oubliez pas : c'est cette structure en réseau
+qui crée ces thématiques émergentes.
+Supposant qu'on souhaite choisir deux d'entre elles,
+comme les villes et la génétique et voir s'il existe des conférences
+qui combinent ces deux disciplines très différentes, de façon créative ?
+Et c'est ce genre de mélange créatif
+qui est l'une des marques de fabrique de l'innovation.
+Et bien en voici une presentée par Jessica Green
+sur l'écologie microbienne des bâtiments.
+Elle traite littéralement d'un nouveau domaine.
+Et nous pourrions revenir à ces thématiques et se demander :
+quelles sont les conférences centrales de ces conversations ?
+Dans la grappe sur les villes, une des plus centrales
+est celle de Mitch Joachim sur les villes écologiques,
+et dans la grappe sur la génétique,
+on a une conférence sur la biologie synthétique présentée par Craig Venter.
+Ce sont des conférences qui lient de nombreuses autres au sein de leur discipline.
+On pourrait à l'opposé se demander
+quelles sont les conférences qui font la synthèse
+de nombreux types de domaines différents.
+Nous avons utilisé une mesure de la diversité écologique pour obtenir cela.
+Par exemple, une conférence présentée par Steven Pinker sur l'histoire de la violence,
+est très synthétique.
+Et puis, bien sûr, il y a des conférences qui sont si uniques, qu'on a l'impression
+qu'elles se trouvent dans la stratosphère, dans leur propre endroit spécial,
+et on appelle ça l'index Colleen Flanagan.
+Et si vous ne connaissez pas Colleen, et bien c'est une artiste,
+à qui j'ai d'ailleurs demandé, « C'est comment là-bas
+dans la stratosphère de notre espace d'idée ? »
+Et apparemment, ça sent le bacon.
+Apparemment.
+Ainsi, nous utilisons ces motifs de réseau
+pour trouver des conférences qui sont uniques,
+celles qui sont une synthèse créative de nombreux domaines différents,
+celles qui sont centrales pour leur thématique,
+et celles qui combinent des domaines disparates de façon créative.
+Nous ne les aurions jamais trouvé avec notre obsession
+de la nouveauté.
+Et tout cela vient de l'architecture de la complexité,
+ou de la façon dont les choses sont liées.
+SG : Donc, c'est exactement ça.
+Nous sommes dans un monde
+qui est extrêmement complexe,
+et nous avons utilisé des algorithmes pour le simplifier
+pour pouvoir y naviguer.
+Ces algorithmes, tout en étant utile,
+sont également très, très limités, et nous pouvons faire mieux que cela,
+parce qu'on peut se rendre compte que cette complexité n'est pas aléatoire.
+Elle a une structure mathématique,
+et nous pouvons utiliser cette structure mathématique
+pour explorer des choses comme le monde des idées
+pour voir ce qui est dit, ce qui n'est pas dit,
+et pour être un peu plus humain
+et, je l'espère, un peu plus intelligent.
+Merci.
+(Applaudissements)

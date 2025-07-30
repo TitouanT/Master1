@@ -1,0 +1,151 @@
+Il y a plusieurs choses
+qui nous rassemblent en tant qu'êtres humains lors d'une élection.
+Nous prenons position, nous votons pendant les élections,
+nous surveillons les élections.
+Nos démocraties reposent sur les élections.
+Nous comprenons tous pourquoi nous avons des élections,
+et nous quittons tous notre maison le même jour
+pour aller voter.
+Nous chérissons la chance de pouvoir avoir notre mot à dire,
+pour aider à décider du futur de notre pays.
+L'idée fondamentale est que les politiciens
+sont dotés d'une autorité pour nous représenter,
+pour prendre des décisions en notre nom
+qui nous concernent tous.
+Sans cette autorité, ils seraient corrompus.
+Eh bien, malheureusement, le pouvoir corrompt,
+et les gens feraient beaucoup de choses
+pour arriver au pouvoir et y rester,
+y compris tricher lors des élections.
+Vous voyez, même si l'idée
+de l'élection est parfaite,
+organiser une élection à l'échelle nationale est une grande opération,
+et les grandes opérations sont désordonnées.
+Chaque fois qu'il y a une élection,
+il semble toujours que quelque chose tourne mal,
+quelqu'un essaye de tricher,
+ou quelque chose va accidentellement de travers --
+une urne disparaît ici,
+et les confettis restent en suspens là-bas.
+Pour faire en sorte que le moins de choses possibles ne tournent mal,
+nous avons toutes ces procédures autour des élections.
+Par exemple, vous arrivez au bureau de vote,
+et un employé du bureau de vote vous demande votre carte d'identité
+avant de vous donner un bulletin de vote
+et de vous demander de vous diriger vers l'isoloir
+pour remplir l'enveloppe.
+Quand vous en sortez, vous devez déposer votre bulletin
+dans l'urne
+où il se mélange aux autres bulletins,
+pour que personne ne connaisse votre vote.
+Ce à quoi j'aimerais que nous réfléchissions un instant,
+c'est ce qui arrive après cela,
+après avoir déposé votre bulletin dans l'urne.
+La plupart des gens rentrent chez eux
+et sont certains que leur voix a été comptée,
+parce qu'ils font confiance
+au fonctionnement du système électoral.
+Ils font confiance aux employés et aux surveillants
+pour bien faire leur travail.
+Les urnes vont dans les lieux de comptage.
+Elles sont descellées et les bulletins sont déversés
+et laborieusement décomptés.
+La plupart d'entre nous devons espérer
+que cela se déroule correctement pour notre propre bulletin,
+et nous devons tous espérer que cela se déroule convenablement
+pour tous les bulletins de l'élection.
+Nous devons donc faire confiance à beaucoup de personnes.
+Nous devons faire confiance à beaucoup de procédures.
+Et parfois nous devons même faire confiance aux ordinateurs.
+Imaginez donc des centaines de millions d'électeurs
+qui enregistrent des centaines de millions de votes,
+qui doivent tous être comptés correctement
+et toutes les choses qui peuvent mal tourner
+à l'origine de tous ces tristes titres de journaux.
+Vous ne pouvez pas vous empêcher de vous sentir abattu à l'idée
+d'essayer d'améliorer ces élections.
+Face à tous ces tristes titres,
+les chercheurs ont pris du recul
+et ont pensé à la façon de mener différemment des élections.
+Ils ont pris de la hauteur et ont examiné la chose essentielle.
+Et la chose essentielle est la suivante :
+les élections devraient pouvoir être vérifiées.
+Les électeurs devraient être capables de vérifier
+que leur voix a bien été comptée,
+sans enfreindre le secret électoral,
+qui est très important.
+Et c'est la partie ardue.
+Comment rend-on un système électoral complètement vérifiable,
+en gardant les votes
+parfaitement secrets ?
+La méthode que l'on a trouvée
+utilise des ordinateurs,
+mais ne dépend pas d'eux.
+Et le secret est le bulletin de vote.
+Si vous regardez attentivement ces bulletins de vote,
+vous remarquerez que la liste des candidats
+est dans un ordre différent sur chacun d'entre eux.
+Cela signifie que si vous inscrivez votre choix sur l'un d'eux
+et que vous enlevez ensuite la liste des candidats,
+je ne serais pas capable à partir du morceau restant
+de déterminer votre vote.
+Et sur chaque bulletin se trouve une valeur cryptée
+sous la forme d'un code-barre 2D
+sur la droite.
+C'est de la cryptographie complexe
+qui se cache là-dessous,
+mais ce qui n'est pas compliqué,
+c'est de voter avec l'un de ces bulletins.
+Nous laissons les ordinateurs s'occuper de toute la cryptographie complexe pour nous,
+et ensuite nous utilisons la feuille pour vérifier le vote.
+C'est ainsi que vous votez.
+On vous donne l'un de ces bulletins de vote au hasard,
+et ensuite vous allez dans l'isoloir,
+et vous y inscrivez votre sélection,
+et vous détachez le long des perforations.
+Et vous détruisez la liste des candidats.
+Et le morceau restant, celui avec vos choix,
+constitue votre bulletin crypté.
+Vous laissez donc un employé du bureau de vote
+scanner votre bulletin crypté.
+Et, parce qu'il est crypté,
+il peut être soumis, conservé,
+et pris en compte
+et être affiché sur un site Internet
+à la portée de quiconque, y compris vous.
+Vous emportez donc ce bulletin crypté
+à la maison, comme un reçu.
+Et après la fermeture des votes,
+vous pouvez vérifier que votre voix a été prise en compte
+en comparant votre reçu
+au vote sur le site.
+Et rappelez-vous que le bulletin est crypté
+dès l'instant où vous sortez de l'isoloir,
+donc, en fait, si un responsable de l'élection veut savoir pour qui vous avez voté,
+il ne le pourra pas.
+Si le gouvernement veut connaître vos préférences,
+il ne le pourra pas.
+Aucun pirate informatique ne peut s'y infiltrer
+et découvrir pour qui vous avez voté.
+Aucun pirate ne peut s'infiltrer et changer votre vote,
+parce qu'alors il sera en désaccord avec votre reçu.
+Les voix ne peuvent se perdre,
+parce qu'alors vous ne trouverez pas la vôtre lorsque vous la chercherez.
+Mais la magie de l'élection ne s'arrête pas là.
+Au lieu de ça, nous voulons rendre l'ensemble du procédé
+tellement transparent
+que les médias, les observateurs internationaux,
+et tous ceux qui le veulent,
+peuvent télécharger toutes les données de l'élection
+et faire le décompte eux-mêmes.
+Ils peuvent vérifier que toutes les voix ont bien été comptées.
+Ils peuvent vérifier
+que le résultat annoncé de l'élection
+est bien le bon.
+Et ce sont des élections
+par le peuple, pour le peuple,
+donc la prochaine étape pour nos démocraties,
+ce sont des élections transparentes
+et qui peuvent être vérifiées.
+Merci.
+(Applaudissements)

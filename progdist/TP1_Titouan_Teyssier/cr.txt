@@ -1,0 +1,3 @@
+Comment avez-vous pris en compte le fait que l’application contrôleur n’est pas toujours en fonctionnement ?
+
+Puisque le controleur ne fonctionne pas en permanence, j'ai utilisé un DurableSubscriber qui prend en charge de sauvegarder les messages quand le controleur n'est pas la et de lui envoyer des qu'il se connecte.

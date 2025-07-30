@@ -1,0 +1,22 @@
+Titouan Teyssier -- Compte Rendu du TP de EIAH
+
+┌────────────────────┐
+│ Modèle de l'élève: │
+└────────────────────┘
+le modèle que j'ai choisi est composé de 6 concepts.
+Trois strategies (max nombre, max distance et max écart) et trois actions (collision, raccourci, et ville).
+Chaque concept est decrit par 5 compteurs:
+	achieved: incrémenté a chaque fois que le concept est appliqué.
+	overused: incrémenté a chaque fois que le concept est appliqué, alors que l'expert ne l'utilise pas.
+	bestuse : incrémenté a chaque fois que le concept est appliqué en même temps que l'expert.
+	avoided : incrémenté a chaque fois que le concept était applicable mais non appliqué.
+	missed  : incrémenté a chaque fois que le concept était appliqué par l'expert mais non appliqué.
+Ces compteurs permettent de calculer la précision, le rappel et le F1-score de la technique du joueur.
+
+┌──────────────────┐
+│ Conseils donnés: │
+└──────────────────┘
+Les conseils que je donne oriente le joueur vers le concept à utiliser sans pour autant lui donner la réponse.
+Cela permet de conserver l'intérêt du jeu tout en aidant la progression.
+Mes conseils sont spécifique à la situation donné afin que les messages ne paraissent pas monotone et ennuyant.
+Je félicite le joueur à chaque fois qu'il joue un coup équivalent à celui de l'expert pour ne pas systématiquement pointer sur des points négatifs.

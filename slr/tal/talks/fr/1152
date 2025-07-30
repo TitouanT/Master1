@@ -1,0 +1,417 @@
+Moi je pense que les données peuvent en fait nous rendre plus humains.
+Nous récoltons et créons toutes sortes de données sur notre environnement de vie,
+et cela nous permet de raconter des histoires étonnantes.
+Récemment, un sage théoricien des medias a tweeté,
+"La culture du 19ème siècle était définie par le roman,
+la culture du 20ème siècle était définie par le cinéma,
+et la culture du 21ème siècle
+sera définie par l'interface."
+Et je crois que cela va se vérifier.
+Nos vies sont pilotées par les données,
+et la présentation des ces données est pour nous une opportunité
+de créer des interfaces étonnantes qui racontent de grandes histoires.
+Je vais donc vous montrer quelques-uns des projets
+sur lesquels j'ai travaillé ces deux dernières années
+et qui reflètent nos vies et nos systèmes.
+Voici un projet nommé Flight Patterns.
+Ce que vous voyez là est le trafic aérien
+au-dessus de l'Amérique du Nord pendant 24h.
+Comme vous voyez, tout se fond jusqu'à devenir noir,
+et vous voyez les gens s'endormir.
+Après ça, vous voyez sur la côte Ouest
+des avions qui traversent, les vols à l'oeil rouge vers la côte Est.
+Et vous allez voir tout le monde s'éveiller sur la côte Est,
+suivis par les vols européens qui arrivent dans le coin en haut à droite.
+Tout le monde migre de la côte Est à la côte Ouest.
+Vous voyez San Francisco et Los Angeles
+commencer leur voyage vers Hawaii dans le coin en bas à gauche.
+Je pense que c'est une chose de dire qu'il y a 140 000 avions
+suivis par le gouvernement fédéral à un instant donné,
+et c'est une autre chose de voir ce système dans son flux et reflux.
+C'est une prise de vue accélérée de l'exacte même donnée,
+mais je l'ai codée en couleur par type,
+pour que l'on puisse voir la diversité des avions dans le ciel au-dessus de nos têtes.
+Et j'ai commencé à faire ces vues et je les ai intégrées à Google Maps
+vous pouvez zoomer et voir chaque aéroport
+et les motifs qui se dessinent.
+Ici nous voyons que le blanc représente les basses altitudes,
+et le bleu ce sont les altitudes plus élevées.
+Et vous pouvez zoomer. Là, c'est une vue d'Atlanta.
+Vous pouvez voir ici un important aéroport de fret,
+et il y a toutes sortes d'activités là-bas.
+Vous pouvez aussi basculer d'une altitude à l'autre
+par modèle et fabricant.
+Voyez, encore, la diversité.
+Et vous pouvez faire défiler l'ensemble et voir
+quelques-uns des différents aéroports et leurs différents motifs.
+Voilà une vue en remontant la côte Est.
+Vous voyez un peu du chaos qui anime New York
+avec les contrôleurs aériens
+qui doivent gérer tous ces aéroports majeurs proches les uns des autres.
+En dézoomant très vite
+nous voyons, à nouveau, les Etats-Unis -- vous avez la Floride en bas à droite.
+En se déplaçant jusqu'à la côte Ouest,
+vous voyez San Francisco et Los Angeles --
+de grandes zones à faible trafic
+le long du Nevada et de l'Arizona.
+Et nous voici là, à Los Angeles et Long Beach en bas.
+J'ai aussi commencé jeter un oeil aux différents paramètres,
+car on peut choisir ce que l'on veut extraire des données.
+Voilà une vue comparant les vols ascendants et descendants.
+Et vous voyez, dans le temps, comment les aéroports changent.
+Vous voyez les motifs persistants qui commencent à se développer
+en bas de l'écran.
+Et vous voyez finalement l'aéroport qui change vraiment de directions.
+Voilà un autre projet sur lequel j'ai travaillé avec le Sensible Cities Lab du MIT.
+Voilà une vue des communications internationales.
+Et voilà comment New York communique
+avec d'autres villes internationales.
+Et nous avons mis cela en place comme un globe en live au Musée d'Art Moderne de New York
+à l'occasion de l'exposition Design The Elastic Mind.
+Et il a été alimenté par un flux pendant 24h,
+donc on pouvait voir la relation évoluer,
+et des infos démographiques
+qui provenaient des données AT&T et se révélaient.
+Voici un autre projet sur lequel j'ai travaillé avec le Sensible Cities Lab
+et CurrentCity.org.
+Et cela montre des SMS envoyés dans la ville d'Amsterdam.
+Vous voyez le flux et reflux quotidien
+des gens qui envoient des SMS des différentes parties de la ville
+jusqu'à l'approche du Nouvel An où tout le monde dit "Bonne année !"
+(Rires)
+Donc c'est un outil interactif
+que vous pouvez déplacer partout, pour voir différentes parties de la ville.
+Ici nous observons un autre événement. On l'appelle le Jour de la Reine.
+Là encore, vous avez ce flux et reflux quotidien
+des gens qui envoient des SMS des différentes parties de la ville.
+Et vous allez voir des gens se rassembler dans le centre-ville
+pour faire la fête la veille
+comme ça se passe juste là.
+Ensuite vous voyez les gens faire la fête le lendemain.
+Et vous pouvez faire pause et avancer et reculer pour voir différentes phases.
+Passons maintenant à quelque chose de totalement différent.
+Certains d'entre vous connaissent peut-être.
+Voici la machine à jouer aux échecs du baron Wolfgang von Kempelen.
+C'est un robot étonnant qui joue très bien aux échecs,
+sauf pour un détail : ce n'est pas du tout un robot.
+C'est en fait un homme sans jambes qui est assis dans cette boite
+et contrôle ce joueur d'échecs.
+Cela a inspiré un web service d'Amazon
+appelé le Turc Mécanique -- d'après le nom de ce type.
+Et c'est basé sur le postulat que certaines choses
+sont faciles pour les gens, mais vraiment compliquées pour les ordinateurs.
+Alors ils ont fait ce web service et dit
+"N'importe quel programmeur peut écrire un bout de code
+et puiser dans les esprits de milliers de gens."
+Mon côté nerd a pensé "Wahou, c'est fou.
+Je peux puiser dans les esprits de milliers de gens."
+Et mon autre côté nerd a pensé
+"C'est horrible. C'est totalement bizarre.
+Qu'est-ce que ça implique pour le futur de l'humanité,
+que nous sommes tous branchés à ce borg ?"
+J'étais sans doute un peu extrême.
+Mais qu'est-ce que ça veut dire quand nous n'avons pas le contexte pour ce sur quoi nous travaillons
+et nous faisons juste ces petites tâches.
+Alors j'ai créé cet outil pour dessiner.
+J'ai demandé aux gens de dessiner un mouton qui regarde à gauche.
+Et j'ai dit "Je vous payerai 2 cents pour votre contribution."
+Et j'ai commencé à collectionner les moutons.
+J'ai réuni beaucoup, beaucoup de moutons différents.
+Des tas de moutons.
+J'ai pris les premiers 10 000 moutons que j'avais réunis,
+et je les ai mis sur un site appelé TheSheepMarket.com
+où vous pouvez en fait acheter des collections de 20 moutons.
+Vous ne pouvez pas choisir un mouton à l'unité
+mais vous pouvez acheter un block de vignettes comme matière première.
+Et juxtaposée à la grille
+vous pouvez vous en passant la souris sur chaque mouton,
+l'humanité derrière cet immense processus mécanique.
+Je pense qu'il y a quelque chose de vraiment intéressant
+à regarder les gens passer par ce labeur créatif --
+quelque chose qui nous parle à tous,
+ce processus créatif d'essayer d'inventer quelque chose à partir de rien.
+Je trouve que c'était vraiment intéressant de mettre en regard cette humanité
+avec cette grille massive et disséminée.
+C'est assez étonnant ce que certaines personnes ont fait.
+Voici quelques statistiques sur le projet.
+Un taux d'ajout de 11 moutons par jour
+ce que représente un salaire de 69 cents par heure.
+662 moutons ont été rejetés
+car ils n'entraient pas dans les critères et on les a sortis du troupeau.
+(Rires)
+Le temps passé à dessiner allait de 4 secondes à 46 minutes.
+Cela vous donne une idée des différents types de motivations et d'engagement.
+Et il y a eu 7 599 contributeurs au projet,
+en tout cas qui avaient une adresse IP unique --
+ça représente à peu près le nombre de personnes qui ont contribué.
+Mais un seul de ces 7 599 personnes a dit ceci.
+(Rires)
+Ce qui m'a plutôt surpris.
+Je m'attendais à ce que les gens se demandent "Pourquoi j'ai choisi un mouton?"
+Et je trouve que c'est une question plutôt pertinente.
+Et il y a beaucoup de raisons pour lesquelles j'ai choisi un mouton.
+Le mouton a été le premier animal
+qui a été élevé avec des produits dérivés produits mécaniquement,
+le premier qui a été sélectionné pour ses caractéristiques de reproduction,
+le premier qui a été cloné.
+Manifestement nous voyons les moutons comme des suiveurs.
+Ensuite il y a la référence au "Petit Prince"
+où le narrateur demande au prince de dessiner un mouton.
+Il dessine un mouton après l'autre.
+Le narrateur ne s'apaise que quand il dessine une boite.
+Et il dit "Tu n'as pas besoin de dessiner un mouton scientifiquement exact.
+Ce qui compte c'est ton interprétation et faire quelque chose de différent."
+Et j'aime ça.
+Voici un extrait des Temps Modernes de Charlie Chaplin.
+Cela montre Charlie Chaplin aux prises avec quelques changements majeurs
+pendant la révolution industrielle.
+Il n'y avait plus de fabricants de chaussures,
+mais il y avait des gens qui flanquaient des semelles sur les chaussures.
+Et l'idée globale de la relation de chacun à son travail, avait beaucoup changé.
+Alors j'ai pensé que c'était une vidéo intéressante
+qu'on pouvait découper en 16 morceaux
+et je les ai injectés dans le Turc mécanique avec un outil de dessin.
+Cela a permis en fait -- ce que vous voyez à gauche est l'image originale,
+et à droite vous voyez cette image
+interprétée par 16 personnes
+qui n'avaient aucune idée de ce qu'ils étaient en train de faire.
+Et ça a été l'inspiration pour un projet
+sur lequel j'ai travaillé avec mon ami Takashi Kawashima.
+Nous avons décidé d'utiliser le Turc mécanique pour sa raison d'être précise,
+qui était de rapporter de l'argent.
+Alors nous avons pris une centaine de dollars et les avons divisé en 10 000 morceaux minuscules
+et nous les avons placés dans le Turc Mécanique.
+Nous avons demandé aux gens dire ce qu'ils voyaient.
+Mais là il n'y avait pas de critère de "mouton ressemblant".
+Les gens, s'ils tiraient un personnage en bâtons ou un smiley,
+ça entrait dans le billet.
+Donc ce que vous voyez est vraiment une représentation de la manière dont
+les gens ont bien fait ce qui leur était demandé.
+Nous avons donc pris ces cent billets d'un dollar,
+et nous les avons mis sur un site appelé TenThousandsCents.com,
+où vous pouvez passer en revue toutes les contributions individuelles.
+Et vous pouvez aussi échanger des vrais billets de cent dollars contre des faux billets de cent dollars
+et faire un don au projet Hundred Dollar Laptop,
+qui est aussi connu désormais sous le nom Un Laptop par enfant.
+Voilà encore toutes les différentes contributions.
+Vous voyez que certains ont fait de très beaux rendus pointillés
+comme celui-ci en haut --
+ils ont passé du temps à faire des versions réalistes.
+Et d'autres ont dessiné des personnages en bâtons ou des smileys.
+Ici à droite au milieu
+vous voyez le type qui écrit "$0.01!!! Really?"
+C'est tout ce que vous me donnez pour ça ?
+(Rires)
+Bon, le dernier projet Turc mécanique dont je vais vous parler
+porte le nom de Bicyclette construite pour 2000.
+C'est une collaboration avec mon ami Daniel Massey.
+Vous reconnaîtrez peut-être ces deux types.
+Ce sont Max Mathews et John Kelly du Bell Labs dans les années 60
+où ils ont créé la chanson "Daisy Bell",
+qui a été le premier ordinateur chantant au monde.
+Vous reconnaîtrez peut-être dans "2001 : l'Odyssée de l'espace"
+quand HAL est en train de mourir à la fin et commence à chanter cette chanson
+comme une référence au moment où les ordinateurs sont devenus humains.
+Donc nous avons reproduit cette chanson.
+Voilà à quoi ça ressemblait.
+Nous avons décomposé toutes les notes
+et les phonèmes dans la chanson.
+Daisy Bell: ♫ Daisy, Daisy ... ♫
+Aaron Koblin: Et nous avons pris toutes les pièces unitaires,
+et nous les avons entrées dans une autre requête Turc.
+Voici à quoi ça ressemblerait si vous alliez sur le site.
+Vous tapez votre code,
+et testez d'abord votre micro.
+On vous fournirait un simple clip audio.
+(Klaxon)
+Et alors vous feriez de votre mieux pour le recréer avec votre propre voix.
+Après l'avoir visualisé et confirmé comme votre contribution,
+vous pourriez le soumettre au Turc mécanique sans aucun contexte additionnel.
+Et voici ce que nous avons reçu du tout premier jeu de soumissions.
+Enregistrement en cours : ♫ Daisy, Daisy ♫
+♫ give me your answer do ♫
+♫ I'm half crazy ♫
+♫ all for the love of you ♫
+♫ It can't be a stylish marriage ♫
+♫ I can't afford a carriage ♫
+♫ But you'll look sweet upon the seat ♫
+♫ of a bicycle built for two ♫
+AK : Alors James Surowieki a cette idée de la sagesse des foules,
+qui dit qu'un groupe de gens est plus intelligent que n'importe quel individu.
+Nous voulions voir comment ceci s'applique au collboratif, à la création de musique distribuée,
+où personne n'a la moindre idée de ce sur quoi il travaille.
+Donc si vous allez sur BicycleBuiltforTwoThousand.com
+vous pouvez vraiment entendre ce que ça donne tout ensemble.
+Désolé pour ça.
+(Bruit)
+Chorus: ♫ Daisy, Daisy ♫
+♫ Give me your answer do ♫
+♫ I'm half crazy ♫
+♫ all for the love of you ♫
+♫ It can't be a stylish marriage ♫
+♫ I can't afford a carriage ♫
+♫ But you'd look sweet upon the seat ♫
+♫ of a bicycle built for two ♫
+AK : alors en revenant en arrière un instant,
+quand j'étais à UCLA à l'université,
+je travaillais aussi au Center for Embedded Network Sensing.
+Et je codais un logiciel pour les scanners à laser visuel.
+Donc principalement du mouvement dans un espace 3D.
+Et un réalisateur de L.A. appelé James Frost l'a vu
+et a dit "Attendez une minute.
+Vous voulez dire qu'on peut tourner un clip musical sans utiliser de vidéo ?"
+Et on a fait exactement ça.
+Nous avons fait une vidéo musicale d'un de mes groupes favoris, Radiohead.
+Et je crois qu'une de mes parties préférées du projet
+ce n'était pas de tourner une vidéo avec des lasers,
+mais le fait de le rendre Open Source,
+et comment nous l'avons sorti en tant que projet Google Code
+avec lequel les gens pouvaient télécharger un paquet de données et du code source
+pour construire leur propre version.
+Et les gens ont fait des choses étonnantes.
+Voici deux de mes préférées :
+le tableau d'affichage Thom Yorke et un LEGO Thom Yorke.
+Une chaîne Youtube entière où les gens postent des contenus vraiment intéressants.
+Plus récemment, quelqu'un a même imprimé en 3D la tête de Thom Yorke
+qui fait un peu peur, mais est assez sympa.
+Alors avec tous ces gens qui produisent tant de choses étonnantes
+et comprennent vraiment ce sur quoi ils travaillaient
+j'avais vraiment envie d'essayer de faire un projet collaboratif
+où les gens travailleraient ensemble pour construire quelque chose.
+Et j'ai rencontré un réalisateur musical, Chris Milk.
+Et nous avons commencé à lancer des idées
+pour faire un projet de vidéo musicale collaborative.
+Mais nous savions que nous avions vraiment besoin de la bonne personne
+pour rallier tout le monde derrière elle et donner envie de construire.
+Alors nous avons mis l'idée en veilleuse quelques mois.
+Et il a fini par parler à Rick Rubin,
+qui terminait l'album de Johnny Cash
+"Ain't No Grave."
+Les paroles du morceau principal sont "Aucune tombe ne peut plaquer mon corps au sol"
+Alors nous avons pensé que c'était le projet idéal
+pour construire un mémorial collaboratif
+et une résurrection virtuelle pour Johnny Cash.
+Alors j'ai fait équipe avec mon bon ami Ricardo Cabello aussi connu sous le nom de M. Doob,
+qui est un bien meilleur programmeur que moi,
+et il a fait cet étonnant outil de dessin en Flash.
+Comme vous le savez,
+une animation est une série d'images.
+Et ce que nous avons fait c'est couper des séquences d'archives de Johnny Cash,
+et à 8 images par seconde,
+nous avons permis à des gens de dessiner une image unique
+qui serait intégrée dans
+cette vidéo musicale qui change de façon dynamique.
+Bien, je n'ai pas le temps de vous le montrer en entier,
+mais je voulais vous montrer deux courts extraits.
+L'un est le début du clip vidéo.
+Et juste après vous verrez un clip court
+où des gens qui ont contribué au projet
+en parlent brièvement.
+(Musique)
+(Vidéo) Johnny Cash: ♫ There ain't no grave ♫
+♫ can hold my body down ♫
+♫ There ain't no grave ♫
+♫ can hold body down ♫
+♫ When I hear the trumpet sound ♫
+♫ I'm going to ride right out of the ground ♫
+♫ Ain't no grave ♫
+♫ can hold my body ... ♫
+(Applaudissements)
+AK : Quelle meilleure manière de rendre hommage à l'homme
+que de faire quelque chose pour une de ses chansons.
+Collaborateur : j'ai été vraiment triste quand il est mort.
+Et je me suis dit que ça serait merveilleux
+ça serait vraiment super de faire quelque chose en sa mémoire.
+Collaborateur 2 : ça fait vraiment
+de son dernier enregistrement
+un mémorial vivant, qui respire.
+Collabortateur 3 : Que toutes les images soient dessinées par des fans,
+chaque image individuelle,
+ça donne une impression très puissante à l'ensemble.
+Collaborateur 4 : j'ai vu tout le monde
+du Japon, du Venezuela, aux Etats-Unis,
+à Knoxville, Tennessee.
+Collaborateur 5 : C'est tellement différent d'image en image,
+c'est vraiment personnel.
+Collaborateur 6 : en regardant cette vidéo dans ma chambre,
+je me voyais dans l'incompréhension au début.
+Et j'ai travaillé et travaillé sur les problèmes,
+jusqu'à ce que mes petites batailles de détails dans l'image
+commencent à toutes se résoudre.
+Alors je vois le moment où je sais ce que je suis en train de faire,
+et beaucoup de lumière et d'ombre entre.
+Et curieusement,
+c'est aussi ce que j'aime dans la musique de Johnny Cash.
+C'est la somme de sa vie,
+toutes les choses qui étaient arrivées --
+les mauvaises, les bonnes.
+Vous entendez la vie d'une personne.
+AK : Si vous allez sur le site JohnnyCashProject.com,
+ce que vous verrez c'est la vidéo ci-dessus.
+Et en-dessous ce sont les images individuelles
+que les gens ont postées pour le projet.
+Donc ce n'est pas du tout un travail fini,
+c'est un projet toujours ouvert auquel les gens peuvent continuer à collaborer.
+Si vous passez la souris sur n'importe laquelle de ces vignettes individuelles,
+vous verrez la personne qui a dessiné cette image
+et où elle se trouve géographiquement.
+Et si vous en trouvez une qui vous intéresse,
+vous pouvez cliquer dessus et ouvrir une fiche d'information
+où vous pouvez lui donner une note,
+ce l'aide à remonter dans la liste.
+Vous pouvez aussi voir comment elle a été dessinée.
+Là encore, vous pouvez jouer la vidéo et vous la contribution personnelle.
+En plus de ça, sont notés le nom de l'artiste, sa localisation,
+le temps qu'il a mis à dessiner l'image.
+Et vous pouvez choisir un style. Celle-ci a été taguée "Asbtract."
+Il y a un tas de styles différents.
+Et vous pouvez arranger la vidéo de beaucoup de façons différentes.
+Vous pouvez dire "je veux voir la version pointilliste
+ou la version schématique ou la version réaliste."
+Et voici encore la version abstraite,
+qui finit de façon un peu folle.
+Bien. Le dernier projet dont je veux vous parler est une autre collaboration avec Chris Milk.
+Elle s'appelle "The Wilderness Downtown."
+C'est une vidéo musicale pour The Arcade Fire.
+Chris et moi-même étions très surpris
+du potentiel actuel avec les navigateurs web modernes,
+avec l'HTML 5 audio et vidéo
+et la puissance du Javascript pour un rendu incroyablement rapide.
+Et nous voulions promouvoir l'idée d'une vidéo musicale faite pour le web
+au-delà de la fenêtre 4/3 ou 16/9
+et essayer de la faire jouer et la chorégraphier partout dans l'écran.
+Mais plus important encore, je pense,
+nous voulions vraiment faire une expérience différente du projet Johnny Cash,
+où nous aurions un petit groupe de personnes passant beaucoup de temps
+pour produire quelque chose pour tous.
+Et si nous avions un engagement très bas,
+mais arrivions à créer quelque chose d'unique pour chaque contributeur ?
+Le projet commence en vous demandant d'entrer l'adresse
+où vous avez grandi.
+Et vous tapez l'adresse --
+et ça crée une vidéo musicale spécialement pour vous,
+en intégrant des images de Google Maps et Streetview
+dans l'expérience elle-même.
+Vous devriez vraiment voir ça chez vous en tapant votre propre adresse
+mais je vais vous donner un petit aperçu de ce à quoi vous pouvez vous attendre.
+(Vidéo) Win Butler : ♫Aujourd'hui nos vies changent vite♫
+♫Aujourd'hui nos vies changent vite♫
+♫J'espère que quelque chose de pur peut durer♫
+♫J'espère que quelque chose de pur peut durer♫
+♫Ooh on attendait♫
+♫Ooh on attendait♫
+♫Ooh on attendait♫
+♫Parfois ça n'arrivait jamais♫
+♫Parfois ça n'arrivait jamais♫
+Toujours à évoluer dans la douleur
+On l'attendait
+On l'attendait
+On l'attendait
+AK : Alors je crois que s'il y a une chose à retenir de ma présentation d'aujourd'hui,
+c'est qu'une interface peut être un outil puissant de narration.
+Et alors que nous collectons de plus en plus de données personnelles et sociales pertinentes
+nous avons une opportunité, et peut-être même une obligation
+de maintenir l'humanité et de raconter des histoires étonnantes
+en explorant et en collaborant ensemble.
+Merci beaucoup.
+(Applaudissements)

@@ -1,0 +1,329 @@
+Bonjour, tout le monde.
+J'ai quelque chose à vous montrer.
+(Rires)
+Imaginez que c'est un pixel, un pixel qui vole.
+C'est ce que nous appelons, dans notre laboratoire, du design sensible.
+Permettez-moi de vous en parler un peu.
+Si vous prenez cette photo - je suis italien à l'origine,
+et chaque garçon en Italie grandit
+avec cette photo sur le mur de sa chambre.
+Mais la raison pour laquelle je vous montre ça
+c'est que quelque chose de très intéressant
+s'est passé en course de Formule 1
+au cours des deux dernières décennies.
+Il y a quelque temps,
+si vous vouliez gagner une course de Formule 1,
+vous preniez un budget, et vous misiez votre budget
+sur un bon conducteur et une bonne voiture.
+Et si la voiture et le chauffeur étaient assez bons, alors vous gagniez la course.
+Or, aujourd'hui, si vous voulez gagner la course,
+il vous faut en fait aussi quelque chose comme ça -
+quelque chose qui surveille la voiture en temps réel,
+possède quelques milliers de capteurs
+collecte les informations de la voiture,
+transmet ces informations au système,
+puis les traite
+et les utilise pour revenir à la voiture avec des décisions
+et changer les choses en temps réel
+pendant que les informations sont recueillies.
+C'est ce qu'en termes d'ingénierie,
+on pourrait appeler un système de contrôle en temps réel.
+Et au fond, c'est un système constitué de deux composantes -
+une composante de détection et une d'actionnement.
+Ce qui est intéressant aujourd'hui
+est que de véritables systèmes de contrôle en temps réel
+commencent à entrer dans nos vies.
+Nos villes, au cours des dernières années,
+ont été complètement recouvertes
+de réseaux, d'électronique.
+Elles deviennent comme des ordinateurs à l'air libre.
+Et, comme les ordinateurs à l'air libre,
+elles commencent à répondre d'une manière différente
+pour pouvoir être détectées et pour être actionnées.
+Si nous réparons les villes, en fait ce n'est pas rien.
+Soit dit en passant, je voulais mentionner,
+que les villes ne représentent que 2% de la croûte terrestre,
+mais 50 % de la population mondiale.
+Elles représentent 75 % de la consommation d'énergie -
+jusqu'à 80 % des émissions de CO2.
+Donc, si nous pouvons faire quelque chose avec les villes, ce n'est pas rien.
+Au-delà des villes,
+toute cette détection et cet actionnement
+entre dans nos objets quotidiens.
+Ça vient d'une exposition
+que Paola Antonelli organise
+au MoMA plus tard cette année, durant l'été.
+Elle s'intitule "Talk to Me".
+Eh bien nos objets, notre environnement,
+commencent à nous répondre.
+Dans un sens, c'est presque comme si chaque atome là dehors
+devenait à la fois un capteur et un actionneur.
+Et c'est train de changer radicalement l'interaction que nous, humains,
+avons avec l'environnement là dehors.
+Dans un certain sens,
+c'est presque comme dans le vieux rêve de Michel-Ange ...
+vous savez, quand Michel-Ange a sculpté le Moïse,
+à la fin, il dit qu'il a pris le marteau, il l'a jeté à Moïse -
+en fait vous pouvez encore voir un petit éclat dessous -
+et a dit, crié,
+"Perché Parli non? Pourquoi ne parles-tu pas?"
+Eh bien aujourd'hui, pour la première fois,
+notre environnement commence à nous répondre.
+Et je vais vous montrer quelques exemples -
+là encore, avec cette idée de détecter et d'actionner notre environnement.
+Commençons par la détection.
+Eh bien le premier projet que je voulais partager avec vous
+est en fait l'un des premiers projets de notre laboratoire.
+Il a pris quatre ans et demi en Italie.
+Et ce que nous y avons fait
+c'était en fait utiliser un nouveau type de réseau à l'époque
+qui avait été déployé partout dans le monde -
+c'est un réseau de téléphonie cellulaire -
+et l'utilisation des informations anonymes et agrégées à partir de ce réseau,
+qui sont recueillies de toute façon par l'opérateur
+afin de comprendre
+comment la ville fonctionne.
+L'été a été un été de chance - 2006.
+C'est quand l'Italie a remporté la Coupe du Monde.
+Certains d'entre vous se souviennent peut-être, c'était Italie - France,
+puis Zidane à la fin, le coup de boule.
+Et enfin bref, l'Italie a gagné à la fin.
+(Rires)
+Maintenant, regardez ce qui s'est passé ce jour-là
+rien qu'en surveillant l'activité
+sur le réseau.
+Ici vous pouvez voir la ville.
+Vous voyez le Colisée au milieu,
+le Tibre.
+C'est le matin, avant le match.
+Vous voyez le minutage en haut.
+Début d'après midi,
+les gens ici et là
+qui téléphonent et se déplacent.
+Le match commence - silence.
+La France marque. l'Italie marque.
+La mi-temps, les gens passent un coup de fil rapide et vont aux toilettes.
+Deuxième mi-temps. Fin du temps réglementaire.
+Première prolongation, deuxième prolongation.
+Zidane, le coup de boule dans un instant.
+L'Italie gagne. Oui.
+(Rires)
+(Applaudissements)
+Eh bien, cette nuit-là, tout le monde est allé célébrer dans le centre.
+Vous avez vu le grand pic.
+Le lendemain, tout le monde s'est rendu au centre
+pour rencontrer l'équipe gagnante
+et le Premier ministre de l'époque.
+Et puis tout le monde s'est déplacé vers le bas.
+Vous voyez l'image de l'endroit appelé Circo Massimo,
+où, depuis l'époque romaine, les gens vont pour célébrer -
+pour faire une grande fête, et vous voyez le pic à la fin de la journée.
+Eh bien, c'est juste un exemple de la façon dont nous pouvons sentir la ville aujourd'hui,
+comme nous n'aurions pas pu le faire
+il y a seulement quelques années.
+Un autre exemple de détection rapide :
+il ne s'agit pas de personnes,
+mais de choses que nous utilisons et consommons.
+Eh bien aujourd'hui, nous savons tout
+la provenance de nos objets.
+Ceci est une carte qui vous montre
+toutes les puces qui forment un ordinateur Mac, comment ils sont assemblés.
+Mais nous en savons très peu sur l'endroit où les choses vont.
+Donc, dans ce projet,
+nous avons en fait élaboré des petites étiquettes
+pour suivre les ordures au fil de leur déplacements à travers le système.
+Donc nous avons commencé avec un certain nombre de bénévoles
+qui nous ont aidés à Seattle,
+il y a à peine un an,
+pour mettre des puces sur ce qu'ils jetaient -
+différents types de choses, comme vous pouvez le voir ici -
+des choses qu'ils jetaient de toute façon.
+Ensuite, nous avons mis une petite puce, une petite étiquette,
+sur le déchet
+puis nous avons commencé à le suivre.
+Voici les résultats que nous venons d'obtenir.
+(Musique)
+De Seattle ...
+après une semaine.
+Avec ces informations, nous nous sommes rendus compte
+qu'il y a beaucoup d'inefficacité dans le système.
+Nous pouvons en fait faire la même chose avec beaucoup moins d'énergie.
+Ces données n'étaient pas disponibles auparavant.
+Mais il y a beaucoup de gaspillage de transport et des choses compliquées qui se passent.
+Mais l'autre chose est que nous croyons
+que si nous voyons tous les jours
+que le gobelet que nous jetons ne disparaît pas,
+il est toujours quelque part sur la planète.
+Et la bouteille en plastique que nous jetons tous les jours reste toujours là.
+Et si nous montrons ça aux les gens,
+nous pouvons aussi promouvoir des changements de comportement.
+C'était donc la raison du projet.
+Mon collègue du MIT, Assaf Biderman,
+il pourrait vous en dire beaucoup plus sur la détection
+et beaucoup d'autres choses merveilleuses que nous pouvons faire avec la détection,
+mais je voulais passer à la deuxième partie dont nous avons discuté au début,
+et c'est l'actionnement de notre environnement.
+Et le premier projet
+est ce que nous avons fait il y a quelques années à Saragosse, en Espagne.
+Ça a commencé par une question posée par le maire de la ville,
+qui est venu nous dire
+que l'Espagne et l'Europe du Sud ont une belle tradition
+de l'utilisation de l'eau dans l'espace public, dans l'architecture.
+Et la question était : comment la technologie pourrait, les nouvelles technologies,
+y être ajoutée ?
+Et l'une des idées qui a été développée au MIT dans un atelier
+a été, imaginez ce tuyau, et vous avez des vannes,
+des électrovannes, des robinets,
+qui s'ouvrent et qui se ferment.
+Vous pouvez créer comme un rideau d'eau avec des pixels en eau.
+Si ces pixels tombent,
+vous pouvez écrire sur eux,
+vous pouvez montrer des motifs, des images, du texte.
+Et vous pouvez même approcher ce dispositif, et il va s'ouvrir
+pour vous permettre de passer à travers,
+comme vous le voyez dans cette image.
+Eh bien, nous l'avons présenté au maire Belloch.
+Il a beaucoup aimé.
+Et nous avons été commissionnés pour concevoir un bâtiment
+à l'entrée de l'expo.
+Nous l'avons appelé Pavillon de l'Eau Numérique.
+L'ensemble du bâtiment est composé d'eau.
+Il n'y a pas de portes ou fenêtres,
+mais quand vous vous approchez,
+il s'ouvre pour vous laisser entrer
+(Musique)
+Le toit est également recouvert d'eau.
+Et si il y a un peu de vent,
+si vous voulez minimiser les éclaboussures, vous pouvez en fait abaisser le toit.
+Ou vous pouvez fermer le bâtiment,
+et toute l'architecture va disparaître,
+comme dans ce cas.
+Vous savez, ces jours-ci, vous obtenez toujours des images pendant l'hiver
+quand ils baissent le toit
+des personnes qui y sont allés et ont dit : "Ils ont démoli le bâtiment."
+Non, ils ne l'ont pas démoli, seulement au moment où il descend,
+l'architecture disparaît presque.
+Voici le bâtiment en fonction.
+Vous voyez la personne perplexe quant à ce qui se passait à l'intérieur.
+Et me voici essayant de ne pas me mouiller,
+en testant les capteurs qui ouvrent l'eau.
+Eh bien, je dois vous dire maintenant ce qui s'est passé une nuit
+lorsque tous les capteurs ont cessé de fonctionner.
+Mais en fait cette nuit-là, ça a été encore plus amusant.
+Tous les enfants de Saragosse sont venus au bâtiment,
+parce que la façon de s'engager avec le bâtiment était devenue quelque chose de différent.
+Ce n'était plus un bâtiment qui s'ouvrait pour vous laisser entrer,
+mais un bâtiment qui faisait quand même des coupes et des trous dans l'eau,
+et vous deviez sauter sans vous mouiller.
+(Vidéo) (bruit de la foule)
+Et ça, pour nous, c'était très intéressant,
+car en tant qu'architectes, ingénieurs, designers,
+nous pensons toujours à la façon dont le gens utiliseront les choses que nous concevons.
+Mais ensuite la réalité est toujours imprévisible.
+Et c'est ce qui est beau dans le fait de faire des choses
+qui sont utilisées et qui interagissent avec les gens.
+Voici une image du bâtiment à l'époque
+avec les pixels physiques, les pixels constitués d'eau,
+et puis des projections dessus.
+Et c'est ce qui nous a amenés à réfléchir
+au projet suivant que je vais vous montrer maintenant.
+C'est, imaginez si ces pixels pouvaient en fait se mettre à voler.
+Imaginez si vous pouviez avoir de petits hélicoptères
+qui se déplacent dans l'air,
+et puis chacun d'eux avec un petit pixel dans des lumières qui changent --
+presque comme un nuage qui peut se déplacer dans l'espace.
+Voici la vidéo.
+(Musique)
+Alors imaginez un hélicoptère,
+comme celui que nous venons de voir,
+se déplaçant avec les autres,
+en synchronie.
+Alors vous pouvez avoir ce nuage.
+Vous pouvez avoir une sorte d'écran ou d'affichage flexible, comme celui-ci -
+une configuration habituelle en deux dimensions.
+Ou habituelle, mais en trois dimensions,
+où la chose qui change, c'est la lumière,
+pas la position des pixels.
+Vous pouvez jouer avec un type différent.
+Imaginez si votre écran pouvait apparaître
+sous des échelles et des tailles différentes,
+différentes résolutions.
+Mais alors tout ça peut n'être
+qu'un nuage de pixels 3D
+que vous pouvez approcher et traverser
+et voir sous de nombreux angles différents.
+Voici le véritable contrôle du Flyfire
+qui descend pour former le V habituel comme avant.
+Quand on allume la lumière, en fait on voit ça, la même chose que ce que nous avons vu avant.
+Et imaginez que chacun d'entre eux soit ensuite contrôlé par les gens.
+Vous pouvez faire que chaque pixel
+reçoive une commande provenant des gens,
+des mouvements des gens, etc.
+Je veux vous montrer une chose ici pour la première fois.
+Nous avons travaillé avec Roberto Bolle.
+un des meilleurs danseurs de ballet d'aujourd'hui --
+danseur étoile au Metropolitan de New York
+et à la Scala de Milan --
+et avons en fait capturé son mouvement en 3D
+pour l'utiliser comme information pour le Flyfire.
+Et ici vous pouvez voir Roberto danser.
+Vous voyez les pixels à gauche,
+alors que les différentes résolutions sont capturées.
+C'est à la fois un scan 3D en temps réel
+et une capture de mouvement.
+On peut donc reconstruire un mouvement entier.
+On peut faire tout ça.
+Mais ensuite, une fois que nous avons les pixels, nous pouvons jouer avec
+et jouer avec la couleur et le mouvement
+et la gravité et la rotation.
+Nous voulons donc l'utiliser comme une des sources d'informations
+à envoyer au Flyfire.
+Je voulais vous montrer le dernier projet sur lequel nous travaillons.
+C'est une chose sur laquelle nous travaillons pour les jeux olympiques de Londres.
+Ça s'appelle le nuage.
+Et l'idée ici est que imaginez encore une fois,
+que nous pouvons impliquer les gens
+pour qu'ils fassent quelque chose pour changer notre environnement --
+presque pour communiquer ce que nous appelons une construction de nuage --
+comme une construction de grange, mais avec un nuage.
+Imagines que vous pouvez faire que tout le monde donne quelque chose pour un pixel.
+Et je pense que ce qui est remarquable
+et qui s'est produit ces deux dernières années
+c'est que, au cours des 20 dernières années,
+nous sommes passés du monde physique au monde numérique.
+Tout a été numérisé, le savoir,
+et tout a été rendu accessible par internet.
+Aujourd'hui, pour la première fois -
+et la campagne d'Obama nous l'a montré -
+nous pouvons passer du monde numérique,
+du pouvoir des réseaux à s'auto-organiser
+au monde physique.
+Dans notre cas, cela peut être
+que nous voulons l'utiliser pour concevoir et faire un symbole.
+Cela veut dire quelque chose de construit dans une ville.
+Mais demain, cela peut être,
+pour s'attaquer aux problèmes qui s'annoncent --
+pensez au changement climatique ou aux émissions de CO2 --
+comment nous pouvons passer du monde numérique au monde physique.
+D'où l'idée que nous pouvons vraiment impliquer les gens
+pour faire cette chose ensemble, collectivement.
+Le nuage est un nuage, une fois encore, fait de pixels
+de la même façon que le vrai nuage
+est un nuage fait de particules.
+Et ces particules sont de l'eau,
+alors que notre nuage est un nuage de pixels.
+C'est une structure physique à Londres, mais couverte de pixels.
+Vous pouvez vous déplaçer à l'intérieur, faire différentes sortes de choses.
+Vous pouvez vraiment voir par en-dessous,
+partager les principaux moments
+des jeux Olympiques de 2012 et au-delà,
+et vraiment l'utiliser comme un moyen de vous connecter à la communauté.
+Donc à la fois le nuage physique dans le ciel
+et une chose sur laquelle vous pouvez monter,
+comme le nouveau sommet de la montagne de Londres.
+Vous pouvez entrer dedans.
+Un nouveau genre de balise nocturne -
+mais plus important
+un nouveau genre d'expérience pour quiconque ira jusqu'au sommet.
+Merci.
+(Applaudissements)

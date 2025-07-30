@@ -1,0 +1,385 @@
+Il y a quelques semaines, un de mes amis
+a offert une petite voiture
+à son fils de 8 ans.
+Mais au lieu d'aller dans un magasin
+normalement, il est allé
+sur ce site web et il a téléchargé
+un fichier, puis il l'a imprimé
+avec cette imprimante.
+Cette idée qu'on peut
+fabriquer des objets
+numériquement en se servant de ces machines,
+c'est ce que le magazine The Economist
+a défini comme la "troisième révolution industrielle".
+En fait, je soutiens qu'il y a une autre révolution
+en cours, et qu'elle concerne
+le mouvement des créateurs, parce que
+l'imprimante dont s'est servie mon ami
+pour imprimer le jouet est en fait open source.
+Vous allez sur le même site web,
+qu'il vous faut pour fabriquer cette imprimante :
+les fichiers de construction, le matériel, les logiciels,
+toutes les instructions sont là.
+Et aussi ça fait partie d'une vaste
+communauté de milliers de gens
+dans le monde entier qui fabriquent
+vraiment ce type d'imprimantes,
+et beaucoup d'innovation a lieu
+car tout est open source.
+On a besoin de la permission de personne
+Et cet espace est comme
+celui des ordinateurs personnels en 1976,
+quand c'était la lutte entre les Apples et
+nous verrons dans quelques années,
+émerger l'Apple
+Il y a aussi un autre point intéressant.
+J'ai dit que l'électronique était open source,
+quelque chose qui m'est cher :
+la carte mère qui en quelque sorte
+alimente cette imprimante, est un projet
+sur lequel je travaille depuis 7 ans.
+C'est un projet open source.
+J'ai travaillé avec mes amis qui sont ici.
+Nous cinq, deux américains, deux italiens,
+et un espagnol, nous ... (Rires)
+Vous savez, c'est un projet mondial. (Rires)
+Nous nous sommes donc rassemblés
+dans cet institut de design appelé le Interaction Design Institute Ivrea,
+qui enseignait le design d'interaction,
+l'idée que l'on peut pousser le design
+au-delà de la simple forme
+d'un objet et le faire évoluer
+afin de concevoir la façon d'interagir
+Lorsqu'on crée un objet qui est censé interagir
+avec un être humain, si on fait
+ça n'a aucun sens.
+Il vous faut quelque chose qui
+interagit effectivement avec les gens.
+Donc, nous avons travaillé sur Arduino et
+beaucoup d'autres projets là-bas
+pour créer des plateformes qui seraient
+simples à utiliser pour nos élèves,
+afin que nos étudiants puissent juste construire des choses qui marchent
+mais ils n'ont pas cinq ans pour devenir ingénieurs en électronique. Nous avons un mois.
+Alors, comment faire quelque chose que même un gamin peut utiliser ?
+Et en fait, avec Arduino,
+nous avons des enfants comme Sylvia que vous voyez ici,
+qui font vraiment des projets avec Arduino.
+Il y a des enfants de 11 ans qui m'arrêtent et me montrent
+des trucs qu'ils ont construit pour Arduino et
+ça fait peur de voir de quoi les enfants sont capables
+quand vous leur donnez les outils.
+Alors regardons ce qui se passe lorsque vous faites un outil
+que n'importe qui peut prendre et construire quelque chose rapidement,
+l'un des exemples que j'aime bien pour
+donner le coup d'envoi de cette discussion c'est
+ce distributeur de nourriture pour chat.
+L'homme qui a fait ce projet avait deux chats.
+L'un était malade et l'autre
+était en bonne santé, donc il devait s'assurer
+qu'ils mangeaient la nourriture appropriée.
+Donc il a fait cette chose qui reconnaît le chat
+grâce à une puce montée à l'intérieur
+du collier du chat et ouvre la trappe
+et le chat peut manger sa nourriture.
+C'est fait avec un vieux lecteur de CD recyclé
+que vous pouvez prendre sur un vieil ordinateur,
+quelques capteurs, quelques LEDs qui clignotent,
+et puis tout à coup vous avez un outil. Vous construisez quelque chose
+que vous ne trouvez pas sur le marché.
+Et j'aime cette expression :
+Si vous avez une idée, vous vous lancez
+C'est l'équivalent de l'esquisse sur papier
+faite avec l'électronique.
+L'une des caractéristiques qui, selon moi,
+est importante dans notre travail est
+que notre matériel, en plus d'être
+fabriqué avec amour en Italie,
+comme vous pouvez le voir au dos
+du circuit, (Rires)
+est ouvert,
+nous publions donc tous les fichiers
+de conception du circuit en ligne,
+pour que vous les téléchargiez et
+vous les utilisiez en fait
+pour faire quelque chose, ou les modifier, ou apprendre.
+Vous savez, quand j'apprenais
+observant le code d'autres personnes,
+ou en regardant les circuits d'autres personnes dans des magazines.
+Et c'est une bonne façon d'apprendre,
+en regardant le travail des autres.
+Donc, les différents éléments du projet sont tous ouverts,
+et le matériel est publié
+avec une licence Creative Commons.
+Donc, vous savez, j'aime cette idée
+que ce matériel devient un bout de culture que vous partagez
+et à partir duquel vous élaborez, comme si c'était
+une chanson ou un poème
+Ou sinon, le logiciel est GPL, donc il est
+La documentation et les exercices pratiques
+sont également open source
+Il n'y a que le nom qui est protégé pour
+que nous soyons sûrs de pouvoir dire aux gens
+ce qui est Arduino et ce qui ne l'est pas.
+Arduino en elle-même est faite de
+beaucoup de composants open source différents
+qui peut-être individuellement sont difficiles à utiliser pour
+un enfant de 12 ans, alors Arduino
+encapsule tout en
+un mashup de technologies open source
+où nous essayons de leur donner la
+meilleure expérience utilisateur pour faire quelque chose rapidement.
+On a donc des situations comme celle-ci,
+lorsque des gens au Chili
+ont décidé de fabriquer leurs propres
+d'organiser un atelier et
+d'économiser de l'argent. Ou il y a
+des entreprises qui fabriquent leurs propres
+variantes d'Arduino qui correspondent
+à un certain marché et il y en a
+probablement, peut-être 150 entreprises
+ou quelque chose comme ça en ce moment.
+Celle-ci est fabriquée par une société
+appelé Adafruit, qui est gérée par
+cette femme qui s'appelle Limor Fried,
+également connue sous le nom de Ladyada, qui est
+un des héros du mouvement pour le matériel open source
+et le mouvement des créateurs.
+D'où cette idée que vous avez une nouvelle
+communauté de bricoleurs super dynamique
+qui croit dans l'open source,
+à la collaboration, qui collabore
+en ligne, qui collabore dans différents espaces.
+Il y a ce magazine appelé
+tous ces gens en une communauté
+et vous voyez
+un projet très technique expliqué
+dans un langage très simple,
+Ou vous avez des sites Web,
+comme celui-ci, Instructables,
+où les gens s'apprennent les uns aux autres tout et n'importe quoi.
+Ici, il s'agit de projets Arduino,
+la page que vous voyez à l'écran,
+apprendre comment faire un gâteau et tout le reste.
+Donc regardons certains projets.
+Voici un quadricoptère.
+C'est un petit modèle d'hélicoptère.
+D'une certaine manière, c'est un jouet, non ?
+Et donc c'était une technologie militaire
+il y a quelques années et maintenant c'est
+open source, facile à utiliser,
+ils font cette chose appelée ArduCopter.
+Mais alors quelqu'un a réellement
+Matternet, où ils ont découvert qu'on pouvait
+l'utiliser pour transporter
+des choses d'un village à l'autre en Afrique,
+et le fait que c'était facile
+à trouver, open source, facile à bidouiller, leur a permis
+de prototyper leur compagnie vraiment rapidement.
+Matt Richardson : j'en ai un peu assez
+à la télévision encore et encore
+alors j'ai décidé de faire quelque chose.
+Ce projet Arduino,
+que j'appelle Enough Already [Ça Suffit],
+qu'une de ces personnalités
+surexposées est mentionnée. (Rires)
+Je vais vous montrer comment je l'ai fait. (Applaudissements)
+MB : Regardez ça.
+MR : Nos producteurs ont rattrapé
+aujourd'hui pour découvrir ce qu'elle projette de porter à son ...
+MB : Hein ? (Rires)
+MR : Ça devrait bien marcher
+pour protéger nos oreilles d'avoir à entendre les détails
+du mariage de Kim Kardashian.
+MB : Ok. Donc, vous savez, une fois encore, ce qui est intéressant ici
+c'est que Matt a trouvé ce module
+qui permet à Arduino de traiter
+les signaux télé, il a trouvé un code
+écrit par quelqu'un d'autre qui génère des signaux
+il l'a assemblé et ensuite a créé ce grand projet.
+On utilise aussi Arduino,
+dans des endroits sérieux comme, vous le savez,
+Il y a quelques balles Arduino qui collectent des données et
+mesurent certains paramètres.
+Ou on l'utilise pour ...
+(Musique)
+C'est donc une interface musicale
+construite par un étudiant en Italie,
+et il est maintenant en train d'en faire
+un produit. Parce que c'était un
+projet d'études qui devient un produit.
+Ou on peut l'ituliser pour faire des appareils d'assistance.
+Ça c'est un gant qui comprend
+la langue des signes et transforme
+vos gestes en sons
+et écrit les mots dont vous faites les signes
+Encore une fois, c'est fait avec des pièces différentes qu'on trouve
+sur tous les sites qui vendent des
+et qu'on assemble dans un projet.
+Ou voici un projet de la section ITP de NYU,
+où ils ont rencontré ce garçon
+qui a un handicap lourd,
+alors ils ont construit ce dispositif
+qui lui permet de jouer au baseball
+bien que sa capacité de mouvement
+soit limitée.
+Ou vous pouvez le trouver dans des projets artistiques.
+Voici le txtBomber.
+Si on met un message
+sur le mur et en gros
+il contient tous ces solénoïdes
+qui appuient les boutons des bombes aérosols,
+vous n'avez qu'à le tirer sur un mur
+et vous écrivez sur le mur
+tous les messages politiques.
+Oui, oui. (Applaudissements)
+Ensuite, nous avons ici cette plante.
+Cela s'appelle Botanicalls,
+avec un module Wi-Fi
+dans la plante, et elle mesure
+le bien-être de la plante,
+et elle crée un compte Twitter
+où vous pouvez interagir réellement avec la plante. (Rires)
+Ainsi, vous savez, cette plante
+commencera à dire, « Il fait vraiment chaud », ou
+il y a beaucoup de, vous savez, « J'ai besoin d'eau là tout de suite. » (Rires)
+Elle donne donc une personnalité
+Ou voici quelque chose qui twitte lorsque
+le bébé à l'intérieur du ventre
+d'une femme enceinte donne des coups de pied. (Rires)
+Ou c'est un gamin de 14 ans
+au Chili, qui a fabriqué un système qui
+détecte les tremblements de terre et les publie sur Twitter.
+Il a 280 000 abonnés.
+Il a 14 ans et il a devancé
+un projet gouvernemental d'un an. (Applaudissements)
+Ou encore, un autre projet où,
+en analysant le flux Twitter
+d'une famille, vous pouvez en gros
+dire où ils sont, comme dans le film « Harry Potter ».
+Vous pouvez trouver tout
+qui tweete lorsque quelqu'un pète. (Rires)
+Il est intéressant de voir comment, en 2009,
+Gizmodo a défini,
+a déclaré que ce projet en réalité
+donc beaucoup de choses ont changé depuis. (Rires)
+Un projet très sérieux.
+Lorsque la catastrophe de Fukushima est arrivée,
+un tas de gens au Japon se sont rendus compte que les informations
+que le gouvernement donnait
+vraiment fiables, alors ils ont construit
+ce compteur Geiger, plus Arduino, plus une interface réseau.
+Ils en ont fait 100
+et les ont donnés aux gens
+les données recueillies sont publiées sur ce site web
+appelé Cosm, un autre site web
+qu'ils ont construit, donc vous pouvez réellement
+en temps réel depuis le terrain,
+et vous pouvez obtenir des informations impartiales.
+Ou cette machine ici, fabriquée par
+le DIY bio movement, le mouvement des bricoleurs bio,
+et c'est l'une des étapes
+open source du début à la fin.
+Ou vous avez des étudiants dans des pays en voie de développement
+qui fabriquent des répliques d'instruments scientifiques qui sont
+très cher à fabriquer.
+En fait ils les construisent
+Arduino et de quelques pièces.
+Voici une sonde de pH.
+comme ces enfants en Espagne.
+Ils ont appris à programmer et à fabriquer des robots
+quand ils avaient sans doute 11 ans,
+pour faire jouer ces robots au football. Ils sont devenus
+les champions du monde en fabriquant un robot à partir d'Arduino.
+Et quand nous avons eu à faire
+notre propre robot éducatif,
+« Concevez-le, parce que vous savez exactement
+ce qu'il faut pour faire un robot génial qui plaise aux enfants. »
+Pas moi. Je suis un vieux.
+A qui je suis censé plaire, hein ? (Rires)
+Mais comme j'ai ... en termes de ressources éducatives. (Rires)
+Il y a aussi des sociétés comme Google
+qui utilisent la technologie
+pour créer des interfaces entre
+les téléphones mobiles, les tablettes
+Le Kit de développement d'accessoires
+de Google est open source
+et se base sur l'Arduino, par opposition
+à celui d'Apple qui est
+fermé, confidentiel, vous vous engagez
+pour la vie à Apple. Voilà.
+Il y a un labyrinthe géant, et Joey est assis là
+et le labyrinthe se déplace lorsque vous inclinez la tablette.
+Aussi, je viens d'Italie,
+en Italie et pourtant très conservateur.
+Nous avons travaillé avec un studio de design
+appelé Habits, à Milan,
+pour faire ce miroir, qui est
+Il sert aussi de haut-parleur
+L'idée est que
+la conception de l'objet,
+dans ce projet est open source
+et vous pouvez le faire vous-même.
+Si nous voulons que les autres concepteurs
+fabriquer des appareils géniaux, apprennent
+à faire des produits interactifs
+en partant de quelque chose de réel.
+Mais quand on a cette idée,
+vous savez, qu'arrive-t-il à toutes ces idées ?
+Il y a des milliers d'idées que je ...
+Vous savez, il faudrait sept heures pour que je fasse
+toutes les présentations.
+Je ne vais pas prendre sept heures. Merci.
+Mais commençons par cet exemple :
+Le groupe de personnes
+qui ont fondé cette société appelée Pebble a fait
+un prototype de montre qui communique par Bluetooth avec votre téléphone
+et vous pouvez afficher des informations
+dessus. Et ils ont fait le prototype
+avec un vieil écran LCD d'un téléphone mobile
+Nokia et un Arduino.
+Et puis, quand ils ont eu
+le projet final, ils sont allés chez Kickstarter
+et ils ont demandé 100 000 dollars pour en fabriquer
+quelques-uns à vendre.
+Ils ont eu 10 millions de dollars.
+Ils ont obtenu une société complètement
+entièrement financée
+d'impliquer des capitaux-risque,
+seulement d'enthousiasmer les gens
+Le dernier projet que je veux vous montrer, c'est ça :
+Il est actuellement sur Kickstarter,
+donc, si vous souhaitez contribuer,
+C'est un satellite qui va
+la chose la moins libre qu'on puisse imaginer,
+et il contient un Arduino
+connecté à un tas de capteurs. Donc, si vous savez comment utiliser Arduino,
+vous pouvez télécharger en fait vos expériences
+sur ce satellite et les faire tourner.
+Imaginez donc, si votre lycée pouvait avoir le satellite
+pendant une semaine et faire des expériences
+spatiales sur un satellite comme ça.
+Il y a donc, comme je l'ai dit,
+plein d'exemples, et je vais arrêter là. Et je tiens juste
+à remercier la communauté Arduino
+d'être la meilleure et de faire
+chaque jour beaucoup de projets.
+Merci. (Applaudissements)
+(Applaudissements)
+Et merci à la communauté.
+Chris Anderson : Massimo,
+vous m'avez dit plus tôt aujourd'hui que vous n'aviez aucune idée, bien sûr,
+que ça décollerait comme ça.
+MB : No.
+CA : Je veux dire, comment devez-vous vous sentir quand vous lisez ça et
+vous voyez ce que vous avez déclenché ?
+MB : Eh bien, c'est le travail de beaucoup de gens, donc nous en tant que communauté
+permettons aux gens de fabriquer
+des trucs géniaux et je suis ébloui.
+de décrire ça.
+Chaque matin, je me réveille et je regarde toutes les choses
+que Google Alerts m'envoie moi et
+c'est tout simplement incroyable. Ça
+entre dans tous les domaines qu'on peut imaginer.
+CA : Merci beaucoup. (Applaudissements)
+(Applaudissements)

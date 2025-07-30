@@ -1,0 +1,163 @@
+Ça c’est moi en train de construire un prototype
+pendant six heures d'affilée.
+Un travail d'esclave pour mon propre projet.
+C'est à ça que le bricolage et le mouvement des makers ressemblent en réalité.
+C'est une analogie du monde du bâtiment et de la manufacture d'aujourd'hui
+avec ses techniques d'assemblage à base de force brute.
+Et c'est la raison précise pour laquelle je me suis mis à étudier
+comment programmer les matériaux physiques pour qu'ils se construisent eux-mêmes.
+Mais un autre monde existe.
+Aujourd'hui, aux échelles micro et nano,
+une révolution sans précédent est en cours.
+Il s'agit de la capacité de programmer des matériaux biologiques et physiques
+afin qu'ils changent de forme, changent de propriétés
+et même réaliser des calculs dans une matière qui ne soit pas à base de silicium.
+Il y a même un logiciel intitulé Cadnano
+qui permet de concevoir des formes en trois dimensions
+comme des nano-robots ou des systèmes de distribution de médicaments
+et d'utiliser l'ADN pour que ces structures fonctionnelles s'auto-assemblent.
+Mais si on considère l'échelle humaine,
+ces nanotechnologies laissent de côté
+d'énormes problèmes.
+Si on regarde le bâtiment et la manufacture,
+on voit de gros problèmes d'efficacité, de consommation énergétique
+et des techniques qui demandent excessivement de main-d'oeuvre.
+En infrastructure, prenons un exemple:
+les canalisations.
+Les canalisations d'eau dont nous disposons ont une capacité fixe,
+avec des débits fixes, sauf quelques vannes et pompes coûteuses.
+On les enterre.
+Si quoi que ce soit change, si l'environnement change,
+le sol bouge, ou la demande change,
+il faut tout refaire, les retirer et les remplacer.
+J'aimerais proposer qu'on combine ces deux mondes,
+qu'on combine le monde des matériaux adaptifs programmables de l'échelle nanotechnologique
+et l'environnement du bâtiment.
+Je ne parle pas simplement d'automates,
+de machines intelligentes qui remplacent les humains.
+Je parle de matériaux programmables qui se contruisent eux-mêmes.
+Ça s'appelle l'auto-assemblage,
+processus par lequel des pièces désordonnées construisent une structure ordonnée
+à travers une interaction uniquement locale.
+Alors, que faut-il pour que ce soit possible à l'échelle humaine ?
+Il nous faut quelques ingrédients simples.
+Tout d'abord, les matériaux et la géométrie,
+et il faut qu'ils soient étroitement liés à la source d'énergie.
+On peut recourir à l'énergie passive :
+chaleur, secousse, gaz, gravité, magnétisme.
+Ensuite, il faut des interactions intelligemment conçues.
+Des interactions qui permettent la correction des erreurs,
+et qui permettent aux formes de passer d'un état à l'autre.
+Maintenant, je vais vous montrer quelques projets de notre conception,
+à partir de systèmes à une, deux, trois
+et même quatre dimensions.
+Pour les systèmes à une dimension,
+voici un projet intitulé protéines auto-pliantes.
+L'idée est de prendre la structure tridimensionnelle d'une protéine,
+ici la protéine du crambin.
+On prend le squelette, sans ramification ni interaction avec l'environnement,
+et on le décompose en une série de composants.
+Puis, on incorpore élastique.
+Et quand je lance ça en l'air et je le rattrape,
+il a la structure tridimensionnelle complète de la protéine, avec toutes ses complexités.
+Et ça nous donne un modèle tangible
+de la protéine en trois dimensions et de comment elle se plie
+et de toutes les complexités de la géométrie.
+Nous pouvons donc étudier cela comme modèle physique intuitif.
+Nous transposons cela aussi en systèmes bidimensionnels :
+des feuilles plates qui peuvent se plier en structures tridimensionnelles.
+En trois dimensions, nous avons réalisé un projet l'année dernière à TEDGlobal
+avec Autodesk et Arthur Olson
+dans lequel nous nous sommes penchés sur des pièces autonomes :
+des pièces individuelles non préconnectées qui se rassemblent toutes seules.
+Nous avons fabriqué 500 béchers en verre comme ceux-ci.
+Ils contenaient des structures moléculaires différentes
+et des couleurs différentes, qui pouvaient être mélangées et associées.
+Et nous les avons données à tous les TEDsters.
+Elles ont servi de modèles intuitifs
+pour comprendre comment l'auto-assemblage moléculaire fonctionne à l'échelle humaine.
+Voici le virus de la polio.
+Secouez-le fermement et il se délite.
+Ensuite, secouez-le de manière aléatoire
+et il commence à corriger les erreurs et à construire la structure tout seul.
+Ce qui démontre que par l'énergie aléatoire
+on peut créer des formes non-aléatoires.
+Nous avons même démontré que nous pouvons faire ça à une échelle bien supérieure.
+L'année dernière, à TED Long Beach,
+nous avons construit une installlation qui construit des installations.
+L'idée était : peut-on auto-assembler des objets de la taille de meubles ?
+Nous avons donc contruit une grande pièce rotative.
+Les gens venaient et faisaient tourner la pièce plus ou moins vite,
+ajoutant de l'énergie au système
+et comprenant par intuition comment fonctionne l'auto-assemblage
+et comment on peut l'utiliser
+comme technique dans le bâtiment ou la manufacture de produits.
+Rappelez-vous : j'ai parlé de 4D.
+Aujourd'hui, pour la première fois, nous dévoilons un nouveau projet,
+une collaboration avec Stratasys,
+qui s'intitule Impression 4D.
+L'idée derrière Impression 4D
+est de prendre l'impression 3D à matériaux multiples,
+afin de pouvoir y mettre plusieurs matériaux,
+et d'y ajouter une nouvelle capacité :
+la transformation.
+Dès qu'elles sortent,
+les pièces peuvent se transformer d'une forme à une autre, directement, toutes seules.
+C'est comme de la robotique sans fils ni moteurs.
+Vous imprimez cette pièce,
+et elle peut se transformer en autre chose.
+Nous avons également travaillé avec Autodesk sur un logiciel qu'ils développent intitulé Projet Cyborg.
+Celui-ci nous permet de simuler le comportement d'auto-assemblage
+et d'essayer d'optimiser le moment où se plie telle ou telle pièce.
+Mais le plus important, c'est qu'on peut utiliser ce même logiciel
+pour concevoir des systèmes d'auto-assemblage à l'échelle nano
+et des systèmes d'auto-assemblage à l'échelle humaine.
+Il s'agit de pièces imprimées avec des propriétés de multiples matériaux.
+Voici la première démonstration.
+Une chaîne simple trempée dans l'eau
+qui s'auto-plie entièrement toute seule
+pour former les lettre M.I.T.
+Je suis influencé.
+Voici une autre pièce, une chaîne simple, trempée dans un bac plus grand,
+qui se plie toute seule en forme de cube, structure tridimensionnelle.
+Pas d'interaction humaine.
+Il nous semble que c'est la première fois
+qu'un programme et une transformation
+ont été incorporés directement aux matériaux eux-mêmes.
+Et il se pourrait bien que ce soit la technique de production
+qui nous permettra de produire des infrastructures plus adaptatives à l'avenir.
+Je sais, vous vous dites sans doute
+que c'est bien beau, mais comment on utilise tout ça dans le domaine du bâtiment.
+Alors, j'ai lancé un labo au MIT
+qui s'appelle le Self-Assembly Lab, Labo d'auto-assemblage.
+On se consacre à essayer de développer des matériaux programmables
+pour le bâtiment.
+Il nous semble qu'il y a quelques secteurs clés
+dans lesquels les applications s'envisagent à relativement court terme.
+Un de ces secteurs est celui des conditions extrêmes.
+Il s'agit de scénarios où construire est difficile,
+où nos techniques de construction actuelles ne marchent pas :
+trop grand, trop dangereux, trop coûteux, trop de pièces.
+L'espace en est un exemple parfait.
+Nous tentons de concevoir des scénarios nouveaux pour l'espace
+avec des structures totalement reconfigurables et auto-assemblantes
+qui peuvent passer d'un système hautement fonctionnel à un autre.
+Revenons à l'infrastructure.
+Dans ce domaine, nous travaillons avec une entreprise près de Boston qui s'appelle Geosyntec.
+Et nous développons un nouveau paradigme de canalisations.
+Imaginez que les canalisations d'eau puissent se dilater ou se contracter
+afin de changer de capacité ou de débit,
+ou même onduler comme des péristaltiques pour déplacer l'eau elles-mêmes.
+Il ne s'agit pas de pompes ou de vannes coûteuses.
+C'est une canalisation entièrement programmable et adaptable en elle-même.
+Je souhaite donc vous rappeler aujourd'hui
+la dure réalité de l'assemblage en ce monde.
+Voici des objets complexes faits de pièces complexes
+assemblées de manières complexes.
+J'aimerais donc vous inviter, quelque que soit l'industrie dont vous êtes issus,
+à vous joindre à nous dans cette réinvention et réimagination du monde,
+et de la manière dont on assemble les choses, de l'échelle nano à l'échelle humaine,
+de façon à passer d'un monde comme celui-ci
+à un monde plutôt comme celui-ci.
+Merci.
+(Applaudissements)

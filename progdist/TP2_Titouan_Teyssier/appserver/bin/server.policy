@@ -1,0 +1,3 @@
+grant codeBase "file:/home/t2/fac/master/Master1/progdist/TP2_Titouan_Teyssier/appserver/" {
+    permission java.security.AllPermission;
+};

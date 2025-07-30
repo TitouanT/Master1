@@ -1,0 +1,142 @@
+Si je peux vous transmettre une grande idée aujourd'hui,
+c'est que l'ensemble des données
+que nous consommons
+est plus grand que la somme des parties,
+et, plutôt que de penser à la saturation d'information,
+ce que j'aimerai vous montrer c'est comment
+nous pouvons utiliser l'information de sorte que les structures ressortent
+et nous pouvons voir émerger des tendances qui sans cela seraient invisibles.
+Donc ce que nous avons là est un tableau de mortalité classique
+organisé par âge.
+L'outil que j'utilise ici est une petite expérience.
+Il s'appelle Pivot, et avec Pivot je peux
+choisir de focaliser sur une cause de décès en particulier, disons les accidents.
+Et, immédiatement, je vois une tendance différente qui émerge.
+C'est parce que, dans la zone du milieu,
+les gens sont les plus actifs,
+et ici ils sont les plus fragiles.
+On peut s'éloigner à nouveau
+et réorganiser les données par causes de décès,
+on voit que les maladies cardio-vasculaires et le cancer
+sont les suspects habituels, mais pas pour tout le monde.
+Si on continue et qu'on filtre par âge,
+disons 40 ans ou moins,
+on voit que les accidents sont en fait
+la plus grande cause dont les gens devraient se soucier.
+Et si on creuse encore un peu, c'est particulièrement vrai pour les hommes.
+Bref, vous comprenez l'idée
+que voir l'information, voir les données de cette façon,
+ressemble beaucoup à nager
+dans un bain vivant de données graphiques.
+Et si nous pouvons faire cela avec des données brutes,
+pourquoi ne pas le faire avec du contenu aussi ?
+Donc ce que nous avons ici,
+c'est la couverture de chaque numéro de Sports Illustrated
+jamais paru.
+Tout est là. Tout est en ligne.
+Vous pouvez rentrer chez vous et essayer après ma présentation.
+Avec Pivot, vous pouvez zoomer sur une décennie.
+Vous pouvez zoomer sur une année particulière.
+Vous pouvez vous rendre directement sur un numéro spécifique.
+Donc je regarde ça; je vois les athlètes
+qui sont apparus dans ce numéro, les sports.
+Je suis un fan de Lance Armstrong, donc je vais cliquer là-dessus,
+ce qui me révèle tous les numéros
+dans lesquels Lance Armstrong est mentionné.
+(Applaudissements)
+A présent, si je veux juste y jeter un coup d'oeil,
+je pourrais me dire,
+"Bien, et si on regardait tout ce qui parle de cyclisme ?"
+Donc je peux prendre un peu de recul, et explorer cette idée.
+Et je vois Greg Lemond maintenant.
+Et vous commencez à comprendre l'idée que quand vous
+naviguez dans l'information de cette façon,
+en affinant, en élargissant
+en vous approchant, vous éloignant
+vous ne cherchez pas, vous ne naviguez pas.
+Vous faites quelque chose qui est en réalité un peu différent.
+C'est entre les deux, et nous pensons que cela change
+la façon dont l'information peut être utilisée.
+Et je voudrais extrapoler sur cette idée un peu
+avec quelque chose qui est légèrement fou.
+Ce que nous avons fait ici c'est que nous avons pris chaque page de Wikipédia
+et les avons réduite à un petit résumé.
+Donc le résumé est juste constitué de petits synopsis
+et d'une icône pour indiquer le thème dont il provient.
+Je ne montre ici que les 500 premières pages
+les plus populaires de Wikipédia.
+Mais même dans cette vue limitée,
+on peut faire un tas de choses.
+Immédiatement, on a une idée des domaines thématiques
+qui sont les plus populaires sur Wikipédia.
+Je vais me lancer et choisir gouvernement.
+Maintenant, ayant selectionné gouvernement,
+je peux désormais voir que les catégories de Wikipédia
+qui correspondent le plus fréquement à cela
+sont les Personnalités de l'Année du magazine Time.
+Et c'est important car c'est une infromation
+qui n'était contenue dans aucune des pages de Wikipédia.
+Il n'est possible de faire cette observation
+qu'en prenant du recul et en les regardant toutes.
+En regardant l'un de ces résumés en particulier,
+je peux maintenant creuser le concept de
+Personnalité de l'Année du magazine Time,
+en les affichant toutes.
+En regardant ces personnes,
+je vois que la majorité viennent du gouvernement.
+Certains viennent des sciences naturelles.
+D'autres, moins nombreux encore, viennent du monde des affaires.
+Voilà mon patron.
+Et un vient du monde de la musique.
+Et de façon interessante,
+Bono est également un lauréat du Prix TED.
+Ainsi on peut continuer, passer, et jeter un oeil à tous les lauréats du Prix TED.
+Et vous voyez, nous parcourons le réseau pour la première fois
+comme si c'était effectivement un réseau, pas de page en page,
+mais à un plus haut degré d'abstraction.
+Et aussi je voudrais vous montrer une autre chose
+qui pourrait bien vous prendre un peu par surprise.
+Je vous montre juste le site web du New York Times là.
+Donc Pivot, cette application --
+je ne veux pas l'appeler un navigateur; ce n'est vraiment pas un navigateur,
+mais vous pouvez visiter des pages web avec --
+et nous introduisons cette technologie de zoom
+pour chaque page web comme ceci.
+Donc je peux m'éloigner,
+revenir directement à une section particulière.
+Et la raison pour laquelle c'est important c'est que,
+étant capable de consulter des pages web de cette façon
+je peux regarder tout l'historique de ma navigation
+exactement de la même manière.
+Donc je peux creuser dans ce que j'ai fait
+au cours de certains laps de temps.
+La, en fait, c'est l'état
+de toute la démo que je viens de donner.
+Et je peux rejouer certains trucs que j'ai consulté plus tôt aujourd'hui.
+Et, si je veux m'éloigner et tout regarder
+je peux décortiquer mon historique
+peut-être mon historique de recherche.
+Là, je faisais des recherches népotiques,
+faisant des recherches pour Bing, ici pour le Live Labs Pivot.
+Et à partir de ça, je peux plonger dans la page web
+et simplement les lancer à nouveau.
+C'est une métaphore réutilisée de multiples fois,
+et à chaque fois ça rend le tout plus grand
+que la somme des parties avec les données.
+Et à cet instant, dans ce monde,
+on pense que les données sont cette malédiction.
+On parle du problème de la surcharge d'information.
+On parle d'être noyé sous les données.
+Et si on pouvait en fait retourner la situation
+et renverser le web,
+de sorte que au lieu d'une chose à l'autre,
+on prenne l'habitude d'aller d'un ensemble de choses à un autre ensemble de choses,
+et ce faisant d'être capable de discerner les tendances
+qui sans cela auraient été cachées?
+Si nous pouvons faire ça, alors, plutôt que d'être prisonnier des données,
+nous pourrions en fait extraire de l'information.
+Et, plutôt que seulement gérer l'information,
+nous pouvons en extraire de la connaissance.
+Et si nous avons la connaissance, alors il y a peut-être même de la sagesse à en tirer.
+Et avec ça, je vous remercie.
+(Applaudissements)

@@ -1,0 +1,364 @@
+Je vais parler d'une technologie que nous développons à Oxford
+qui va, selon nous, changer la façon dont
+les jeux vidéos et les films Hollywoodiens sont faits.
+Cette technologie c'est les humains artificiels.
+Des humains artificiels avec un corps artificiel
+et un système nerveux artificiel pour contrôler ce corps.
+Avant que j'entre dans les détails
+regardons à quoi ressemblent les personnages
+dans les jeux vidéos actuellement.
+Voici un extrait du jeu Grand Theft Auto 3.
+Nous l'avons déjà vu rapidement hier.
+C'est en fait un très bon jeu,
+l'un des meilleurs de tous les temps.
+Mais vous allez voir que les animations dans ce jeu sont très répétitives.
+Elles se ressemblent beaucoup.
+Je le fais courir vers un mur plusieurs fois,
+et vous voyez qu'il garde toujours la même apparence.
+La raison c'est que tous ces personnages
+ne sont en fait pas de vrais personnages.
+Ce sont des visualisations graphiques d'un personnage.
+Pour créer ces animations l'infographiste doit anticiper dans son studio
+ce qu'il va se passer dans le jeu
+et ensuite animer cette séquence particulière.
+Donc il ou elle anime la scène, essaye d'anticiper ce qui va se passer,
+et ces animations sont simplement jouées
+au moment approprié dans le jeu.
+Et le problème c'est que ce n'est pas interactif.
+Tout ce qu'on a ce sont des animations jouées
+plus ou moins au bon moment.
+Ça veut dire que les jeux ne sont pas aussi surprenants qu'ils pourraient l'être
+parce qu'on obtient seulement, en terme de personnage,
+ce qu'on y met.
+Il n'y a pas d'émergence réelle dans ça.
+Et troisièmement, la plupart des animations sont très répétitives à cause de ça.
+Le seul moyen de contourner ce problème
+c'est de simuler un corps humain
+et la partie du système nerveux du cerveau qui contrôle ce corps.
+Et si vous pouviez venir pour une petite démonstration
+pour montrer la différence --
+c'est vraiment trivial.
+Si je pousse Chris comme ça il va réagir.
+Si je le pousse avec un angle différent il va réagir différemment,
+c'est parce qu'il possède un corps physique,
+et les capacités motrices pour le contrôler.
+C'est vraiment trivial.
+Ce n'est pas quelque chose que l'on voit dans les jeux vidéos actuellement.
+Merci beaucoup. Chris Anderson: c'est tout ?
+Torsten Reil: oui, c'est tout.
+Voilà ce que nous essayons de simuler --
+pas Chris en particulier, mais les humains en général.
+Nous avons commencé à travailler sur ça il y a longtemps à l'université d'Oxford,
+et on a essayé de commencer avec des choses simples.
+Nous avons essayé d'apprendre à marcher à une figurine.
+Cette figurine est simulée physiquement. Vous la voyez sur l'écran.
+Elle est soumise à la gravité, a des articulations, etc...
+Si on lance la simulation elle s'écroule.
+Le problème est d'y mettre de l'intelligence artificielle (IA)
+pour que ça marche.
+Pour cela on utilise le réseau de neurones que nous avons construit
+à partir de la zone de la moelle épinière
+qui contrôle la marche chez l'homme.
+Ça s'appelle le générateur central de rythme.
+Nous avons simulé ça, et le plus difficile
+c'est d'apprendre à marcher à ce réseau.
+Pour cela on utilise l'évolution artificielle -- des algorithmes génétiques.
+Nous en avons déjà entendu parler hier
+et j'imagine que la plupart d'entre vous connaissent.
+Mais rapidement, le concept c'est de
+créer un grand nombre d'individus différents,
+des réseaux de neurones dans ce cas,
+qui sont tous aléatoires au départ.
+On les attache -- aux muscles virtuels
+de cette créature à 2 jambes dans notre cas --
+et on espère que ça fasse quelque chose d'intéressant.
+Au début ils sont tous vraiment ennuyeux.
+La plupart ne vont pas bouger du tout,
+quelques uns vont peut être faire un pas.
+Ceux-ci sont ensuite sélectionnés par l'algorithme,
+reproduits avec mutation et recombinaison pour ajouter le sexe.
+Et on répète le processus encore et encore
+jusqu'à ce qu'on obtienne quelque chose qui marche --
+en ligne droite comme ça.
+C'était donc l'idée derrière ça.
+Un soir au tout début j'ai configuré la simulation.
+Ça a pris 3-4 heures pour exécuter la simulation.
+Le lendemain matin en me levant j'ai regardé les résultats sur l'ordinateur,
+j'espérais un truc qui marche en ligne droite,
+comme je viens de montrer,
+et voilà ce que j'ai eu à la place.
+(rires)
+Retour à la planche à dessin pour nous.
+Finalement on a réussi,
+en bidouillant à droite à gauche.
+Et voici un exemple d'une exécution évolutionnaire réussie.
+Dans un moment vous allez voir un bipède simplifié
+qui apprend à marcher en utilisant l'évolution artificielle.
+Au début il ne sait pas du tout marcher,
+mais il va s'améliorer avec le temps.
+Voilà celui qui ne sait pas du tout marcher.
+(rires)
+Et après 5 générations du processus évolutionnaire,
+l'algorithme génétique s'améliore un petit peu.
+(rires)
+Génération 10 il fait quelques pas de plus.
+C'est pas encore ça.
+Et après 20 générations il marche en ligne droite sans tomber.
+C'était une avancée capitale pour nous.
+Académiquement c'était un projet très ambitieux,
+et après avoir atteint ce stade nous avions confiance
+que nous pouvions faire d'autres choses avec cette approche --
+simuler le corps en fait
+et simuler cette partie du système nerveux qui le contrôle.
+A ce stade c'est devenu clair que ça pouvait être très intéressant
+pour les jeux vidéos ou les mondes en ligne.
+Ce que vous voyez là c'est le personnage debout,
+et un obstacle en travers de son chemin.
+Et vous allez voir, il va trébucher sur l'obstacle.
+Ce qui est intéressant c'est qu'en déplaçant l'obstacle légèrement à droite,
+ce que je viens de faire là,
+il va trébucher de façon complètement différente.
+Un peu plus à droite, et encore une chute différente.
+(rires)
+Ce que vous voyez là en haut
+c'est l'activité des neurones transmise aux muscles artificiels.
+OK, c'était la vidéo. Merci.
+Ça peut paraître trivial mais c'est en fait très important
+parce qu'on ne voit pas ça actuellement,
+dans aucun monde interactif ou virtuel.
+A ce stade nous avons créé une entreprise pour développer ça
+parce qu'évidemment c'était juste un simple bipède fait de blocs.
+Nous voulions un corps humain complet,
+donc on a créé cette entreprise.
+Nous avons embauché une équipe de physiciens, informaticiens et biologistes
+pour travailler sur ça, et la première chose à faire
+était de créer un corps humain.
+Ce doit être relativement rapide pour tourner sur une machine normale,
+mais suffisamment précis pour avoir l'air joli.
+Nous avons investi pas mal de nos connaissances en biomécanique
+et essayé de le rendre aussi réel que possible.
+Ce que vous voyez sur l'écran là
+est une visualisation très simple de ce corps.
+Il est très facile d'y ajouter des cheveux, des vêtements, etc..
+mais là nous utilisons une visualisation très simplifiée
+pour se concentrer sur les mouvements.
+Ce que je vais faire dans un instant,
+je vais pousser légèrement ce personnage et on va voir ce qu'il se passe.
+Pas grand chose d'intéressant en fait.
+Il tombe comme une poupée de chiffon.
+La raison c'est qu'il n y a aucune intelligence dedans.
+Ça devient intéressant quand on y ajoute de l'intelligence artificielle.
+Ce personnage a maintenant des capacités motrices dans le haut du corps.
+Rien dans les jambes pour l'instant.
+Mais ce qu'il va faire -- je vais le pousser encore.
+Il réalise de lui même qu'il vient d'être poussé.
+Il va mettre ses mains en avant.
+Il va se tourner dans sa chute et essayer de se rattraper.
+C'est ce que vous voyez là.
+Ça devient vraiment intéressant
+si on ajoute l'IA pour le bas du corps.
+Voici le même personnage.
+Je le pousse plus fort,
+plus qu'avec Chris.
+Il va recevoir un coup de la gauche là.
+Et vous voyez qu'il recule --
+il essaye de reprendre son équilibre,
+il regarde où est-ce qu'il va tomber.
+Encore une fois.
+Et finalement il touche le sol.
+Ça devient vraiment intéressant
+quand on le pousse dans différentes directions.
+C'est quelque chose qu'on ne peut pas faire actuellement.
+Actuellement il n'y a que des graphismes vides dans les jeux.
+Là c'est une vraie simulation. C'est ce que je veux vous montrer.
+Voici le même personnage avec le même comportement,
+mais là je vais le pousser dans différentes directions.
+D'abord de la droite.
+C'est au ralenti, pour bien voir ce qu'il se passe.
+Maintenant l'angle a légèrement changé
+vous voyez que la réaction est différente.
+Maintenant je le pousse de face.
+Vous voyez qu'il tombe différemment.
+De la gauche.
+Il tombe différemment.
+C'était super pour nous de voir ça.
+C'était la première fois que nous le voyions.
+C'est la première fois que le public le voit
+parce qu'on travaillait en mode furtif.
+Je ne l'ai montré à personne pour l'instant.
+Un truc marrant.
+Que se passe-t-il si vous mettez ce personnage --
+une version en bois maintenant, mais avec la même IA --
+si vous le mettez sur une surface glissante, de la glace.
+On a fait ça pour rigoler, pour voir ce qui se passe.
+(rires)
+Voilà ce qui se passe.
+(rires)
+(applaudissements)
+On a rien touché.
+On a juste pris ce personnage dont je viens de parler,
+on l'a mis sur la glace, et voilà ce qui se passe.
+Et c'est ce qui est vraiment fascinant dans cette approche.
+Quand nous sommes allés voir des studios de cinéma et jeux vidéos
+pour leur montrer cette technologie, on a eu un très bon retour.
+Ils nous ont dit que la 1ère chose dont ils ont besoin immédiatement c'est des cascadeurs virtuels.
+Les cascades coutent très chères parce qu'elles sont dangereuses,
+et il y a beaucoup de scènes de cascades qu'on ne peut pas faire
+parce qu'on ne peut pas prendre le risque de blesser grièvement un cascadeur.
+Ils voulaient donc une version numérique du cascadeur
+et nous avons travaillé sur ça ces derniers mois.
+C'est notre première production, que nous allons livrée dans quelques semaines.
+Voici quelques scènes de ce personnage qui reçoit un coup de pied.
+C'est ce que veulent les gens. C'est ce qu'on leur donne.
+(rires)
+Vous voyez, il réagit tout le temps.
+Ce n'est pas un corps inerte. C'est un corps qui, dans ce cas,
+ressent la force et essaye de se protéger la tête.
+C'est quand même un coup puissant.
+On a pitié pour lui,
+mais ça fait tellement de fois que nous le voyons
+on y fait plus attention.
+(rires)
+Il y a des vidéos pires que celle là, que j'ai enlevées d'ailleurs...
+En voilà une autre.
+Les gens voulaient une scène d'explosion,
+une force puissante appliquée au personnage,
+et le personnage réagit dans les airs.
+De sorte qu'il ne soit pas mou,
+mais bouge comme un personnage de film d'action
+qui a l'air vivant dans les airs aussi.
+Donc ce personnage va être frappé par une force,
+il va réaliser qu'il est en l'air
+et il va essayer de
+mettre ses bras en avant vers son point de chute.
+Sous un angle, en voici un autre.
+Nous pensons que le niveau de réalisme atteint
+est assez bon pour être utilisé dans un film.
+Regardons une visualisation un peu différente.
+C'est un truc que j'ai reçu hier soir
+d'un studio d'animation à Londres, qui utilise notre logiciel
+et expérimente avec.
+C'est exactement le même comportement qu'on vient de voir,
+mais avec un rendu bien meilleur.
+Si vous regardez bien le personnage
+vous voyez qu'il y a beaucoup de mouvements,
+et aucun besoin de les animer à l'ancienne.
+Les infographistes devaient les animer en fait.
+Tout ça se fait automatiquement dans la simulation.
+Sous un angle différent,
+et encore un ralenti de la scène.
+C'est très rapide. Tout se passe en temps réel.
+Vous pouvez lancer la simulation en temps réel, sous vos yeux,
+la changer si on veut, et on obtient l'animation directement.
+Actuellement, faire la même chose à la main
+prendrait surement quelques jours.
+Voici une autre scène qu'ils ont demandée.
+Je sais pas trop pourquoi, mais nous l'avons fait.
+C'est une situation très simple qui montre le pouvoir de cette approche.
+Dans ce cas les mains du personnage
+sont fixes en un certain point de l'espace,
+et tout ce qu'on dit au personnage c'est de se débattre.
+Ça a l'air naturel, réaliste.
+On a pitié pour lui.
+C'est encore pire - encore une vidéo reçue hier soir --
+avec un rendu plus réaliste.
+Je vous le passee juste pour vous montrer
+à quel point ça peut avoir l'air naturel et réaliste.
+C'est entièrement une simulation du corps,
+utilisant de l'IA pour contrôler les muscles de ce corps.
+Un truc qu'on a fait pour rire, nous avons créé
+une scène de cascade un peu plus complexe,
+et l'une des cascades les plus célèbres c'est quand James Bond
+saute à l'élastique du haut d'un barrage en Suisse.
+Voici un court extrait.
+Oui vous le voyez là.
+Ils ont utilisé un vrai cascadeur. C'était une cascade très dangereuse.
+Je crois que le Sunday Times l'a élue comme l'une des cascades les plus impressionnantes.
+On a regardé notre personnage et on s'est demandé,
+"Peut-on le faire nous même?"
+Peut-on utiliser la simulation physique du personnage,
+de l'intelligence artificielle,
+donner au personnage cette intelligence artificielle,
+contrôler ses muscles artificiels, simuler le saut depuis le barrage,
+la chute qui suit,
+et le rattraper par l'élastique?
+On l'a fait. Ça a pris 2 heures environ,
+pour créer la simulation.
+Et voilà le résultat.
+On pourrait l'améliorer. C'est un début,
+et on a juste fait ça pour rire,
+pour voir ce qu'on pouvait en tirer.
+Mais nous avons découvert par la suite
+que cette approche sur laquelle on se base
+a un pouvoir incroyable.
+Les simulations nous surprennent nous-même!
+Très souvent on obtient un comportement inattendu.
+Il y a tellement de choses que l'on peut faire avec ça.
+La première chose, c'est les cascadeurs virtuels.
+Plusieurs studios utilisent ce logiciel pour créer des cascadeurs virtuels,
+et on va les voir à l'écran bientôt,
+dans de grandes productions.
+La deuxième chose c'est les jeux vidéos.
+Grâce à cette technologie les jeux vidéos vont évoluer graphiquement.
+Pour la première fois les acteurs seront vraiment interactifs,
+avec de vrais corps qui réagissent.
+Je crois que ça va être vraiment intéressant.
+Probablement les jeux de sports en premier,
+qui vont devenir beaucoup plus interactif.
+Mais ce qui me plaît particulièrement
+c'est d'utiliser cette technologie dans les mondes en ligne,
+comme celui que Tom Melcher nous a montré par exemple.
+Le degré d'interactivité que vous allez avoir
+sera totalement différent de ce qui se fait actuellement.
+La troisième chose c'est pour la simulation.
+Plusieurs entreprises nous ont contactés,
+et un projet qui nous intéresse particulièrement et commence le mois prochain,
+est d'utiliser notre technologie de marche pour aider les chirurgiens
+opérant sur des enfants atteints d'infirmité motrice cérébrale,
+à prédire le résultat de ces opérations.
+Vous le savez peut être,
+il est très difficile de prédire le résultat d'une opération visant
+à essayer de corriger la démarche.
+Je crois qu'on dit qu'au mieux le résultat est imprévisible,
+c'est ce que les gens pensent actuellement.
+Nous voulons permettre aux chirurgiens d'utiliser notre logiciel comme un outil.
+Nous allons simuler la démarche d'un enfant
+et le chirurgien va pouvoir travailler sur cette simulation
+et essayer différentes choses pour améliorer cette démarche
+avant de s'engager dans l'opération.
+C'est un projet qui nous intéresse particulièrement,
+et qui commence le mois prochain.
+Et pour conclure, ce n'est que le début.
+On ne peut simuler qu'un certain nombre de comportements actuellement.
+L'IA n'est pas assez bonne pour un corps humain tout entier.
+Le corps oui, mais pas toutes les capacités motrices.
+Je pense qu'on aura atteint l'objectif si on peut simuler un ballet.
+Actuellement on ne peut pas
+mais je suis convaincu qu'on y arrivera un jour.
+On a quand même involontairement un danseur,
+la dernière chose à vous montrer.
+C'est une ébauche d'IA, produite et évoluée --
+enfin à moitié évoluée -- pour gérer l'équilibre en gros.
+On frappe le bonhomme et il est sensé se rattraper.
+C'est ce qu'on pensait qu'il allait se passer.
+Mais voilà ce qui en est ressorti.
+(musique)
+Bizarrement il a pas de tête. Je sais pas trop pourquoi.
+Ce n'est pas quelque chose que l'on a fait là.
+Il s'est mis à danser tout seul.
+Je dois dire qu'il danse même mieux que moi!
+Et après quelques temps --
+je crois qu'il atteint l'orgasme à la fin.
+Voilà!
+(rires)
+Tout ça s'est fait automatiquement. On a rien touché.
+C'est juste la simulation qui créé ça elle même.
+C'est juste --
+(applaudissements)
+Merci.
+Pas encore John Travolta mais on y travaille.
+Merci beaucoup.
+Merci.
+(applaudissements)
+Chris Anderson: Incroyable. C'était vraiment incroyable.
+Torstein Reil: Merci.

@@ -1,0 +1,147 @@
+Aujourd’hui je veux vous montrer
+le futur de la manière dont nous construisons les choses.
+Je crois que bientôt nos immeubles et nos machines
+s’auto-assembleront,
+se reproduiront et se répareront tout seuls.
+Je vais donc vous montrer
+ce que je crois être l’état actuel de la fabrication,
+et le comparer aux systèmes naturels.
+À l’état actuel de la fabrication, nous avons les gratte-ciels --
+deux ans et demi,
+500 000 à 1 million de pièces,
+assez complexe,
+des technologies nouvelles et passionnantes technologies en acier, béton, verre.
+Nous avons des machines extraordinaires
+qui peuvent nous transporter dans l’espace --
+cinq ans, 2,5 millions de pièces.
+Mais d’un autre coté, si nous regardons les systèmes naturels,
+nous avons des protéines
+il y en a deux millions de types,
+qui peuvent se replier en 10 000 nanosecondes,
+ou l’ADN avec trois milliards de paires de base
+que nous pouvons reproduire en à peu près une heure.
+Il y a donc toute cette complexité
+dans nos systèmes naturels,
+mais ils sont extrêmement efficaces,
+beaucoup plus efficaces que tout ce que nous pouvons construire,
+beaucoup plus complexe que ce que nous pouvons construire.
+Ils sont beaucoup plus efficaces en termes d’énergie.
+Ils se trompent rarement.
+Et ils peuvent se réparer tous seuls pour prolonger leur longévité.
+Il y a donc quelque chose de très intéressant dans les systèmes naturels.
+Et si nous pouvons transférer ceci
+dans nos constructions,
+il y a un formidable potentiel pour la manière dont nous construisons les choses.
+Et je crois que la clef est l’auto-assemblage.
+Si nous voulons donc utiliser l’auto-assemblage dans notre environnement physique,
+je crois qu’il y a quatre facteurs clef.
+Le premier est que nous avons besoin de décoder
+toute la complexité de ce que nous voulons construire --
+donc nos immeubles et nos machines.
+Et il nous faut le décoder en de simples séquences --
+en gros l’ADN du mode de fonctionnement de nos bâtiments.
+Nous avons ensuite besoin de pièces programmables
+qui peuvent prendre cette séquence
+et l’utiliser pour se replier et se reconfigurer.
+Il nous faut de l’énergie qui permette de l’activer,
+en permettant aux parties de se replier selon le programme.
+Et il nous faut une certaine redondance de correction des erreurs
+pour nous assurer d’avoir bien construit ce que nous voulions.
+Je vais donc vous montrer un certain nombre de projets
+sur lesquelles nous travaillons mes collègues et moi au MIT
+pour réaliser ce futur qui s’auto-assemble.
+Les deux premiers sont les MacroBot et les DeciBot.
+Ces projets sont des robots reconfigurables à large échelle --
+des protéines de 3 à 4 mètres de longueur.
+Ils sont implantés dans des appareils, des capteurs mécaniques électriques
+Vous décodez la forme que vous voulez obtenir,
+en une séquence d’angles --
+donc négatif 120, négatif 120, 0, 0,
+120, négatif 120 – quelque chose de ce genre la ;
+donc une séquence d’angles, ou de courbes,
+et vous envoyez cette séquence à travers la chaine.
+Chaque unité reçoit le message – donc négatif 120.
+Il tourne en conséquence, vérifie que ce soit bon
+et ensuite le passe à son voisin.
+Voila donc les brillants scientifiques,
+ingénieurs, designers qui ont travaillé sur ce projet.
+Et je crois que ça met vraiment en lumière :
+Est-ce réellement déclinable ?
+Des milliers de dollars, beaucoup d'heures de travail
+pour faire ce robot de 3 mètres de hauteur.
+Peut-on réellement l’appliquer à grande échelle ? Peut-on implanter la robotique dans chaque partie?
+Le projet suivant met en question
+et examine la nature passive,
+ou le fait d'essayer de pouvoir programmer une reconfiguration passivement.
+Mais ça va plus loin,
+et il essaye de faire un vrai calcul.
+Essentiellement il s’incorpore aux composantes de base du calcul,
+l’élément numérique logique,
+directement dans vos composants.
+Voici donc un élément NAND.
+Vous avez un tétraèdre qui est l’élément logique,
+qui va faire tous les calculs,
+et vous avez deux tétraèdres.
+L’un d’eux est saisi par l’utilisateur, pendant que vous construisez vos composants.
+L’autre est issu du composant qui a été placé précédemment.
+Et ça vous donne ensuite un résultat en 3D dans l’espace.
+Cela signifie
+que l’utilisateur peut commencer à programmer ce qu’il veut que les composants fassent.
+Le calcul est basé sur ce qu’il faisait avant
+et ce que vous voulez qu’il fasse.
+Et maintenant il commence à se déplacer dans un espace en trois dimensions --
+de haut en bas.
+Sur le coté gauche, [1,1], donnée égale 0 donné de sortie, il descend.
+Sur le coté droit,
+[0,0], donnée égale 1 donné de sortie, il monte.
+Donc cela veut dire en fait
+que nos structures contiennent maintenant le modèle
+de ce que nous voulons construire.
+Ils ont donc incorporé toutes les informations de ce qui a été construit.
+Cela signifie que nous pouvons obtenir certaine formes d’autoreproduction.
+Dans ce cas je l’appelle reproduction autoguidée,
+parce que notre structure contient le modèle exact.
+S’il y a des erreurs, vous pouvez remplacer des parties.
+Toutes les informations locales pour expliquer comment se réparer sont incorporées.
+Vous pouvez donc avoir quelque chose qui grimpe et lit
+et donne le résultat 1 à 1.
+C’est directement incorporé ; il n’y a pas d’instructions externes.
+Le dernier projet que je vais vous montrer s’appelle Biased Chains
+et c’est probablement l’exemple le plus extraordinaire que nous avons aujourd’hui
+de systèmes d’auto-assemblage passifs.
+Il prend la reconfigurabilité
+et la programmabilité
+et en fait un système complètement passif.
+En gros vous avez une chaine d’éléments.
+Chaque élément est totalement identique,
+et ils sont orientés.
+Donc chaque chaine, ou chaque élément, veut se tourner à droite ou à gauche.
+Pendant que vous assembler la chaine, en gros vous la programmez.
+Vous dites à chaque unité si elle doit se tourner à droite ou à gauche.
+Quand vous secouez la chaine,
+elle se replie
+en n’importe quelle configuration que vous avez programmée --
+dans ce cas, une spirale,
+ou dans ce cas là,
+deux cubes l’un à coté de l’autre.
+Donc vous pouvez en gros programmer
+n’importe quelle forme en trois dimensions --
+ou une dimension, deux dimensions – de manière complètement passive dans la chaine.
+Qu’est ce que cela nous dit sur le futur ?
+Je crois que ça nous dit
+qu’il y a de nouvelles possibilités d’auto-assemblage, réplication, réparation
+dans nos structures physiques, nos bâtiments, nos machines.
+Il y a des nouvelles programmabilités pour ces parties.
+Et à partir de ça vous avez des nouvelles possibilités de calcul.
+Nous aurons un calcul spatial.
+Imaginez nos bâtiments, nos ponts, nos machines,
+tous nos composants pourraient calculer.
+C’est un extraordinaire pouvoir de calcul parallèle, réparti,
+nouvelle possibilité de création.
+C’est un potentiel passionnant.
+Je crois donc que ces projets que je vous ai montrés
+sont un tout petit pas vers le futur,
+si nous mettons en pratique ces nouvelles technologies
+pour un tout nouveau monde qui s’auto-assemble.
+Merci.
+(Applaudissements)

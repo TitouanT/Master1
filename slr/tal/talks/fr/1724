@@ -1,0 +1,189 @@
+Regardons les choses en face :
+Conduire est dangereux.
+C'est une chose à laquelle nous n'aimons pas penser,
+mais le fait qu'il y ait des icônes religieuses et des porte-bonheur
+sur les tableaux de bord partout dans le monde
+trahit le fait que nous savons que c'est vrai.
+Les accidents de voitures sont la principale cause de décès
+chez les personnes âgées de 16 à 19 ans aux États-Unis ;
+la principale cause de décès.
+75 % de ces accidents n'ont rien à voir
+avec les drogues ou l'alcool.
+Alors qu'est-ce qui se passe ?
+Personne ne peut le dire avec certitude mais je me souviens de mon premier accident.
+J'étais jeune conductrice, je roulais sur l'autoroute,
+et j'ai vu le feu de freinage de la voiture devant moi s'allumer.
+Je me suis dit : « Bon, tout va bien, ce type ralentit,
+je vais ralentir moi aussi. »
+J'ai appuyé sur le frein.
+Mais non, ce type n'est pas en train de ralentir.
+Il est en train de s'arrêter, brusquement; arrêté net sur l'autoroute !
+Il est passé de 100 km/h... à zéro ?
+J'ai freiné brutalement.
+J'ai senti l'ABS s'enclencher, et la voiture continue à avancer,
+et elle ne va pas s'arrêter, je sais qu'elle ne va pas s'arrêter,
+et l'airbag se déploie, la voiture est démolie,
+et heureusement, personne n'a été blessé.
+Mais je n'avais aucune idée que cette voiture allait s'arrêter,
+et je pense qu'on peut faire beaucoup mieux que ça.
+Je pense qu'on peut changer nos pratiques de conduite
+en laissant nos voitures se parler entre elles.
+Je veux juste que vous pensiez un peu
+aux pratiques de conduite actuelles.
+Entrez dans votre voiture. Fermez la portière. Vous êtes dans une bulle de verre.
+Vous ne pouvez pas vraiment percevoir directement le monde qui vous entoure.
+Vous êtes dans cette extension du corps.
+Vous devez vous frayer un chemin
+sur des routes que vous ne voyez qu'en partie,
+parmi d'autres géants de métal, à des vitesses surhumaines.
+D'accord ? Et tout ce que vous avez pour vous guider, ce sont vos deux yeux.
+Donc c'est tout ce que vous avez,
+des yeux qui ne sont pas vraiment conçus pour cette tâche,
+mais on vous demande de faire des choses du genre,
+si vous voulez changer de voie,
+quelle est la première chose qu'on vous demande de faire ?
+Quitter la route des yeux. Exactement.
+Arrêtez de regarder où vous allez, tournez,
+vérifiez vos angles morts,
+et avancez sur la route sans regarder où vous allez.
+Vous et tous les autres. C'est la façon de conduire en toute sécurité.
+Pourquoi fait-on ça ? Parce qu'on est obligé de le faire.
+On doit faire un choix : est-ce que je regarde par ici ou par là ?
+Qu'est-ce qui est le plus important ?
+En général, on arrive très bien à choisir
+où porter notre attention sur la route.
+Mais parfois, quelque chose nous échappe.
+Parfois, on perçoit quelque chose mal ou trop tard.
+Dans de nombreux accidents, le conducteur déclare :
+« Je ne l'avais pas vu venir. »
+Je le crois. Je le crois.
+Il y a une limite à ce qu'on peut voir.
+Mais il existe maintenant une technologie qui pourrait nous aider à améliorer ça.
+Dans le futur, avec des voitures qui échangent des informations entre elles,
+nous serons capables de voir non seulement trois voitures
+en avant et trois voitures en arrière, à droite et à gauche,
+toutes en même temps, une vue d'ensemble ;
+mais en fait, nous allons être en mesure de voir à l'intérieur de ces voitures.
+Nous allons pouvoir connaître la vitesse de la voiture devant nous,
+savoir à quelle vitesse ce type avance... ou s'arrête.
+Si ce type descend à zéro, je vais le savoir.
+Et avec les calculs, les algorithmes et les modèles prédictifs,
+nous serons capables de voir le futur.
+Vous croyez peut-être que c'est impossible.
+Comment peut-on prévoir le futur ? C'est très difficile.
+En réalité, non. Avec les voitures, ce n'est pas impossible.
+Les voitures sont des objets à trois dimensions
+qui ont une position et une vitesse déterminées.
+Elles circulent sur les routes.
+Souvent, leur trajet est déjà planifié.
+Il n'est vraiment pas difficile de faire des prédictions raisonnables
+sur l'endroit où une voiture va se trouver dans un futur proche.
+Même si, quand vous êtes dans votre voiture
+et qu'un motard arrive -- vroum ! --
+à 85 miles à l'heure, se faufilant entre les voies,
+-- je sais que vous avez déjà vécu ça --,
+ce type n'est pas juste « sorti de nulle part ».
+Il était probablement sur la route depuis une demi-heure.
+(Rires)
+Pas vrai ? Je veux dire, quelqu'un l'a vu.
+10, 20, 30 km en arrière, quelqu'un a vu ce type,
+et aussitôt qu'une voiture voit ce type
+et le positionne sur la carte, il est sur la carte :
+position, vitesse.
+On peut prévoir qu'il va continuer à aller à 100 km à l'heure.
+Vous allez le savoir, parce que votre voiture va le savoir,
+parce qu'une autre voiture va lui avoir chuchoté à l'oreille :
+« Au fait, d'ici cinq minutes,
+un motard, fais attention. »
+Vous pouvez faire des prédictions raisonnables sur le comportement des voitures.
+Je veux dire, ce sont des objets newtoniens.
+C'est ce qu'elles ont de bien.
+Alors comment est-ce qu'on y arrive ?
+On pourrait commencer avec quelque chose d'aussi simple
+que partager les données de notre position avec les autres voitures,
+simplement partager notre GPS.
+Si j'ai un GPS et une caméra dans ma voiture,
+j'ai une idée assez précise de ma position
+et de ma vitesse.
+Avec une vision par ordinateur, je peux évaluer la position
+des voitures qui m'entourent, en quelque sorte, et la direction qu'elles vont prendre.
+Et c'est la même chose pour les autres voitures.
+Elles peuvent avoir u ne idée précise de leur position,
+et une idée un peu plus vague de la position des autres voitures.
+Qu'arrive-t-il si deux voitures partagent ces données,
+si elles se parlent entre elles ?
+Je peux vous dire exactement ce qui arrive.
+Les deux modèles s'améliorent.
+Tout le monde y gagne.
+Le professeur Bob Wang et son équipe
+ont fait des simulations sur ordinateur de ce qui arrive
+quand deux estimations floues se combinent, même dans une circulation fluide
+quand les voitures partagent leurs données GPS,
+et nous avons aussi mené ces recherches en dehors des simulations sur ordinateur,
+sur des robots d'essai ayant les mêmes capteurs
+qu'on retrouve actuellement dans les voitures :
+appareils de photo stéréo, GPS,
+et les télémètres laser à deux dimensions
+qui sont courants dans les système de sauvegarde.
+On installe aussi une radiocommunication discrète à courte portée,
+et les robots se parlent entre eux.
+Quand ces robots entrent en contact,
+chacun suit la position des autres de manière précise,
+et ils peuvent s'éviter.
+Nous ajoutons maintenant de plus en plus de robots dans le test,
+et nous avons rencontré quelques problèmes.
+Un de ces problèmes, c'est que quand il y a trop de bavardage,
+il est difficile de traiter toutes les données, alors il faut identifier les priorités,
+et c'est là où les modèles de prédiction sont utiles.
+Si toutes vos voitures robotisées suivent les trajectoires prévues,
+vous n'accorderez pas autant d'attention à ces données.
+Vous allez privilégier le type
+qui semble dévier un peu de sa route.
+Ce type peut devenir un problème.
+Et vous pouvez prévoir sa nouvelle trajectoire.
+Donc, vous savez non seulement qu'il dévie de sa route, mais aussi de quelle façon.
+Et vous savez quels automobilistes vous devez avertir de s'enlever du chemin.
+Et nous voulons faire ... comment pouvons-nous alerter tout le monde ?
+Comment ces voitures peuvent-elles chuchoter : « Tu dois t'enlever du chemin» ?
+Bien, ça dépend de deux choses :
+premièrement, la capacité de la voiture,
+et deuxièmement, la capacité du conducteur.
+Si quelqu'un a une très bonne voiture,
+mais qu'il est sur son téléphone ou en train de faire quelque chose d'autre,
+il n'est probablement pas dans la meilleure position
+pour réagir en cas d'urgence.
+Nous avons donc commencé une autre recherche,
+qui fait des modèles de l'état des conducteurs.
+Maintenant, en utilisant une série de trois caméras,
+on peut détecter si le conducteur regarde devant,
+à côté, en bas, s'il est au téléphone,
+ou en train de boire son café.
+On peut prévoir l'accident
+et on peut prévoir qui, quelles voitures
+sont les mieux placées pour s'enlever du chemin,
+calculer la route la plus sûre pour tout le monde.
+En fait, ces technologies existent aujourd'hui.
+Je crois que le principal problème auquel nous sommes confrontés
+est notre propre désir de partager nos données.
+Je crois que c'est très troublant,
+cette idée que nos voitures vont nous observer,
+parler de nous aux autres voitures,
+que nous allons conduire dans une mer de commérages.
+Mais je pense que ça peut être fait dans le respect de notre vie privée.
+comme maintenant, si je regarde votre voiture de l'extérieur,
+ça ne me dit pas grand-chose de vous.
+Si je regarde votre numéro d'immatriculation,
+ça ne me dit pas vraiment qui vous êtes.
+Je crois que nos voitures peuvent parler de nous dans notre dos.
+(Rires)
+Et je pense que ça va être une très bonne chose.
+Je veux que vous vous demandiez un instant
+si vraiment, vous ne voulez pas que l'adolescent distrait derrière vous
+sache que vous freinez,
+que vous allez vous arrêter brusquement.
+En acceptant de partager nos données,
+nous pouvons faire ce qu'il y a de mieux pour tout le monde.
+Alors laissez votre voiture bavarder à votre sujet.
+Ça va rendre les routes beaucoup plus sûres.
+Merci.
+(Applaudissements)

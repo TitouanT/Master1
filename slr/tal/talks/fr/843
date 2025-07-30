@@ -1,0 +1,477 @@
+Je voudrais parler aujourd'hui d'une idée. C'est une grande idée.
+En fait, je pense qu'on finira par
+la considérer comme sans doute la plus grande idée
+qui ait émergé au cours du siècle passé.
+C'est l'idée de calcul.
+Bien sûr, cette idée nous a apporté
+toute la technologie computationnelle que nous avons aujourd'hui
+Mais il y a en fait beaucoup plus que ça dans le calcul.
+C'est vraiment une idée vraiment très profonde, très puissante, très fondamentale,
+dont nous avons à peine commencé à voir les effets.
+Eh bien, j'ai passé les 30 dernières années de ma vie
+à travailler sur trois grands projets
+qui essayent vraiment de prendre l'idée de calcul au sérieux.
+J'ai donc commencé jeune en tant que physicien
+à utiliser des ordinateurs comme des outils.
+Puis, j'ai commencé à creuser,
+à réfléchir sur les calculs que je pourrais vouloir faire,
+à essayer de comprendre à partir de quelles primitives on pouvait les construire
+et comment ils pourraient être aussi automatisés que possible.
+Finalement, j'ai créé toute une structure
+basée sur la programmation symbolique
+qui m'a permis de construire Mathematica.
+Et pendant ces 23 dernières années, à un rythme croissant,
+nous avons été verser de plus en plus d'idées
+et de capacités dans Mathematica,
+je suis heureux de dire que cela a conduit à beaucoup de bonnes choses
+en Recherche et Développement et en éducation,
+dans beaucoup d'autres domaines.
+Eh bien, je dois admettre que, en fait,
+que j'avais aussi une raison très égoïste pour construire Mathematica.
+Je voulais l'utiliser moi-même,
+un peu comme Galilée avait utilisé son télescope
+il y a 400 ans.
+Mais je voulais regarder, non pas l'univers astronomique,
+mais l'univers computationnel.
+Nous considérons habituellement les programmes comme
+des choses compliquées que nous construisons
+à des fins très spécifiques.
+Mais qu'en est-il de l'espace de tous les programmes possibles?
+Voici une représentation d'un programme très simple.
+Si nous exécutons ce programme,
+voici ce que nous obtenons.
+Très simple.
+Essayons donc de modifier un peu la règle
+pour ce programme .
+Nous obtenons maintenant un autre résultat,
+toujours très simple.
+Essayez de le changer à nouveau.
+Vous obtenez quelque chose d'un peu plus compliqué,
+mais si nous continuons à le faire tourner pendant un certain temps,
+nous constatons que, bien que le schéma que nous obtenons soit très complexe,
+il a une structure très régulière.
+La question est donc: est-ce que qu'autre chose peut se produire?
+Eh bien, nous pouvons faire une petite expérience.
+Faisons simplement une petite expérience mathématique, et essayons de savoir.
+Exécutons tous les programmes possibles
+du type particulier que nous étudions.
+On les appelle des automates cellulaires.
+Vous pouvez voir une grande diversité dans le comportement ici.
+La plupart d'entre eux font des choses très simples.
+Mais si vous regardez toutes ces images différentes,
+à la règle numéro 30,
+vous commencez à voir que quelque chose d'intéressant se passe.
+Regardons de plus près
+la règle numéro 30 ici.
+Voilà.
+Nous ne faisons que suivre cette règle très simple ici, en bas,
+mais nous obtenons toutes des choses incroyables.
+Ce n'est pas du tout ce à quoi nous sommes habitués,
+et je dois dire que, quand j'ai vu cela pour la première fois,
+ce fut un grand choc pour mon intuition,
+et, en fait, pour le comprendre,
+j'ai finalement dû créer
+un nouveau type de science.
+(Rires)
+Cette science est différente, plus générale,
+que la science basée sur les mathématiques de
+ces 300 dernières années.
+Il a toujours semblé très mystérieux
+comment la nature, apparemment sans effort
+parvient à produire tant de choses
+qui nous semblent si complexes.
+Eh bien, je pense que nous avons trouvé son secret.
+C'est juste qu'en échantillonnant ce qui existe dans l'univers computationnel,
+on obtient plutôt fréquemment des choses semblables à la règle 30
+ou à cela.
+Sachant cela, on commence à expliquer
+beaucoup de mystères de longue date dans la science.
+Cependant, cela soulève aussi de nouveaux problèmes,
+comme l'irréductibilité computationnelle.
+Nous sommes habitués à ce que la science nous permette de prédire des choses,
+mais quelque chose comme ceci
+est fondamentalement irréductible.
+La seule façon d'en trouver le résultat
+est, en fait, de simplement le regarder évoluer.
+Il est connecté à ce que j'appelle
+le principe de l'équivalence de calcul,
+qui nous dit que même les systèmes incroyablement simples
+peuvent faire des calculs aussi complexes.
+Pas besoin de beaucoup d'évolution technologique ou biologique
+pour être capable de faire un calcul arbitraire,
+juste quelque chose qui se passe, naturellement,
+partout.
+Des choses avec des règles aussi simples que celles-ci peuvent le faire.
+Eh bien, cela a des implications profondes
+sur les limites de la science,
+sur la prévisibilité et la contrôlabilité
+des processus biologiques ou des économies,
+sur l'intelligence dans l'univers,
+sur des questions comme le libre-arbitre
+et sur la création de technologie.
+Travaillant sur cette science depuis de nombreuses années,
+je me demandais,
+«Quelle sera sa première application géniale?"
+Eh bien, depuis que je suis enfant,
+je réfléchis à la systématisation des connaissances
+et en quelque sorte à son informatisation.
+Des gens comme Leibniz s'étaient également interrogés là-dessus
+300 ans auparavant.
+Mais j'avais toujours pensé que pour faire des progrès,
+je devrais principalement répliquer un cerveau entier.
+Eh bien, maintenant j'en suis arrivé à penser que
+mon paradigme scientifique suggère quelque chose de différent.
+Et, soit dit en passant, j'ai maintenant obtenu
+des capacités de calcul énormes dans Mathematica,
+et je suis PDG avec des ressources matérielles
+pour faire de grands projets, apparemment fous.
+Ainsi j'ai décidé de simplement essayer de voir
+quelle quantité de la connaissance systématique dans le monde
+nous pouvons informatiser.
+Donc, ça a été un grand projet très complexe,
+dont je n'étais pas du tout sûr qu'il allait aboutir.
+Mais je suis heureux de dire qu'il va vraiment très bien.
+L'année dernière, nous avons pu
+lancer la première version
+en ligne de Wolfram Alpha.
+Il a pour objectif d'être un moteur de connaissances sérieuses
+qui calcule les réponses aux questions.
+Faisons un essai.
+Commençons avec quelque chose de très simple.
+Espérons que tout aille bien.
+Très bien. Très bien.
+Jusqu'ici tout va bien.
+(Rires)
+Essayons quelque chose d'un peu plus difficile.
+Disons que...
+Faisons quelque chose de mathématique
+et avec de la chance il trouvera la réponse
+et essayera de nous dire des choses intéressantes
+sur les mathématiques en rapport.
+Nous pourrions lui demander quelque chose sur le monde réel.
+Disons que - je ne sais pas -
+Quel est le PIB de l'Espagne?
+Il devrait être en mesure de nous le dire.
+Maintenant, nous pourrions calculer quelque chose lié à cela,
+Disons le PIB de l'Espagne
+divisé par, je ne sais pas,
+le - hmmm ...
+Disons le chiffre d'affaires de Microsoft.
+(Rires)
+L'idée est que nous pouvons entrer ceci,
+ce genre de question sous quelque forme que nous la concevions.
+Essayons donc de poser une question,
+comme une question sur la santé.
+Alors disons que nous avons un laboratoire de recherche qui -
+vous savez, le taux de cholesterol d'un homme de 50 ans
+est de 140.
+Tapons cela, et maintenant Wolfram Alpha
+va utiliser les données de santé publique disponibles
+et essayer de trouver
+à quelle partie de la population cela correspond, etc.
+Ou essayons de poser une question sur, je ne sais pas,
+la station spatiale internationale.
+Ce qui se passe ici, c'est que
+Wolfram Alpha ne se contente pas de chercher quelque chose;
+il calcule, en temps réel,
+où la station spatiale internationale est maintenant, en ce moment,
+à quelle vitesse elle va, etc.
+Wolfram Alpha connaît donc beaucoup, beaucoup de choses.
+Il couvre assez bien à ce jour,
+tout ce que vous pourriez trouver
+dans une bibliothèque de référence standard.
+Mais l'objectif est d'aller beaucoup plus loin
+et, de façon très large, de démocratiser
+tout ce genre de connaissance,
+et d'essayer de constituer une source
+qualifiée dans tous les domaines,
+pour être en mesure de calculer les réponses aux questions spécifiques que les gens ont,
+pas en cherchant ce que les autres
+ont pu écrire avant,
+mais en utilisant la connaissance intégrée
+pour calculer de toutes nouvelles réponses à une question spécifique.
+Maintenant, bien sûr, Wolfram Alpha
+est un projet à long terme, monumentalement énorme,
+avec beaucoup, beaucoup de défis.
+Pour commencer, il faut organiser une quantité astronomique
+de sources différentes de faits et de données,
+nous avons construit tout un pipeline d'automatisation Mathematica
+et d'experts humains pour ce faire.
+Mais ce n'est que le début.
+Compte tenu des faits ou des données brutes
+pour répondre effectivement aux questions,
+on doit calculer,
+on doit mettre en œuvre toutes les méthodes, tous les modèles,
+tous les algorithmes, etc.
+que la science et d'autres domaines ont construits au fil des siècles.
+Eh bien, même à partir de Mathematica,
+c'est toujours une énorme quantité de travail.
+Jusqu'à présent, il y a environ 8 millions de lignes
+de code Mathematica dans Wolfram Alpha
+construit par des experts de très nombreux domaines différents.
+Eh bien, une idée essentielle de Wolfram Alpha
+est que vous pouvez juste lui poser des questions
+en utilisant le langage humain ordinaire,
+ce qui signifie que nous devons être en mesure de prendre
+tous ces énoncés étranges que les gens tapent dans le champ de saisie
+et de les comprendre.
+Je dois dire que je pensais que cette étape
+pourrait bien être tout bonnement impossible.
+Deux événements importants ont eu lieu.
+Tout d'abord, un tas de nouvelles idées sur la linguistique
+qui venaient de l'étude de l'univers computationnel.
+Ensuite, la réalisation que d'avoir une connaissance réelle calculable
+change complètement la façon dont on peut
+aborder la compréhension du langage.
+Et, bien sûr, maintenant
+avec Wolfram Alpha effectivement dans la nature,
+nous pouvons tirer des conclusions par son utilisation actuelle.
+Et, en effet, il y a
+une coévolution intéressante
+entre Wolfram Alpha
+et ses utilisateurs humains.
+C'est vraiment encourageant.
+À l'heure actuelle, si l'on regarde les requêtes web,
+plus de 80% sont traitées avec succès la première fois.
+Si vous regardez l'application iPhone,
+le pourcentage est beaucoup plus grand.
+Donc, je suis plutôt content de tout cela.
+Mais, à bien des égards,
+nous en sommes encore au tout début avec Wolfram Alpha.
+Tout cela progresse très bien
+Nous devenons plus confiants.
+Vous pouvez vous attendre à voir la technologie Wolfram Alpha
+apparaître à plus en plus d'endroits,
+travaillant à la fois avec ce genre de données publiques, comme sur le site,
+et avec la connaissance privée
+pour des personnes, des entreprises, etc.
+Je me suis rendu compte que Wolfram Alpha donne à chacun
+un tout nouveau type de calcul
+que l'on peut appeler le calcul fondé sur la connaissance,
+où l'on ne se base pas seulement sur le calcul brut,
+mais sur une grande quantité de connaissance intégrée.
+Quand on fait cela, on change vraiment
+l'économie de la prestation des choses computationnelles,
+que ce soit sur le web ou ailleurs.
+Nous vivons une situation assez intéressante en ce moment.
+D'une part, nous avons Mathematica,
+avec son genre de langage formel et précis
+et un vaste réseau
+de capacités conçues avec soin
+capables de faire beaucoup de choses en quelques lignes.
+Permettez-moi de vous montrer quelques exemples ici.
+Voici un morceau trivial de programmation Mathematica.
+Voici quelque chose où nous intégrons
+en quelque sorte un tas de capacités différentes.
+Ici, nous allons simplement créer dans cette ligne
+une petite interface utilisateur qui nous permet de
+faire quelque chose d'amusant.
+Si vous continuez, c'est un programme un peu plus compliqué
+qui est en train de faire toutes sortes de choses algorithmiques,
+et de créer l'interface utilisateur.
+Mais c'est quelque chose de très précis.
+Il s'agit d'une description précise d'un langage formel précis
+qui fait que Mathematica sait quoi faire ici.
+Eh bien, d'autre part, nous avons Wolfram Alpha,
+avec toutes les désordres du monde
+et le langage humain par-dessus.
+Alors, que se passe-t-il quand vous mettez ces choses ensemble?
+Je pense que c'est en fait assez merveilleux.
+Avec Wolfram Alpha à l'intérieur de Mathematica,
+vous pouvez, par exemple, faire des programmes précis
+qui font appel à des données du monde réel.
+Voici un exemple très simple.
+Vous pouvez aussi entrer quelque chose de vague
+puis essayer que Wolfram Alpha
+comprenne ce dont vous parlez.
+Essayons de voir ici.
+Mais en réalité, je crois que la chose la plus passionnante à ce sujet
+est que cela donne vraiment la possibilité
+de démocratiser la programmation.
+N'importe qui, capable de dire ce qu'il veut en langage naturel,
+eh bien, l'idée est que Wolfram Alpha sera capable de comprendre
+précisément quelles parties de code
+pourront faire ce qu'on lui demande,
+puis montrer les exemples qui permettront de choisir ce dont on a besoin
+pour construire des programmes précis de plus en plus importants.
+Alors, parfois, Wolfram Alpha
+sera en mesure de faire tout ça tout de suite
+et juste de redonner un seul programme avec lequel vous pouvez ensuite calculer.
+Voici un grand site web
+où nous avons recueilli beaucoup de démonstrations
+éducatives sur toutes sortes de choses.
+Au hasard, je vais vous montrer un exemple, peut-être ici.
+Ce n'est qu'un exemple d'un de ces documents informatisés.
+C'est probablement un assez petit
+morceau de code Mathematica
+qui est capable de fonctionner ici.
+Très bien. Effectuons un zoom arrière.
+Ainsi, compte tenu de notre nouvelle science,
+y a-t-il une manière générale de l'utiliser pour créer de la technologie?
+Ainsi, avec des matériaux physiques,
+nous sommes habitués à faire le tour du monde
+et découvrir que des matériaux particuliers
+sont utiles pour des objectifs
+technologiques particuliers.
+Eh bien, il s'avère que nous pouvons faire quasiment la même chose
+dans l'univers computationnel.
+Il existe une source inépuisable de programmes.
+Le défi consiste à voir comment
+les exploiter à des fins humaines.
+Quelque chose comme la règle 30, par exemple,
+s'avère être un vraiment bon générateur aléatoire.
+D'autres programmes simples sont de bons modèles
+pour les processus dans le monde naturel ou social.
+Et, par exemple, Wolfram Alpha et Mathematica
+sont en fait maintenant chargés d'algorithmes
+que nous avons découverts en fouillant l'univers computationnel.
+Et, par exemple, - retournons sur -
+ceci est devenu étonnamment populaire
+parmi les compositeurs
+qui trouvent des formes musicales en explorant l'univers computationnel.
+En un sens, nous pouvons utiliser l'univers computationnel
+pour obtenir une créativité de masse sur mesure.
+J'espère que nous pourrons, par exemple,
+utiliser cela même pour que Wolfram Alpha
+fasse systématiquement des inventions et des découvertes à la volée
+et trouve toutes sortes de choses merveilleuses
+qu'aucun ingénieur
+et aucun processus d'évolution progressive n'auraient jamais trouvé.
+Cela mène à une sorte de question ultime.
+Est-ce que quelque part dans l'univers computationnel
+nous pourrions trouver notre univers physique?
+Peut-être qu'il y a même une règle très simple,
+un programme simple pour notre univers.
+Eh bien, l'histoire de la physique voudrait nous faire croire
+que la règle de l'univers doit être assez compliquée.
+Mais dans l'univers computationnel
+nous avons vu comment les règles qui sont incroyablement simples
+peuvent produire des comportements incroyablement riches et complexes.
+Se pourrait-il qu'il en aille de même pour notre univers tout entier?
+Si les règles de l'univers sont simples,
+il est en quelque sorte inévitable qu'elles soient
+très abstraites et de très faible niveau,
+opérant, par exemple, bien au-dessous
+du niveau de l'espace ou du temps,
+ce qui rend difficile leur représentation.
+Mais dans une grande variété de cas,
+on peut penser à l'univers comme étant
+une sorte de réseau,
+qui, quand il est assez grand,
+se comporte comme un espace continu
+un peu comme si plein de molécules
+se comportaient comme un fluide continu.
+Eh bien, l'univers doit évoluer en appliquant
+des petites règles qui, progressivement, mettent à jour de ce réseau.
+Et chaque règle possible, en un sens,
+correspond à un univers candidat.
+En fait, je n'ai encore jamais montré ceci,
+mais voici quelques-uns des univers candidats
+que j'ai observés.
+Certains de ces univers sont sans espoir,
+complètement stériles,
+avec d'autres types de pathologies comme aucune notion de l'espace,
+aucune notion du temps, pas de matière,
+d'autres problèmes comme ça.
+Mais la chose passionnante que j'ai trouvée ces dernières années
+est que vous n'avez pas besoin d'aller très loin
+dans l'univers computationnel
+avant de commencer à trouver des univers candidats
+qui ne sont pas évidemment pas notre univers.
+Voici le problème:
+tout candidat sérieux pour notre univers,
+est inévitablement plein d'irréductibilité de calcul,
+ce qui signifie qu'il est irréductiblement difficile
+de savoir comment il va vraiment se comporter,
+et s'il correspond à notre univers physique.
+Il y a quelques années, j'étais plutôt enthousiaste à l'idée de découvrir
+s'il y avait des univers candidats avec des règles extrêmement simples
+qui réussissent à reproduire la relativité restreinte
+et même la relativité générale et la gravitation,
+et qui au moins donnent des indications de mécanique quantique.
+Alors, allons-nous trouver l'ensemble de la physique?
+Je n'en suis pas sûr.
+Mais je pense qu'à ce stade c'est
+presque gênant de ne pas au moins essayer.
+Pas un projet facile.
+On doit construire beaucoup de technologie.
+On doit construire une structure qui est probablement
+au moins aussi profonde que la physique actuelle.
+Et je ne suis pas sûr de savoir quel est le meilleur moyen d'organiser tout cela.
+Constituer une équipe, l'ouvrir, offrir des prix, etc.
+Mais je vous dis ici aujourd'hui
+que je suis déterminé à voir ce projet se réaliser,
+pour voir si, dans cette décennie,
+nous pouvons enfin tenir dans nos mains
+la règle de notre univers
+et savoir où se trouve notre univers
+dans l'espace de tous les univers possibles -
+et être capable de taper dans Wolfram Alpha "la théorie de l'univers",
+et qu'il nous le dise.
+(Rires)
+J'ai donc travaillé sur l'idée de calcul
+depuis plus de 30 ans,
+en construisant des outils et des méthodes et en transformant des idées intellectuelles
+en millions de lignes de code
+et en grain à moudre pour les parcs de serveurs.
+Année après année,
+je me rends compte à quel point
+l'idée de calcul est vraiment plus puissante.
+Nous avons déjà parcouru un long chemin,
+mais il y a tellement plus à faire.
+Des fondations de la science
+aux limites de la technologie
+à la définition même de la condition humaine,
+je pense que le calcul est destiné à être
+l'idée déterminante de notre avenir.
+Merci.
+(Applaudissements)
+Chris Anderson: C'était vraiment éblouissant.
+Restez ici. J'ai une question.
+(Applaudissements)
+Alors, c'était, pour être honnête, un exposé éblouissant.
+Êtes-vous capable de dire en une phrase ou deux
+comment ce type de réflexion
+pourrait s'intégrer à un moment donné
+à des choses comme la théorie des cordes ou le genre de choses que les gens considèrent
+comme les explications fondamentales de l'univers?
+Stephen Wolfram: Eh bien, les parties de la physique
+que nous tenons pour vraies,
+des choses comme le modèle standard de la physique.
+Ce que j'essaie de faire reproduit mieux le modèle standard de la physique
+ou c'est tout simplement faux.
+Les choses que les gens ont essayé de faire au cours des 25 dernières années
+avec la théorie des cordes,
+ont été une exploration intéressante
+qui a essayé de revenir au modèle standard,
+mais ils n'y sont pas tout à fait parvenus.
+Je pense que certaines simplifications de choses que je fais
+peuvent en fait avoir une résonance considérable
+avec ce qui a été fait dans la théorie des cordes,
+mais c'est une chose mathématique compliquée
+dont je ne sais pas encore comment elle va tourner.
+CA: Benoit Mandelbrot est dans le public.
+Il a également montré comment la complexité
+peut découler d'un début simple.
+Votre travail a-t-il un rapport avec le sien?
+SW: Je pense que oui.
+Je considère le travail de Benoit Mandelbrot
+comme en quelque sorte une des contributions fondatrices
+dans ce genre de domaine.
+Benoit a été particulièrement intéressé
+par les modèles imbriqués, les fractales, etc,
+où la structure est quelque chose
+qui a un peu la forme d'un arbre,
+et où il y a une grosse branche qui fait des petites branches,
+et des branches encore plus petites, etc.
+C'est l'un des moyens
+de s'approcher de la véritable complexité.
+Je pense que des choses comme l'automate cellulaire de la règle 30
+nous amène à un niveau différent.
+En fait, d'une manière très précise, ils nous amènent à un niveau différent
+parce qu'ils semblent être des choses qui sont
+capables de complexité
+qui est presque aussi grande que la complexité puisse jamais être...
+Je pourrais continuer sur ce sujet indéfiniment, mais je ne le ferai pas.
+CA: Stephen Wolfram, merci.
+(Applaudissements)

@@ -1,0 +1,327 @@
+Je sais que cela va vous paraître étrange,
+mais je pense que les robots peuvent nous apprendre
+à être plus humain.
+Par exemple, j'ai grandi à Bethlehem, en Pennsylvanie,
+la source de l'acier de Bethlehem.
+Mon pere était ingénieur,
+et en grandissant, il m'apprenait
+comment les choses marchaient.
+Nous montions des projets ensemble,
+comme des modèles de fusées ou de petites voitures.
+Voici le kart que nous avons construit ensemble.
+C'est moi qui tiens le volant,
+avec ma soeur et mon meilleur ami de l'époque,
+et un jour,
+il rentra à la maison, j'avais dans les 10 ans,
+et pendant le dîner, il annonça
+que pour notre prochain projet, nous allions construire un robot.
+Un Robot.
+Là, j'étais excité par ce projet,
+parce qu'à l'école,
+il y avait un petit tyran qui s'appelait Kevin,
+et il s'en prenait à moi
+parceque j'étais le seul enfant juif de la classe.
+Donc j'étais impatient de commencer ce projet
+pour que Kevin puisse faire la connaissance de mon robot. (Rires)
+(Sons de robot)
+Mais ce n'était pas ce genre de robot auquel pensait mon père.
+En fait, il avait une entreprise faisant du plaquage de chrome,
+et ils devaient déplacer
+de lourdes pièces métalliques entre des cuves chimiques,
+et donc il avait besoin d'un robot industriel comme celui-ci
+qui pouvait simplement soulever de lourdes charges.
+Mais mon père n'a pas eu le robot qu'il voulait non plus.
+Lui et moi avons travaillé dessus pendant plusieurs années,
+mais c'était dans les années 70,
+et la technologie qui était disponible pour les amateurs
+n'était pas encore suffisante.
+Donc mon père continuait à faire le travail du robot manuellement,
+et quelques années plus tard,
+il a été diagnostiqué d'un cancer.
+Vous voyez, ce que le robot que nous essayions de construire
+lui disait ne concernait pas le transport d'objets lourds.
+C'était un avertissement contre l'exposition aux produits chimiques.
+Il ne s'était pas rendu compte de cela à l'époque,
+et il a contracté une leucémie,
+et est mort à 45 ans.
+Cela m'a démoli,
+et je n'ai jamais oublié le robot que lui et moi avions essayé de construire.
+Quand je suis allé à l'université, j ai décidé d'étudier l'ingénierie comme lui.
+Et je suis allé à Carnegie Mellon et j'ai obtenu un doctorat en robotique.
+J'ai étudié les robots depuis ce jour-là.
+Donc ce dont j'aimerais vous parler
+c'est de 4 projets de robotique,
+et de comment ils m'ont aidé à devenir plus humain.
+En 1993, j'étais un jeune professeur à USC,
+et j'étais juste en train de construire mon propre laboratoire de robotique,
+et ce fut l'année où Internet est apparu.
+Et je me rappelle que mes étudiants étaient ceux
+qui m'en ont parlé,
+and nous étions juste stupéfaits.
+Nous avons commencé à jouer avec, et cet après-midi là,
+nous avons réalisé que nous pourrions utiliser ce nouvel interface universel
+pour permettre à qui que ce soit dans le monde
+de faire fonctionner un robot dans notre labo.
+Donc, plutôt que d'avoir un robot de combat ou pour des tâches industrielles,
+nous avons décidé de construire une plantation,
+de mettre le robot au centre,
+et nous l'avons appelé le Téléjardin.
+Et nous avions mis une caméra dans la pince de la main
+du robot, et avions écrit quelques commandes
+et un logiciel spécial de sorte que n'importe qui dans le monde puisse entrer
+et juste en cliquant sur l'écran
+puisse bouger le robot
+et visiter le jardin.
+Mais on avait aussi permis, installé d'autres logiciels
+qui vous laissaient particper et nous aider à arroser le jardin
+à distance, et si vous arrosiez le jardin plusieurs fois,
+nous vous donnions vos propres graines à planter.
+Donc, c'était le projet, un projet d'ingénieurs,
+et nous avons publié quelques articles à propos du design,
+du design du système, mais on a aussi pensé à lui
+comme à une installation d'une oeuvre d'art.
+Il a été invité après la première année,
+par le musée d'art électronique d'Autriche
+à être installé dans leur entrée,
+et je suis fier de dire qu'il est resté en ligne la-bas,
+24h sur 24h pendant presque 9 ans.
+Ce robot a été utilisé par plus de gens
+que n'importe quel autre robot de l'histoire.
+Puis, un jour,
+je reçois un appel à l'improviste
+de la part d'un étudiant,
+qui me posa une question très simple mais aussi très profonde.
+Il m'a dit : "Est-ce que le robot est réel?"
+Bon, tous les autres avaient supposé qu'il était réel,
+et nous savions qu'il l'était car nous avions travaillé avec.
+Mais je savais ce qu'il voulait dire,
+car ça aurait pu être possible de prendre un tas de photos
+de fleurs dans un jardin et ensuite, simplement les indexer
+dans un ordinateur de telle sorte qu'on pourrait croire
+qu'il y avait un vrai robot alors qu'il n'y en avait pas.
+Et plus j'y pensais, moins je voyais
+une bonne réponse pour lui montrer comment faire la différence.
+C'était juste au moment ou l'on m'a proposé un poste
+ici à Berkeley,
+et quand je suis arrivé j'ai contacté Hubert Dreyfus,
+qui est un professeur de philosophie de renommée mondiale,
+et je lui ai parlé de cela, et il m'a dit,
+"C'est l'un des problèmes les plus anciens et les plus centraux
+en philosophie. Il remonte aux Sceptiques,
+et va jusqu'à Descartes.
+C'est le sujet de l'épistémologie,
+qui étudie la vérité des choses."
+Donc nous avons commencé à travailler ensemble,
+et nous avons inventé un nouveau terme: télépistémologie,
+l'étude de la connaissance à distance.
+Nous avons invité de grands artistes et ingénieurs,
+ainsi que des philosophes à écrire des articles à ce sujet,
+et les résultats ont été rassemblés dans ce livre
+des presses du MIT.
+Je remercie donc cet étudiant d'avoir questionné
+ce que tout le monde supposait vrai,
+ce projet m'a appris quelque chose d'important sur la vie,
+c'est de toujours questionner les suppositions.
+Maintenant le second projet dont je vais vous parler
+est venu du Téléjardin.
+Pendant qu'il fonctionnait, mes étudiants et moi-même étions interessés
+par comment les gens interagissaient les uns avec les autres
+et ce qu'ils faisaient du jardin.
+Nous avons commencé à imaginer ce qu'il se passerait si le robot pouvait sortir
+du jardin et aller dans un autre
+environnement intéressant?
+Par exemple, pourquoi ne pourrait-il pas aller dans une soirée festive
+à la maison Blanche? (Rires)
+Donc comme nous étions plus interessés par le design du système
+et dans l'interface utilisateur que par le hardware,
+nous avons décidé que, plutot que d'avoir
+un robot remplaçant l'humain pour aller dans une fête,
+nous aurions un humain remplaçant le robot.
+Nous l'avons appelé le Télé-Acteur.
+Nous prenions un humain,
+une personne très extravertie et sociable,
+et elle était équipée d'un casque
+portant divers équipements, caméras et micros,
+ainsi que d'un sac à dos avec une connection internet sans-fil,
+et l'idée était qu'elle pouvait aller dans un endroit lointain et
+passionnant, et ensuite sur Internet,
+les gens pourraient faire l'expérience de ce qu'elle vivait,
+donc ils pourraient voir ce qu'elle voyait,
+mais surtout, en plus, ils pourraient participer
+en interagissant les uns avec les autres
+et arriver à trouver des idées sur ce qu'elle devrait faire ensuite
+et où elle devrait aller,
+et ensuite transmettre cela au Télé-acteur.
+On a eu la chance de présenter le Télé-acteur
+au Webby Awards de San Francisco,
+et cette année-là, Sam Donaldson était l'hôte.
+Juste avant que le rideau ne se lève, j'ai eu 30 secondes
+pour expliquer à M. Donaldson ce que nous allions faire,
+et j'ai dit: " Le Télé-Acteur
+va nous rejoindre sur scène,
+c'est un nouveau projet expérimental,
+et les gens la regardent sur leurs écrans,
+et elle a -- il y a des caméras sur elle
+et des microphones et elle a une oreillette,
+et les gens sur le réseau lui donne des conseils
+sur quoi faire."
+Et il a dit, "Attendez une seconde,
+C'est ce que moi je fais." (Rires)
+Donc il a adoré le concept,
+et quand le Télé-acteur est arrivé sur scène,
+elle a avancé vers lui, et elle l'a embrassé
+en plein sur la bouche. (Rires)
+Nous étions complètement ébahis
+car nous n'avions aucune idée de ce qui allait arriver.
+Et il a été génial. Il lui a donné une grande accolade en retour,
+et tout s'est bien passé.
+Mais cette nuit là, alors que nous étions en train de ranger,
+j'ai demandé au Télé-Acteur comment les Télé-Directeurs
+avaient décidé qu'elle embrasserait Sam Donaldson.
+Et elle m'a dit qu'ils ne l'avaient pas fait.
+Elle a dit que quand elle était sur le point de monter sur scène,
+les Télé-Directeurs étaient toujours en train d'essayer de décider quoi faire,
+et donc elle est juste montée sur scène et a fait
+ce qu elle sentait être le plus naturel. (Rires)
+Donc, le succès du Télé-Acteur cette nuit-là
+était dû au fait qu'elle était une merveilleuse actrice.
+Elle savait quand faire confiance à son instinct,
+et ce projet m'a donc donné une autre leçon de vie -
+quand on est dans le doute, il faut improviser. (Rires)
+Maintenant le 3ème projet est venu
+de mon expérience du temps où mon père était à l'hôpital.
+Il suivait un traitement,
+de la chimiothérapie, et un traitement associé
+appelé brachythérapie, ou de minuscules particules radioactives
+sont placées dans le corps pour traiter les tumeurs cancéreuses.
+Et la manière dont c'est fait, comme vous pouvez le voir ici,
+le chirurgien plante des aiguilles dans le corps
+pour injecter les particules, et tout cela,
+toutes ces aiguilles sont insérées en parallèle,
+donc il est très courant que certaines des aiguilles
+traversent des organes sensibles, ainsi,
+ces aiguilles abîment ces organes, et produisent des dégâts
+qui engendrent des traumatismes et des effets secondaires.
+Donc avec mes étudiants je me suis demandé, et si nous pouvions
+modifier ce système
+pour que les aiguilles puissent venir avec des angles différents?
+Donc nous avons simulé cela et developpé certains
+algorithmes d'optimisation et nous avons simulé cela,
+et avons été capables de montrer que l'on peut éviter
+les organes fragiles tout en maintenant une couverture
+efficace de la tumeur avec les radiations.
+Donc maintenant nous travaillons avec des docteurs d'UCSF
+et des ingénieurs de Johns Hopkins
+et nous construisons un robot,
+spécialement concu avec plusieurs articulations qui permettent
+aux aiguilles de pénétrer avec une infinité d'angles possibles,
+et comme vous pouvez le voir, elles peuvent éviter les organes fragiles
+et quand même atteindre leurs cibles.
+Donc en remettant en cause l'hypothèse que toutes les aiguilles
+doivent arriver de manière parallèle, ce projet m'a aussi appris
+une leçon importante: Quand on est dans le doute,
+quand votre chemin est bloqué, pivotez !
+Et le dernier projet est aussi en lien avec la robotique médicale
+et c'est quelque chose qui est venu d'un système appelé
+le robot chirurgien "da Vinci" ,
+et c'est un système qui est disponible dans le commerce.
+Il est utilisé dans plus de 2 000 hopitaux dans le monde,
+et l'idée est qu'il permet au chirugien
+d'opérer confortablement dans son propre système de coordonnées,
+car beaucoup de petites tâches chirurgicales
+sont très routinières et fastidieuses, comme recoudre une plaie,
+et en ce moment, tout cela est réalisé
+spécifiquement et directement par le chirurgien,
+ce qui fait que le chirurgien se fatigue avec le temps.
+On s'est donc demandé
+si nous pouvions programmer le robot
+pour qu'il réalise certaines de ces tâches,
+et ainsi libérer les chirurgiens qui pourraient se concentrer
+sur les parties les plus compliquées de la chirurgie,
+et aussi réduire le temps nécessaire à l'opération
+si nous pouvions faire que le robot réalise ces tâches un peu plus vite?
+En fait, c'est très dur de programmer un robot pour des tâches de précision
+comme celles-ci, mais il se trouve que mon collègue, Pieter Abbeel,
+qui est à Berkeley, a developpé
+une série de nouvelles techniques pour apprendre aux robots à partir d'un exemple.
+Donc il a réussi à ce que des robots pilotent un hélicoptère,
+fassent des choses incroyablement intéressantes, de belles acrobaties,
+en leur montrant des experts humains les pilotant.
+Donc nous avons pris l'un de ses robots.
+Nous avons commencé à travailler avec Pieter et ses étudiants,
+et nous avons demandé à un chirurgien d'accomplir
+une tâche, et ce qu'on fait avec le robot,
+donc ce qu'on fait c'est demander au robot,
+au chirurgien d'exécuter la tâche,
+et on enregistre les mouvements du robot.
+Voila un exemple. Je vais utiliser la figure du huit,
+le fait de tracer la figure huit comme un exemple.
+Donc voila à quoi ça ressemble quand le robot,
+voilà ce à quoi la trajectoire du robot ressemble
+dans ces trois exemples.
+C'est en fait bien meilleur que ce qu'un débutant
+comme moi pourrait faire, mais c'est quand même saccadé et imprécis.
+Donc nous enregistrons tous ces exemples, comme données,
+et puis nous procédons par étapes.
+D'abord nous utilisons une technique appelée déformation dynamique du temps
+venant de la reconnaissance de discours, et cela nous permet
+d'aligner tous les exemples dans le même temps
+et ensuite nous appliquons un filtrage de Kalman
+une technique de la théorie de la régulation, qui nous permet
+d'analyser le bruit statistique
+et d'extraire la trajectoire désirée sous-jacente.
+Donc ce que l'on fait c'est qu'on prend
+ces démonstrations humaines, qui sont toutes bruitées et imparfaites,
+et nous en extrayons une trajectoire de tâche
+et une séquence de contrôle pour le robot.
+Ensuite on fait marcher le robot avec cette séquence,
+et on observe le résultat,
+puis on adjuste les contrôles avec une séquence de techniques
+appelée apprentissage itératif.
+Puis on augmente un peu la vitesse du robot.
+On observe les résultats et on ré-ajuste les contrôles de nouveau,
+et on regarde ce qui se passe.
+Et l'on répète cela plusieurs fois.
+Et voilà le résultat.
+C'est la trajectoire déduite,
+et voilà le robot bougeant à la vitesse d'un humain.
+Ici, il va quatre fois plus vite qu'un humain.
+Ici sept fois.
+Et là le robot fait l'opération 10 fois
+plus vite qu'un humain.
+Donc, on est capable d'avoir un robot qui accomplit des tâches précises,
+comme une tâche chirurgicale,
+10 fois plus vite qu'un humain.
+Donc ce projet aussi, parce qu'il impliquait de la pratique
+et de l'apprentissage, en faisant quelque chose encore et encore,
+ce projet aussi m'a appris que,
+si vous voulez bien faire quelque chose,
+il n'y a rien qui remplace l'entraînement , l'entraînement, et encore l'entraînement .
+Ce sont donc les 4 leçons que j'ai apprises
+grâce aux robots au fil des ans,
+et la robotique, le champ de la robotique s'est beaucoup amélioré
+avec le temps.
+De nos jours, des lycéens peuvent construire des robots
+comme le robot industriel que mon père et moi avons essayé de construire.
+Et maintenant j'ai une fille,
+qui s'appelle Odessa.
+Elle a huit ans,
+et elle aime les robots aussi.
+Peut-être que c'est dans le sang. (Rires)
+J'aurai voulu qu'elle puisse rencontrer mon père.
+Et maintenant c'est moi qui dois lui apprendre comment les choses marchent,
+et nous pouvons construire des projets ensemble, et je me demande
+quel genre de choses cela lui apprendra.
+Les robots sont les plus humaines
+de nos machines.
+Ils ne peuvent pas résoudre tous les problèmes du monde,
+mais je pense qu'ils ont des choses importantes à nous apprendre.
+J'invite tous ceux qui pensent à des innovations
+qui les intéressent,
+aux machines dont vous rêvez,
+et pensez à ce qu'elles pourraient vous enseigner,
+parce que j'ai le préssentiment
+que beaucoup de nos innovations technologiques,
+des objets dont nous rêvons,
+peuvent nous inspirer à devenir meilleurs.
+Merci. (Applaudissements)

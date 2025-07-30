@@ -1,0 +1,307 @@
+Quand on pense au Népal,
+on a tendance à penser aux montagnes enneigées
+de l'Himalaya,
+aux eaux calmes et cristallines de ses lacs alpins,
+ou à l'étendue immense de ses prairies.
+Ce que certains d'entre nous ne réalisent peut-être pas,
+c'est que dans les contreforts de l'Himalaya,
+où le climat est beaucoup plus chaud
+et le paysage beaucoup plus verdoyant,
+vit une faune très diversifiée,
+y-compris le rhinocéros à une corne,
+l'éléphant d'Asie
+et le tigre du Bengale.
+Mais malheureusement, ces animaux
+sont sous la menace constante des braconniers
+qui les chassent et les tuent pour certaines parties de leurs corps.
+Pour arrêter le massacre de ces animaux,
+des bataillons de soldats et de rangers
+sont envoyés pour protéger les parcs nationaux du Népal,
+mais ce n'est pas une tâche facile,
+parce que ces soldats doivent patrouiller
+sur des milliers d'hectares de forêts à pied
+ou à dos d'éléphant.
+C'est également risqué pour ces soldats
+lorsqu'ils sont pris dans des fusillades avec des braconniers,
+et par conséquent le Népal est toujours à la recherche
+de moyens nouveaux pour aider à la protection des forêts
+et de la faune.
+Et récemment, le Népal a acquis un nouvel outil
+dans la lutte contre la criminalité liée aux espèces sauvages,
+et ce sont des drones,
+ou plus précisément, des drones de protection.
+Depuis maintenant un an environ, mes collègues et moi
+avons construit des drones pour le Népal
+et formé le personnel de protection du parc
+à l'utilisation de ces drones.
+Non seulement un drone vous donne
+une vue d'ensemble aérienne du paysage,
+mais il vous permet également de capturer
+des images détaillées en haute résolution d'objets sur le terrain.
+Ceci, par exemple, est une paire de rhinocéros
+prenant un bain rafraichissant par une chaude journée d'été
+dans les plaines du Népal.
+Nous pensons que les drones ont
+un énorme potentiel,
+non seulement pour lutter contre la criminalité liée aux espèces sauvages,
+mais aussi pour surveiller la santé
+de ces populations d'animaux sauvages.
+Qu'est-ce donc qu'un drone ?
+Eh bien, le genre de drone dont je parle
+est tout simplement un modèle réduit d'avion
+équipé d'un système de pilote automatique,
+et cette unité de pilotage automatique contient un petit ordinateur,
+un GPS, une boussole, un altimètre barométrique
+et quelques autres capteurs.
+Un drone comme ceci
+est destiné à transporter une charge utile,
+par exemple une caméra
+ou un appareil photographique.
+Il faut aussi un logiciel qui permet à l'utilisateur
+de programmer une mission,
+pour dire au drone où aller.
+Les gens avec lesquels je parle sont souvent surpris
+quand ils entendent qu'il y a seulement
+quatre éléments qui composent un drone de protection,
+mais ils sont encore plus surpris
+quand je leur dis combien ces composants sont abordables.
+En fait, un drone de protection
+ne coûte pas beaucoup plus
+qu'un bon ordinateur portable
+ou qu'une bonne paire de jumelles.
+Alors maintenant que vous avez construit votre propre drone de protection,
+vous voudrez probablement le faire voler
+mais comment fait-on voler un drone ?
+Eh bien, en fait, vous n'avez pas à le faire,
+parce que le drone vole tout seul.
+Tout ce que vous avez à faire est de programmer une mission
+pour dire au drone où voler.
+Mais vous le faites simplement en cliquant sur
+quelques points de passage sur l'interface de Google Maps
+en utilisant le logiciel open source.
+Ces missions pourraient être aussi simples
+que passer par quelques points seulement,
+ou elles pourraient être légèrement plus longues et plus compliquées,
+voler le long d'un réseau hydrographique.
+Parfois, nous faisons voler le drone sur un plan de type "tondeuse à gazon"
+et nous prenons des photos de cette région,
+et ces images peuvent être traitées
+pour produire une carte de cette forêt.
+D'autres chercheurs pourraient vouloir faire voler le drone
+le long des frontières d'une forêt
+pour surveiller les braconniers ou les personnes
+qui pourraient essayer d'entrer illégalement dans la forêt.
+Quelle que soit votre mission,
+une fois que vous l'avez programmée,
+vous la téléchargez simplement dans le système de pilotage automatique,
+vous apportez votre drone sur le terrain,
+et vous le lancez simplement en le jetant en l'air.
+Et souvent, nous irons sur cette mission
+prendre des photos ou des vidéos en chemin,
+et généralement à ce stade,
+nous allons nous servir une tasse de café,
+nous assoir et nous détendre quelques minutes,
+bien que certains d'entre nous s'asseyent et angoissent pendant quelques minutes,
+craignant que le drone ne revienne pas.
+Habituellement il revient, et quand il revient,
+il se pose même automatiquement.
+Que pouvons-nous donc faire avec un drone de protection ?
+Eh bien, quand nous avons construit notre premier prototype de drone,
+notre objectif principal était de survoler
+une forêt tropicale humide reculée, dans le nord de Sumatra en Indonésie,
+pour chercher les nids d'une espèce de grands singes
+connue sous le nom d'orang-outang.
+La raison pour laquelle nous avons voulu faire cela
+est que nous avions besoin de savoir combien d'individus
+de cette espèce il restait dans cette forêt.
+La méthode traditionnelle de comptage
+pour les orangs-outans est de marcher à travers la forêt,
+en transportant un lourd équipement
+et, à l'aide d'un paire de jumelle, de regarder dans la cime des arbres
+où l'on pourrait trouver un orang-outan ou son nid.
+Comme vous pouvez l'imaginer,
+c'est un travail très long et pénible,
+et un processus coûteux,
+donc nous espérions que les drones
+pourraient réduire considérablement le coût de cette enquête
+concernant la population d'orangs-outans en Indonésie
+et ailleurs en Asie du Sud-Est.
+Nous avons été très heureux lorsque nous avons capturé
+notre première paire de nids d'orangs-outans sur notre appareil photo.
+Et voilà ; Il s'agit de la toute première photo
+de nids d'orang-outan jamais prise par un drone.
+Depuis lors, nous avons pris en photo
+des dizaines de ces nids
+dans différentes parties de l'Asie du Sud-Est,
+et nous travaillons maintenant avec des informaticiens
+pour développer des algorithmes permettant de compter automatiquement
+le nombre de nids à partir des milliers
+de photos que nous avons recueillies à ce jour.
+Mais les nids ne sont pas les seuls objets
+que ces drones peuvent détecter.
+Voici un orang-outan sauvage
+s'alimentant avec bonheur au sommet d'un palmier,
+n'ayant apparemment pas conscience que notre drone volait au-dessus de sa tête,
+pas une seule fois mais à plusieurs reprises.
+Nous avons également pris des photos d'autres animaux
+y compris les buffles de forêt au Gabon,
+des éléphants, et même des nids de tortues.
+Mais outre la simple prise de photos d'animaux,
+nous prenons aussi des photos de l'habitat dans lequel ils vivent,
+parce que nous voulons garder une trace
+de la santé de ces habitats.
+Parfois, nous effectuons un zoom arrière
+et regardons les autres choses qui pourraient se produire
+dans le paysage.
+Voici une plantation de palmiers à Sumatra.
+L'huile de palme est un des principaux moteurs de la déforestation
+dans cette partie du monde,
+donc nous voulions utiliser cette nouvelle technologie, les drones,
+pour suivre la propagation de ces plantations
+en Asie du Sud-Est.
+Mais les drones pourraient également être utilisés pour suivre
+les activités illégales d'exploitation forestière.
+Voici une forêt exploitée illégalement depuis peu
+à nouveau à Sumatra.
+Vous pouvez même encore distinguer
+des planches de bois abandonnées sur le sol.
+Mais peut-être la partie la plus excitante
+concernant la prise de vue aérienne
+est-elle que nous avons pu ensuite assembler ces photos
+pour créer à l'aide de logiciels spéciaux une carte
+du paysage dans son entier, et cette carte
+nous donne des informations cruciales
+pour surveiller tout changement dans l'utilisation des terres,
+pour nous faire savoir où et quand les plantations pourraient être étendues,
+où les forêts pourraient se réduire,
+ou encore où les incendies pourraient éclater.
+Les images aériennes peuvent aussi être traitées
+pour produire
+des modèles informatiques des forêts en trois dimensions.
+Or ces modèles ne sont pas seulement visuellement attrayants,
+mais ils sont aussi géométriquement exacts,
+ce qui signifie que les chercheurs peuvent désormais mesurer
+la distance entre les arbres,
+calculer la superficie, le volume de la végétation,
+et ainsi de suite, et tout cela représente des informations importantes
+pour la surveillance de la santé de ces forêts.
+Récemment, nous avons également commencé à expérimenter
+l'imagerie avec des caméras thermiques.
+Ces caméras peuvent détecter
+des objets au sol dégageant de la chaleur,
+et ils sont donc très utiles pour détecter des braconniers ou leurs feux de camp pendant la nuit.
+Je vous ai dit beaucoup de choses
+sur ce que sont les drones de protection,
+comment vous pourriez exploiter l'un de ces drones,
+et comment un drone pourrait vous rendre service.
+Je vais maintenant vous dire où les drones de protection
+sont utilisés dans le monde.
+Nous avons construit nos premiers prototypes de drones en Suisse.
+Nous en avons apporté quelques uns en Indonésie
+pour les premiers essais en vol.
+Depuis lors, nous construisons des drones
+pour nos collaborateurs de partout dans le monde,
+et parmi eux on compte des collègues biologistes
+et des partenaires d'importants organismes de conservation.
+Peut-être la partie la meilleure et la plus gratifiante
+de ce travail avec ces collaborateurs
+est-elle le retour d'expérience qu'ils nous donnent
+sur comment améliorer nos drones.
+La construction de drones est pour nous
+un travail en constante évolution.
+Nous nous efforçons constamment de les améliorer en termes
+de rayon d'action, de robustesse,
+et de la capacité de charge utile qu'ils peuvent transporter.
+Nous travaillons également avec des collaborateurs
+pour découvrir de nouvelles façons d'utiliser ces drones.
+Par exemple, les pièges photographiques sont un outil courant
+utilisé par les biologistes pour prendre des photos d'animaux craintifs
+se cachant dans les forêts,
+mais ceux-ci sont des appareils déclenchés par le mouvement,
+et donc ils prennent une photo chaque fois qu'un animal
+croise leur chemin.
+Mais le problème avec ces pièges photographiques,
+c'est que le chercheur doit revenir dans la forêt
+de temps en temps pour récupérer ces images,
+ce qui prend beaucoup de temps,
+surtout s'il y a des dizaines
+ou des centaines de ces appareils installés dans la forêt.
+Mais un drone pourrait être conçu pour effectuer cette tâche
+d'une manière beaucoup plus efficace.
+Ce drone, transportant un capteur spécial,
+pourrait survoler la forêt
+et, à distance, télécharger ces images
+à partir d'appareils photos équipés en wi-fi.
+Le collier radio-émetteur est un autre outil
+qui est couramment utilisé par les biologistes.
+Ces colliers sont placés sur les animaux.
+Ils transmettent un signal radio qui permet
+au chercheur de suivre les déplacements de ces animaux dans le paysage.
+Mais la façon traditionnelle de suivi des animaux
+est assez ridicule,
+parce qu'elle oblige le chercheur à marcher
+sur le terrain en portant une antenne radio énorme et encombrante
+qui n'est pas sans rappeler ces vieilles antennes TV que nous avions jadis
+sur nos toits. Certains d'entre nous les ont toujours.
+Un drone pourrait être utilisé pour effectuer le même travail
+d'une manière beaucoup plus efficace.
+Pourquoi ne pas équiper un drone
+avec un récepteur radio à balayage,
+lui faire survoler la canopée
+en suivant un certain plan
+qui permettrait à l'utilisateur ou à l'opérateur
+de trianguler l'emplacement
+de ces animaux munis de radio-collier à distance
+sans avoir à remettre les pieds dans la forêt.
+Une troisième et peut-être encore plus excitante manière
+d'utiliser ces drones
+est de les faire voler dans une zone très reculée,
+inexplorée de la forêt tropicale
+cachée quelque part sous les tropiques,
+et d'y parachuter un minuscule micro espion
+qui nous permettrait d'écouter les appels
+de mammifères, d'oiseaux, d'amphibiens,
+du yéti, du Sasquatch, de Bigfoot, peu importe.
+Ce qui nous donnerait, à nous biologistes,
+une assez bonne idée de ce que les animaux
+pourraient vivre dans ces forêts.
+Et enfin, je tiens à vous montrer
+la dernière version de notre drone de protection.
+Le drone MAJA a une envergure
+d'environ deux mètres.
+Il ne pèse qu'environ deux kilogrammes,
+mais il peut transporter la moitié de son poids.
+C'est un système entièrement autonome.
+Au cours de sa mission, il peut même transmettre
+une vidéo live à un ordinateur portable de la station au sol,
+ce qui permet à l'utilisateur
+de voir ce que voit le drone en temps réel.
+Il transporte différents capteurs,
+et la qualité des photos de certains de ces capteurs
+peut atteindre jusqu'à un ou deux centimètres par pixel.
+Ce drone peut rester en l'air pendant 40 à 60 minutes,
+ce qui lui donne une portée allant jusqu'à 50 km.
+C'est tout à fait suffisant pour la plupart
+de nos applications de protection.
+Les drones de protection sont donc nés
+d' une idée folle de deux biologistes
+qui sont profondément passionnés par cette technologie.
+Et nous pensons, nous croyons fermement,
+que les drones peuvent et vont peser
+dans les recherches et les applications de la protection et de la conservation.
+Nous avons eu notre juste part de sceptiques et de critiques
+qui pensaient que nous n'étions que des amuseurs avec des jouets volants
+Et d'une certain façon, ils avaient raison.
+Je veux dire, soyons honnêtes,
+les drones sont les jouets ultimes pour les garçons.
+Mais en même temps, nous avons aussi appris à connaître
+beaucoup de merveilleux collègues et collaborateurs
+qui partagent notre vision
+et voient le potentiel des drones de protection.
+Pour nous, il est évident que biologistes de la conservation
+et les praticiens devraient exploiter pleinement
+tous les outils disponibles, notamment ces drones,
+dans notre combat pour sauver les dernières forêts
+et la faune de cette planète.
+Merci.
+(Applaudissements)

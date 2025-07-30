@@ -1,0 +1,386 @@
+Je suis enseignant en informatique,
+mon domaine d'expertise est
+la sécurité des systèmes d'information.
+Quand j'étais à l'Université,
+j'ai eu l'occasion d'entendre ma grand-mère
+décrire à l'un des pensionnaires de sa maison de retraite
+ce que je faisais comme travail.
+Apparemment, j'étais chargé de m'assurer
+que personne ne volait les ordinateurs de l'université. (Rires)
+C'est une hypothèse raisonnable de sa part
+puisque je lui avais expliqué que je travaillais
+dans la sécurité informatique,
+et ça a été intéressant d'avoir son point de vue.
+Mais ce n'est pas la chose la plus ridicule que j'ai entendue
+au sujet de mon travail.
+C'est plutôt ceci :
+j'étais à un dîner, et une femme a entendu
+que je travaillais dans la sécurité informatique.
+Elle me demande si son ordinateur,
+infecté par un virus -- elle était très angoissée --
+pouvait le lui transmettre et la rendre malade. (Rires)
+Je ne suis pas médecin, mais je l'ai rassurée
+en affirmant que c'était très peu probable,
+mais que si cela la rassurait, elle pouvait utiliser
+son ordinateur avec des gants en latex,
+que cela ne lui ferait pas de mal.
+Je vais revenir sur cette idée d'infection virale
+par l'ordinateur, un peu plus sérieusement.
+Ce dont je vais vous parler aujourd'hui
+c'est de piratage, de cyber-attaques réelles que les gens
+de ma communauté -- celle de la recherche universitaire --
+ont réalisées. Je pense que
+peu de personnes sont au courant
+alors que c'est à la fois intéressant et effrayant.
+Cet exposé est une sorte de "best of"
+des attaques de la communauté universitaire de sécurité informatique.
+Aucun de ces résultats n'est le mien. C'est le fruit
+des travaux de mes collègues, et je leur ai demandé
+si je pouvais utiliser leurs diapositives dans cet exposé.
+La première attaque que je vais aborder
+concerne les dispositifs médicaux implantés dans l'organisme.
+Ces dispositifs ont déjà un long parcours technologique.
+Le premier pacemaker a été inventé en 1926,
+et en 1960, le premier pacemaker interne a été implanté.
+J'espère qu'il était un peu plus petit que celui que vous pouvez voir ici.
+Depuis, la technologie n'a cessé de progresser.
+En 2006, on a atteint une étape importante dans le domaine
+de la sécurité informatique.
+Pourquoi est-ce que je dis cela ?
+Parce que c'est à cette époque que les appareils implantés dans l'organisme
+ont commencé à pouvoir communiquer en réseau.
+Parmi les choses qui nous font prendre conscience de cela,
+le dispositif de Dick Cheney : un appareil
+chargé de pomper le sang depuis une artère pour l'envoyer dans une autre partie du cœur.
+Comme vous pouvez le voir en bas,
+cet appareil était contrôlé par un ordinateur ;
+Si vous n'avez jamais pensé que la fiabilité d'un logiciel
+puisse être importante, faites-vous donc implanter l'un de ces appareils dans votre organisme.
+L'une des équipes de recherche a mis la main
+sur ce qu'on appelle un DAI.
+C'est un défibrillateur : un appareil
+qu'on implante pour contrôler le rythme cardiaque.
+Ces appareils ont déjà sauvé de nombreuses vies.
+Pour éviter d'avoir à opérer le patient,
+chaque fois que vous voulez reprogrammer l'appareil
+ou le vérifier, ils ont fait en sorte que
+le dispositif puisse communiquer sans fil. L'équipe de recherche a fait
+de la rétro-ingénierie sur le protocole de communication sans fil,
+puis a créé la machine que vous voyez ici,
+qui pouvait, grâce à une petite antenne, communiquer
+avec l'appareil, et donc le contrôler.
+Pour rendre leur expérience plus réelle
+-- ils n'ont pas trouvé de volontaires --
+ils ont pris du steak haché et du bacon
+ont emballé tout ça pour que cela ait la taille
+de la partie du corps humain où l'appareil devrait se loger,
+puis ils ont installé le dispositif à l'intérieur
+afin de réaliser leur expérience en conditions quasi réelles.
+Ils ont réussi beaucoup d'attaques,
+comme changer le nom du patient.
+Je ne sais pas pourquoi vous voudriez faire ça,
+mais je suis sûr que je ne voudrais pas qu'on me le fasse.
+Ils ont également réussi à changer le traitement,
+notamment en désactivant l'appareil
+-- un appareil standard du commerce --
+simplement par rétro-ingénierie du protocole, puis par envoi sans fil
+de signaux à l'appareil.
+Dans un article sur NPR, il était dit que certains DAI
+pouvaient voir leur fonctionnement perturbé
+par la simple présence d'écouteurs posés dessus.
+Bien évidemment, les technologies sans fil et Internet
+peuvent grandement améliorer les services de santé.
+Il y a plusieurs exemples, affichés à l'écran,
+de situations où les docteurs préfèrent implanter des appareils
+dans le corps des patients, et tous ces systèmes
+communiquent désormais sans fil, c'est la norme.
+Je pense que c'est une bonne chose,
+mais sans une pleine compréhension de la fiabilité informatique,
+des possibilités d'attaques
+et des risques de sécurité inhérents,
+le danger est grand.
+Passons à la vitesse supérieure en changeant de cible.
+Je vais vous montrer quelques cibles potentielles
+c'est mon sujet du jour. Intéressons-nous aux voitures.
+De nos jours, une voiture possède
+de nombreux composants électroniques.
+En réalité, on y trouve plusieurs ordinateurs embarqués
+-- plus de Pentiums que dans le laboratoire de mon université --
+ces ordinateurs sont connectés par un réseau filaire.
+Une voiture possède également un réseau sans fil
+accessible de différentes manières :
+par Bluetooth, par radio FM, par radio satellite,
+également par Wi-Fi. Des capteurs dans les roues
+transmettent en sans fil la pression des pneus
+à un contrôleur embarqué.
+La voiture moderne est un dispositif informatique complexe.
+Que se passerait-il si quelqu'un piratait ce système ?
+Eh bien, c'est ce qu'ont fait les chercheurs
+dont je vais vous parler.
+En gros, ils ont placé un programme pirate sur le réseau filaire
+et sur le réseau sans fil.
+Ainsi, ils ont deux angles d'attaque :
+le premier, à courte portée en sans fil, permettant
+de communiquer avec le système à proximité
+par Bluetooth ou Wi-Fi ;
+le second, à longue portée, permettant de communiquer
+avec la voiture par le réseau de téléphonie mobile
+ou par une station de radio.
+Réfléchissez-y : quand une voiture reçoit un signal radio,
+il est traité par un logiciel.
+Ce logiciel reçoit et décode le signal radio,
+puis déduit ce qu'il doit en faire
+même s'il s'agit seulement de musique pour l'autoradio.
+Si ce logiciel qui décode le signal
+a des bugs, il peut être à l'origine d'une faille
+que l'on peut exploiter pour pirater la voiture.
+Voici comment ont procédé les chercheurs :
+Ils ont étudié le logiciel présent sur les puces électroniques
+présentes dans la voiture, puis ont utilisé
+des outils complexes de rétro-ingénierie
+afin de déterminer ce que le logiciel faisait.
+Ils ont trouvé des failles dans ce logiciel
+puis ont développé des programmes exploitant ces failles.
+Ils ont enfin réalisé leur attaque dans des conditions réelles.
+Ils ont acheté deux voitures -- j'imagine
+qu'ils ont de meilleurs budgets que moi.
+La première expérience devait permettre de voir
+ce qu'un hacker pouvait faire s'il accédait
+au réseau interne de la voiture.
+Imaginez : quelqu'un s'introduit dans votre voiture,
+y bidouille quelque chose, puis s'en va.
+Que risquez-vous désormais ?
+La seconde expérience consiste à pirater la voiture
+en temps réel par un réseau sans fil
+-- comme celui de téléphonie mobile ou un autre --
+sans jamais avoir besoin d'accéder physiquement à cette voiture.
+Voici à quoi ressemblait leur installation dans le premier cas,
+avec un accès à la voiture.
+Ils ont utilisé un ordinateur portable qu'ils ont connecté à l'unité de diagnostic
+du réseau interne de la voiture, puis ont fait toutes sortes de choses stupides
+comme le montre cette image du compteur de vitesse
+indiquant 220 km / h à l'arrêt.
+Une fois qu'on a le contrôle sur les ordinateurs embarqués,
+on peut faire ce qu'on veut.
+Peut-être vous dites-vous : "Bon, ça c'est ridicule."
+Mais qu'en serait-il si le compteur affichait systématiquement
+la vitesse réduite de 30 km / h ?
+Certainement un grand nombre d'amendes pour excès de vitesse.
+Puis ils sont allés sur une piste d'atterrissage désaffectée avec deux voitures
+-- une voiture cible et une voiture de poursuite --
+et ont lancé plusieurs autres attaques.
+Ils ont notamment réussi à actionner les freins
+de la voiture cible depuis la voiture de poursuite,
+simplement en piratant l'ordinateur de bord.
+Ils ont aussi pu désactiver les freins.
+Ils ont enfin réussi à installer un virus qui ne se déclenche
+que lorsque la voiture effectue une action
+comme dépasser les 30 km / h par exemple.
+Les résultats sont stupéfiants, et même
+quand ils les ont présentés lors d'une conférence
+destinée à des chercheurs en sécurité informatique,
+tous étaient stupéfaits.
+Ils ont pu prendre le contrôle de plusieurs ordinateurs critiques
+de la voiture : le contrôleur des freins, de l'éclairage,
+du moteur, du tableau de bord, de la radio, etc.
+Et ils ont pu faire cela sur des voitures
+achetées dans le commerce, en les piratant par radio.
+Ils ont réussi à compromettre
+chacune des parties du logiciel qui contrôle
+toutes les fonctions sans fil de la voiture.
+Toutes ces attaques ont été couronnées de succès.
+Comment ferait-on pour voler une voiture avec cette méthode ?
+Eh bien, vous exploitez une faille de <i>buffer overflow</i>
+dans le logiciel, ou quelque chose du genre.
+Puis vous localisez la voiture à l'aide du GPS intégré.
+À distance, vous ouvrez les portières en accédant
+à l'ordinateur qui contrôle le verrouillage, vous démarrez le moteur, vous contournez l'antivol
+et vous avez votre voiture.
+Autre aspect très intéressant : la surveillance.
+Les auteurs de l'étude montrent dans une vidéo
+comment ils ont pris le contrôle d'une voiture,
+ont allumé le micro embarqué pour écouter,
+tandis que la voiture était pistée par GPS sur une carte,
+et tout cela de manière à ce que les personnes à bord
+ne se rendent compte de rien.
+Déjà effrayés ?
+En voici encore quelques-unes intéressantes.
+Voici celles que j'ai découvertes lors d'une conférence ;
+j'en suis tombé à la renverse, et je me suis dit
+qu'il fallait que je le partage avec d'autres.
+Le travail du laboratoire dirigé par Fabian Monrose
+à l'université de Caroline du Nord
+consiste à quelque chose d'intuitif
+mais plutôt surprenant.
+Ils ont filmé des personnes dans un bus
+puis ont traité la vidéo en postproduction.
+Ce que vous voyez là au numéro 1,
+c'est la reflet du smartphone d'une personne
+dans ses lunettes.
+Ils ont écrit un programme pour stabiliser
+-- même dans un bus
+ou avec un certain angle de vue --
+l'image du téléphone et la traiter.
+Vous savez, quand vous entrez un mot de passe sur votre smartphone,
+les touches sur lesquelles on appuie se mettent légèrement en surbrillance.
+Ils ont pu utiliser cela pour reconstituer ce que l'utilisateur entrait,
+et définir un modèle de langage pour détecter un texte tapé.
+Ce qui est intéressant, c'est qu'en filmant dans un bus,
+ils ont pu reconstituer exactement ce que les personnes
+avaient tapé sur leurs smartphones.
+Puis ils ont eu la surprise de constater
+que leur logiciel l'avait fait non seulement pour la personne ciblée
+mais également pour les autres personnes
+apparaissant accidentellement sur la vidéo. Ils ont pu reconstituer
+ce que ces personnes tapaient ; c'était une sorte d'effet
+secondaire involontaire de leur logiciel.
+Je vais vous en montrer encore deux. Tout d'abord, les radios P25.
+Les radios P25 sont utilisées par la police
+ainsi que toutes sortes d'agences gouvernementales
+ou même les soldats au front, pour communiquer.
+Ces téléphones possèdent une option d'encodage.
+Voici à quoi ressemble ce téléphone. Ce n'est pas vraiment un téléphone,
+plutôt un émetteur-récepteur.
+Motorola produit le modèle le plus utilisé, et vous pouvez voir
+qu'il est utilisé par les services secrets, par les soldats au front, etc.
+C'est très commun aux États-Unis et ailleurs.
+La question que se sont posée les chercheurs,
+était : pourrait-on bloquer ces communications ?
+Pourrait-on provoquer un déni de service
+sur ces communications d'urgence ?
+Est-ce qu'une organisation terroriste pourrait aveugler
+les communications de la police et des pompiers lors d'une urgence ?
+Ils ont découvert qu'un appareil de GirlTech permettant d'échanger des SMS
+utilise exactement la même fréquence
+que les radios P25 ; ils ont donc conçu ce qu'ils ont appelé
+"Mon Premier Brouilleur". (Rires)
+Si vous observez attentivement l'appareil,
+il y a un interrupteur pour encoder ou non.
+Laissez-moi passer à la diapositive suivante, puis revenir à celle-ci.
+Vous voyez la différence ?
+Ici on est en texte clair. Là, c'est encodé.
+Il y a un petit point qui apparaît sur l'écran,
+et un petit changement au niveau de l'interrupteur.
+Les chercheurs se sont donc demandé
+combien de fois des conversations très sensibles et importantes
+sont transmises avec ces émetteurs-récepteurs
+où l'option d'encodage a été oubliée sans que les interlocuteurs ne le remarquent.
+Ils se sont donc procurés un scanner radio, un dispositif parfaitement légal aux États-Unis.
+Ils l'ont utilisé à la fréquence des radios P25
+et ont parcouru les fréquences environnantes
+puis ont développé un logiciel d'écoute.
+S'ils trouvaient une communication encodée, ils restaient
+sur cette fréquence, en indiquant que cette fréquence
+était utilisée par ces personnes pour communiquer,
+ces agents de maintien de l'ordre.
+Ainsi, ils sont allés dans 20 agglomérations et ont écouté
+les conversations transmises sur ces fréquences.
+Ils ont découvert que dans chacune de ces agglomérations
+ils captaient plus de 20 minutes de communication
+en clair par jour.
+Et de quoi parlaient ces personnes ?
+Eh bien, de noms et d'informations
+concernant des informateurs ; d'informations
+enregistrées lors d'écoutes téléphoniques ;
+d'un certain nombre de délits examinés
+et d'informations sensibles,
+principalement policières et criminelles.
+Ils l'ont signalé aux agences de maintien
+de l'ordre, après avoir anonymisé les données.
+La faille ici était simplement due à une mauvaise
+interface utilisateur. Si vous êtes en train de discuter
+de sujets sensibles qui doivent être sécurisés, il faudrait
+que la conversation soit clairement indiquée comme encodée.
+Cette faille est facile à corriger.
+La dernière chose que je trouvais vraiment, vraiment génial,
+je vais juste vous le montrer ; ça ne va sûrement pas
+vous empêcher de dormir
+comme les voitures ou les défibrillateurs.
+Il s'agit de reconnaissance de frappe au clavier.
+Les smartphones ont été étudiés sous toutes les coutures.
+Tout expert en sécurité souhaite pirater un smartphone ;
+on s'est intéressé au port USB, au GPS pour pister le téléphone,
+à la caméra, au micro, mais personne jusque-là
+ne s'est intéressé à l'accéléromètre.
+L'accéléromètre est le composant qui détermine
+l'orientation verticale du smartphone.
+Ils ont donc mis au point une installation simple :
+après avoir placé un téléphone à proximité d'un clavier,
+ils ont demandé à des personnes de taper au clavier ; leur but était
+d'exploiter les vibrations créées par la frappe des touches,
+pour mesurer les changements de l'accéléromètre
+permettant ainsi de déterminer ce que la personne écrit.
+Avec un iPhone 3GS,
+voici le graphe des perturbations créées
+lors de la frappe : comme vous pouvez le voir, il est difficile
+de déterminer quand quelqu'un écrit ou ce qu'il écrit ;
+mais l'accéléromètre de l'iPhone 4 a été grandement amélioré,
+et avec les mêmes mesures,
+on obtient ce graphe.
+Cela vous donne beaucoup d'informations quand quelqu'un
+écrit quelque chose ; les chercheurs ont utilisé
+des techniques avancées d'intelligence artificielle comme l'apprentissage automatique
+afin d'établir une phase d'apprentissage.
+Puis ils ont demandé certainement à des étudiants diplômés
+d'écrire tout un tas de choses afin que le système puisse
+-- grâce aux outils d'apprentissage automatique --
+apprendre à reconnaître ce que les personnes écrivaient
+et l'apparier
+avec les mesures de l'accéléromètre.
+Vient ensuite la phase d'attaque,
+où quelqu'un écrit quelque chose que l'on ignore
+mais grâce au modèle défini
+par la phase d'apprentissage, on détermine ce qu'il écrit.
+Leurs résultats étaient plutôt bons. Voici un article d'USA Today.
+Il y est écrit : "La Cour Suprême de l'Illinois a décrété
+que Rahm Emanuel a droit de se présenter au poste de maire de Chicago"
+-- remarquez le lien avec la dernière conférence --
+"et le somme de rester en lice."
+Le système a un comportement intéressant : il a retrouvé
+les deux premiers mots mais ensuite n'était pas certain.
+Le modèle a donc proposé une liste de possibilités.
+C'est là la beauté de certaines techniques d'intelligence artificielle :
+les ordinateurs sont bons dans certains domaines,
+les humains dans d'autres.
+Il s'agit de choisir le meilleur des deux : ici l'humain.
+Ne perdez pas de temps à faire calculer les ordinateurs.
+Un être humain saura qu'il ne s'agit pas du Pouvoir Suprême
+mais de la Cour Suprême, n'est-ce pas ?
+Et ainsi, ensemble, nous sommes capables de retrouver ce qui est écrit
+simplement en observant les mesures de l'accéléromètre.
+Pourquoi est-ce important ? Eh bien, sur Androïd
+par exemple, les développeurs ont un manifeste
+sur lequel chaque dispositif -- le micro, etc. --
+doit être déclaré si vous voulez l'utiliser :
+ainsi les pirates ne peuvent en prendre le contrôle,
+mais personne ne contrôle l'accéléromètre.
+Quelle est l'idée derrière cela ? Vous pouvez laisser votre iPhone à côté
+du clavier de quelqu'un, puis simplement quitter la pièce ;
+plus tard, vous récupèrerez ce qui a été écrit,
+même sans l'usage d'un micro.
+Si quelqu'un parvient à installer une appli malveillante sur votre iPhone,
+il pourrait peut-être récupérer ce que vous écrivez
+lorsque vous laissez votre iPhone à côté de votre clavier.
+Il y a pas mal d'autres attaques remarquables dont je n'ai
+malheureusement pas le temps de parler, mais je voulais
+attirer votre attention sur un groupe de l'Université du Michigan
+qui ont pu récupérer des machines à voter,
+des Sequoia AVC Edge DRE
+qui allaient être utilisées lors d'une élection dans le New Jersey.
+Ces machines étaient laissées dans le hall. Ils ont installé Pac-Man dessus.
+Ils ont donc pu jouer à Pac-Man.
+Qu'est-ce que tout cela signifie ?
+Eh bien, je pense que notre société a tendance à adopter de nouvelles technologies
+très rapidement. On est séduit par le prochain gadget génial.
+Mais c'est très important, comme nous le démontrent ces chercheurs,
+que les développeurs travaillant dans ce domaine
+doivent prendre en compte la sécurité dès le début
+et réaliser que malgré leur modèle de risques
+les pirates n'auront peut-être pas la décence
+de s'y limiter ;
+il faut donc penser hors des chemins battus.
+Nous pouvons prendre conscience
+que tout dispositif peut être compromis,
+et que tout ce qui comporte du logiciel
+est susceptible d'être vulnérable. Il y aura forcément des bugs.
+Merci beaucoup. (Applaudissements)

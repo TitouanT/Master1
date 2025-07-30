@@ -1,0 +1,98 @@
+Je voudrais vous parler aujourd'hui
+de mondes virtuels, de globes numériques, du Web en 3D, du méta-univers.
+Qu'est-ce que cela signifie pour nous?
+Que le Web va redevenir un endroit passionnant.
+Il va même devenir super intéressant, puisque nous transformons
+dans ce monde hautement immersif et interactif,
+grâce au graphisme, à la puissance de calcul, à une faible latence,
+ces types d'applications et possibilités, qui
+nous transmettrons du contenu à valeur ajoutée.
+Telle l'initiative "Virtual Earth" ("Terre Virtuelle"), et d'autres types d'initiative de ce genre,
+qui vont augmenter notre pouvoir de recherche.
+En y réfléchissant, nous sommes très contraints en parcourant le Web,
+il faut se rappeler les adresses, sauver ses favoris.
+Pour la recherche sur Internet, nous utilisons les classements par importance,
+les similarités, le parcours de contenus indexés,
+mais nous voulons utiliser notre cerveau!
+Nous voulons naviguer, explorer, découvrir l'information.
+Pour cela, nous devons remettre l'utilisateur en position de contrôle.
+La coopération entre vous et le réseau et l'ordinateur est nécessaire.
+Quelle meilleure manière de vous rendre le contrôle que de
+vous plonger dans le monde réel dans lequel vous intéragissez tous les jours?
+Pourquoi ne pas utiliser les enseignements que vous avez appris pendant la vie?
+Virtual Earth a donc, en quelque sorte, commencé à
+créer la première représentation numérique, compréhensible, du monde.
+Nous voulons mélanger toutes sortes de données.
+Étiqueter, définir. Méta-donnée. Laisser les gens ajouter une dimension locale
+-- perspective globale, savoir local.
+Quand vous y réfléchissez,
+quelle tâche énorme! Par où commencer?
+Eh bien, nous collectons les données des satellites, des avions,
+des véhicules terrestres, des gens.
+Ce processus est un problème d'ingénieurs,
+un problème mécanique, un problème logistique, un problème opérationnel.
+Voici un exemple de notre caméra aérienne.
+Elle est panchromatique. Elle a quatre cônes de couleur.
+En plus, elle est multi-spectrale.
+Nous récoltons 4 gigabits de données par seconde,
+si vous arrivez à imaginer ce flux de données.
+C'est l'équivalent d'une constellation de 12 satellites haute définition.
+Ces avions volent à 1500 mètres d'altitude;
+vous voyez la caméra à l'avant. Nous récoltons depuis plusieurs points de vue,
+profondeurs, angles, textures. Nous rassemblons tout cela.
+Nous sommes ici -- en fait, à l'échelle humaine, à hauteur de véhicules --
+que voyez-vous réellement? Nous devons capturer cela de près
+pour obtenir une expérience de réalité forte.
+Je parierais que nombre d'entre vous ont vu les pubs Apple,
+titillant les PC devant leur manque de classe et de simplicité.
+Un secret méconnu est --
+avez-vous vu celle avec le gars qui a une Webcam?
+Le pauvre type, ils lui scotchent la tête, pour que la caméra tienne sur lui.
+Eh bien, un secret méconnu est que son frère travaille dans l'équipe Virtual Earth.
+(Rires). Il y a donc une sorte de rivalité fraternelle en jeu ici.
+Mais laissez-moi vous dire -- cela n'affecte pas son travail.
+Nous pensons que beaucoup de bien peut venir de cette technologie.
+C'était après Katrina. Nous fûmes la première flotte commerciale d'avions
+à avoir le droit de survoler la zone du désastre.
+Nous l'avons survolée, numérisée, nous avons envoyé des gens prendre des photos de l'intérieur des maisons,
+des zones de désastre. Nous avons aidé les premiers sauveteurs pour retrouver et secourir les victimes.
+Souvent, les gens ont découvert sur Virtual Earth ce qu'il était advenu de leur maison.
+Nous l'avons rendu accessible gratuitement sur le Web, pour --
+c'est sans aucun doute notre seule possibilité d'aider dans ce cas.
+En y réfléchissant, comment tout cela fonctionne,
+c'est juste du logiciel, des algorithmes et des maths.
+Nous capturons ces images, mais pour construire les modèles en 3D,
+nous devons géo-localiser. Nous devons enregistrer les coordonnées de ces images.
+Nous devons les abouter. Trouver les points de connexion.
+Extraire la géométrie des images.
+Ce processus nécessite beaucoup de calculs.
+En fait, cela avait toujours été fait à la main.
+Hollywood dépense des millions de dollars pour recréer un décor de ville
+pour un film parce qu'ils doivent le faire manuellement.
+Ils parcourent les rues avec des lasers appelés LIDAR.
+Ils ont récupéré l'information par des photos; ils construisent manuellement chaque immeuble.
+Nous faisons cela avec du logiciel, des algorithmes et des maths,
+un processus hautement automatisé crée ces décors.
+Nous faisons cela pour un dixième du coût des décors,
+ce qui permettra de redimensionner cela et de rendre cette réalité un rêve.
+Nous réfléchissons à l'interface utilisateur.
+Que signifie de regarder depuis plusieurs perspectives?
+Une vue orthodromique. Une vue Nadir. Comment conserver la précision de l'imagerie
+tout en maintenant la fluidité du modèle?
+Pour conclure, je vais vous montrer --
+ceci est tout nouveau, je ne l'ai jamais vraiment montré aux équipes de Virtual Earth.
+Nous faisons -- les gens adorent cela --
+voici la vue d'oiseau que nous utilisons. Ce sont des données à haute résolution.
+Mais nous avons découvert qu'ils aimaient la fluidité du modèle 3D.
+Un enfant peut utiliser une manette d'Xbox, une manette de jeu.
+Ici, nous essayons d'importer l'image et de la projeter dans l'espace du modèle 3D.
+Vous voyez tous les types de résolution. Ici, je peux lentement déplacer l'image.
+Aller à la suivante. Faire un fondu, une transition.
+En faisant cela, je ne perds pas les détails d'origine. Je peux enregistrer l'historique.
+La fraîcheur, la capacité. Tourner cette image.
+La regarder depuis plusieurs points de vue ou angles.
+Nous essayons de construire un monde virtuel.
+Nous espérons pouvoir créer un modèle qui vous sera familier,
+et pourra vous faire réfléchir, dans toutes les directions.
+Je vous remercie pour votre présence.
+(Applaudissements)

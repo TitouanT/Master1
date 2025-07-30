@@ -1,0 +1,386 @@
+Ce que j'aimerais faire ce soir, c'est expliquer
+rapidement comment prédire l'avenir
+et illustrer ma méthode par des prédictions
+sur le futur de l'Iran, dans les deux prochaines années.
+Pour prévoir efficacement,
+Nous avons besoin de la science
+Pour une simple et bonne raison :
+Nous pouvons alors reproduire nos calculs
+Ce n'est pas de l'intuition, ou des formulations d'hypothèses.
+Et si nous pouvons prédire l'avenir
+alors nous pouvons construire le futur
+Donc, si vous voulez influencer la politique sur l'énergie
+ou bien la politique sur la sécurité nationale
+ou même sur la santé, ou l'éducation,
+la science, et une branche particulière de la science peut vous aider
+plus que les techniques actuelles
+qui relèvent d'approximations grossières.
+Avant de rentrer dans les détails,
+quelques vérités dans cette publicité
+parce que je ne fais pas dans la magie.
+Il y a beaucoup de choses que ma méthode peut prévoir
+et certaines autres qu'elle ne peut pas.
+Elle peut prévoir des négociations difficiles,
+ou des situations contraignantes,
+i.e. en général, tout ce qui a à voir avec la politique
+et a peu près tout ce qui relève de l'industrie
+Mais désolé, si vous voulez spéculer sur le marché financier
+Je ne prédis pas les marchés financiers --
+OK, en ce moment, ca ne montera pas.
+Mais je ne m'engage pas dans ce genre de choses
+Je ne prédis pas les générateurs de nombres aléatoires,
+Je reçois, de fait, des appels de personnes
+qui veulent connaître les numéros du loto.
+Je n'en ai aucune idée.
+Je m'intéresse à la théorie du jeu, la théorie du jeu est une branche des mathématiques
+et cela veut dire, désolé, que même pour la politique
+on retrouve des mathématiques.
+Nous ne pouvons plus dire que nous spéculons sur la politique,
+nous l'étudions maintenant de manière méthodique.
+Bon, qu'est ce que la théorie du jeu ?
+L'hypothèse est que les gens font ce qui est bon pour eux
+ca ne semble pas terriblement choquant
+bien que ce soit controversé par beaucoup :
+nous sommes tous des gens intéressés.
+Pour trouver le meilleur compromis pour eux,
+ou ce qu'ils pensent est le meilleur compromis,
+les gens ont des valeurs -- ils identifient ce qu'ils veulent, et ce qu'ils ne veulent pas.
+Et ils ont des suppositions sur ce que les autres veulent,
+sur ce qu'ils ne veulent pas, sur quelle quantité de pouvoir les autres ont,
+a quel point ils pourraient interférer avec vos plans pour avoir ce que vous voulez.
+Et ils ont des limites, des contraintes,
+ils peuvent être faibles, mal placés dans le monde,
+il peuvent être Einstein, coincés dans leur ferme
+quelque part dans un patelin indien, jamais remarqués,
+comme ce fut le cas pour Ramanujan pendant longtemps,
+un grand mathématicien que personne ne remarqua.
+Ensuite, qui est rationnel ?
+Beaucoup de personnes se demandent a quoi rime la rationalité ?
+Les gens sont rationnels.
+Mère Térésa était rationnelle.
+Les terroristes sont rationnels.
+A peu près tout le monde est rationnel.
+Je ne connais que deux exceptions :
+les bébés de deux ans ne sont pas rationnels,
+il ont des désirs très capricieux,
+ils changent d'avis tout le temps,
+et les schizophrènes ne sont peut-être pas rationnels,
+mais a peu près tout le monde est rationnel.
+C'est à dire, ils essaient simplement de faire
+ceux qu'ils pensent être dans leur meilleur intérêt.
+Maintenant, pour savoir ce que les gens vont faire
+pour réaliser leurs intérêts,
+nous recherchons ceux qui influencent le monde.
+Si vous essayez d'influencer les entreprises pour modifier leur comportement,
+a propos de la production de polluants,
+une approche, la plus habituelle,
+est de les exhorter à être meilleures,
+leur expliquer les dommages qu'elles infligent à notre planète.
+Et beaucoup d'entre vous ont pu constater que ca n'avait pas
+un effet flagrant, en tout cas pas autant que ce que vous n'auriez voulu,
+mais si vous leur montrez que cela va dans leurs intérêts
+alors les entreprises réagissent.
+Donc, nous devons trouver qui a de l'influence sur le problème.
+Si nous regardons l'Iran, le président des Etats-Unis
+espère-t-on, peut avoir quelque influence --
+le président Iranien en a certainement --
+Mais nous ferions une erreur en nous intéressant uniquement
+à la personne tout au haut de l'échelle du pouvoir
+car cette personne ne connait pas grand chose à l'Iran,
+pas plus qu'aux politiques sur l'énergie,
+pas plus qu'au programme de santé,
+ni plus qu'aucun programme particulier.
+Cette personne s'entoure de conseillers.
+Si nous parlons de problèmes de sécurité nationale,
+ce sera par exemple le secrétaire d'état,
+ou peut-être le secrétaire à la défense,
+le directeur des services de renseignements,
+peut-être l'ambassadeur des Nations Unis, peut-être quelqu'un d'autre
+qui, pensent-ils, sera plus compétent sur ce problème en particulier.
+Mais même le secrétaire d'état ne connait pas grand chose à l'Iran.
+Le secrétaire à la défense non plus.
+Chacune de ces personnes, à son tour,
+a des conseillers pour l'aider,
+afin qu'ils puissent aider le président.
+Beaucoup de personnes influencent ces décisions
+et si nous voulons prédire correctement,
+nous devons prendre en compte tout ceux
+qui essaient d'influer sur le résultat,
+pas juste les gens tout au haut
+de la pyramide de décision.
+Malheureusement, la plupart du temps, on ne fait pas ça,
+et ceci pour une bonne raison,
+et une bonne raison d'utiliser la théorie du jeu et les ordinateurs,
+est que nous pouvons dépasser cette limite
+de ne s'intéresser qu'à quelques personnes.
+Supposons un problème avec seulement 5 décideurs.
+Imaginons, par exemple
+que Sally, ici,
+veut savoir ce que Harry, Jane
+George et Frank pensent,
+et envoie des messages à ces personnes.
+Sally leur donne son avis,
+et ils lui renvoient leur avis.
+Mais Sally veut aussi savoir
+ce que Harry dit aux trois autres,
+et ce qu'ils disent à Harry.
+Et Harry veut savoir
+ce que chacun d'entre eux dit à chaque autres, et caetera,
+et Sally aimerait connaitre ce que Harry pensent que les autres disent.
+C'est un problème compliqué, beaucoup de choses à savoir.
+Avec 5 décideurs
+il y a déjà beaucoup de liens --
+on en compte 120
+si vous vous souvenez de vos factorielles.
+5 factorielle égale 120.
+Vous serez peut-être surpris d'apprendre
+que certains arrivent à garder 120 données
+en tête
+Supposons que nous doublions le nombre de décideurs
+de 5 à 10.
+Avons nous doublé la quantité d'information
+à retenir, de 120 à 240 ?
+Non, peut-être 10 fois ?
+jusqu'à 1200 ? Non.
+Nous sommes montés à 3.6 million.
+Personne ne peut retenir tout ca de tête.
+Par contre, les ordinateurs,
+eux peuvent. Pas besoin de pause café,
+pas besoin de vacances,
+pas besoin de dormir la nuit,
+ils ne demandent pas d'augmentation non plus.
+Ils peuvent retenir toute cette information
+et cela veut dire que nous pouvons traiter cette information.
+Je vais donc vous parler de comment la traiter,
+et je vais vous donner des exemples venus d'Iran,
+et vous aller vous demander :
+"Pourquoi devrions-nous écouter ce type?"
+"Pourquoi devrions-nous le croire?"
+Donc voici quelques assertions.
+Ceci est une évaluation de la CIA
+du pourcentage de fois
+où le modèle dont je parle
+a raison sur une prédiction dont le résultat est encore inconnu,
+quand les experts qui ont donné les données en entrée
+se sont trompés.
+C'est la CIA qui le dit, vous pouvez le lire,
+il a été déclassifié il y a longtemps. Vous pouvez le lire dans un volume édité par
+H. Bradford Westerfield, Yale University Press.
+Donc, qu'a-t-on besoin de savoir
+pour faire une prédiction ?
+Vous serez surpris de savoir que nous n'avons pas besoin de grand-chose.
+Nous devons savoir qui a interêt
+à influer sur le résultat de la décision.
+Nous devons savoir ce qu'ils disent vouloir,
+pas ce qu'ils veulent réellement au fond d'eux,
+pas ce qu'ils pensent pouvoir avoir,
+mais ce qu'ils disent vouloir, parce que c'est une position stratégiquement choisie,
+et que nous pouvons travailler à reculons, à partir de cela
+pour inférer des points importants sur leur processus de décision.
+Nous devons savoir a quel point ils sont concernés
+par le problème.
+C'est-à-dire, sont-ils prêt à laisser tomber ce qu'ils font pour se concentrer sur ce problème
+et s'y consacrer au lieu de se consacrer à autre chose --
+A quel point ceci est un problème pour eux ?
+Et quelle influence peuvent-ils amener sur ce problème
+s'ils choisissent de s'y consacrer.
+Si nous savons cela,
+nous pouvons prévoir leur comportement en supposons que tout le monde
+s'intéressent à deux choses, en toute décision :
+- Le résultat, ils voudraient un résultat aussi proche que possible
+de ce qui les intéressent.
+- Leur carrière, ils veulent être récompensés
+il y a un certain ego mis en jeu,
+ils veulent être vus comme ayant du pouvoir sur le résultat,
+ou tout aussi important, pour bloquer un résultat.
+Nous devons donc trouver comment ils équilibrent ces deux choses.
+Des personnes différentes choisissent
+entre soutenir coûte que coûte leur résultat,
+le soutenir fidèlement, perdre dans un éclair de gloire,
+ou laisser tomber, envoyer tout le monde se faire voir
+et faire ce qu'ils pensent nécessaire pour obtenir une position gagnante
+La plupart des gens se trouvent entre les deux, et si nous pouvons trouver où,
+nous pouvons savoir comment négocier avec eux
+pour modifier leur comportement.
+Donc avec simplement ces entrées
+nous pouvons définir quels choix ont ces personnes,
+et quels risques sont-ils prêt à prendre,
+ce qui les fait courir, ce qu'ils les importent, ce qu'ils veulent,
+et ce qu'ils croient sur les autres décideurs.
+Vous aurez remarqué ce que nous n'avons pas besoin de savoir
+Il n'y a pas d'historique ici.
+Comment ils sont arrivés là
+peut être important pour définir les informations en entrée,
+mais une fois que nous savons où ils sont
+nous nous intéressons à où ils vont dans l'avenir.
+Comment ils sont arrivés là n'est plus vraiment relevant pour notre prédiction.
+Je vous rappelle le taux de 90 pourcent de précision.
+Donc, où allons-nous trouver ces informations ?
+Nous pouvons les trouver
+par Internet, par The Economist,
+Le Financial Times, le New York Times,
+U.S. News et World Report, ce genre de sources,
+ou nous pouvons les avoir en demandant à des experts
+qui ont passé leur vie à étudier les lieux et les problèmes,
+parce que ces experts connaissent ces informations.
+S'ils ne savent pas quelles personnes tentent d'influer sur la décision,
+le pouvoir qu'ils ont,
+si le problème est capital pour eux, et ceux qu'ils disent vouloir,
+sont-ils alors des experts ? C'est le sens même du mot expert.
+C'est la base de ce qu'un expert doit savoir.
+Enfin, intéressons-nous à l'Iran.
+Faisons trois prédictions importantes --
+vous pourrez vérifier, le temps me jugera.
+Que va faire l'Iran a propos de son programme d'armement nucléaire ?
+Le régime théocratique Iranien est-il en sécurité ?
+Quel est son futur ?
+Et le meilleur ami de tout le monde ici :
+Ahmadinejad. Comment les choses vont-elles aller pour lui ?
+Que va-t-il lui arriver dans les deux prochaines années ?
+Regardez donc, ceci n'est pas basé sur des statistiques.
+Laissez moi être très clair. Je ne projette pas des données passées dans le futur.
+J'ai pris comme entrées les positions de chacun, etc,
+traiter les données dans un modèle informatique
+qui a simulé les dynamiques d'interaction,
+et voici les dynamiques simulées,
+les prédictions sur l'évolution du programme nucléaire
+Vous pouvez voir, sur l'axe vertical,
+Je ne l'ai pas mis jusqu'à zéro,
+il y a beaucoup d'autres options, mais je ne vous montre ici que la prédiction,
+donc j'ai réduit l'échelle,
+tout en haut de l'axe, "Construire la bombe."
+à 130, nous commençons quelquepart au-dessus de 130,
+entre "construire la bombe", et faire suffisamment de carburant atomique
+pour pouvoir construire la bombe
+C'est ici, selon mes analyses,
+que les Iraniens étaient au début de cette année.
+Et ensuite, le modèle déroule les prédictions,
+à 115, ils produiraient seulement suffisamment de carburant atomique
+pour prouver qu'ils savent comment faire, mais ne produiraient pas de bombe,
+ils en construiraient en quantité suffisante pour la recherche
+Cela suffirait à la fierté nationale,
+mais ils n'iraient pas plus loin, et ne construiraient pas de bombe.
+Et en dessous de 100, ils construiraient de l'énergie nucléaire civile,
+ce qui, selon eux, est leur objectif.
+La ligne jaune nous montre l'évolution la plus probable.
+Cette ligne inclus une analyse
+de 87 décideurs en Iran,
+et d'un grand nombre d'influences extérieures
+qui tentent de faire pression sur l'Iran pour modifier son comportement,
+un nombre important de joueurs aux U.S. en Egypte,
+en Arabie Saoudite, en Russie, de l'Union Européenne,
+au Japon, etc...
+La ligne blanche reproduit l'analyse
+si l'environnement international
+laissait l'Iran prendre ses propres décisions internes
+soumises à ses propres pressions politiques
+-- cela n'arrivent certainement pas --
+mais vous pouvez constater que la ligne descend plus vite
+s'ils ne sont pas soumis à une pression internationale,
+s'ils sont autorisés à construire leurs propres engins.
+Dans tous les cas, à la fin de cette année,
+ou au début de l'année prochaine, nous aurons atteint une position d'équilibre.
+Et cet équilibre n'est pas ce que les Etats-Unis voudraient,
+mais c'est probablement un équilibre avec lequel les U.S peuvent vivre,
+et dont la plupart des pays s'arrangeront.
+L'Iran satisfera cette fierté nationaliste
+en construisant suffisament de carburant atomique, pour la recherche
+pour pouvoir démontrer qu'ils savent comment le faire,
+mais ne construira, de fait, pas de bombe avec.
+Comment cela se fait-il ?
+Ici, vous pouvez voir la distribution
+de pouvoir, soutenant le programme d'energie atomique civil aujourd'hui,
+et l'évolution de cette distribution
+vers fin 2010, début 2011
+Personne ne supporte les carburants atomiques aujourd'hui,
+mais en 2011, cela représentera un bloc important
+vous réunissez ces deux blocks, vous obtenez l'influence majoritaire en Iran.
+Aujourd'hui, il y a pas mal de gens --
+Ahmadinejad, par exemple --
+qui voudrait, non seulement construire une bombe,
+mais aussi la tester.
+Ce pouvoir disparait complètement,
+plus personne ne supporte cela en 2011.
+ceux-la diminuent tous,
+le pouvoir se déplace vers là
+le résultat va donc être les carburants atomiques
+Quels sont les gagnants, et qui sont les perdants en Iran ?
+Prenons ceux-là, leur pouvoir grandit,
+et, au passage, ceci a été réalisé il y a un certain temps
+avant la crise économique actuelle
+et l'augmentation va probablement s'accélérer.
+Ces types sont les intérêts financiers en Iran,
+les banquiers, les groupes pétroliers, les Bazaaries,
+leur pouvoir politique grandit,
+alors que les mullahs sont en train de s'isoler --
+à l'exception d'un certain groupe de mullahs,
+peu connu des Américains.
+Cette ligne, ici, dont le pouvoir grandit,
+ce sont les Iraniens appelés les Quiétistes.
+Ce sont les Ayatollahs, la plupart près de Qom,
+qui ont un grand pouvoir dans la communauté religieuse,
+qui ont été calmes en politiques, mais qui vont se faire entendre,
+parce qu'ils voient l'Iran partir dans une mauvaise direction
+une direction contraire
+à ce que Khomeini avait en tête.
+Voici M. Ahmadinejad.
+Deux choses à constater : il est de plus en plus faible,
+et alors qu'il reçoit beaucoup d'attention de la part des US
+il n'est pas un joueur de premier plan en Iran,
+il est déjà sur la pente raide.
+OK, j'aimerais que vous preniez un peu de recul sur tout cela.
+Tout n'est pas prévisible, les marchés financiers
+sont, au moins pour moi, imprévisibles,
+mais les négociations les plus hardues, elles, le sont.
+Une fois de plus, que nous parlions de programme de santé, d'éducation,
+d'environnement, d'énergie,
+de litiges, de fusion-acquisitions,
+tout ces problèmes compliqués
+sont prévisibles,
+et ce genre de technologie est applicable.
+Et la raison pour laquelle pouvoir prévoir toutes ces choses est important,
+ce n'est pas seulement parce que vous pouvez vous retrouver à la tête d'un Hedge Fund, et vouloir en tirer de l'argent,
+mais c'est parce que si vous pouvez prévoir comment les gens vont agir,
+vous pouvez transformer leurs actions.
+Et si vous transformer ce qu'ils font, vous pouvez changer le monde.
+vous pouvez avoir un meilleur résultat.
+J'aimerais vous laisser sur une pensée :
+pour moi, l'idée dominante derrière cette réunion
+et c'est l'idée dominante derrière cette manière de penser le monde.
+Quand les gens vous disent,
+"C'est impossible,"
+vous pouvez leur répondre,
+"Quand tu dis : "C'est impossible"
+tu veux dire :
+"Je ne sais pas comment le faire"
+Merci
+(Applaudissement)
+Chris Anderson: Une question pour vous.
+C'était fascinant.
+J'adore tout ce que vous mettez dans cette présentation.
+Cependant je me suis inquiété, au milieu de votre présentation
+me demandant si vous incluiez dans votre modèle la possibilité
+que révéler cette prédiction puisse changer le résultat.
+Nous avons 800 personnes à Téheran qui suivent les TEDTalks.
+Bruce Bueno de Mesquita: J'y ai pensé,
+j'ai fait pas mal de travail pour les services de renseignements,
+ils ont aussi pris cela en compte.
+Cela sera une bonne chose si
+les gens payaient plus attention, prenaient ceci sérieusement
+et demarraient le même genre de calculs,
+parce que cela changeraient les choses. Mais les choses changeraient de deux manières bénéfiques :
+Cela réduirait le temps que passent les gens à trouver un accord,
+et tout le monde s'épargnerait des chagrins et du temps.
+Et, nous arriverions à un accord qui contenterait tout le monde,
+sans avoir à trop manipuler les gens --
+ce qui est finalement ce que je fais, je les manipule.
+Donc cela serait une bonne chose.
+CA: Donc vous êtes plus ou moins en train de dire : "Peuple d'Iran, voici votre destinée, allons-y."
+BBM: En fait, peuple d'Iran, ceci est ce que la majorité d'entre vous va finir par vouloir,
+et nous pourrions y être beaucoup plus rapidement,
+et vous souffririez beaucoup moins des sanctions économiques,
+et nous souffririons beaucoup moins de la peur d'avoir à utiliser, au final, notre force militaire,
+et le monde pourrait être meilleur.
+CA: En espérant qu'ils l'entendent de cette manière. Merci beaucoup Bruce.
+BBM: Merci.
+(Applaudissement)

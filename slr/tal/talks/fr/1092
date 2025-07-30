@@ -1,0 +1,448 @@
+Imaginez que vous pouvez enregistrer votre vie --
+tout ce que vous avez dit, tout ce que vous avez fait,
+à portée de main dans une bibliothèque de souvenirs infaillible,
+si bien que vous pourriez revenir en arrière,
+trouver des moments mémorables et les revivre,
+ou trier, sélectionner des traces temporelles
+et découvrir des motifs dans votre vie
+que vous n'aviez pas découvert auparavant.
+Et bien, c'est exactement le voyage
+qu'a entrepris ma famille
+il y a cinq ans et demi.
+Voici ma femme et collègue, Rupal.
+Et ce jour, à cet instant,
+nous sommes rentrés dans notre maison avec notre premier enfant,
+notre magnifique petit garçon.
+Et nous sommes rentrés dans une maison
+avec un système d'enregistrement vidéo très spécial.
+(Vidéo) Homme: Ok.
+Deb Roy: Ce moment
+et des milliers d'autres moments chers à nos yeux,
+ont été enregistrés dans notre maison
+parce que dans chaque pièce de la maison,
+si vous regardez au plafond, vous voyez une caméra et un micro,
+et si vous regardez en bas,
+vous avez cette vue en plongée de la pièce.
+Voici notre salon,
+la chambre du bébé,
+cuisine, salle à manger,
+et le reste de la maison.
+Et tout ceci est envoyé à un ensemble de disques
+conçus pour enregistrer en continu.
+Nous voici donc survolant une journée à la maison,
+naviguant d'une aube lumineuse
+à un crépuscule incandescent
+pour finalement éteindre les lumières du jour.
+Trois ans durant,
+nous avons enregistré entre 8 et 10 heures par jour,
+amassant au bas mot un quart de million d'heures
+de vidéo multi-piste avec le son.
+Vous visionnez donc un extrait de ce qui est de loin
+la plus grande collection de vidéo personnelle jamais créée.
+(Rire)
+Et ce que ces données représentent
+pour notre famille d'un point de vue personnel,
+l'impact a déjà été immense,
+et nous en réalisons encore la valeur.
+Un nombre incalculable de moments
+de moments naturels non provoqués, sans poses,
+sont enregistrés ici,
+et nous commençons à apprendre comment les découvrir et les retrouver.
+Mais ce projet a aussi été conduit pour une raison scientifique,
+qui était d'utiliser ces données naturelles longitudinales
+pour comprendre le processus
+menant à l'apprentissage du langage par un enfant --
+cet enfant étant ici mon fils.
+Avec de nombreuses dispositions de protection de la vie privée
+mises en place pour protéger les personnes enregistrées,
+nous avons mis des éléments de données à disposition
+de mon équipe de recherche de confiance au MIT
+pour que nous puissions commencer à déchiffrer les motifs
+dans cet énorme jeu de données,
+en essayant de comprendre l'influence de l'environnement social
+sur l’acquisition du langage.
+Nous regardons ici
+l'une des premières choses que nous avons faites.
+Voici ma femme et moi préparant le petit déjeuner dans la cuisine.
+En nous déplaçant à travers l'espace et le temps,
+un premier motif quotidien de la vie dans la cuisine.
+Pour convertir
+ces 90 000 heures de vidéo indéchiffrable
+en quelque chose que nous pouvons commencer à visionner,
+nous utilisons l'analyse de mouvement pour extraire,
+en naviguant à travers l'espace et le temps,
+ce que nous appelons des vers temporels.
+C'est devenu l'un de nos outils
+pour être capable de voir et de définir
+où se situent les activités dans les données,
+et ainsi, suivre le motif, en particulier,
+des déplacements de mon fils à travers la maison,
+pour que nous puissions focaliser nos efforts de transcription,
+tout l'environnement de dialogues autour de mon fils --
+tous les mots qu'il a entendus de moi-même, de ma femme, de la nounou,
+et au fur et à mesure, les mots qu'il a commencé à former.
+Avec cette technologie et ces données
+et la possibilité, grâce à une machine,
+de retranscrire les dialogues,
+nous avons maintenant retranscrit
+bien plus de sept millions de mots de nos conversations domestiques.
+Ainsi, laissez-moi vous emmener
+faire un premier voyage dans les données.
+Vous avez tous, j'en suis sûr,
+vu des vidéos accélérées
+où une fleur s’épanouit en temps accéléré.
+Je voudrais maintenant vous faire vivre
+l'épanouissement d'une forme de langage.
+Mon fils, peu après son premier anniversaire,
+disait "gaga" pour parler d'eau.
+Au fil des six mois suivants,
+il a lentement appris à s'approcher
+de la forme adulte correcte, "eau".
+Nous allons donc parcourir 6 mois
+en environ 40 secondes.
+Pas de vidéo ici,
+pour que vous puissiez vous concentrer sur le son, l'acoustique,
+d'une nouvelle forme de trajectoire:
+de gaga à eau [prononcé water en anglais].
+(Audio) Bébé: Gagagagagaga
+Gaga gaga gaga
+guga guga guga
+wada gaga gaga guga gaga
+wader guga guga
+water water water
+water water water
+water water
+water.
+DR: Il a bien réussi, n'est-ce pas ?
+(Applaudissements)
+Il n'a pas seulement appris à dire eau.
+Pendant les 24 mois,
+les 2 ans, sur lesquels nous nous sommes réellement concentrés,
+voici une liste de tous les mots qu'il a appris par ordre chronologique.
+Parce que nous avons les transcriptions complètes,
+nous avons identifié chacun des 503 mots
+qu'il a appris à prononcer avant son second anniversaire.
+Il a été un parleur précoce.
+Nous avons donc commencé à analyser pourquoi.
+Pourquoi certains mots sont-ils apparus avant d'autres?
+C'est un des premier résultat
+produit dans notre étude il y a un peu plus d'un an
+qui nous ai réellement surpris.
+La manière de lire ce graphe apparemment simple
+est d'y voir verticalement une indication
+de la complexité de l'expression des adultes à proximité
+basée sur la longueur des mots.
+L'axe horizontal est le temps.
+Toutes les données,
+nous les avons alignées en nous basant sur le principe suivant:
+chaque fois que mon fils apprend un mot,
+nous rembobinons et analysons le langage qu'il a entendu
+qui contenait ce mot.
+Nous affichons la longueur relative des mots.
+Et nous avons découvert un phénomène curieux:
+le discours des adultes se réduit systématiquement à un minimum,
+rendant le langage aussi simple que possible,
+puis progressivement revient à sa complexité initiale.
+Ce qu'il y avait d'étonnant,
+ce rebond, ce creux,
+était quasiment précisément aligné
+avec le moment où chaque mot est né --
+mot après mot, systématiquement.
+Il semble donc que tous ces adultes directement en contact --
+moi, ma femme et notre nounou --
+étions systématiquement et, je pense, subconsciemment
+entrain de restructurer notre langage
+pour se mettre à son niveau à la naissance du mot
+et doucement le faire progresser vers un langage plus complexe.
+Une implication de cela -- il y en a de nombreuses,
+mais une que je veux mettre en avant,
+c'est qu'il doit y avoir une incroyable boucle de rétro-action.
+Bien entendu, mon fils apprend
+à partir de son environnement linguistique,
+mais l'environnement apprend de lui.
+L'environnement, les gens, sont dans cette boucle de rétro-action
+et créent une sorte d’échafaudage
+qui n'avait pas été remarqué jusqu'à présent.
+Mais ce n'est que la vision du contexte de parole.
+Qu'en est-il du contexte visuel ?
+Nous ne regardons pas --
+imaginez ça comme une coupe de maison de poupée de notre maison.
+Nous avons pris ces lentilles de caméra circulaires en œil de poisson
+utilisé un peu de correction optique,
+et nous pouvons ensuite le transformer en modèle tri-dimensionnel.
+Bienvenu chez moi.
+Voici un instant,
+un instant capturé à travers plusieurs caméras.
+La raison derrière cela est de créer la machine à souvenir ultime,
+avec laquelle il est possible de rembobiner et de se mouvoir à volonté dans la pièce
+et d’insuffler une vie digitale à ce système.
+Ce que je vais faire,
+c'est vous donner une vue accélérée de 30 minutes,
+de nouveau, de la vie de tous les jours dans le salon.
+C'est moi et mon fils par terre.
+Il y a l'analyse vidéo
+qui suit nos mouvements.
+Mon fils laisse une traînée rouge, je laisse une traînée verte.
+Nous sommes maintenant sur le canapé,
+on regarde à travers les vitres les voitures qui passent à l'extérieur.
+Enfin, mon fils qui s'amuse tout seul dans un déambulateur.
+Maintenant, on arrête le temps, 30 minutes,
+on met le temps sur l'axe vertical,
+et on étend la vue
+pour afficher les traînées d'interaction que nous avons déposées.
+Et on découvre ces structures incroyables --
+ces petits noeuds de fils bicolores
+qu'on appelle les points chauds sociaux.
+Le fil spiralé
+on l'appelle un point chaud solitaire.
+On pense que cela affecte la manière dont le langage est appris.
+Ce qu'on souhaite faire
+c'est essayer de comprendre
+les relations entre ces motifs
+et le langage auquel mon fils est exposé
+pour voir si on peut prévoir
+comment la structure du contexte d'écoute du mot
+a un effet sur l'apprentissage --
+en d'autres mots, la relation
+entre les mots et ce qu'ils désignent dans l'environnement.
+Donc voilà notre démarche.
+Dans cette vidéo,
+de nouveau, mon fils laisse une trace.
+Il laisse de l'encre rouge derrière lui.
+Et il y a notre nounou à la porte.
+(Vidéo) Nounou: Tu veux de l'eau? (Bébé: Aaaaa.)
+Nounou: Très bien. (Bébé: Aaaa.)
+DR: Elle lui propose de l'eau,
+et voilà les deux limaces
+qui vont chercher de l'eau à la cuisine.
+Ce qu'on a fait, c'est d'utiliser le mot "eau"
+pour tagguer ce moment, cette activité.
+Maintenant on utilise la puissance des données
+et on prend chaque instant où mon fils
+a entendu le mot eau
+et le contexte où cela c'est produit.
+On l'utilise pour traverser la vidéo
+et trouver toutes les traces d'activité
+qui correspondent à une occurrence de eau.
+Ces paroles laissent dans leurs sillages
+un panorama.
+On appelle ces formes des paro-namas.
+Voici le paronama pour le mot eau.
+Vous pouvez constater que la majorité de l'action se situe dans la cuisine.
+C'est là que sont ces grands pics tout à gauche.
+Juste pour le contraste, nous pouvons faire ça avec n'importe quel mot.
+Nous pouvons prendre le mot "bye"
+utilisé dans "good bye" (au revoir).
+On s'est maintenant rapproché de l'entrée de la maison.
+On se rend compte, comme on s'y attend,
+qu'il y a un contraste dans le panorama
+là où le mot "bye" est prononcé de manière plus structurée.
+On utilise donc ces structures
+pour commencer à prévoir
+l'ordre d'acquisition du langage.
+C'est un travail que nous sommes entrain de mener.
+Dans mon labo, où nous nous trouvons maintenant, au MIT --
+c'est le labo média.
+C'est devenu ma manière favorite
+d'enregistrer n’importe quel type d'espace.
+3 des personnes clés dans ce projet,
+Philip DeCamp, Rony Kubat et Brandon Roy sont présent ici.
+Philip a été un collaborateur précieux
+sur toutes les visualisations que vous voyez.
+Michael Fleischman
+était un autre doctorant de mon labo
+qui travaillait avec moi sur l'analyse de cette vidéo domestique.
+Il m'a fait la remarque suivante:
+"La manière dont on analyse
+comment le langage s'articule avec les évènements
+qui fournissent une fondation à la langue,
+la même idée peut être transposée hors de ta maison, Deb,
+et on peut l'appliquer au monde des médias publics."
+Nos efforts ont donc pris un tour inattendu.
+Pensez aux média de masse
+comme donnant une base commune.
+et vous avez la recette
+pour exporter cette idée vers un tout nouvel horizon.
+Nous avons commencé à analyser le contenu de la télévision
+en utilisant les mêmes principes --
+analyser la structure des évènements d'un signal TV --
+épisodes de séries,
+publicités,
+tous les composants de la structure des évènements.
+Nous voilà, avec des paraboles satellites, captant et analysant
+une bonne partie des programmes TV diffusés aux États-Unis.
+Il n'est plus nécessaire d'aller équiper des salons avec des microphones
+pour obtenir des conversations,
+il suffit de se brancher sur les ondes des médias sociaux publics.
+On extrait donc
+environ trois milliards de commentaires par mois.
+Et la magie se produit.
+Voici la structure des évènements,
+la base de ce dont parlent les mots,
+extraits de la télévision.
+Vous avez les conversations
+qui concernent ces sujets.
+Par l'analyse sémantique --
+et vous voyez d'ailleurs de vraies données ici,
+traitées par nos soins --
+chaque ligne jaune montre un lien fait
+entre un commentaire sauvage
+et un élément de la structure des évènements issue du signal télévisé.
+La même idée peut maintenant
+être développée.
+On obtient ce paronama,
+sauf qu'ici les mots ne s'assemblent pas dans mon salon.
+À la place, le contexte, l'activité commune à la base,
+c'est le contenu télévisé qui sous-tend les conversations.
+Ce que vous voyez là, ces gratte-ciels,
+sont des commentaires
+liés à du contenu télévisuel.
+Même concept,
+mais nous regardons la dynamique des communications
+dans une sphère très différente.
+Fondamentalement, plutôt que, par exemple,
+mesurer le contenu par le nombre de personnes qui le regardent,
+on obtient les données de base
+pour regarder la capacité à susciter des commentaires du contenu.
+De la même manière qu'on a étudié les boucles de retour
+et la dynamique au sein d'une famille,
+nous pouvons étendre les même concepts
+et observer une population bien plus grande.
+Voici un sous-ensemble des données de notre base de données --
+à peine 50 000 parmi plusieurs millions --
+et le graphe social qui les connecte
+à travers des ressources publiques.
+Si vous les mettez sur une plaine,
+les contenus vivent sur une seconde plaine.
+On a donc les programmes
+et les évènements sportifs
+et les pubs,
+et tous les liens qui les relient
+créent le graphe des contenus.
+Ensuite, la 3ème dimension.
+Chacun des liens qui sont affichés ici
+représente une connexion faite
+entre ce que quelqu'un a dit
+et un élément de contenu.
+De nouveau, il y a des dizaines de millions de liens
+qui forment le tissu de connexions du graphe social
+et de leur rapport au contenu.
+On peut alors commencer à étudier la structure
+de manière intéressante.
+Donc, par exemple, si on trace le chemin
+d'un élément de contenu
+que quelqu'un commente,
+et que l'on suit le cheminement du commentaire,
+et que l'on regarde le graphe sociale qui est activé dans sa globalité
+et que l'on revient en arrière pour voir les relations
+entre ce graphe social et les contenus,
+une structure très intéressante apparaît.
+Nous l’appelons le groupe de co-visionnage,
+une salon virtuel si vous préférez.
+Les dynamiques mises en jeu sont fascinantes.
+Ce n'est pas à sens-unique.
+Un contenu, un évènement, faut que quelqu'un en parle.
+Ils en parlent à d'autres personnes.
+Qui entraîne les médias de masse dans un comportement d'écoute
+et vous avez ces cycles
+qui entraînent ce comportement généralisé.
+Un autre exemple -- très différent --
+une autre personne dans notre base de données --
+et nous en trouvons des centaines, voire des milliers, comme elle.
+Nous avons donné un nom à cette personne.
+C'est un pro-amateur, ou pro-am, un critique des médias
+qui a ce taux de dispersion élevé.
+De nombreuses personnes suivent cette personne -- très influente --
+et elles ont une propension à parler de ce qui se passe à la télé.
+Cette personne est donc un maillon clé
+pour connecter les médias de masse et les médias sociaux.
+Un dernier exemple de ces données:
+parfois, c'est un contenu qui est spécial.
+Si vous allez regarder ce contenu,
+le discours sur l'état de l'Union du Président Obama
+qui a eu lieu la semaine dernière,
+et si vous regardez ce que l'on trouve dans le même jeu de données,
+à la même échelle,
+la capacité à susciter des commentaires de ce contenu
+est véritablement remarquable.
+Un nation entière qui discute
+en temps réel
+en réponse à ce qui est diffusé.
+Bien sûr, toutes ces lignes
+sont parcourues par du langage non structuré.
+Nous pouvons radiographier
+et obtenir le pouls de la nation en temps réel,
+une mesure en temps réel
+des réactions sociales dans les différents circuits du graphe social
+qui sont activés par le contenu.
+Donc, pour résumer, l'idée est :
+alors que notre monde devient de plus en plus instrumenté
+et que nous avons la possibilité
+de récupérer et de connecter les points
+entre ce que les gens disent
+et le contexte dans lequel ils le disent,
+ce qui émerge est une capacité
+à observer des structures sociales et des dynamiques nouvelles
+que nous n'avions pas vu auparavant.
+C'est comme créer un microscope ou un téléscope
+et faire apparaître de nouvelles structures
+décrivant notre propre comportement par rapport à la communication.
+Je pense que les implications sont profondes,
+que ce soit pour la science,
+pour le commerce, pour le gouvernement,
+ou peut-être plus encore,
+pour nous en tant qu'individu.
+Donc juste pour revenir à mon fils,
+quand je préparais cette conférence, il regardait par dessus mon épaule.
+Je lui ai montré les vidéos que j'avais l'intention de vous montrer aujourd'hui.
+Je lui ai demandé sa permission -- accordée.
+Et je me suis remis à réfléchir,
+"N'est-ce pas étonnant,
+cette base de données, tous ces enregistrements,
+que je vais vous transmettre à toi et à ta soeur,"
+qui est venue au monde deux ans plus tard.
+"Et vous allez être capables de rembobiner et de re-vivre des moments
+dont vous ne pourriez jamais, avec votre mémoire biologique,
+vous rappeler comme vous le pouvez aujourd'hui."
+Il n'a rien dit pendant un moment.
+Je me suis dit, "A quoi je pense ?
+Il a cinq ans. Il ne peux pas comprendre tout ça."
+Alors même que cette pensée me traversait l'esprit, il a levé la tête et dit,
+"Alors quand je grandirai,
+je pourrai montrer ça à mes enfants?"
+Je me suis dit, "Wow, c'est un truc puissant."
+Je voudrais vous quitter
+avec un dernier moment mémorable
+pour notre famille.
+Voici la première fois que notre fils
+a fait plus de deux pas à la suite --
+capturé en vidéo.
+Je veux vraiment que vous vous concentriez sur quelque chose
+pendant que je vous montre cela.
+C'est un environnement encombré; c'est la vie à l'état naturel.
+Ma mère est dans la cuisine, entrain de préparer à manger,
+et, dans le couloir parmi tous les lieux,
+je me rends compte qu'il est sur le point d'y arriver, de faire deux pas d'affilée.
+Et donc vous m'entendez, je l'encourage,
+je me rends compte de ce qui se passe,
+et ensuite la magie se produit.
+Ecoutez attentivement.
+Après trois pas,
+il réalise que quelque chose de magique se produit.
+Et la boucle de retour la plus extraordinaire prends le dessus,
+il inspire,
+et il soupire "wow"
+et instinctivement je réponds la même chose.
+Remontons donc dans le temps
+vers ce moment mémorable.
+(Vidéo) DR: Hey.
+Viens là.
+Tu peux le faire ?
+Mon grand.
+Tu peux le faire ?
+Bébé: Yeah.
+DR: 'mam, il marche.
+(Rire)
+(Applaudissements)
+DR: Merci.
+(Applaudissements)

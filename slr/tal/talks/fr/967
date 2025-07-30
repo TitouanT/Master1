@@ -1,0 +1,416 @@
+Nous vivons à une époque remarquable,
+l'âge de la génomique.
+Votre génome est la séquence intégrale de votre ADN.
+Votre séquence et la mienne sont légèrement différentes.
+C'est pour cela que nous ne nous ressemblons pas.
+J'ai les yeux bruns.
+Les vôtres sont peut-être bleus ou gris.
+Mais cela ne concerne pas seulement ce qui se voit à l'oeil nu.
+Les gros titres des journaux nous apprennent
+que ce sont les gènes qui sont responsables de maladies effrayantes,
+qui peut-être même modèlent notre personnalité,
+ou qui causent des désordres mentaux.
+Nos gènes semblent posséder
+une emprise phénoménale sur nos destins.
+Et pourtant, je voudrais penser
+que je suis plus que mes gènes.
+Vous en pensez quoi?
+Vous êtes aussi plus que vos gènes?
+(Public : Oui.) Oui ?
+Je pense que certains sont d'accord avec moi.
+Je pense que nous devrions le décréter.
+Je pense que nous devrions le dire tous ensemble.
+Allez : "Je suis plus que mes gènes" -- tous ensemble.
+Tout le monde : Je suis plus que mes gènes.
+(Applaudissements)
+Sebastian Seung : Qu'est-ce que je suis?
+(Rires)
+Je suis mon connectome.
+Bon, comme vous êtes vraiment supers,
+vous pourriez peut-être me faire plaisir et le dire tous ensemble aussi.
+(Rires)
+Voilà. Tous ensemble maintenant.
+Tout le monde : Je suis mon connectome.
+SS : C'était super bien.
+Vous savez quoi, vous êtes vraiment supers, parce que vous n'avez aucune idée de ce qu'est un connectome
+mais vous jouez quand même le jeu avec moi.
+Je n'ai plus qu'à rentrer chez moi maintenant.
+En fait, pour le moment on ne connaît qu'un seul connectome,
+celui de ce minuscule vers.
+Son système nerveux très modeste
+ne contient que 300 neurones.
+Et dans les années 1970 et 80,
+une équipe de scientifiques
+a cartographié les 7000 connexions
+entre chaque neurone.
+Dans ce schéma, chaque noeud est un neurone,
+et chaque ligne une connexion.
+Voici le connectome
+du vers C. elegans.
+Votre connectome est bien plus complexe que cela,
+car votre cerveau
+contient 100 milliards de neurones
+et 10 000 fois autant de connexions.
+Il y a un schéma comme celui-ci pour votre cerveau
+mais il n'y a aucune chance qu'il rentre sur cette diapo.
+Votre connectome contient un million de fois plus de connexions
+que ce que votre génome a de lettres.
+Ca fait beaucoup d'informations.
+Qu'y a-t-il dans cette information?
+Nous n'en sommes pas sûrs, mais nous avons des théories.
+Depuis le 19ème siècle, les neuro-scientifiques imaginent
+que peut-être vos souvenirs --
+cette information qui fait que vous êtes qui vous êtes --
+peut-être que vos souvenirs sont stockés
+dans les connexions entre les neurones de votre cerveau.
+Et peut-être que d'autres aspects de votre identité --
+peut-être votre personnalité et votre intelligence --
+peut-être sont-ils aussi encodés
+dans les connexions entre les neurones.
+Maintenant vous comprenez pourquoi j'ai proposé cette hypothèse :
+je suis mon connectome.
+Je ne vous ai pas demandé de le scander parce que c'est vrai,
+je veux juste que vous vous en rappeliez.
+En fait, nous ne savons pas si cette hypothèse est correcte,
+parce que nous n'avons pas encore de technologie
+assez puissante pour la mettre à l'épreuve.
+Trouver le connectome de ce vers
+équivaut à plus d'une douzaine d'années de travail acharné.
+Et pour trouver les connectomes de cerveaux qui s'approchent davantage des nôtres,
+nous avons besoin de technologies plus sophistiquées, automatisées,
+qui augmenteront la vitesse du processus qui permet de trouver des connectomes.
+Et, dans les minutes à venir, je vais vous parler un peu de ces technologies
+qui sont actuellement en cours de développement
+dans mon labo et dans les labos de mes collaborateurs.
+Bon, vous avez probablement déjà vu des images de neurones par le passé.
+Vous les reconnaissez instantanément
+à leur forme fantastique.
+Ils déploient de longues et délicates branches
+et, pour faire court, ils ressemblent à des arbres.
+Mais il ne s'agit là que d'un seul neurone.
+Pour trouver les connectomes,
+nous devons regarder tous les neurones en même temps.
+Laissez-moi vous présenter Bobby Kasthuri
+qui travaille dans le laboratoire de Jeff Lichtman
+à Harvard.
+Bobby s'occupe des tranches extrêmement fines
+du cerveau d'une souris.
+Nous agrandissons l'image 100 000 fois
+pour obtenir la résolution
+qui nous permet de voir toutes les branches du neurone en une seule fois.
+Sauf qu'il est possible que vous ne puissiez toujours pas les reconnaître
+et c'est parce qu'il est nécessaire de travailler en trois dimensions.
+Si on prend plusieurs images de plusieurs tranches du cerveau
+et si on les empile,
+on obtient une image tri-dimensionnelle.
+Et pourtant, il est possible que vous ne voyiez toujours pas les branches.
+Donc on commence par en haut,
+et on colore en rouge la coupe transversale d'une branche.
+On fait pareil pour la tranche d'après,
+et celle d'après.
+Et on continue de faire ça,
+tranche après tranche.
+Si on continue comme ça pour toute la pile,
+on peut reconstruire la forme en trois dimensions
+d'un petit fragment de la branche d'un neurone.
+On peut faire la même chose pour un autre neurone en vert.
+Vous pouvez voir que le neurone vert touche le neurone rouge
+à deux endroits,
+et c'est là ce qu'on appelle les synapses.
+Agrandissons une synapse.
+Et fixez attentivement l'intérieur du neurone vert.
+Vous devriez voir des petits cercles.
+C'est ce qu'on appelle les vésicules.
+Elles contiennent une molécule qu'on appelle un neurotransmetteur.
+Ainsi quand le neurone vert veut communiquer,
+qu'il veut envoyer un message au neurone rouge,
+il lâche des neurotransmetteurs.
+Au niveau de la synapse, les deux neurones
+sont connectés
+comme deux amis qui parleraient au téléphone.
+Vous voyez donc comment trouver une synapse.
+Comment fait-on pour trouver un connectome entier?
+Eh bien on prend cette pile d'images en trois dimensions
+et on la traite comme un livre de coloriage tridimensionnel géant.
+On colorie chaque neurone avec une couleur différente
+et puis on regarde à travers toutes ces images,
+on trouve les synapses
+et on note les couleurs des deux neurones impliqués dans chaque synapse.
+Si on peut faire ça pour toutes les images,
+on doit pouvoir trouver un connectome.
+Bien, arrivés à ce point,
+vous avez appris ce qu'il y a d'élémentaire à savoir sur les neurones et les synapses.
+Je pense donc que nous sommes prêts à aborder
+l'une des questions les plus importantes de la neuroscience :
+en quoi les cerveau des hommes et des femmes sont-ils différents?
+(Rires)
+Si on en croit ce livre de développement personnel,
+les cerveaux des hommes sont comme des gaufres;
+leur vie est comme compartimentée dans des boîtes.
+Le cerveau des filles ressemble aux spaghettis;
+tout dans leur vie est connecté à quelque chose d'autre.
+(Rires)
+Vous riez
+mais, vous savez, ce livre a changé ma vie.
+(Rires)
+Non mais sérieusement, qu'est-ce qui cloche ici?
+Vous en savez déjà assez pour me le dire. Pourquoi cette idée est-elle fausse?
+Peu importe que vous soyez un garçon ou une fille,
+tous les cerveaux sont comme des spaghettis.
+Ou alors des capellini vraiment très fins, avec des branches.
+Exactement de la même façon qu'un brin de spaghetti
+est en contact avec plein d'autres brins dans votre assiette,
+un neurone touche plein d'autres neurones
+grâce à leurs branches, emmêlées les unes aux autres.
+Un neurone peut être connecté à beaucoup d'autres neurones
+parce que des synapses peuvent apparaître
+à ces points de contact.
+Il se peut que vous n'ayez plus trop conscience à ce stade
+de la taille de ce cube de tissu cérébral.
+Je vous propose donc de faire une série de comparaisons pour vous montrer.
+Je vais vous montrer. Ca, c'est vraiment minuscule. Seulement six microns sur un côté.
+Là vous voyez comment ça s'empile dans un neurone entier.
+Et vous pouvez voir que, vraiment, seuls les plus petits fragments des branches
+sont contenus dans ce cube.
+Et un neurone, eh bien c'est plus petit qu'un cerveau.
+Et il ne s'agit là que du cerveau d'une souris.
+C'est bien plus petit qu'un cerveau humain.
+Du coup quand j'ai montré ça à mes amis
+ils m'ont parfois dit
+"Tu sais, Sebastian, tu devrais simplement abandonner.
+Il n'y a pas d'espoir en neuroscience."
+Parce que si vous observez votre cerveau à l'oeil nu,
+vous ne vous rendez pas vraiment compte à quel point c'est complexe,
+mais quand vous utilisez un microscope,
+cette complexité qui se cachait est révélée."
+Au 17ème siècle,
+Blaise Pascal, mathématicien et philosophe,
+a écrit sur sa peur de l'infini,
+son sentiment de vanité
+quand il contemple "le silence éternel de ces espaces infinis".
+En tant que scientifique,
+je ne suis pas supposé parler de mes sentiments.
+Trop d'informations, professeur.
+(Rires)
+Mais pourquoi pas?
+(Rires)
+(Applaudissements)
+Je ressens une vraie curiosité,
+et une vraie envie de comprendre
+mais parfois je ressens aussi du désespoir.
+Pourquoi ai-je choisi d'étudier
+cet organe, si formidable dans sa complexité,
+qu'il pourrait bien être infini?
+C'est absurde.
+Comment pourrions-nous même oser penser
+que nous arriverons un jour à comprendre cela?
+Et pourtant, je m'obstine à lutter contre des moulins à vent.
+Et de fait, j'entretiens depuis peu de nouveaux espoirs.
+Un jour,
+un équipement de microscopes capturera
+chaque neurone et chaque synapse
+et le stockera dans une énorme base de données d'images.
+Et un jour, des super ordinateurs à intelligence artificielle
+analyseront les images sans l'aide des humains
+pour les synthétiser en un connectome.
+Je ne sais pas si cela sera possible, mais j'espère que je vivrai assez longtemps pour voir ce jour.
+Parce que trouver un connectome humain en eniter
+est l'un des plus grands défis technologiques de tous les temps.
+Cela demandera le travail de plusieurs générations pour y arriver.
+Actuellement, mes collaborateurs et moi-même,
+visons quelque chose de bien plus modeste --
+seulement trouver des connectomes partiels
+de petits morceaux de cerveaux de souris et d'humains.
+Mais même cela suffirait pour les premières mises à l'épreuve de l'hypothèse
+qui affirme que je suis mon connectome.
+Pour le moment, laissez-moi vous convaincre de la plausibilité de cette hypothèse,
+et qu'elle vaut vraiment la peine qu'on la prenne au sérieux.
+Pendant que vous grandissez dans votre enfance
+et que vous murissez à l'âge adulte,
+votre identité change doucement.
+De même, chaque connectome
+change à travers le temps.
+De quelle sorte de changements s'agit-il?
+Eh bien, les neurones, comme les arbres,
+peuvent avoir de nouvelles branches qui poussent
+et en perdre des anciennes.
+Des synapses peuvent être créées
+puis éliminées.
+Et les synapses peuvent s'agrandirent
+et rapetisser.
+Deuxième question :
+qu'est-ce qui cause ces changements?
+Eh bien, c'est vrai.
+D'une certaine manière, ils sont programmés par vos gènes.
+Mais l'histoire ne s'arrête pas là,
+parce que ce sont des signaux, des signaux électriques
+qui voyagent le long des branches de neurones
+et des signaux chimiques
+qui sautent d'une branche à une autre.
+On appelle ces signaux l'activité cérébrale.
+Il y a beaucoup à parier
+que l'activité cérébrale
+encode nos pensées, sentiments et perceptions,
+nos expériences mentales.
+Et il y a beaucoup à parier que l'activité cérébrale
+puisse amener vos connexions à changer.
+Et si vous on rassemble ces deux faits
+on comprends que vos expériences
+peuvent changer votre connectome.
+C'est pour cela que chaque connectome est unique,
+même ceux de jumeaux identiques génétiquement.
+Le connectome est ce lieu où l'acquis rencontre l'inné.
+Et il peut être vrai
+que le simple fait de penser
+change votre connectome --
+une idée que vous trouverez sans doute stimulante.
+Qu'y a-t-il dans cette image?
+D'après vous, un courant d'eau froid et revigorant.
+Qu'y a-t-il d'autre dans cette image?
+N'oubliez pas ce sillon dans la terre
+qu'on appelle le lit de la rivière.
+Sans lui, l'eau ne saurait pas dans quelle direction s'écouler.
+Et avec l'idée de courant,
+j'aimerais proposer une métaphore
+pour désigner la relation entre l'activité neuronale
+et la connectivité.
+L'activité neuronale change constamment.
+C'est comme l'eau d'un courant; il ne reste jamais en place.
+Les connexions
+du réseau neuronal du cerveau
+déterminent les chemins
+que vont emprunter les flux d'activité cérébrale.
+Et donc le connectome est comme le lit de la rivière.
+Mais la métaphore est plus riche que cela.
+Parce que s'il est vrai que le lit de la rivière
+guide les flots de l'eau,
+il faut dire aussi que sur un long terme
+l'eau à son tour remodèle le lit de la rivière.
+Et comme je vous le disais justement,
+l'activité neuronal peut changer le connectome.
+Et si vous m'autorisez à gravir
+les hautes cimes de la métaphore,
+je vous rappellerais que l'activité neuronale
+est le fondement physique -- du moins c'est ce que pensent les neuroscientifiques --
+des pensées, des sentiments et des perceptions.
+Nous pouvons donc même parler
+d'un flux de conscience (stream of consciousness).
+L'activité neuronale est son cours d'eau,
+et le connectome son lit.
+Quittons donc ces hauts sommets de la métaphore
+et retournons à la science.
+Supposez que les technologies qui nous permettent de trouver des connectomes
+marchent vraiment.
+Comment nous y prendrons-nous pour mettre à l'épreuve l'hypothèse selon laquelle
+"Je suis mon connectome"?
+Eh bien je vous propose un test en direct.
+Essayons
+de déchiffrer des souvenirs depuis des connectomes.
+Examinez le souvenir
+de longues séquences temporelles de mouvements
+comme un pianiste jouant une sonate de Beethoven.
+Selon une théorie qui remonte au 19°siècle,
+des souvenirs comme cela sont stockés
+dans nos cerveaux sous formes de connexions synaptiques.
+Parce que, si les premiers neurones dans la chaîne sont activés,
+ils envoient des messages par leurs synapses aux seconds neurones, qui sont activés,
+et cela se poursuit ainsi sur toute la ligne,
+un peu comme une chaîne de dominos qui s'écroulerait.
+Et cette séquence d'activation neuronale
+est envisagée hypothétiquement comme étant la base neuronale
+de ces séquences de mouvements.
+Aussi un des moyens d'essayer de tester cette théorie
+consiste à chercher ce genre de chaînes
+à l'intérieur des connectomes.
+Mais ce ne sera pas facile, parce qu'elles ne ressembleront pas à ça.
+Elles seront toutes emmêlées.
+On va donc devoir utiliser nos ordinateurs
+pour essayer de démêler les chaînes.
+Et si on arrive à faire ça,
+la séquence de neurones que nous récupèrerons
+sera une prédiction du modèle de l'activité neuronale
+qui est rejouée dans le cerveau lors de la recollection des souvenirs.
+Et si cela s'avérait être une réussite,
+cela serait le premier exemple d'une lecture de souvenirs à partir d'un connectome.
+(Rires)
+Quel bazard.
+Avez-vous déjà essayé de faire les branchements d'un système
+aussi complexe que celui-ci?
+J'espère que non.
+Mais si jamais c'est le cas, vous savez comme il peut être facile de faire une erreur.
+Les branchements des neurones sont comme les fils électriques du cerveau.
+Est-ce que quelqu'un peut deviner ça : quelle est la longueur totale des fils dans notre cerveau?
+Je vous donne un indice. C'est un nombre très grand.
+(Rires)
+Je l'estime à des millions de miles.
+Tout empaqueté dans notre boîte crânienne.
+Et si vous arrivez à estimer ce nombre,
+vous pouvez facilement comprendre
+qu'il y a une immense probabilité pour qu'il y ait de mauvaises connexions dans le cerveau.
+Et en effet, la presse populaire adore les gros titres du genre
+"Le cerveau des anorexiques est connecté différemment"
+ou "Le cerveau des autistes est connecté différement".
+Ce sont des affirmations plausibles
+mais, en vérité,
+on n'est pas capable de regarder le "câblage" du cerveau assez clairement
+pour dire si elles sont vraies.
+Donc les technologies qui visent à observer des connectomes
+nous permettrons en fin de compte
+de déchiffrer les erreurs de câblage dans le cerveau,
+de repérer les désordres mentaux dans les connectomes.
+Parfois le meilleur moyen de tester une hypothèse
+est de la considérer dans ce qu'elle implique de plus extrême.
+Les philosophes connaissent très bien ce jeu.
+Si vous pensez que je suis mon connectome,
+je pense que vous devrez aussi accepter l'idée
+que la mort entraîne la destruction
+de votre connectome.
+Je me permets de mentionner cela parce qu'il y a des prophètes aujourd'hui
+qui affirment que la technologie
+finira par modifier fondamentalement la condition humaine
+et peut-être même par transformer l'espèce humaine.
+Un de leurs rêves les plus tendres
+est de tromper la mort
+grâce à cette pratique connue sous le nom de cryonie.
+Pour 100 000 dollars,
+vous pouvez vous arranger pour qu'on congèle votre corps après votre mort
+et pour qu'on le place dans de l'azote liquide
+dans un de ces aquariums dans un entrepôt en Arizona
+dans l'attente d'une civilisation future
+assez avancée pour pouvoir vous ressusciter.
+Devons-nous tourner en ridicule les chercheurs d'immortalité des temps modernes,
+et les appeler idiots?
+Ou bien reviendront-ils un jour ricaner
+au-dessus de nos tombes?
+Je ne sais pas.
+Je préfère mettre à l'épreuve leurs croyances, scientifiquement.
+Je propose que nous essayions de trouver un connectome
+d'un cerveau congelé.
+Nous savons que des dommages sont infligés au cerveau
+après la mort et pendant le refroidissement du cadavre.
+La question est : est-ce que ces dommages effacent le connectome?
+Si c'est le cas, il n'y a aucun moyen pour qu'une civilisation du future
+soit cabale de récupérer les souvenirs de ces cerveaux congelés.
+La résurrection pourrait bien fonctionner pour le corps,
+mais pas pour l'esprit.
+D'un autre côté, si le connectome est toujours intact,
+on ne peut pas ridiculiser les affirmations des partisans de la cryonie si facilement.
+J'ai décrit une quête
+qui commence dans le monde de l'infiniment petit
+et finit par nous propulser dans le monde d'un futur très éloigné.
+Les connectomes marqueront un tournant dans l'histoire de l'humanité.
+Alors que nous nous émancipions de la condition de nos ancêtres à l'apparence de singes
+dans la savane africaine,
+ce qui nous distinguait, c'était nos cerveaux plus larges.
+Nous avons utilisé nos cerveaux pour concevoir
+des technologies toujours plus incroyables.
+A la fin, ces technologies deviendront si puissantes
+que nous les utiliserons pour mieux nous connaître
+en déconstruisant et reconstruisant
+nos propres cerveaux.
+Je suis convaincu que cette aventure, qui nous permet de comprendre qui nous sommes,
+n'est pas réservée qu'aux scientifiques
+mais s'offre à chacun de nous.
+Et je suis reconnaissant d'avoir eu la chance de partager cette aventure avec vous aujourd'hui.
+Merci.
+(Applaudissements)

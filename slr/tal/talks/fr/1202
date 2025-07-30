@@ -1,0 +1,294 @@
+Savez-vous
+qu'il y a 1,4 millions de mâts radio-cellulaires
+à travers le monde ?
+Ce sont les stations de base.
+Et il y a aussi
+plus de cinq milliards
+de ces appareils.
+Ce sont les téléphones portables.
+Et avec ces téléphones portables,
+nous transmettons plus de 600 téraoctets de données
+chaque mois.
+C'est un 6 suivi de 14 zéros --
+un très grand nombre.
+Et les communications sans fil
+sont devenues une commodité
+au même titre que l'électricité et l'eau.
+Nous l'utilisons tous les jours. Nous l'utilisons dans nos vies quotidiennes désormais --
+dans nos vies privées, dans nos vies professionnelles.
+Et on doit même nous demander parfois, très gentiment,
+d'éteindre nos portables,
+lors d'événements comme celui-ci, pour de bonnes raisons.
+Et c'est à cause de cette importance
+que j'ai décidé de m'intéresser aux problèmes
+que cette technologie présente,
+parce qu'elle est si fondamentale à nos vies.
+Et l'un des problèmes est la capacité.
+Nous transmettons des données sans fil en utilisant les ondes électromagnétiques --
+en particulier, les ondes radio.
+Et les ondes radio sont limitées.
+Elles sont rares, elles coûtent cher,
+et on en a seulement une certaine étendue.
+Et c'est cette limite
+qui ne supporte pas
+les demandes de transmission de données sans fil
+et la quantité d'octets et de données transmises chaque mois.
+Et nous sommes bientôt simplement à court de spectre.
+Il y a un autre problème.
+C'est l'efficacité.
+Ces 1,4 millions de mâts radio cellulaires, ou stations de base,
+consomment beaucoup d'énergie.
+Et cela dit, la plupart de cette énergie
+n'est pas utilisée pour transmettre des ondes radio,
+elle est utilisée pour refroidir les stations de base.
+Alors l'efficience d'une telle station de base
+est seulement de 5%.
+Et cela crée un gros problème.
+Et il y a un autre problème dont vous êtes tous conscients.
+Vous devez éteindre vos téléphones portables
+durant les vols.
+Dans les hôpitaux, ils posent des problèmes de sécurité.
+Et la sécurité est un autre problème.
+Ces ondes radio passent à travers les murs.
+Elles peuvent être interceptées,
+et quelqu'un peut utiliser votre réseau
+s'il est mal intentionné.
+Donc voici les quatre principaux problèmes.
+Mais d'un autre côté,
+nous avons 14 milliards de ceci :
+des ampoules, de la lumière.
+Et la lumière fait partie du spectre électromagnétique.
+Observons ceci dans le contexte
+du spectre électromagnétique tout entier, où nous trouvons les rayons gamma.
+Vous ne voulez pas vous approcher des rayons gamma, ça pourrait être dangereux.
+Les rayons X, utiles quand vous allez à l'hôpital.
+Et il y a les rayons ultraviolets.
+C'est bon pour un joli bronzage,
+mais sinon dangereux pour le corps humain.
+Les infrarouges :
+en raison des règles pour la sécurité des yeux,
+vous ne pouvez les utiliser qu'à puissance réduite.
+Et il y a les ondes radio, avec les problèmes que j'ai mentionnés.
+Et là au milieu, il y a le spectre de la lumière visible.
+C'est la lumière.
+Et la lumière existe depuis des millions et des millions d'années.
+Et en fait, elle nous a créés,
+elle a créé la vie,
+a créé tout ce qui constitue la vie.
+Donc son utilisation est intrinsèquement sûre.
+Et ne serait-il pas génial de l'utiliser pour les communications sans fil ?
+Mais aussi, je l'ai comparée au reste du spectre.
+J'ai comparé le spectre des ondes radio --
+sa taille --
+avec la taille du spectre de la lumière visible.
+Et devinez quoi ?
+Il y a 10 000 fois plus de ce spectre,
+ici à notre disposition.
+Non seulement avons-nous cette énorme quantité de spectre,
+mais comparons cela avec un chiffre que je viens de mentionner.
+Il y a 1,4 million,
+déployées à grands frais,
+de bases radio téléphone inefficientes.
+Et multipliez cela par 10 000,
+vous arrivez à 14 milliards.
+14 milliards c'est le nombre d'ampoules déjà installées.
+Donc nous avons l'infrastructure en place.
+Regardez au plafond, vous verrez toutes ces ampoules.
+Allez à l'étage principal, vous verrez ces ampoules.
+Pouvons-nous les utiliser pour communiquer ?
+Oui.
+Que devons-nous faire ?
+Ce que nous devons faire
+c'est remplacer ces ampoules à incandescence inefficientes,
+ces ampoules fluorescentes,
+par cette nouvelle technologie de LED [diode électroluminescente],
+des ampoules à LED.
+La LED est un semi-conducteur. C'est un appareil électronique.
+Et elle a une propriété très sympa.
+On peut moduler son intensité
+à de très grandes vitesses,
+et on peut l'éteindre à de très grandes vitesses.
+C'est une propriété fondamentale
+que nous exploitons
+avec notre technologie.
+Laissez-moi vous montrer comment on fait cela.
+Allons voir le plus proche voisin du spectre de lumière visible --
+les télécommandes.
+Vous savez tous que les télécommandes ont une LED infrarouge --
+en gros vous allumez la LED, et si c'est éteint, vous l'éteignez.
+Et cela crée un simple flux de données, à vitesse réduite
+de 10 000 octets par seconde,
+20 000 octets par seconde.
+On ne peut pas s'en servir pour une vidéo sur You Tube.
+Ce que nous avons fait,
+nous avons développé une technologie
+avec laquelle nous pouvons en outre
+remplacer la télécommande de notre ampoule.
+Avec notre technologie nous transmettons,
+non seulement un simple flux de données,
+mais des milliers de flux de données
+en parallèle,
+à des vitesses encore plus grandes.
+Et la technologie que nous développée
+s'appelle SIM OFDM.
+Et c'est de la modulation spatiale --
+ce sont seulement les termes techniques, je n'entre pas dans les détails --
+mais c'est ainsi que nous avons permis
+à la source de lumière
+de transmettre des données.
+Vous allez dire : "D'accord, c'est bien --
+une diapositive créée en 10 minutes"
+Mais non seulement cela.
+Ce que nous avons fait,
+nous avons aussi développé un prototype.
+Et je montre pour la première fois en public
+le prototype à lumière visible.
+Ce que nous avons ici
+n'est pas une lampe de bureau ordinaire.
+Nous y avons adapté une ampoule à LED,
+qui vaut 3 dollars,
+et introduit notre technologie de traitement du signal.
+Et nous avons ici un petit trou.
+La lumière passe par ce trou.
+Il y a un récepteur.
+Le récepteur va convertir tous ces petits changements subtils d'amplitude
+que nous y créons
+en un signal électrique.
+Et ce signal électrique est alors reconverti
+en un flux de données à grande vitesse.
+Dans le futur nous espérons
+pouvoir intégrer ce petit trou
+dans ces smartphones.
+Et non seulement intégrer un cellule photoélectrique ici,
+mais peut-être utiliser l'appareil photo à l'intérieur.
+Donc que se passe-t-il
+quand on allume cette lumière ?
+Comme on pourrait s'y attendre,
+c'est une lumière, une lampe de bureau.
+Placez votre livre en-dessous et vous pouvez lire.
+Elle éclaire l'espace.
+Mais en même temps, vous voyez cette vidéo apparaître ici.
+Et c'est une vidéo, une vidéo haute définition,
+transmise par ce rai de lumière.
+Vous êtes sceptique.
+Vous pensez : "Ah, ah, ah.
+C'est un universitaire futé qui nous joue un petit tour ici."
+Mais laissez-moi faire ceci.
+(Applaudissements)
+Encore une fois.
+Vous n'y croyez toujours pas ?
+C'est cette lumière
+qui transmet cette vidéo haute définition par un flux partagé.
+Si vous regardez la lumière,
+elle éclaire comme on s'y attendrait.
+Vous ne remarquez pas, avec votre œil humain,
+vous ne remarquez pas les changements subtils d'amplitude
+que nous opérons dans cette ampoule.
+Cela satisfait l'objectif d'éclairage,
+mais en même temps, nous pouvons transmettre ces données.
+Et vous pouvez tout simplement le voir,
+même la lumière du plafond descend jusqu'au récepteur ici .
+Il peut ignorer cette lumière constante,
+parce que tout ce qui intéresse le récepteur
+ce sont les changements subtils.
+Vous avez également une question cruciale de temps en temps.
+Vous dites : "Bon,
+est-ce que je dois laisser la lumière allumée en permanence
+pour que cela fonctionne ?"
+Et la réponse est oui.
+Mais vous pouvez baisser la lumière
+à un niveau où elle semble être éteinte.
+Et vous pouvez toujours transmettre des données -- c'est possible.
+Alors je vous ai cité les quatre problèmes.
+La capacité :
+nous avons un spectre 10 000 fois plus large,
+10 000 fois plus de LEDs
+déjà installées dans l'infrastructure.
+Vous serez d'accord avec moi, je l'espère,
+qu'il n'y a plus de problème de capacité.
+L'efficacité :
+Les données passent par l'éclairage --
+c'est avant tout un appareil d'éclairage.
+Et si vous faites les comptes au niveau énergétique,
+les données transmises le sont gratuitement,
+c'est très basse consommation.
+Je ne mentionne pas la basse consommation
+de ces ampoules à LED.
+Si le monde entier les déployait,
+on pourrait économiser des centaines de centrales électriques.
+Je digresse.
+Ensuite j'ai mentionné la disponibilité.
+Vous reconnaîtrez qu'il y a des lumières dans les hôpitaux.
+Vous devez voir ce que vous faites.
+Il y a des lumières dans les avions.
+Donc il y a de la lumière partout.
+Regardez autour de vous. Partout. Regardez votre smartphone.
+Il a une lampe de poche, une lampe de poche à LED.
+Ce sont des sources potentielles de transmission des données à haute vitesse.
+Et puis il y a la sécurité.
+Vous serez d'accord avec moi
+que la lumière ne passe pas à travers les murs.
+Donc personne, si j'ai une lumière ici,
+si j'ai des données protégées,
+personne de l'autre côté de cette pièce, à travers ce mur,
+ne sera capable de lire ces données.
+Et il y a des données seulement où il y a de la lumière.
+Donc si je ne veux pas que ce récepteur reçoive des données,
+ce que je peux faire,
+c'est le tourner.
+Alors les données vont dans cette direction, plus dans celle-là.
+Et on peut en fait voir où les données vont.
+Donc pour moi,
+les applications de ce procédé,
+d'après moi, dépassent l'imagination à l'heure actuelle.
+Nous avons eu un siècle de développeurs d'applications intelligentes très sympa.
+Et il vous suffit de remarquer, là où il y a de la lumière,
+il y a un moyen potentiel de transmettre des données.
+Mais je peux vous donner quelques exemples.
+Bon, vous voyez peut-être déjà l'impact.
+Ceci est un véhicule télécommandé
+sous les mers.
+Et on utilise la lumière pour éclairer l'espace là en-dessous.
+Cette lumière peut être utilisée pour transmettre des données sans fil
+que ces choses échangent entre elles.
+Des environnements intrinsèquement sûrs
+comme cette usine pétrochimique --
+vous ne pouvez pas utiliser de radiofréquence, les antennes pourraient produire des étincelles,
+mais vous pouvez utiliser la lumière -- vous voyez plein de lumière là.
+Dans les hôpitaux,
+pour les nouveaux instruments médicaux.
+Dans les rues pour le contrôle de la circulation :
+les voitures ont des phares à LED, des feux arrière à LED,
+et les voitures peuvent communiquer entre elles
+et éviter les accidents
+en échangeant des informations.
+Les feux de circulation peuvent communiquer avec les voitures, etc…
+Et il y a ces millions de lampadaires
+déployés à travers le monde.
+Chaque lampadaire serait un point d'accès gratuit.
+En fait nous appelons cela le Li-Fi,
+light-fidelity [lumière-fidélité].
+Et il y a ces cabines d'avions.
+Il y a des centaines de lumières dans une cabine d'avion,
+et chacune de ces lumières
+est un transmetteur potentiel de données sans fil.
+Donc vous pourriez apprécier votre vidéo favorite de TED
+sur un long vol retour vers chez vous.
+La vie en ligne. Je pense que c'est une vision qui est possible.
+Donc tout ce que nous devons faire,
+c'est installer une petite micro-puce
+sur chaque appareil potentiel d'éclairage.
+Cela combinerait alors
+deux fonctions basiques :
+l'éclairage et la transmission de données sans fil.
+Et c'est cette symbiose dont je crois personnellement
+qu'elle pourrait résoudre les quatre problèmes essentiels
+auxquels nous faisons face de nos jours dans la communication sans fil.
+Et dans le futur,
+on aurait non seulement 14 milliards d'ampoules,
+mais aussi 14 milliards de Li-Fis
+déployés à travers le monde --
+pour un futur plus propre, plus écologique,
+et même plus brillant.
+Merci.
+(Applaudissements)

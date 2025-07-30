@@ -1,0 +1,238 @@
+Voici une image de la planète Terre.
+Elle ressemble beaucoup aux images d'Apollo,
+très célèbres.
+Il y a une différence :
+on peut cliquer sur cette image,
+et si on le fait,
+on peut zoomer sur quasiment n'importe quel endroit du globe.
+Par exemple, cette vue du ciel
+du campus de l'EPFL.
+Souvent, on peut voir également
+à quoi ressemble un bâtiment vu d'une rue à proximité.
+C'est incroyable.
+Mais il manque quelque chose à cette belle visite :
+le temps.
+Je ne sais pas trop quand cette photo a été prise.
+Je ne suis même pas sûr si elle a été prise
+en même temps que la vue du ciel.
+Dans mon laboratoire, nous développons des outils
+pour voyager non seulement dans l'espace
+mais aussi dans le temps.
+La question que l'on se pose est
+s'il est possible de construire quelque chose
+comme un Google Maps du passé ?
+Peut-on ajouter un curseur en haut de Google Maps
+et changer l'année,
+pour voir comment c'était il y a 100 ans,
+ou il y a 1000 ans ?
+Est-ce que c'est possible ?
+Peut-on reconstruire des réseaux sociaux du passé ?
+Peut-on créer un Facebook du Moyen Age ?
+En fait, peut-on créer des machines à remonter le temps ?
+On peut répondre simplement : « Non, c'est impossible. »
+Ou alors, on peut y réfléchir du point de vue de l'information.
+C'est ce que j'appelle le champignon de l'information.
+Verticalement, voici le temps,
+et horizontalement, le nombre d'informations numériques disponibles.
+Evidemment, dans les 10 dernières années, il y a beaucoup d'informations.
+Et bien sûr, plus nous retournons vers le passé, moins il y a d'informations.
+Si nous voulons construire quelque chose comme Google Maps du passé,
+ou Facebook du passé,
+il faut élargir cet espace,
+il faut le faire comme un rectangle.
+Comment s'y prend-on ?
+Une façon, c'est la numérisation.
+Il y a beaucoup de matériel disponible,
+des journaux, des livres imprimés, des milliers de livres imprimés.
+Je peux tous les numériser.
+Je peux en extraire les informations.
+Bien sûr, plus on retourne dans le passé, moins il y a d'informations.
+Ce n'est peut-être pas suffisant.
+Je peux alors faire ce que font les historiens.
+Je peux extrapoler.
+C'est ce qu'on appelle, en informatique, la simulation.
+Si je prends un journal de bord,
+je peux estimer que ce n'est pas qu'un journal de bord
+d'un capitaine vénitien partant vers un voyage précis.
+Je peux estimer que c'est un journal de bord
+représentatif d'un grand nombre de voyages de cette époque.
+J'extrapole.
+Si j'ai la peinture d'une façade,
+je peux envisager que ce n'est pas que ce bâtiment en particulier,
+mais qu'il partage probablement la même grammaire
+que d'autres bâtiments dont les informations ont été perdues.
+Si on veut construire une machine à remonter le temps,
+il faut deux choses.
+Il faut des archives très grandes,
+et d'excellents experts.
+La machine à remonter le temps de Venise,
+le projet dont je vais vous parler,
+est un projet commun entre l'EPFL
+et l'Université de Venise Ca' Foscari.
+Il y a quelque chose de très particulier au sujet de Venise,
+c'est que son administration est
+très, très bureaucratique.
+Ils ont gardé trace de tout,
+presque comme Google aujourd'hui.
+Aux Archives d'Etat,
+il y a 80 kilomètres d'archives
+retraçant chaque aspect
+de la vie de Venise sur plus de 1000 ans.
+Il y a chaque bateau qui part,
+chaque bateau qui arrive.
+Il y a chaque changement fait dans la ville.
+Tout est là dedans.
+Nous sommes en train de créer un programme de numérisation de 10 ans
+qui a pour objectif de transformer
+ces énormes archives
+en un système gigantesque d'information.
+Nous avons pour type d'objectif
+de pouvoir numériser 450 livres par jour.
+Bien sûr, quand on numérise, ce n'est pas suffisant,
+car ces documents,
+la plupart d'entre eux sont en latin, en toscan,
+en dialecte vénitien,
+il faut donc les transcrire,
+les traduire dans certains cas,
+les indexer,
+et évidemment, ce n'est pas simple.
+La méthode de reconnaissance de caractère optique traditionnelle, notamment,
+qu'on peut utiliser pour des manuscrits imprimés,
+ne fonctionne pas bien sur des documents écrits à la main.
+La solution en fait, c'est de s'inspirer
+d'un autre domaine : la reconnaissance vocale.
+C'est un domaine d'une chose qui semble impossible
+mais qui peut être réalisée
+en ajoutant simplement des contraintes supplémentaires.
+Si on a un très bon modèle
+d'un langage utilisé,
+si on a un très bon modèle d'un document,
+bien structuré.
+Ce sont des documents administratifs.
+Ils sont bien structurés la plupart du temps.
+Si on divise ces immenses archives en de petits sous-ensembles,
+où un petit sous-ensemble partage des aspects similaires,
+alors il y a un chance de réussite.
+Si cette étape est atteinte, alors il y a autre chose :
+on peut extraire des événements de ces documents.
+En fait, probablement 10 milliards d'événements
+peuvent être extraits de ces archives.
+Et ce système d'information gigantesque
+peut être observé de nombreuses manières.
+On peut poser des questions comme :
+« Qui vivait dans ce palais en 1323 ? »
+« Combien coûte une dorade au marché de Realto
+en 1434 ? »
+« Quel était le salaire
+d'un verrier à Murano
+sur, disons, une décennie ? »
+On peut même poser des questions plus longues
+car elles seront codées sémantiquement.
+Ce qu'on peut ensuite faire, c'est de mettre tout cela dans l'espace,
+car beaucoup d'informations sont spatiales.
+A partir de là, on peut faire des choses comme
+reconstruire ce voyage extraordinaire
+de cette ville qui a réussi à avoir un développement durable
+sur un millier d'années,
+parvenant ainsi à avoir tout le temps
+une forme d'équilibre avec son environnement.
+On peut reconstruire ce voyage,
+le visualiser de nombreuses et différentes manières.
+Mais bien évidemment, on ne peut pas comprendre Venise seulement en la regardant.
+Il faut la placer dans un contexte européen plus vaste.
+L'idée, c'est aussi de documenter toutes les choses
+qui ont fonctionné au niveau européen.
+On peut aussi reconstruire le voyage
+de l'empire maritime vénitien,
+comment il a conquis progressivement la Mer Adriatique,
+comment il est devenu l'empire médiéval le plus puissant
+de son époque,
+en prenant le contrôle de la plupart des routes maritimes
+de l'est au sud.
+Mais on peut faire même d'autres choses,
+car dans ces routes maritimes,
+il y a des schémas récurrents.
+On peut aller plus loin
+et créer un système de simulation,
+créer un simulateur méditerranéen
+capable de reconstruire
+même les informations manquantes,
+ce qui nous permettrait d'avoir des questions qu'on pourrait poser
+comme si on utilisait un planificateur routier.
+« Si je suis à Corfou en juin 1323
+et que je veux aller à Constantinople,
+où puis-je prendre un bateau ? »
+On peut probablement répondre à cette question
+avec une précision d'un, deux, ou trois jours.
+« Combien ça va coûter ? »
+« Quels sont les risques de rencontrer des pirates ? »
+Bien sûr, vous comprenez que
+le défi scientifique central d'un projet comme celui-ci,
+c'est de qualifier, de quantifier et de représenter
+l'incertitude et les incohérences à chaque étape du processus.
+Il y a des erreurs partout,
+des erreurs dans le document, c'est le nom erroné du capitaine,
+ou certains bateaux n'ont jamais pris la mer.
+Il y a des erreurs de traduction, des partis pris dans l'interprétation,
+et de surcroît, si on ajoute les processus d'algorithme,
+il y aura des erreurs dans la reconnaissance,
+des erreurs dans l'extraction,
+et on obtient donc des données très, très incertaines.
+Alors, comment peut-on détecter et corriger ces incohérences ?
+Comment peut-on représenter cette forme d'incertitude ?
+C'est difficile. Une chose qu'on peut faire,
+c'est documenter chaque étape du processus,
+non seulement en codant les informations historiques
+mais aussi ce qu'on appelle les informations méta-historiques,
+comment les connaissances historiques sont construites,
+en documentant chaque étape.
+Ça ne nous assure pas que l'on se dirige vraiment
+vers une histoire unique de Venise,
+mais certainement que l'on peut vraiment reconstruire
+une histoire potentielle de Venise complètement documentée.
+Il n'y a peut-être pas une seule carte.
+Il y a peut-être plusieurs cartes.
+Le système devrait nous le permettre
+car on doit faire face à une nouvelle forme d'incertitude
+qui est réellement nouvelle pour ce type de base de données immenses.
+Comment doit-on communiquer
+sur cette nouvelle recherche vers un public large ?
+Encore une fois, Venise est extraordinaire en la matière.
+Avec ses millions de visiteurs chaque année,
+elle est vraiment un des meilleurs endroits
+pour essayer d'inventer le musée de l'avenir.
+Imaginez, horizontalement, on voit la carte reconstruite
+d'une année donnée,
+et verticalement, on voit le document
+qui a permis la reconstruction,
+des peintures, par exemple.
+Imaginez un système immersif qui permet
+d'aller, de plonger et de reconstruire la Venise d'une année donnée,
+une expérience qu'on peut partager en groupe.
+A l'inverse, imaginez qu'on démarre
+par un document, un manuscrit vénitien,
+et on montre ce qu'on peut en tirer,
+comment il est décodé,
+comment le contexte de ce document peut être recréé.
+Voici une image d'une exposition
+qui se tient actuellement à Genève
+avec ce genre de système.
+En conclusion, on peut dire que
+la recherche dans les humanités est sur le point de subir
+une évolution à peu près similaire
+à ce qui s'est passé dans les sciences de la vie il y a 30 ans.
+C'est en fait une question d'échelle.
+On voit des projets qui sont
+bien au-delà de ce qu'une seule équipe de recherche peut réaliser,
+et ça, c'est vraiment nouveau dans les humanités,
+où on a souvent pour habitude de travailler
+en petits groupes ou seulement avec deux chercheurs.
+Lorsqu'on visite les Archives d'Etat à Venise,
+on sent que c'est au-delà de ce qu'une simple équipe peut réaliser,
+et qu'il faut un effort partagé et commun.
+Ce qu'il faut pour ce changement de modèle,
+c'est promouvoir une nouvelle génération
+d' « humanistes numériques »
+qui seront prêts pour ce changement.
+Je vous remercie beaucoup.
+(Applaudissements)

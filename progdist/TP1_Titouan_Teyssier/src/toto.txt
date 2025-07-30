@@ -1,0 +1,101 @@
+Press [return] to stop]
+Received: Login
+machineName: machine1
+login: login1
+applicationName: null
+Received: Login
+machineName: machine5
+login: login5
+applicationName: null
+Received: Login
+machineName: machine4
+login: login4
+applicationName: null
+Received: Login
+machineName: machine2
+login: login2
+applicationName: null
+Received: Login
+machineName: machine3
+login: login3
+applicationName: null
+Received: Lancement
+machineName: machine4
+login: login4
+applicationName: app4
+Received: Lancement
+machineName: machine3
+login: login3
+applicationName: app3
+Received: Lancement
+machineName: machine1
+login: login1
+applicationName: app1
+Received: Lancement
+machineName: machine5
+login: login5
+applicationName: app5
+Received: Lancement
+machineName: machine2
+login: login2
+applicationName: app2
+Received: Erreur : fichier toto.xml non trouve
+machineName: machine1
+login: login1
+applicationName: app1
+Received: Arret normal
+machineName: machine1
+login: login1
+applicationName: app1
+Received: Erreur : fichier toto.xml non trouve
+machineName: machine4
+login: login4
+applicationName: app4
+Received: Arret normal
+machineName: machine4
+login: login4
+applicationName: app4
+Received: Logout
+machineName: machine1
+login: login1
+applicationName: null
+Received: Logout
+machineName: machine4
+login: login4
+applicationName: null
+Received: Erreur : fichier toto.xml non trouve
+machineName: machine3
+login: login3
+applicationName: app3
+Received: Erreur : fichier toto.xml non trouve
+machineName: machine5
+login: login5
+applicationName: app5
+Received: Arret anormal
+machineName: machine3
+login: login3
+applicationName: app3
+Received: Arret anormal
+machineName: machine5
+login: login5
+applicationName: app5
+Received: Erreur : fichier toto.xml non trouve
+machineName: machine2
+login: login2
+applicationName: app2
+Received: Arret anormal
+machineName: machine2
+login: login2
+applicationName: app2
+Received: Logout
+machineName: machine5
+login: login5
+applicationName: null
+Received: Logout
+machineName: machine3
+login: login3
+applicationName: null
+Received: Logout
+machineName: machine2
+login: login2
+applicationName: null

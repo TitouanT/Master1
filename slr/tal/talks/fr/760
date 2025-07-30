@@ -1,0 +1,362 @@
+Le problème dont je veux vous parler
+peut se résumer en
+comment peut-on offrir des soins
+dans un monde où le coût est au centre de tout.
+Comment peut-on faire ça ?
+Et le paradigme de base que nous voulons vous suggérer,
+que je veux vous suggérer, c'est
+que pour pouvoir
+guérir des maladies, vous devez d'abord savoir ce que vous guérissez --
+c'est le diagnostique -- et vous devez alors faire quelque chose.
+Donc, notre programme est quelque chose que nous appelons
+le diagnostique pour tous, ou le diagnostique à coût nul.
+Comment fournir de l'information médicale pertinente
+à un prix le plus proche possible de zéro ? Comment faire ça ?
+Laissez-moi vous donner deux exemples.
+Les rigueurs de la médecine militaire
+ne sont pas si différentes de celles du tiers-monde
+peu de ressources, un environnement rigoureux,
+la contrainte d'alléger les objets avec la série de problèmes qui va avec, et des choses du genre.
+Et pas très différentes non plus des problèmes de soin à domicile
+et du monde du diagnostique en général.
+Donc, la technologie dont je souhaite vous parler
+est pour le tiers monde, pour les pays en voie de développement,
+mais elle a, je pense, des applications beaucoup plus vastes,
+parce que l'information est importante dans un système de soin.
+Donc, vous voyez les deux exemples ici.
+L'un d'eux est un laboratoire qui est en fait assez pointu en Afrique.
+Le second est en fait un entrepreneur
+qui s'est installé, et qui fait on ne sait quoi sur une table, sur un marché.
+Je ne sais pas quels genre de soins sont délivrés ici.
+Mais ce n'est probablement pas ce qui est le plus efficace.
+Quelle est notre approche ?
+Et la façon dont on aborde traditionnellement
+un problème pour diminuer les coûts,
+en partant de la perspective des États-Unis,
+est de prendre notre solution,
+et ensuite d'essayer de diminuer les coûts.
+Mais quoi que vous fassiez,
+vous n'arriverez jamais à partir d'un instrument de 100.000 $ US
+et à faire baiser son prix jusqu'à zéro. Ça ne marchera pas.
+Donc, l'approche que nous avons prise est de partir de l'autre bout.
+Se demander : "Quel est le truc le moins cher
+qui pourrait servir à faire des diagnostiques,
+et en tirer des informations utiles,
+et pouvoir ajouter des fonctions ?" Et nous avons choisi le papier.
+Ce que vous voyez ici est un prototype.
+Il mesure environ un centimètre de coté.
+Ça a la taille d'un ongle.
+Les lignes autour des cotés sont
+un polymère.
+C'est fait en papier, et bien sûr, les fluides se repandent sur du papier.
+Comme vous le savez, du papier, des vêtements; une goutte de vin sur une nappe,
+et le vin se répand et s'infiltre partout.
+Mettez-en sur votre chemise, et elle est foutue.
+C'est ce qu'une surface hydrophile fait.
+Donc, dans ce dispositif, l'idée c'est que vous trempez
+son extrémité du bas dans une goutte,
+dans ce cas, d'urine.
+Le fluide se répand dans ces chambres en haut.
+La couleur marron indique le taux de glucose dans l'urine.
+La couleur bleue indique le taux de protéine dans l'urine.
+Et la combinaison des deux.
+est un très bon indicatif d'un certain nombre
+de choses utiles que vous voulez.
+Donc, c'est un exemple d'un dispositif fait à partir d'une simple feuille de papier.
+Bon, comment simplifier la production ?
+Pourquoi avons-nous choisi du papier ?
+Voici un exemple de la même chose, sur un doigt
+qui vous montre en gros à quoi ça ressemble.
+Une des raisons d'utiliser le papier, c'est qu'il est partout.
+Nous avons réalisé ces types de dispositifs qui utilisent
+des serviettes et du papier-toillette
+et des cartes, et plein d'autres trucs.
+Donc, la capacité de production est là.
+La seconde raison, c'est que vous pouvez mettre
+énormément de tests sur une toute petite surface.
+Je vais vous montrer dans un instant que le bloc de papier ici
+pourrait probablement contenir quelque chose comme
+100.000 tests, ou quelque chose comme ça.
+Et puis enfin, quelque chose auquel vous ne pensez peut-être pas
+dans un mode médicalisé développé,
+ça élimine les pointes.
+Par "pointes", je parle d'aiguilles, de choses qui collent.
+Si vous avez pris un échantillon de sang
+et que cette personne peut avoir l'hépatite C,
+vous ne voulez pas faire une erreur et vous la planter sur vous.
+C'est juste, vous ne voulez pas faire ça.
+Donc, comment se débarrasser de ça ? C'est un problème partout.
+Et ici, vous brûlez simplement le papier.
+Donc, c'est une sorte d'approche pratique
+pour commencer les choses.
+Maintenant, vous allez dire, si le papier est une bonne idée,
+d'autres personnes y ont surement déjà pensé.
+Et la réponse est, bien sûr, oui.
+La moitié d'entre-vous, en gros,
+qui sont des femmes,
+vous avez dû faire un test de grossesse.
+Et le plus répondu de ces tests
+est dans un objet qui ressemble à la chose à gauche.
+C'est quelque chose qui s'appelle un flux latéral immunoassay.
+Et dans ce test en particulier
+l'urine, qui contient ou ne contient pas
+une hormone appelée HCG
+se répand sur un morceau de papier.
+Il y a deux barres. La première indique que le test fonctionne.
+Et si la seconde apparaît, vous êtes enceinte.
+C'est un test génial dans un monde binaire.
+Et ce qui est bien dans le fait d'être enceinte,
+c'est que soit vous l'êtes, soit vous ne l'êtes pas.
+Vous n'êtes pas partiellement enceinte, ou pensant à être enceinte
+ou quelque chose du genre.
+Donc, ça fonctionne très bien ici.
+Mais ça ne marche pas très bien quand vous avez besoin de données quantitatives.
+Il y a aussi les bâtonnets à tremper.
+Mais si vous regardez ces bâtonnets, ils sont pour
+d'autres types d'analyses d'urine.
+Il y a énormément de couleurs et des trucs comme ça.
+Que faites-vous dans des circonstances difficiles ?
+Donc, l'approche que nous avons prise est de se demander
+est-ce que c'est vraiment pratique de faire des choses comme ça ?
+Et ce problème est maintenant réglé, d'une façon purement ingénieure.
+Et la procédure que vous avons est simplement de commencer avec du papier.
+Il passe dans une nouvelle sorte d'imprimante, appelée imprimante à cire.
+L'imprimante à cire fait ce qui ressemble à de l'impression.
+Elle imprime. Vous mettez cela dessus, vous chauffez un peu.
+La cire se diffuse et est absorbée par le papier.
+Et vous obtenez au final le dispositif que vous voulez.
+Ces imprimantes coûtent 800 $ US maintenant.
+Nous estimons que si elles tournaient 24 heures par jour,
+elles pourraient produire 10 millions de tests par an.
+Donc, c'est un problème réglé. Ce problème particulier est réglé.
+Et voici un exemple du genre de chose que vous pouvez voir.
+Voici un papier d'environ 20 x 30 cm.
+Ça prend environ 2 secondes à faire.
+Et donc, je considère ça comme réglé.
+Il y a quelque chose de très important ici,
+c'est que parce que c'est une imprimante,
+une imprimante couleur, elle imprime en couleur. C'est ce que font les imprimantes couleur.
+Je vais vous montrer dans un instant, c'est en fait très utile.
+Maintenant, la prochaine question que vous allez poser
+c'est de savoir ce qu'on veut mesurer ? Que veut-on analyser ?
+Et la chose que l'on souhaite analyser en priorité,
+nous en sommes assez loin.
+C'est ce que l'on appelle "une fièvre d'origine non diagnostiquée".
+Quelqu'un arrive dans une clinique,
+il a de la fièvre, il ne se sent pas bien, qu'est-ce qu'il a ?
+Est-ce qu'il a la Tuberculose ? Est-ce qu'il a le SIDA ?
+Est-ce qu'il a un simple rhume ?
+Le problème du triage. C'est un problème très difficile
+pour des raisons dont je ne parlerai pas.
+Il y a un nombre énorme de choses que vous voulez pouvoir distinguer.
+Mais il y a une série de choses,
+SIDA, hépatite, Malaria,
+Tuberculose, ou autre.
+Et des plus simples, comme des guides de traitements.
+Maintenant, même ça est plus compliqué qu'on pourrait le croire.
+Un de mes amis travaille dans un centre psychiatrique multi-culturel.
+Et il s'intéresse à la question de savoir
+pourquoi les gens prennent ou ne prennent pas leur médicaments ?
+Donc, du Dapsone, ou quelque chose comme ça,
+vous devez le prendre pendant un certain temps.
+Il y a une histoire merveilleuse où il parle à un villageois en Inde.
+Il lui demande "Est-ce que vous avez pris votre Dapsone ?" "Oui".
+"Vous l'avez pris tous les jours ?" "Oui"
+"Vous l'avez pris pendant un mois ?" "Oui".
+En fait, ce que le type voulait dire,
+c'est qu'il avait donné les doses des 30 jours de Dapsoe
+à son chien, ce matin.
+(Rires)
+Il disait la vérité. Parce que
+dans une culture différente,
+le chien est votre substitut,
+vous savez, "aujourd'hui", "ce mois-ci", "depuis la saison des pluies",
+Il y a beaucoup d'occasions de mauvaise interprétation.
+Et donc, un problème ici est,
+dans certains cas, de savoir
+comment gérer des problèmes qui ne semblent pas intéressants,
+comme la conformité.
+Maintenant, regardons à quoi ressemble un test typique.
+Piquez un doigt, vous obtenez du sang,
+environ 50 microlitres.
+C'est à peu près tout ce que vous allez avoir.
+Parce que vous ne pouvez pas utiliser les systèmes habituels.
+Vous ne pouvez pas le manipuler très facilement,
+mais je vais vous le montrer dans un moment.
+Donc, vous prenez la goutte de sang, sans plus de manipulations.
+Vous la déposez sur ce petit dispositif.
+Il filtre les cellules sanguines, en laissant passer le sérum au travers,
+et vous obtenez une série de couleurs
+ici en bas.
+Et les couleurs indiquent une maladie ou si tout va bien.
+Mais même ça, c'est compliqué.
+Parce que pour vous, pour moi, les couleurs peuvent indiquer que tout va bien.
+Mais après tout, nous souffrons tous
+d'un excès probable d'éducation.
+Que faites-vous si quelque chose requiert
+une analyse quantitative ?
+Et donc, la solution à laquelle nous et beaucoup d'autres
+personnes pensons ici,
+et actuellement, il y a une diffusion impressionnante,
+et il en sort la solution universelle à tout ces temps ci,
+qui est un téléphone portable. Dans ce cas particulier, un téléphone-appareil photo.
+Il y en a partout, six millions de plus chaque mois, rien qu'en Inde.
+Et l'idée, c'est que quelqu'un
+prend ce système.
+Vous le trempez. Vous développez les couleurs.
+Vous prenez une photo. La photo est envoyée à un laboratoire central.
+Vous n'avez pas besoin d'envoyer un docteur.
+Vous envoyez quelqu'un qui va juste prélever les échantillons.
+Et dans la clinique, soit un docteur, ou idéalement un ordinateur
+dans ce cas, fera l'analyse.
+Il se trouve que ça fonctionne assez bien, en particulier quand votre
+imprimante couleur a imprimé des barres de couleurs
+qui indiquent comment les choses fonctionnent.
+Donc, ma vision du personnel de santé du future
+n'est pas un docteur,
+mais un jeune de 18 ans, qui sinon est au chômage
+et qui a deux choses. Il a un sac à dos rempli de ces tests.
+et un bistouri pour prendre des échantillons de sang,
+et une [Kalachnikov] AK-47.
+Et ce sont ces choses qui lui feront passer sa journée.
+Il y a une autre connexion très intéressante ici.
+Qui est de savoir comment faire
+pour faire passer de l'information utile
+au travers d'un système téléphonique qui est assez catastrophique.
+Il s'avère qu'il y a un volume d'information énorme
+déjà disponible sur ce sujet, qui est le problème du robot sur Mars.
+Comment récupérer une vue précise des couleurs sur Mars,
+si vous avez un débit très mauvais pour faire ça ?
+Et la réponse n'est pas compliquée
+mais je ne veux pas l'aborder ici,
+à part pour indiquer que les systèmes de communication
+pour faire ça sont assez bien compris.
+Aussi, un fait que vous ne connaissez peut-être pas,
+est que la capacité de calcul de cet objet
+n'est pas très différente de la capacité de calcul
+de votre ordinateur de bureau.
+C'est un dispositif fantastique qui commence tout juste à être exploré.
+Je ne sais pas si l'idée d'un ordinateur pour chaque enfant
+est une bonne idée. Voici l'ordinateur du futur.
+Parce que l'écran est déjà là et qu'ils peuvent être partout.
+Bon, maintenant, laissez-moi vous montrer des dispositifs avancés.
+Commençons par poser un petit problème.
+Ce que vous voyez là est un autre dispositif d'un centimètre carré.
+Et les différentes couleurs sont différentes couleurs de teintures.
+Et vous remarquez quelque chose qui peut
+vous sembler intéressant,
+qui est que le jaune semble disparaître,
+passer au travers du bleu, et ensuite au travers du rouge.
+Comment ça marche ? Comment faire passer quelque chose au travers d'autre chose ?
+Et bien sûr, la réponse, c'est : "Vous ne le faites pas".
+Vous le faites passer par dessous ou par dessus.
+Mais la question devient : comment le faire passer
+par dessous et par dessus dans une feuille de papier ?
+Et la réponse est que ce que vous faites,
+et les détails ne sont pas très importants ici,
+est de faire quelque chose de plus élaboré,
+vous prenez plusieurs couches de papier différentes,
+chacune contenant son propre petit système de fluide,
+et vous les séparez par des morceaux de,
+littéralement, du scotch double face pour tapis,
+le truc que vous utilisez pour coller les tapis sur le sol.
+Et le fluide va passer d'une couche vers la suivante.
+Il se diffuse de lui-même, au travers de trous,
+se diffusant au travers des différentes couches de papier.
+Et ce que vous voyez en bas à droite ici
+est un échantillon dans lequel une simple goutte
+de sang a été déposée au dessus,
+et qui s'est infiltrée, et diffusée d'elle-même
+dans les 16 trous du bas,
+dans un morceau de papier qui ressemble à une puce,
+de l'épaisseur de 2 feuilles de papier.
+Et dans ce cas particulier, nous nous intéressions juste
+à la possibilité de le répliquer.
+Mais c'est, en principe, la façon de résoudre
+le problème de la "fièvre d'origine inexpliquée".
+Parce que chacune de ces tâches devient alors
+un test pour un ensemble particulier de marqueurs
+de maladie.
+Et ceci fonctionnera en temps voulu.
+Et voici un exemple d'un objet un petit peu plus complexe.
+Voici la puce.
+Vous trempez un coin. Le fluide va au centre.
+Il se diffuse lui-même dans ces trous
+ou puits divers, et change de couleur.
+Le tout en utilisant du papier et du scotch pour tapis.
+Donc, je pense que c'est aussi bon marché
+que l'on puisse être capable de concevoir et de fabriquer.
+Maintenant, j'ai une, ou plutôt deux dernières histoires
+à vous raconter, pour terminer cette présentation.
+Voilà la première. Une des choses que l'on doit faire occasionnellement
+c'est de séparer les cellules sanguines du sérum.
+et la question était,
+ici, nous le faisons en prenant un échantillon.
+On le place dans une centrifugeuse.
+On le fait tourner, et cela extrait les cellules sanguines. Génial.
+Que se passe t-il si vous n'avez pas d'électricité,
+ni de centrifugeuse, ni autre chose ?
+Et nous avons réfléchi pendant un moment à savoir comment on pourrait faire.
+Et la façon, en fait, de le faire, est présentée ici.
+Vous prenez un batteur à œufs,
+que l'on trouve partout. Vous sciez une des lames.
+Et vous prenez ensuite des tubes,
+et vous les fixez dessus. Vous mettez le sang dedans. Vous tournez.
+Quelqu'un s'assied et le fait tourner.
+Ça marche très très bien.
+Et nous avons ensuite calculé la physique des batteurs à œufs
+et des tubes qui s'alignent automatiquement, et tout le reste de ce genre de choses,
+nous l'avons envoyé à un journal (pour publication).
+Nous étions très fiers de ça, en particulier du titre
+qui était : "Un batteur à œufs utilisé comme centrifugeuse".
+(Rires)
+Nous l'avons envoyé, et il nous est revenu, refusé.
+J'ai appelé l'éditeur et demandé
+"Qu'est ce qui se passe ? Comment est-ce possible ?"
+L'éditeur a répondu, avec un dédain énorme,
+"Je l'ai lu.
+Et nous n'allons pas le publier, parce que nous ne publions
+que ce qui a rapport avec la science".
+Et c'est un problème important
+parce que ça veut dire que nous devons,
+en tant que société,
+penser à ce qui est important pour nous.
+Et si c'est juste les journaux et les publications scientifiques,
+nous avons un problème.
+Voici un autre exemple de quelque chose qui ...
+C'est un petit spectrophotomètre.
+Cela mesure l'absorption de la lumière dans un échantillon.
+Ce qui est bien, c'est que vous avez une source lumineuse qui s'allume
+et s'éteint à 1.000 Hertz.
+Et une autre source lumineuse qui détecte cette lumière à 1.000 Hz.
+Et donc, vous pouvez utiliser ce système en plein jour.
+Ça fonctionne à peu de choses près
+comme un système qui coûte environ
+100.000 dollars US
+Ca coûte 50 dollars US. On pourrait peut être le produire pour 50 cents,
+si on réfléchit sérieusement au problème.
+Pourquoi personne ne le fait ? La réponse, c'est :
+"Comment gagner de l'argent dans un système capitalistique, en faisant ça ?"
+Problème intéressant.
+Donc, laissez-moi terminer en disant
+que nous avons réfléchi à ça comme une sorte de problèmes de conception.
+Et nous nous sommes demandés, quelle est l'idée scientifique commune derrière tout cela ?
+Et nous avons décidé que nous devons y penser
+non pas tant en terme de coûts,
+mais en terme de simplicité.
+Simplicité est un joli mot. Et vous devez alors réfléchir
+à savoir ce que la simplicité signifie.
+Je sais ce que c'est, mais je ne sais pas ce que ça veut vraiment dire.
+Donc, ça m'a assez intéressé pour mettre en place
+plusieurs groupes de personnes.
+Et le plus récent implique un petit groupe de personnes au MIT,
+l'un d'eux est un gamin exceptionnellement brillant
+qui est une des très rares personnes que je pourrais
+considérer comme un réel génie.
+Nous avons cherché pendant une journée entière sur comment définir la simplicité.
+Et je vais vous donner la réponse à cette question
+d'une profonde pensée scientifique.
+"C'est impossible de le faire foirer" (Rires)
+Donc, dans un sens, vous avez ce que vous payez.
+Merci beaucoup.
+(Rires)

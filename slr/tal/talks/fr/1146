@@ -1,0 +1,461 @@
+Réfléchissez un instant à votre journée.
+Vous vous êtes réveillé, vous avez senti l'air frais sur votre visage quand vous êtes sorti,
+vous avez croisé de nouveaux collègues, vous avez eu de grandes discussions,
+et vous vous êtes enthousiasmé quand vous avez découvert quelque chose de nouveau.
+Mais je parie qu'il y a une chose à laquelle vous n'avez pas pensé aujourd'hui --
+une chose tellement proche de vous
+que vous n'y pensez probablement quasiment jamais.
+Je parle du fait que toutes ces sensations, ces impressions,
+ces décisions et ces actions
+sont arbitrées par l'ordinateur qui se trouve dans votre tête
+qu'on appelle le cerveau.
+Évidemment vu de l'extérieur le cerveau ne ressemble pas à grand chose --
+un kilo de chair rose grisâtre,
+informe --
+mais le dernier siècle en neuroscience
+nous a permis de faire un zoom sur le cerveau
+et de découvrir la complexité de ce qu'il abrite.
+Il nous a appris que ce cerveau
+est un circuit incroyablement compliqué
+fait de centaines de milliards de cellules appelées neurones.
+Maintenant, à la différence d'un ordinateur conçu par l'homme,
+qui a un nombre relativement limité de composants --
+dont nous connaissons le fonctionnement, puisque nous les avons conçus --
+le cerveau est fait de milliers de sortes de cellules différentes,
+peut-être des dizaines de milliers.
+Elles sont de formes différentes, elles sont faites de différentes molécules,
+elles se projettent et se connectent à des différentes régions du cerveau.
+Elles changent aussi différemment selon différents états de maladies.
+Parlons concrètement.
+Il y a une catégorie de cellules,
+une cellule relativement petite, inhibitrice, qui endort ces voisines.
+C'est une des cellules qui semble être atrophiée dans des états comme la schizophrénie.
+On l'appelle cellule à corbeille.
+Cette cellule est une parmi les milliers
+que nous découvrons progressivement.
+On en découvre de nouvelles tous les jours.
+Pour donner un autre exemple:
+ces grandes cellules, pyramidales,
+peuvent s'étendre sur une portion significative du cerveau.
+Elles sont stimulantes.
+Ce sont certaines des cellules
+qui peuvent être hyperactives dans des troubles comme l'épilepsie.
+Chacune de ces cellules
+est un incroyable appareil électrique.
+Elles sont alimentées par des milliers de partenaires en amont
+et elles gèrent leur propre production électrique,
+qui, si elle dépasse un certain seuil,
+se répartit alors entre les milliers de cellules en aval.
+Ce processus qui prend environ une milliseconde,
+se produit des milliers de fois par minute
+dans chacune de vos 100 milliards de cellules,
+tant que vous vivez,
+pensez et ressentez.
+Allons-nous donc découvrir ce que fait ce circuit?
+Dans un monde parfait, nous pourrions parcourir ce circuit,
+allumer et éteindre différentes sortes de cellules
+et voir si nous pouvons trouver
+lesquelles participent à telles fonctions
+et lesquelles faillissent dans certaines pathologies.
+Si nous pouvions activer des cellules, nous pourrions voir quels sont leurs pouvoirs,
+ce qu'elles peuvent déclencher et supporter.
+Si nous pouvions les éteindre,
+alors nous pourrions essayer de comprendre ce à quoi elles sont nécessaires.
+C'est l'histoire que je vais vous raconter aujourd'hui.
+Et honnêtement, nous avons passé les 11 dernières années
+à essayer de trouver un moyen
+d'allumer et éteindre des circuits, des cellules, des parties
+et des chemins du cerveau,
+à la fois pour comprendre la science
+mais aussi pour aborder quelques-uns des problèmes
+auxquels nous sommes confrontés en tant qu'humains.
+Maintenant, avant que je ne vous parle de la technologie,
+la mauvaise nouvelle est qu'une grande partie de nous dans cette salle,
+si nous vivons assez longtemps,
+aurons, peut-être, des troubles cérébraux.
+Déjà, un milliard de personnes
+ont une forme ou une autre de troubles cérébraux
+qui les handicape.
+Les chiffres ne leur font même pas justice.
+Ces troubles - la schizophrénie, la maladie d'Alzheimer,
+la dépression, la toxicomanie --
+non seulement volent notre temps de vie, elles changent qui nous sommes,
+elles nous prennent notre identité, changent nos émotions
+et changent qui nous sommes.
+Cependant, au 20e siècle,
+on a eu un peu d'espoir
+grâce au développement de médicaments pour le traitement des troubles cérébraux.
+Bien que l'on ait développé de nombreux médicaments
+qui peuvent soulager les symptômes des troubles du cerveau,
+on ne peut en pratique en guérir aucun.
+C'est en partie dû au fait que le cerveau baigne dans un bain chimique.
+Ce circuit complexe
+fait de milliers de différents types de cellules
+baigne dans une substance.
+C'est aussi pourquoi, peut-être la plupart des médicaments, et non pas tous, sur le marché
+peuvent aussi présenter des effets secondaires graves.
+Certaines personnes ont obtenu un peu de réconfort
+à partir de stimulateurs électriques qu'on implante dans le cerveau.
+Pour la maladie de Parkinson,
+les implants cochléaires
+ont en effet été en mesure
+d'apporter une sorte de remède
+aux personnes atteintes de certains types de troubles.
+Mais l'électricité ira aussi dans toutes les directions --
+le chemin de moindre résistance,
+c'est de là que vient cette expression, en partie.
+Elle aura un effet sur les circuits normaux en même temps que sur ceux que vous souhaitez réparer.
+A nouveau, nous sommes renvoyés à l'idée
+d'un contrôle ultra-précis.
+Peut-on envoyer une information exactement là où nous voulons?
+Quand j'ai commencé en neurosciences il y a 11 ans,
+j'ai eu une formation d'ingénieur électricien et de physicien,
+la première chose que j'en ai pensé était:
+si ces neurones sont des appareils électriques,
+tout ce que nous devons faire est de trouver un moyen
+de générer ces changements électriques à distance.
+Si l'on pouvait allumer l'électricité dans une cellule,
+mais pas dans ses voisines,
+cela nous donnerait l'outil dont nous avons besoin pour activer et fermer ces différentes cellules,
+comprendre ce qu'elles font et comment elles contribuent
+aux réseaux dans lesquels elles sont embarquées.
+Cela nous permettrait aussi d'avoir le contrôle ultra-précis nécessaire
+pour corriger les calculs du circuit
+qui ont mal tourné.
+Comment allons-nous faire?
+Il y a de nombreuses molécules dans la nature,
+qui sont capables de convertir la lumière en électricité.
+Vous pouvez les considérer comme de petites protéines
+semblables à des panneaux solaires.
+Si nous pouvions installer ces molécules dans les neurones,
+on pourrait ainsi contrôler ces neurones par la lumière.
+Mais pas leurs voisines, qui n'ont pas la molécule.
+Il y a un tour de magie dont vous avez besoin pour que cela arrive,
+c'est la capacité à apporter la lumière dans le cerveau.
+Pour ce faire -- le cerveau ne ressent pas la douleur -- vous pouvez mettre --
+grâce aux progrès
+réalisés pour Internet, les communications etc. -
+des fibres optiques reliées à des lasers
+que vous pouvez utiliser pour activer, dans des modèles animaux, par exemple,
+dans les études pré-cliniques,
+ces neurones et voir ce qu'ils font.
+Comment faisons-nous cela?
+Vers 2004,
+en collaboration avec Gerhard Nagel et Karl Deisseroth,
+cette vision s'est concrétisée.
+Il y a une algue qui nage dans la nature,
+elle a besoin de naviguer vers la lumière
+pour obtenir une photosynthèse optimale.
+Elle perçoit la lumière avec une sorte d’œil,
+qui fonctionne un peu comme notre œil.
+Sa membrane, ou son enveloppe,
+contient des petites protéines
+qui, en effet, peuvent convertir la lumière en électricité.
+Ces molécules sont appelées rhodopsines sensorielles.
+Chacune de ces protéines agit comme le panneau solaire dont je vous ai parlé.
+Lorsque la lumière bleue la frappe, elle ouvre un petit trou
+et permet aux particules chargées d'entrer dans l'œil.
+Cela permet à cet œil d'avoir un signal électrique
+tout comme un panneau solaire qui charge une batterie.
+Nous devons donc prendre ces molécules
+et les installer dans les neurones.
+Comme c'est une protéine,
+elle est codée dans l'ADN de cet organisme.
+Nous avons juste à prendre l'ADN,
+le mettre dans un vecteur de thérapie génique, comme un virus,
+et le mettre dans les neurones.
+Il s'est avéré que c'était une période très productive en thérapie génique,
+et on trouvait beaucoup de virus.
+Cela s'est donc avéré très simple à faire.
+Et un matin de l'été 2004,
+nous avons essayé, et cela a fonctionné du premier coup.
+Vous prenez cet ADN et vous le mettez dans un neurone.
+Le neurone utilise ses protéines naturelles
+pour fabriquer ces petites protéines sensibles à la lumière
+et les installer sur la cellule,
+comme on met des panneaux solaires sur un toit.
+Et ensuite,
+vous avez un neurone qui peut être activé par la lumière.
+Donc, c'est très puissant.
+Un des trucs que vous devez faire
+est de savoir comment amener ces gènes dans les cellules que vous voulez
+et pas dans toutes les cellules voisines.
+Vous pouvez faire cela, vous pouvez ajuster les virus
+pour qu'ils frappent juste quelques cellules et pas d'autres.
+On peut utiliser d'autres astuces génétiques
+afin d'obtenir des cellules activées par la lumière.
+Ce domaine s'appelle désormais l'optogénétique.
+A titre d'exemple de ce qui est faisable,
+vous pouvez prendre un réseau complexe,
+utiliser un de ces virus pour amener le gène
+à un seul type de cellule dans ce réseau dense.
+Quand ensuite vous dirigez la lumière sur l'ensemble du réseau,
+seul ce type de cellule sera activé.
+Par exemple, considérons cette cellule à panier, dont je vous ai parlé plus tôt -
+celle qui est atrophiée dans la schizophrénie
+et qui est inhibitrice.
+Si nous pouvons amener ce gène dans ces cellules --
+et si elles ne sont pas modifiées par l'expression du gène, bien sûr --
+puis envoyer un flash de lumière bleue sur la totalité du réseau du cerveau,
+seules ces cellules vont être entraînées.
+Quand la lumière s'éteint, ces cellules vont revenir à la normale,
+ça ne semble pas leur poser de problème.
+Non seulement vous pouvez vous servir de ça pour étudier ce que ces cellules font,
+le pouvoir qu'elles ont dans les calculs dans le cerveau,
+mais vous pouvez également vous en servir pour essayer de comprendre --
+ainsi nous pourrions dynamiser l'activité de ces cellules,
+si vraiment elles sont atrophiées.
+Je veux maintenant vous raconter quelques histoires courtes
+sur la façon dont nous utilisons cela,
+tant sur le plan scientifique que sur les plans clinique et pré-clinique.
+Une des questions qui s'est posée à nous
+est: quels sont les signaux dans le cerveau qui interviennent dans la sensation de récompense?
+Si on pouvait les trouver,
+ce serait les signaux qui pourraient conduire l'apprentissage.
+Le cerveau créera plus de ce qui a obtenu cette récompense.
+Ce sont les signaux qui posent problème dans des cas comme la toxicomanie.
+Si nous pouvions trouver quelles sont ces cellules,
+nous pourrions peut-être trouver de nouvelles cibles
+pour lesquelles les médicaments pourraient être conçus ou ciblés,
+ou des endroits où on pourrait mettre des électrodes
+pour les personnes qui ont des handicaps très sévères.
+Pour ce faire, nous avons trouvé un paradigme très simple
+en collaboration avec le groupe Fiorella,
+d'un côté de cette petite boîte,
+si l'animal y va, il reçoit une impulsion de lumière
+afin de rendre les différentes cellules du cerveau sensibles à la lumière.
+Si ces cellules peuvent arbitrer la récompense,
+l'animal devrait y aller de plus en plus.
+Et c'est ce qui arrive.
+Cet animal va aller à droite et y mettre son nez,
+il reçoit un flash de lumière bleue à chaque fois qu'il le fait.
+Il va le faire des centaines et des centaines de fois.
+Ce sont les neurones dopaminergiques,
+dont certains d'entre vous ont entendu parler dans certains centres du plaisir du cerveau.
+Nous avons montré qu'il suffit de les activer brièvement
+pour conduire l'apprentissage.
+Nous pouvons généraliser cette idée.
+Au lieu d'un seul point dans le cerveau,
+nous pouvons concevoir des dispositifs qui couvrent le cerveau,
+qui peuvent fournir de la lumière de manière tri-dimensionnelle --
+des matrices de fibres optiques,
+couplée chacune à sa propre source miniature de lumière.
+Nous pouvons essayer de faire des choses in vivo
+qui ont seulement été faites à ce jour en labo --
+comme le criblage à haut débit dans tout le cerveau
+pour les signaux qui peuvent produire certaines choses.
+Ou ils pourraient être de bonnes cibles cliniques
+pour le traitement des troubles du cerveau.
+Une histoire que je veux vous raconter
+est comment trouver des cibles pour le traitement des troubles de stress post-traumatique --
+une forme d'anxiété et de peur incontrôlée.
+Une des choses que nous avons faites
+a été d'adopter un modèle très classique de la peur.
+Cela remonte à l'époque pavlovienne.
+On appelle ça le conditionnement pavlovien de peur --
+où une tonalité se termine par un choc bref.
+Le choc n'est pas douloureux, mais c'est un peu dérangeant.
+Au fil du temps -- dans ce cas, une souris,
+qui est un bon modèle animal, couramment utilisé dans de telles expériences --
+l'animal apprend à craindre la tonalité.
+L'animal va réagir en se figeant,
+un peu comme un cerf dans la lumière des phares.
+Maintenant la question est: quelles cibles dans le cerveau pouvons-nous trouver
+qui nous permettent de surmonter cette peur?
+Nous jouons donc cette tonalité à nouveau
+après qu'elle a été associée à la peur.
+Mais nous activons des cibles différentes dans le cerveau,
+en utilisant cette matrice de fibres optiques dont je vous ai parlé dans la diapositive précédente,
+afin d'essayer de comprendre quelles cibles
+peuvent faire que le cerveau surmonte ce souvenir de peur.
+Cette brève vidéo
+vous montre l'une des cibles sur laquelle nous travaillons actuellement.
+C'est une zone du cortex préfrontal,
+une région où nous pouvons utiliser la cognition pour tenter de surmonter des états émotionnels aversifs.
+L'animal va entendre une tonalité -- et il y a eu un flash de lumière.
+Il n'y a pas d'audio, mais vous pouvez voir l'animal se figer.
+D'habitude cette tonalité était une mauvaise nouvelle.
+Il y a une petite horloge en bas à gauche,
+vous pouvez ainsi voir l'animal au bout de deux minutes.
+La vidéo suivante
+se situe huit minutes plus tard.
+On va jouer la même tonalité, et la lumière va clignoter à nouveau.
+Bon, voilà. Maintenant.
+Vous pouvez voir, 10 minutes après le début de l'expérience,
+que nous avons équipé le cerveau en photoactivant cette zone
+pour surmonter l'expression
+de cette mémoire de peur.
+Au cours des dernières années, nous sommes revenus à l'arbre de vie,
+parce que nous voulions trouver des façons d'éteindre des circuits dans le cerveau.
+Si nous pouvions le faire, cela pourrait être extrêmement puissant.
+Si vous pouvez supprimer des cellules pendant quelques millisecondes ou secondes,
+vous pouvez comprendre quel rôle elles jouent
+dans les circuits dans lesquels elles sont embarquées.
+Nous avons donc désormais examiné des organismes dans tout l'arbre de vie --
+tous les domaines de la vie, sauf les animaux, que nous voyons un peu différemment.
+Nous avons trouvé toutes sortes de molécules, on les appelle halorhodopsines ou archaerhodopsines,
+qui répondent à la lumière verte et jaune.
+Elles font le contraire de la molécule dont je vous ai déjà parlé
+avec la rhodopsine sensorielle activatrice de lumière bleue.
+Donnons un exemple où nous pensons que cela va aller.
+Considérons par exemple une maladie, comme l'épilepsie,
+où le cerveau est hyperactif.
+Si les médicaments échouent à la traiter,
+l'une des stratégies consiste à enlever une partie du cerveau.
+Mais c'est évidemment irréversible, et il pourrait y avoir des effets secondaires.
+Si nous pouvions simplement éteindre ce cerveau pendant un bref moment,
+jusqu'à ce que la crise s'arrête,
+et faire que le cerveau revienne à son état initial --
+un peu comme un système dynamique qu'on apaise pour qu'il revienne à un état stable.
+Cette animation essaie simplement d'expliquer ce concept
+où nous avons rendu ces cellules sensibles pour qu'elles s'éteignent avec la lumière,
+nous envoyons un faisceau de lumière,
+seulement pendant la durée nécessaire à arrêter une crise,
+nous espérons être en mesure de l'empêcher.
+Nous n'avons pas de données à montrer,
+mais nous sommes très enthousiastes.
+Je veux terminer sur une histoire,
+dont nous pensons que c'est une autre possibilité --
+ces molécules, si vous pouvez avoir un contrôle ultra-précis,
+peuvent être utilisées dans le cerveau lui-même
+pour faire un nouveau type de prothèse, une prothèse optique.
+Je vous ai déjà dit que les stimulateurs électriques ne sont pas rares.
+75000 personnes ont des stimulateurs Parkinson profondément implantés dans le cerveau.
+Peut-être 100000 personnes ont des implants cochléaires,
+qui leur permettent d'entendre.
+Autre chose : vous devez introduire ces gènes dans les cellules.
+Un nouvel espoir en thérapie génique a été développé
+parce que les virus comme le virus adéno-associé,
+que probablement la plupart d'entre nous dans cette salle ont,
+sans présenter de symptôme,
+qui ont été utilisés sur des centaines de patients
+pour amener des gènes dans le cerveau ou le corps.
+Jusqu'ici, il n'y a pas eu des événements indésirables graves
+associés au virus.
+Il y a encore un point noir, les protéines elles-mêmes,
+qui viennent d'algues, de bactéries et de champignons,
+et de partout dans l'arbre de vie.
+La plupart d'entre nous n'ont pas de champignons ou d'algues dans nos cerveaux,
+que fera notre cerveau si on en introduit?
+Les cellules vont-elles le tolérer? Est-ce que le système immunitaire va réagir?
+On en est au début -- on a pas encore essayé sur des humains --
+mais nous travaillons sur une série d'études
+pour examiner cela.
+Jusqu'ici, nous n'avons pas vu de réactions manifestes d'une quelconque gravité
+à ces molécules
+ou à l'illumination du cerveau avec de la lumière.
+Donc, il est encore tôt, pour être franc, mais ça nous excite.
+Je voulais terminer avec une histoire,
+dont nous pensons qu'elle pourrait potentiellement
+être une application clinique.
+Il y a de nombreuses formes de cécité
+dans lesquelles les photorécepteurs,
+nos capteurs de lumière qui sont derrière nos yeux, sont morts.
+La rétine, bien sûr, est une structure complexe.
+Maintenant, nous allons zoomer ici, donc nous pouvons la voir plus en détail.
+Les cellules photoréceptrices sont présentées ici en haut,
+les signaux qui sont détectés par les photorécepteurs
+sont transformés par divers calculs,
+jusqu'à ce que finalement la couche de cellules à la base, les cellules ganglionnaires,
+transmettent les informations au cerveau,
+où nous voyons ça en tant que perception.
+Dans de nombreuses formes de cécité, comme la rétinite pigmentaire,
+ou la dégénérescence maculaire,
+les photorécepteurs sont atrophiés ou détruits.
+Donc, comment réparer cela?
+On n'est même pas sûr qu'un médicament puisse le faire,
+car le médicament ne peut se lier à rien.
+D'autre part, la lumière peut encore pénétrer dans l'œil.
+L'œil est toujours transparent et vous pouvez faire pénétrer la lumière.
+Et si nous pouvions simplement prendre ces rhodopsines sensorielles, et d'autres molécules,
+et les installer sur certaines de ces autres cellules restantes
+pour les transformer en petites caméras.
+Il y a tellement de ces cellules dans l’œil,
+potentiellement, elles pourraient agir comme des caméras à très haute résolution.
+Voici nos travaux en cours.
+Un de nos collaborateurs les conduit,
+Alan Horsager à l'USC,
+et on cherche à être commercialisé par la start-up Eos neurosciences,
+financée par le NIH.
+Vous voyez ici une souris qui essayer de résoudre un labyrinthe.
+C'est un labyrinthe à six chemins. Il y a un peu d'eau dans le labyrinthe
+pour motiver la souris à se déplacer, sinon elle va rester là sans bouger.
+Le but, bien sûr, de ce labyrinthe
+est de sortir de l'eau et d'aller à une petite plate-forme
+qui est sous le port éclairé.
+Les souris sont intelligentes, donc cette souris résout le labyrinthe finalement,
+mais elle fait une recherche par force brute.
+Elle nage dans tous les sens jusqu'à ce qu'elle arrive finalement à la plate-forme.
+Elle n'utilise pas la vision pour le faire.
+Ces différentes souris sont différentes mutations
+qui représentent les différents types de cécité qui affectent les humains.
+Nous regardons soigneusement ces différents modèles,
+pour arriver ainsi à une approche généralisée.
+Comment allons-nous résoudre ce problème?
+Nous allons faire exactement ce que nous avons décrit précédemment.
+Nous allons prendre ces photodétecteurs à lumière bleue
+et les installer sur une couche de cellules
+au milieu de la rétine à l'arrière de l'œil
+et les convertir en caméra.
+Comme si on installait des cellules solaires sur tous ces neurones
+afin de les rendre sensibles à la lumière.
+La lumière est convertie en électricité sur eux.
+Cette souris était aveugle quelques semaines avant cette expérience
+et a reçu une dose de cette molécule photosensible dans un virus.
+Maintenant vous pouvez le voir, l'animal peut en effet éviter les murs,
+aller à cette petite plate-forme
+et faire usage de ses yeux cognitifs à nouveau.
+Pour souligner la puissance de ce système:
+ces animaux sont capables d'arriver à cette plate-forme
+aussi vite que les animaux qui ont vu toute leur vie.
+Ainsi cette étude pré-clinique, je pense,
+est porteuse d''espoir pour le genre de choses
+que nous espérons faire à l'avenir.
+Pour terminer, je tiens à souligner que nous explorons également
+de nouveaux modèles économiques pour ce nouveau domaine de la neurotechnologie.
+Nous développons ces outils,
+mais nous les partageons librement avec des centaines de groupes partout dans le monde,
+ainsi les gens peuvent étudier et essayer de traiter différents troubles.
+Notre espoir est que, en tentant de trouver les circuits du cerveau
+à un niveau d'abstraction qui nous permet de les réparer et les modifier,
+nous pouvons prendre certains de ces troubles intraitables dont je vous ai parlé plus tôt,
+dont quasiment aucun n'est guéri,
+et au 21e siècle en faire un problème du passé.
+Merci.
+(Applaudissements)
+Juan Enriquez: Quelques sujets ont été plutôt denses.
+(Rires)
+Mais ce qu'implique le fait
+d'être en mesure de contrôler les crises d'épilepsie
+avec de la lumière plutôt que des médicaments,
+et d'être capable de les cibler spécifiquement
+est une première étape.
+La deuxième chose que je pense vous avoir entendu dire
+est que vous pouvez désormais contrôler le cerveau en deux couleurs.
+Comme un interrupteur on / off.
+Ed Boyden: C'est exact.
+JE: Ce qui transforme chaque impulsion qui passe par le cerveau en un code binaire.
+EB: Oui, oui.
+Avec une lumière bleue, nous pouvons conduire l'information, sous la forme d'un 1.
+En éteignant le tout, c'est plus ou moins un zéro.
+Notre espoir est de finir par construire des coprocesseurs du cerveau
+qui travaillent avec le cerveau,
+afin que nous puissions augmenter les fonctions des personnes handicapées.
+JE: Et en théorie, cela signifie que,
+comme une souris sent, ressent,
+entend, touche,
+vous pouvez en faire un modèle comme une chaîne de 1 et de 0.
+EB: Bien sûr, oui. Nous espérons pouvoir utiliser ça pour tester
+quels codes neuronaux peuvent déterminer certains comportements,
+certaines pensées et certaines impressions,
+et les utiliser pour mieux comprendre le cerveau.
+JE: Est-ce que cela signifie qu'un jour vous pourrez enregistrer des souvenirs
+et peut-être les implanter?
+EB: Eh bien, nous commençons à travailler très dur là-dessus.
+Nous travaillons maintenant sur certains travaux
+où nous essayons de paver le cerveau avec des éléments d'enregistrement aussi.
+Ainsi, nous pouvons enregistrer des informations, puis les renvoyer dans le cerveau --
+en quelque sorte calculer ce dont le cerveau a besoin
+afin d'augmenter son traitement de l'information.
+JE: Eh bien, cela pourrait changer pas mal de choses. Merci. (EB: Merci.)
+(Applaudissements)

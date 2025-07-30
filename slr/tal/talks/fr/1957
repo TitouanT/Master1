@@ -1,0 +1,266 @@
+Si vous vous souvenez des débuts de l'internet,
+c'était vraiment très statique.
+Vous pouviez aller en ligne, regarder des pages internet,
+mises en ligne par des organisations
+qui avaient des équipes pour le faire
+ou par des individus qui s'y connaissaient
+vraiment en nouvelles technologies.
+Et avec la montée des médias sociaux
+et des réseaux sociaux au début des années 2000,
+la toile est devenue
+un endroit où maintenant la majorité du contenu
+que nous pouvons voir est mis en ligne par des utilisateurs moyens,
+que ce soit des vidéos sur YouTube ou des articles de blogs
+ou des critiques de produits ou des messages de médias sociaux.
+C'est devenu cet endroit bien plus interactif,
+où les gens interagissent les uns avec les autres,
+ils commentent, ils partagent,
+ils ne font pas que lire.
+Il n'y a pas que Facebook évidemment,
+mais c'est le plus important,
+et il sert à illustrer le propos.
+Facebook a 1,2 milliards d'utilisateurs par mois.
+La moitié de la population internet de la Terre
+utilise Facebook.
+C'est un site, comme d'autres,
+qui permet aux gens de se créer un personnage internet
+sans grandes connaissances techniques,
+et les gens y mettent une quantité énorme
+de données personnelles.
+On se retrouve donc avec des données comportementales,
+préférentielles, démographiques
+pour des centaines de millions de personnes,
+pour la première fois dans l'histoire.
+En tant qu'informaticienne, ça signifie que
+j'ai pu construire des modèles
+qui peuvent prédire toutes sortes d'attributs cachés
+sur vous sans savoir que
+vous partagez ce genre d'informations.
+En tant que scientifiques, on utilise ça pour aider
+les gens à mieux interagir en ligne,
+mais il y a aussi des utilisations bien moins altruistes,
+et le problème est que les utilisateurs ne comprennent pas
+vraiment ces techniques ni comment elles fonctionnent,
+et même s'ils les comprenaient, ils ne peuvent pas les contrôler.
+Donc, j'aimerais vous parler aujourd'hui
+de certaines de ces choses que l'on peut faire,
+et donner une petite idée sur comment
+redonner un peu de ce contrôle aux utilisateurs.
+Voici Target, l'entreprise.
+Je n'ai pas mis ce logo
+sur le ventre de cette femme enceinte.
+Vous avez peut-être entendu parler de cette histoire:
+Target a envoyé
+un prospectus à cette jeune fille de 15 ans
+avec de la publicité et des ristournes
+pour des biberons, des langes et des berceaux
+deux semaines avant qu'elle ne dise à ces parents
+qu'elle était enceinte.
+Oui, le père n'était pas content.
+Il a dit : « Comment Target a-t-il compris
+que cette ado était enceinte
+avant même qu'elle le dise à ces parents ? »
+En fait, Target garde un historique d'achat
+pour des centaines de milliers de clients
+et ils calculent ce qu'ils appellent un score de grossesse,
+qui ne dit pas simplement si une femme est enceinte ou pas,
+mais aussi sa date d'accouchement.
+Et ils calculent cela
+pas en regardant ce qui est flagrant,
+comme le fait qu'elle achète un berceau ou des vêtements pour bébés,
+mais comme le fait qu'elle achète plus de vitamines
+que d'habitude,
+ou elle a acheté un sac
+assez grand pour y mettre des langes.
+Seuls, ces achats ne semblent pas
+révéler grand chose,
+mais c'est une suite de comportements qui,
+quand vous le prenez dans un contexte de milliers d'autres personnes,
+commence à donner une certaine idée.
+C'est ce genre de choses-là que l'on fait
+quand on prédit des choses sur vous sur les médias sociaux.
+On va chercher des suites de comportements qui,
+quand vous les détectez parmi des millions de gens,
+nous permet de trouver des tas de choses.
+Dans mon laboratoire, avec mes collègues,
+nous avons développé des mécanismes qui nous permettent
+de prédire certaines choses très précisément,
+comme votre penchant politique,
+votre score de personnalité, votre sexe, orientation sexuelle,
+religion, âge, intelligence,
+comme aussi
+si vous faites confiance aux gens que vous connaissez
+et si ces liens sont forts ou pas.
+On peut savoir tout ça très facilement.
+Et de nouveau, ça ne vient pas forcément
+d'informations flagrantes.
+Mon exemple préféré vient de cette étude
+publiée il y a un an
+dans les « Proceedings of the National Academies ».
+Vous pouvez la trouver sur Google.
+Quatre pages, très faciles à lire.
+Ils n'ont regardé que les mentions « J'aime » de Facebook,
+ce que vous pouvez aimer sur Facebook,
+et utilisé ça pour prédire toutes ces caractéristiques,
+et d'autres encore.
+Et dans leur article, ils ont listé ces 5 mentions « J'aime »
+les plus indicatives d'une grande intelligence.
+Et parmi celles-là, il y avait un mention « J'aime »
+pour les frites bouclées. (Rires)
+C'est délicieux les frites bouclées,
+mais les aimer ne veut pas nécessairement dire
+que vous êtes plus intelligent que la moyenne.
+Donc, comment cela se fait-il qu'un des indicateurs les plus importants
+de votre intelligence
+est le fait d'aimer cette page
+alors que le contenu est sans rapport
+avec l'attribut qu'il prédit ?
+Nous avons dû étudier
+toute une série de théories
+pour comprendre comment on peut y arriver.
+L'une d'elle est une théorie sociale appelée homophilie,
+qui dit que les gens sont en général amis avec des gens comme eux.
+Si vous êtes intelligents, vous allez être amis avec des gens intelligents,
+et si vous êtes jeunes, vous allez être amis avec des jeunes,
+C'est un fait averé
+depuis des centaines d'années.
+On sait aussi
+comment les informations se répandent sur les réseaux.
+En fait, les vidéos virales
+ou les mentions « J'aime » sur Facebook ou d'autres informations
+se répandent de la même façon
+que les maladies.
+C'est quelque chose qu'on étudie depuis longtemps.
+On en a fait de bon modèles.
+On peut donc mettre toutes ces choses ensemble
+et voir pourquoi ce genre de choses arrive.
+Donc, si je devais faire une hypothèse :
+c'est quelqu'un d'intelligent qui a commencé cette page,
+ou qu'une des premières personnes qui l'a aimée
+avait un haut score d'intelligence.
+Et il l'a aimé, et ses amis l'ont vu,
+et par homophilie, on sait qu'il a des amis intelligents,
+et ça s'est répandu chez eux, et ils l'ont aimé,
+et ils avaient des amis intelligents,
+et ça s'est répandu chez eux,
+et comme ça à travers le réseau,
+chez plein de gens intelligents,
+et donc à la fin, l'action
+d'aimer la page des frites bouclées
+est indicative d'une grande intelligence,
+pas à cause du contenu,
+mais à cause de l'action même d'aimer
+qui reflète les attributs communs
+à tous ces autres qui l'ont aimé aussi.
+Ça à l'air très compliqué, non ?
+Ce n'est pas facile à expliquer
+à un utilisateur moyen, et même en le faisant,
+que peut-il y faire ?
+Comment pouvez-vous savoir que vous avez aimé quelque chose
+qui indique un trait qui pour vous
+n'a rien à voir avec le contenu de ce que vous avez aimé ?
+Et les utilisateurs n'ont aucun pouvoir
+à contrôler comment ces données sont utilisées.
+Et pour moi, c'est un vrai problème pour le futur.
+Il y a, je pense, plusieurs chemins
+que nous pouvons regarder
+si nous voulons donner un peu de contrôle aux utilisateurs
+sur l'utilisation de ces données,
+parce qu'elles ne vont pas toujours être utilisées
+à leur avantage.
+Un exemple que je donne souvent est que
+si un jour ça m'ennuie d'être professeur,
+je lancerai une entreprise
+qui prédit tous ces attributs
+et des choses comme le fait de bien travailler en équipe
+et si vous prenez des drogues et êtes alcoolique.
+Nous savons comment prédire tout ça.
+Et je vais vendre ces rapports
+à de grandes entreprises et des compagnies R.H.
+qui voudraient vous engager.
+On peut faire ça maintenant.
+Je pourrais commencer ça demain,
+et vous n'auriez absolument aucun contrôle
+sur le fait que j'utiliserais vos données comme ça.
+Pour moi, ça c'est un problème.
+Donc, un des chemins que l'on pourrait prendre
+est celui de la politique et de la loi.
+Et ça serait sans doute le chemin le plus efficace,
+mais le problème est qu'il faudrait le faire vraiment.
+Connaissant les procédures politiques
+ça m'étonnerait vraiment
+qu'on arrive à ce que des représentants
+s'asseyent, prennent connaissance de ceci,
+et promulguent des changements de grande envergure
+sur les lois sur la propriété intellectuelle aux USA
+pour que les utilisateurs contrôlent leurs données.
+On pourrait prendre le chemin politique,
+où les compagnies de médias sociaux diraient :
+« Vous savez quoi ? Vos données sont à vous.
+C'est vous qui contrôlez comment elles sont utilisées. »
+Le problème est que les modèles de revenus
+de la plupart de ces entreprises
+dépendent du partage et de l'exploitation des données des utilisateurs.
+On dit de Facebook, que les utilisateurs
+ne sont pas les clients, ils sont le produit.
+Comment demander à une entreprise
+de redonner le contrôle de son capital
+aux usagers ?
+C'est possible, mais je ne pense pas
+que ça se réalise rapidement.
+L'autre chemin
+que l'on pourrait prendre et qui serait aussi efficace
+est plus scientifique.
+C'est la science qui nous a permis de développer
+ces mécanismes calculant
+ces données personnelles.
+Et ce sont des recherches similaires
+qu'il va falloir faire
+si nous voulons développer des mécanismes
+qui peuvent dire aux usagers :
+« Tu as fais ça, voici le risque encouru. »
+En aimant cette page Facebook,
+ou en partageant cette information personnelle,
+tu viens de m'aider
+à pouvoir prédire le fait que tu te drogues ou pas
+ou que tu t'entendes bien avec tes collègues de travail.
+Et ça peux affecter le fait que
+les gens veulent partager quelque chose,
+le garder privé, ou ne pas le mettre en ligne du tout.
+On peut aussi décider de
+laisser les gens encoder les données qu'ils mettent en ligne,
+pour qu'elles soient invisibles et inutiles
+pour des sites comme Facebook
+ou des tiers qui y ont accès,
+mais que seuls des utilisateurs choisis
+peuvent y accéder.
+Ce sont des recherches très intéressantes
+d'un point de vue intellectuel,
+et donc les scientifiques vont les faire.
+Ça nous donne aussi un avantage sur le côté légal.
+Un des problèmes dont parlent les gens
+quand je lance ce sujet est, ils disent,
+que si les gens gardent toutes ces données privées,
+toutes ces méthodes qu'on a développées
+pour prédire leurs traits ne vont plus fonctionner.
+Et je réponds : « Absolument, et pour moi, ça serait un succès,
+parce qu'en tant que scientifique,
+mon objectif n'est pas de déduire des informations sur les utilisateurs,
+mais d'améliorer la façon dont les gens interagissent en ligne.
+Et parfois ça implique de déduire des choses sur eux,
+mais s'ils ne veulent pas que j'utilise ces données,
+ils devraient avoir le droit de le faire.
+Je veux que les utilisateurs soient informés et consentants
+sur les outils que nous développons.
+Donc, encourager cette science
+et ses chercheurs
+qui veulent rendre un peu de ce contrôle aux utilisateurs
+et le prendre à ces compagnies de médias sociaux
+veux dire qu'aller de l'avant, alors que ces outils se développent
+et s'améliorent,
+veux dire que l'on va avoir des utilisateurs
+éduqués et responsabilisés,
+et je crois qu'on est tous d'accord
+que c'est de cette façon-là que l'on doit avancer.
+Merci.
+(Applaudissements)

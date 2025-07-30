@@ -1,0 +1,259 @@
+Ce livre que j'ai dans la main
+est un annuaire de tous ceux qui avaient une adresse e-mail
+en 1982. (Rires)
+En fait, son épaisseur est trompeuse.
+Il n'y a en fait qu'une vingtaine de personnes sur chaque page,
+parce que nous avons le nom, l'adresse
+et le numéro de téléphone de chaque personne.
+Et, en fait, tout le monde est répertorié deux fois,
+parce que c'est classé une fois par nom et une fois par adresse e-mail.
+Il est évident que c'était une très petite communauté.
+Il n'y avait que deux autres Danny sur Internet à l'époque.
+Je les connaissais tous les deux.
+Nous ne nous connaissions pas tous,
+mais nous nous faisions plutôt confiance,
+et ce sentiment fondamental de confiance
+a imprégné l'ensemble du réseau,
+et on avait vraiment l'impression
+qu'on pouvait compter les uns sur les autres pour faire des choses.
+Donc juste pour vous donner une idée du niveau de confiance de cette communauté,
+laissez-moi vous dire à quoi ça ressemblait
+d'enregistrer un nom de domaine dans les premiers jours.
+Il se trouve que j'ai enregistré
+le troisième nom de domaine sur Internet.
+Je pouvais avoir tout ce que je voulais
+sauf bbn.com et symbolics.com.
+Alors j'ai pris think.com, mais ensuite j'ai pensé :
+il y a beaucoup de noms vraiment intéressants.
+Je devrais peut-être en enregistrer quelques-uns de plus juste au cas où.
+Et puis j'ai pensé : « Non, ce ne serait pas très sympa. »
+(Rires)
+Cette attitude de ne prendre que ce dont on avait besoin
+était vraiment celle que tout le monde avait sur le réseau à l'époque,
+en fait, ce n'était pas que les gens sur le réseau,
+mais ça faisait en fait partie des protocoles
+d'Internet lui-même.
+L'idée de base de l'I.P. ou Internet Protocol,
+et la façon dont -- l'algorithme de routage qui l'utilisait
+était en gros « de chacun selon ses capacités,
+à chacun selon ses besoins.»
+Donc, si vous aviez de la bande passante disponible,
+vous envoyiez un message pour quelqu'un.
+Si il avait de la bande passante disponible, il envoyait un message pour vous.
+Vous dépendiez en quelque sorte des gens pour le faire,
+et c'était la pierre angulaire.
+C'était intéressant en fait qu'un tel principe communiste
+soit la base d'un système développé pendant la guerre froide
+par le Ministère de la Défense,
+mais ça a manifestement très bien fonctionné,
+et nous avons tous vu ce qui s'est passé avec Internet.
+C'était un succès incroyable.
+En fait, c'était un tel succès qu'en aucun cas
+on pourrait faire un livre comme celui-ci de nos jours.
+Mon calcul approximatif est qu'il ferait environ 35 km d'épaisseur.
+Mais, bien sûr, vous ne pourriez pas le faire,
+parce que nous ne connaissons pas les noms de toutes les personnes
+qui ont des adresses Internet ou email,
+et même si nous connaissions leurs noms,
+je suis sûr qu'ils ne voudraient pas que leur nom,
+adresse et numéro de téléphone soient publiés pour tout le monde.
+Donc le fait est qu'il y a beaucoup de méchants sur Internet de nos jours,
+nous avons donc traité ce problème en créant
+des communautés fermées,
+des sous-réseaux sécurisés, des réseaux privés virtuels,
+de petites choses qui ne sont pas vraiment Internet
+mais qui sont fabriquées à partir des mêmes blocs de construction,
+mais en gros nous le construisons encore
+à partir des mêmes blocs de construction avec les mêmes hypothèses de confiance.
+Et ça signifie qu'il est vulnérable
+face à certains types d'erreurs qui peuvent se produire,
+ou certains types d'attaques délibérées,
+mais même les erreurs peuvent être mauvaises.
+Ainsi, par exemple,
+dans toute l'Asie récemment,
+il était impossible d'accéder à YouTube pendant un petit moment
+parce que le Pakistan a fait des erreurs
+dans la manière dont il censurait YouTube dans son réseau interne.
+Ils n'avaient pas l'intention de bousiller l'Asie, mais ils l'ont fait
+à cause du mode de fonctionnement des protocoles.
+Un autre exemple qui a pu affecter beaucoup d'entre vous dans cet auditoire,
+vous vous souvenez peut-être il y a deux ans,
+tous les avions à l'ouest du Mississippi ont été cloués au sol
+parce qu'une seule carte de routage à Salt Lake City
+a buggé.
+Vous ne pensez pas vraiment
+que notre système d'aviation dépend d'Internet,
+et dans un certain sens, ce n'est pas le cas.
+Je vais y revenir plus tard.
+Mais le fait est que les gens ne pouvaient pas décoller
+parce que quelque chose se passait mal sur Internet,
+et la carte du routeur était en panne.
+Il y a donc beaucoup de ces choses qui commencent à se produire.
+Une chose intéressante s'est passé en avril dernier.
+Tout d'un coup,
+un très grand pourcentage du trafic sur tout Internet,
+y compris une grande partie du trafic entre les installations militaires américaines,
+a commencé à être rerouté par la Chine.
+Pendant quelques heures, tout est passé par la Chine.
+China Telecom dit que c'était juste une erreur de bonne foi,
+et c'est effectivement possible, vu la façon dont les choses fonctionnent,
+mais il est certain que quelqu'un pourrait faire
+une erreur malhonnête de ce genre s'il le voulait,
+et ça vous montre la vulnérabilité aux erreurs du système.
+Imaginez la vulnérabilité du système aux attaques délibérées.
+Si quelqu'un voulait vraiment attaquer les États-Unis
+ou la civilisation occidentale de nos jours,
+il ne le fera pas avec les chars.
+Ça ne marcherait pas.
+Ce qu'il ferait probablement serait
+très similaire à l'attaque qui a eu lieu
+sur les installations nucléaires iraniennes.
+Personne ne l'a revendiquée.
+En gros, il y avait une usine de machines industrielles.
+Elle ne pensait pas qu'elle était sur Internet.
+Elle se pensait déconnectée d'Internet,
+mais quelqu'un a pu faire entrer clandestinement
+une clé USB, ou quelque chose comme ça,
+un logiciel y est entré et a fait que les centrifugeuses,
+dans ce cas, se sont auto-détruites.
+Ce même type de logiciel pourrait détruire une raffinerie de pétrole,
+une usine de produits pharmaceutiques ou une usine de semi-conducteurs.
+Il y a donc beaucoup de -- je suis sûr que vous l'avez lu dans tous les journaux,
+d'inquiétudes quant aux cyber-attaques
+et comment s'en défendre.
+Mais le fait est que les gens sont concentrés principalement sur
+la défense des ordinateurs sur Internet,
+et on a curieusement peu fait attention
+à la défense d'Internet lui-même en tant que moyen de communication.
+Je pense que nous devons probablement y faire plus attention
+parce qu' il est réellement fragile.
+Donc en fait, dans les premiers jours,
+à l'époque où il était l'ARPANET,
+Il y avait effectivement des fois -- une fois en particulier où il est tombé complètement
+parce qu'un seul processeur de messages
+contenait un bogue.
+Internet fonctionne de la manière suivante :
+en gros, les routeurs échangent des informations
+sur comment ils peuvent faire parvenir des messages vers des lieux,
+et ce processeur unique, en raison d'une carte défectueuse,
+a décidé qu'il pouvait en fait faire parvenir un message
+à un lieu donné dans un temps négatif.
+En d'autres termes, il prétendait qu'il pouvait livrer un message avant que vous l'ayez envoyé.
+Alors bien sûr, le moyen le plus rapide d'envoyer un message n'importe où
+était de l'envoyer à ce type,
+qui l'enverrait dans le passé et il y parviendrait super tôt,
+alors, tous les messages sur Internet
+ont commencé à passer par ce nœud,
+et bien sûr ça a tout bouché.
+Tout a commencé à se casser.
+Ce qui est intéressant, cependant,
+c'est que les administrateurs système ont été en mesure de résoudre ce problème,
+mais en gros ils ont dû éteindre complètement Internet.
+Bien sûr vous ne pourriez pas faire ça aujourd'hui.
+Je veux dire, quand tout est éteint, c'est comme
+l'appel de service que vous recevez du fournisseur d'accès
+sauf que c'est pour le monde entier.
+En fait, ils ne pourraient pas le faire pour de nombreuses raisons aujourd'hui.
+Une des raisons est qu'un grand nombre de leurs téléphones
+utilisent le protocole IP et des choses comme Skype et ainsi de suite
+qui passent par Internet en ce moment-même,
+et donc en fait nous devenons dépendants
+de plus en plus de différentes choses,
+comme lorsque vous décollez de l'aéroport,
+vous n'imaginez vraiment pas que vous utilisez Internet.
+Lorsque vous faites le plein, vous n'imaginez vraiment pas que vous utilisez Internet.
+Ce qui se passe de plus en plus souvent, cependant, c'est que ces systèmes
+commencent à utiliser Internet.
+La plupart d'entre eux ne sont pas encore sur Internet
+mais ils commencent à utiliser Internet pour les fonctions de service,
+pour les fonctions administratives,
+et donc, si vous prenez quelque chose comme le système de téléphonie mobile,
+qui est encore relativement indépendant de l'Internet pour l'essentiel,
+des bouts d'Internet commencent à se faufiler dedans
+en ce qui concerne certaines fonctions administratives et de contrôle.
+Il est donc tentant d'utiliser ces mêmes blocs de construction
+parce qu'ils fonctionnent très bien, ils sont bon marché,
+ils sont répétés et ainsi de suite.
+Tous nos systèmes, de plus en plus,
+commencent à utiliser la même technologie
+et commence à dépendre de cette technologie.
+Même une fusée moderne de nos jours
+utilise en fait le protocole Internet pour parler
+d'un bout à l'autre de la fusée .
+C'est dingue. Il n'a jamais été conçu pour faire des choses comme ça.
+Donc, nous avons construit ce système
+dont nous comprenons toutes les parties,
+mais on s'en sert de manière très différente de celle qu'on avait prévue,
+et il a adopté une échelle très différente
+de celle pour laquelle il a été conçu.
+En fait, personne ne comprend vraiment tout à fait
+tout ce pour quoi on s'en sert à l'heure actuelle.
+Il se transforme en un de ces gros systèmes émergents
+comme le système financier, où nous avons conçu toutes les pièces
+mais où personne n'en comprend vraiment tout à fait
+le fonctionnement et tous les petits détails,
+ni quels types de comportements émergents il peut avoir.
+Alors si vous entendez un expert parler d'Internet
+et dire qu'il peut faire ceci, il fait cela ou il fera cela,
+vous devez lui accorder le même scepticisme
+que vous accordez aux commentaires d'un économiste qui parle d'économie
+ou un météorologiste qui parle de la météo, ou quelque chose comme ça.
+Ils ont une opinion éclairée,
+mais il évolue si rapidement que même les experts
+ne savent pas exactement ce qui se passe.
+Donc si vous voyez une de ces cartes d'Internet,
+ce n'est que la supposition de quelqu'un.
+Personne ne sait vraiment ce qu'est Internet en ce moment
+parce qu'il est différent de ce qu'il était il y a une heure.
+Il est en constante évolution. Il se reconfigure constamment.
+Et le problème est que,
+je pense, nous nous préparons à une sorte de catastrophe
+comme celle que nous avons eu avec le système financier,
+où nous prenons un système qui repose essentiellement sur la confiance,
+a été construit essentiellement pour un système de moindre envergure,
+et l'avons élargi bien au-delà des limites
+de la façon dont il est censé fonctionner.
+Alors en ce moment, je pense qu'il est littéralement vrai
+que nous ne savons pas quelles seraient les conséquences
+d'une attaque de déni de service efficace
+sur Internet ,
+et quelle qu'elle soit, elle sera pire l'année prochaine,
+et encore pire l'année suivante et ainsi de suite.
+Alors il nous faut un plan B.
+A l'heure actuelle, il n'y a pas de plan B.
+Nous n'avons aucun système de sauvegarde clair que nous ayons soigneusement
+maintenu indépendant d'Internet,
+fait d'ensembles de blocs de construction complètement différents.
+Donc ce qu'il faut, c'est quelque chose qui n'a pas nécessairement
+besoin d'avoir la performance d'Internet,
+mais la police doit être en mesure
+d'appeler les pompiers même sans Internet,
+ou les hôpitaux doivent pouvoir commander du mazout.
+Pas besoin que ce soit un projet gouvernemental de plusieurs milliards de dollars.
+C'est en fait relativement simple à faire, sur le plan technique,
+parce qu'il peut utiliser les fibres existantes qui sont dans le sol,
+les infrastructures sans fil existantes.
+Il s'agit essentiellement de décider de le faire.
+Mais les gens ne décideront de le faire
+que lorsqu'ils en reconnaîtront la nécessité,
+et c'est le problème que nous avons en ce moment.
+Donc beaucoup de gens,
+beaucoup d'entre nous ont soutenu calmement
+que nous devrions avoir ce système indépendant depuis des années,
+mais il est très difficile d'amener les gens à se concentrer sur plan B
+quand le plan A semble fonctionner aussi bien.
+Donc je pense que, si les gens comprennent
+à quel point nous commençons à dépendre de l'Internet,
+et à quel point il est vulnérable,
+nous pourrions nous concentrer sur
+la volonté de cet autre système,
+et je pense que si assez de gens disent, « oui, j'aimerais l'utiliser,
+je voudrais avoir un tel système", alors il sera construit.
+Ce n'est pas un problème si difficile.
+Ça pourrait certainement être fait par des gens dans cette salle.
+Et je pense donc qu'il s'agit en fait,
+de tous les problèmes dont vous allez entendre parler lors de la Conférence,
+c'est probablement un des plus faciles à résoudre.
+Je suis donc heureux d'avoir l'opportunité de vous en parler.
+Merci beaucoup.
+(Applaudissements)

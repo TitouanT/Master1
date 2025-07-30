@@ -1,0 +1,8 @@
+┌────────────────────────┐
+│ q1: Creation du projet │
+└────────────────────────┘
+ng new apptd4
+ng generate component quizz
+ng generate service quizz
+ng generate class quizz
+

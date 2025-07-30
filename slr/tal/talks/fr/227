@@ -1,0 +1,333 @@
+J'ai déjà parlé de certains de ces projets,
+du génome humain et de ce qu'il pourrait représenter,
+et de la découverte de nouveaux gènes.
+Nous en sommes maintenant à une nouvelle étape:
+nous avons numérisé la biologie,
+et maintenant nous essayons de passer de ce code numérique
+à une nouvelle phase de la biologie:
+la conception et la synthèse de la vie.
+Nous nous sommes toujours posé de grandes questions.
+"Qu'est-ce que la vie ?" est selon moi ce que beaucoup de biologistes
+ont cherché à comprendre
+à différents niveaux.
+Nous avons tenté diverses approches,
+essayant de la réduire à des composants minimaux.
+Nous la numérisons depuis maintenant près de 20 ans.
+Lorsque nous avons séquencé le génome humain,
+nous l'avons transposé du monde analogique de la biologie
+au monde numérique des ordinateurs.
+Maintenant la question c'est: pouvons-nous régénérer la vie,
+ou pouvons nous créer de nouvelles formes de vie,
+à partir de cet univers numérique ?
+Voici la carte du génome d'un organisme simple,
+la bactérie Mycoplasma genitalium,
+l'organisme possédant le génome le plus simple
+qui puisse s'auto-répliquer en laboratoire.
+Nous avons tenté de voir
+si nous pouvions arriver à un génome encore plus petit.
+Nous avons pu éliminer environ une centaine de gènes
+sur les quelques 500 qu'il y avait au départ.
+Quand on regarde la carte de son métabolisme,
+elle est relativement simple
+comparée à la nôtre.
+Croyez-moi, ça c'est simple.
+Mais quand on considère tous les gènes
+qu'on peut éliminer un par un,
+il est très improbable que le résultat produirait
+une cellule vivante.
+Nous avons donc décidé que la seule manière de progresser,
+c'était de synthétiser concrètement ce chromosome
+afin de pouvoir en varier les composants
+et pouvoir poser certaines de ces questions fondamentales.
+Donc nous nous sommes attelés à ce problème:
+"Pouvons-nous synthétiser un chromosome?"
+Est-ce que la chimie permet de construire
+ces énormes molécules,
+ce qui n'a jamais été réalisé ?
+Et, si c'est possible, pouvons-nous activer un chromosome ?
+Un chromosome, au passage, c'est juste un morceau de matériau chimique inerte.
+Bien que le rythme de notre numérisation de la vie
+se soit accru de manière exponentielle,
+notre capacité à écrire un code génétique
+a augmenté plus lentement,
+mais a augmenté quand même.
+Et notre dernière avancée montrerait un début de croissance exponentielle.
+Nous avons commencé ce travail il y plus de 15 ans.
+En réalité cela s'est fait en plusieurs étapes,
+en commençant par un rapport bioéthique avant les premières expériences.
+Mais il se trouve que synthétiser de l'ADN
+est très difficile.
+Il existe des dizaines de milliers de machines dans le monde
+qui peuvent synthétiser de petits morceaux d'ADN,
+de 30 à 50 lettres de long,
+mais c'est un processus dégénératif, donc plus le morceau est long,
+plus il y a des erreurs.
+Nous avons donc dû créer une nouvelle méthode
+pour assembler ces petits morceaux entre eux et corriger toutes les erreurs.
+Ceci était notre première tentative, en utilisant les informations numériques
+du génome de Phi X 174,
+un petit virus qui tue des bactéries.
+Nous avons construit les morceaux, corrigé les erreurs,
+et avons créé une molécule d'ADN
+d'environ 5000 lettres de long.
+Le moment le plus excitant a été lorsque nous avons pris ce matériau chimique inerte
+et nous l'avons placé dans une bactérie;
+la bactérie a commencé à lire le code génétique,
+et à fabriquer des particules virales.
+Les particules virales ont été ensuite éjectées de ces cellules,
+et sont revenues détruire la bactérie E. coli.
+Je discutais avec l'industrie du pétrole récemment,
+et je leur ai dit qu'ils avaient très clairement compris ce modèle.
+(Rires)
+Ils ont plus rigolé que vous.
+Donc c'est en réalité une situation
+où le logiciel peut construire son propre matériel
+dans un système biologique.
+Mais nous voulions voir plus grand.
+Nous voulions créer un chromosome de bactérie entier.
+Cela représente plus de 580 000 lettres de code génétique.
+Donc nous avons pensé les assembler à partir de morceaux de la taille d'un virus,
+pour pouvoir varier ces morceaux à notre guise
+et ainsi comprendre
+quels sont les composants nécessaires d'une cellule vivante.
+La conception est primordiale,
+et si vous partez des données numérisées sur ordinateur,
+il faut qu'elles soient extrêmement précises.
+Lorsque nous avons séquencé ce génome en 1995,
+la précision standard était d'une erreur pour 10 000 paires de bases.
+En séquençant à nouveau ce génome, nous avons trouvé 30 erreurs.
+Si nous avions utilisé la séquence originelle,
+le chromosome résultant n'aurait jamais fonctionné.
+La conception doit notamment définir des morceaux
+de 50 lettres de long
+qu'il faudra imbriquer avec tous les autres morceaux de 50 lettres
+pour construire des sous-ensembles plus petits
+qu'il faudra alors également assembler.
+Nous avons pu également intégrer des éléments particuliers.
+Vous l'avez peut-être lu, nous avons inséré des signatures.
+Réfléchissez un peu:
+Le code génétique comporte 4 lettres: A, C, G et T.
+Des triplets de ces lettres
+permettent de coder une vingtaine d'acides aminés,
+chaque acide aminé étant lui-même
+désigné par une lettre qui lui est propre.
+Nous pouvons donc utiliser le code génétique pour écrire
+des mots, des phrases, des pensées.
+Pour commencer, nous avons juste mis notre autographe.
+Certains ont été déçu que ce ne soit pas de la poésie.
+Nous avons conçu ces morceaux
+pour qu'ils soient légèrement rognés par des enzymes.
+Il y a des enzymes qui les réparent et les assemblent.
+Nous avons donc commencé à construire des morceaux,
+en commençant par des morceaux de 5000 à 7000 lettres,
+qu'on assemble pour former des morceaux de 24 000 lettres
+eux-mêmes assemblés pour arriver à 72 000 lettres.
+A chaque étape, nous avons créé une grande quantité de ces morceaux
+de manière à pouvoir les séquencer
+car nous essayons de créer un processus extrêmement robuste --
+vous allez le constater dans une minute.
+Ce que nous recherchons c'est l'automatisation du processus.
+Au total cela ressemble à un tableau d'éliminatoires.
+Lorsqu'on arrive à des tailles de morceaux importantes
+(plus de 100 000 paires de base)
+on ne peut plus les faire croître facilement dans une bactérie E. coli.
+On atteint les limites des outils de la biologie moléculaire moderne.
+Nous nous sommes donc tournés vers d'autres mécanismes.
+Nous en connaissions un appelé recombinaison homologue,
+que la nature utilise pour réparer l'ADN,
+qui pouvait assembler ces larges morceaux.
+En voici un exemple.
+Il y a un organisme appelé
+Deinococcus radiodurans
+qui peut survivre à des niveaux de radiations de 3 millions de rads.
+Vous le voyez sur l'image du haut, son chromosome explose littéralement.
+12 à 24 heures plus tard, il s'est réparé
+exactement comme il était auparavant.
+Il existe des milliers d'organismes qui ont cette capacité.
+Ils peuvent être totalement asséchés.
+Ils peuvent survivre dans le vide total.
+Je suis absolument sûr qu'il peut y avoir de la vie dans l'espace,
+qu'elle peut se déplacer et trouver un autre environnement aqueux.
+En fait, la NASA a montré qu'il y en avait beaucoup d'exemples.
+Voici une micrographie de la molécule que nous avons construite
+en utilisant ces processus - en réalité simplement les mécanismes des levures
+avec une conception adéquate des morceaux utilisés.
+La levure les assemble automatiquement.
+Ce n'est pas une micrographie électronique;
+c'est juste une photomicrographie normale.
+Cette molécule est tellement grande
+qu'on peut la voir avec un simple microscope.
+Ces photos ont été prises sur une période de 6 secondes.
+Voilà la publication que nous avons faite il y a peu.
+Cela représente plus de 580 000 lettres de code génétique.
+C'est la plus grande molécule d'une structure déterminée jamais créée par l'homme.
+Sa masse moléculaire est supérieure à 300 millions d'uma.
+Si on utilisait une police 10 sans espaces,
+ça prendrait 142 pages
+rien que pour imprimer ce code génétique.
+Comment fait on démarrer un chromosome ? Comment l'active-t-on ?
+Évidemment c'est assez simple avec un virus.
+Mais c'est beaucoup plus compliqué quand on travaille avec des bactéries.
+C'est également beaucoup plus simple
+pour des organismes eucaryotes comme nous-mêmes;
+il suffit d'éjecter le noyau
+et d'en insérer un autre,
+comme ce qu'on fait pour le clônage.
+Dans les bactéries Archaea, le chromosome est intégré à la cellule.
+Mais nous avons récemment montré qu'il est possible de transplanter entièrement
+un chromosome d'une cellule à une autre
+et de l'activer.
+Nous avons d'abord purifié un chromosome d'une espèce microbienne.
+En gros, le microbe et la bactérie sont aussi éloignés l'un de l'autre que l'homme de la souris.
+Nous avons ajouté quelques gènes
+pour pouvoir sélectionner ce chromosome particulier.
+Nous l'avons fait digérer par des enzymes
+pour détruire toutes les protéines.
+Et quand nous avons inséré ça dans la cellule, c'est assez stupéfiant --
+et vous apprécierez au passage
+la sophistication de notre graphisme --
+le nouveau chromosome est entré dans la cellule.
+En fait, nous pensions que cela pourrait s'arrêter là,
+mais nous avons tenté d'aller plus loin dans le processus.
+Vous avez sous les yeux un mécanisme majeur de l'évolution.
+On trouve des tas d'espèces
+qui ont intégré un deuxième chromosome
+ou un troisième provenant d'un autre organisme,
+ajoutant ainsi des milliers de nouvelles caractéristiques
+à cet organisme en une seconde.
+Les gens qui croient encore que l'évolution
+se produit par la modification d'un gène à la fois
+ont loupé pas mal de choses en biologie.
+Il existe des enzymes appelés enzymes de restriction
+qui peuvent digérer l'ADN.
+Le chromosome qui était dans la cellule
+n'en a pas.
+Le chromosome que nous avons inséré, en a.
+L'enzyme a été produit à partir de notre chromosome,
+et il a reconnu l'autre chromosome comme un matériel étranger,
+l'a avalé, et nous nous sommes donc retrouvés
+avec une cellule avec un nouveau chromosome.
+Elle a viré au bleu à cause des gènes que nous avons inséré.
+Et en très peu de temps,
+toutes les caractéristiques de l'organisme initial ont disparu
+et elle s'est entièrement transformée en un organisme nouveau,
+fondé sur le nouveau logiciel que nous avons introduit dans la cellule.
+Toutes les protéines ont été modifiées,
+les membranes ont changé --
+et quand on lit le code génétique, on retrouve exactement ce que nous avons transféré.
+Cela peut ressembler à de l'alchimie génétique,
+mais nous pouvons réellement, en transférant l'ADN logiciel ici et là,
+faire des changements radicaux.
+Selon moi, ce n'est pas pour autant la genèse de la vie,
+c'est la prolongation de 3,5 milliards d'années d'évolution,
+mais je pense que nous sommes peut-être sur le point
+de créer une nouvelle version de l'explosion Cambrienne
+avec la création massive de nouvelles espèces
+à partir de cette conception numérique.
+Pourquoi faire cela ?
+Je pense que c'est assez évident quand on regarde nos besoins.
+Nous allons passer de 6,5
+à 9 milliards d'êtres humains sur les 40 prochaines années.
+Si je rapporte cela à ma personne:
+je suis né en 1946.
+Il y a maintenant sur cette planète trois personnes
+pour chaque personne qui vivait en 1946;
+d'ici 40 ans, il y en aura quatre.
+Nous avons des problèmes pour nourrir, pour fournir de l'eau pure,
+des médicaments, du carburant
+à 6,5 milliards d'êtres.
+Ça sera d'autant plus difficile de le faire pour 9.
+Nous consommons chaque année 5 milliards de tonnes de charbon,
+et plus de trente milliards de barils de pétrole,
+soit 100 millions de barils par jour.
+Quand on essaye de concevoir des processus,
+biologique ou autre, pour remplacer ça,
+on comprend que c'est un challenge gigantesque.
+Et il y a aussi bien sûr
+tout ce dioxyde de carbone produit par ces processus
+qui est rejeté dans l'atmosphere.
+Nous possèdons, suite à nos découvertes de par le monde,
+une base de données d'environ 20 millions de gènes,
+et je les considère comme autant de composants pour nos créations futures.
+L'industrie électronique ne dispose que d'une douzaine de composants
+et regardez la diversité qui en est issue.
+Nous somme limités principalement
+par la réalité biologique
+et par notre imagination.
+Nous disposons maintenant des techniques,
+grâce à ces méthodes de synthèse rapide,
+pour faire ce que nous appelons de la génomique combinatoire.
+Nous avons maintenant la capacité de construire un grand robot
+capable de créer un million de chromosomes par jour.
+Imaginez ce que l'on peut créer avec ces 20 millions de gènes,
+ou les processus que l'on peut optimiser
+pour produire de l'octane ou des médicaments,
+ou de nouveaux vaccins...
+Nous pouvons, avec une équipe réduite,
+inventer plus de biologie moléculaire
+que toutes les découvertes scientifiques des 20 dernières années.
+Tout ça grâce à un simple processus de sélection.
+On peut privilégier la viabilité,
+la production de carburants, de produits chimiques,
+de vaccins, etc.
+Ceci est une photo d'écran
+d'un véritable logiciel de conception
+sur lequel nous travaillons pour nous permettre
+de créer des organismes sur ordinateur.
+On ne saura pas forcément dire à quoi ils ressembleront.
+Mais on saura dire exactement quel est leur code génétique.
+Nous nous concentrons en ce moment sur les carburants de quatrième génération.
+Vous avez pu voir récemment que la transformation du maïs en éthanol
+n'est rien qu'une mauvaise expérience.
+Les carburants de deuxième et troisième générations
+ne vont pas tarder à apparaître,
+ceux qui transforment le sucre en carburants beaucoup plus puissants
+comme l'octane ou différents types de butanol.
+Mais nous pensons que la seule manière pour la biologie
+d'avoir un impact majeur sans pour autant
+augmenter le coût de production de la nourriture et en limiter la disponibilité
+est d'utiliser le CO2 comme matière première,
+donc nous travaillons à concevoir des cellules pour aller dans ce sens,
+et nous pensons obtenir les premiers carburants de quatrième génération
+dans environ 18 mois.
+Le soleil et le CO2 c'est une des méthodes envisageables...
+(Applaudissements)
+mais nous avons découvert de par le monde
+tout un tas d'autres méthodes.
+Ceci est un organisme que nous avons décrit en 1996.
+Il vit au fond des océans,
+vers 2500m de profondeur,
+dans des températures de près de 100°C.
+Il transforme le CO2 en méthane
+en utilisant de l'hydrogène moléculaire comme source d'énergie.
+Nous essayons de voir si nous pouvons
+récupérer du CO2 capté,
+qu'on peut facilement transporter sur place par tuyaux,
+et reconvertir ce CO2 en carburant
+pour alimenter ce processus.
+En très peu de temps,
+nous pensons pouvoir aller beaucoup plus loin
+que chercher juste la réponse à la question "qu'est-ce que la vie ?"
+Vous voyez, nous avons
+l'ambition très modeste
+de remplacer toute l'industrie pétrochimique.
+(Rires) (Applaudissements)
+Ouais. Où à part à TED peut-on faire cela ?
+(Rires)
+Devenir un producteur majeur d'énergie.
+Nous travaillons également sur l'utilisation de ces mêmes outils
+pour créer des vaccins instantanément.
+Vous l'avez vu cette année avec la grippe,
+nous avons toujours une année de retard et il nous manque toujours un dollar
+pour trouver le bon vaccin.
+Je pense que nous pouvons changer cela
+en construisant des vaccins par combinaison à l'avance.
+Voici ce à quoi le futur pourrait commencer à ressembler
+en modifiant aujourd'hui l'arbre de l'évolution,
+en accélérant l'évolution
+avec des organismes synthétiques, bactéries, Archeae,
+et finalement des eucaryotes.
+Nous sommes encore loin de pouvoir modifier l'être humain.
+Notre but est juste de nous assurer d'avoir une chance
+de survivre assez longtemps pour pouvoir arriver à cette étape. Merci beaucoup.
+(Applaudissements)

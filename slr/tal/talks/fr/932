@@ -1,0 +1,254 @@
+Quand j'ai vu cette technologie appelée Kinect -
+elle s'appelait Natal - j'ai été inspiré,
+et j'ai pensé pendant un moment,
+qu'il était peut-être possible
+de traiter le problème du récit,
+de créer un personnage
+qui semblerait vivant,
+qui me remarquerait,
+qui pourrait me regarder dans les yeux
+et donnerait l'impression d'être réel,
+et façonner une histoire autour de notre relation.
+Et donc, il y a un an,
+j'ai montré ça
+lors d'un salon informatique appelé E3.
+Et c'était une technologie
+où une personne nommée Claire interagissait avec ce garçon.
+Et ça a provoqué un débat énorme en ligne
+"Hey, c'est impossible que ce soit vrai".
+Et j'ai donc attendu jusqu'à maintenant
+pour faire une véritable démo
+de la vraie technologie.
+Donc cette technologie incorpore
+trois grands éléments.
+Le premier est une caméra Kinect,
+qui sera sur le marché en Novembre,
+une illustration incroyable d'intelligence artificielle
+qui était cachée dans les caves poussiéreuses
+et qui prenait la poussière
+chez Microsoft,
+plus nos tentatives
+plutôt primaires d'intelligence artificielle
+dans le cadre d'une compagnie appelée Lionhead,
+et on mélange tout ça
+pour obtenir cette idée unique et simple:
+créer un être réel, vivant
+dans un ordinateur.
+Maintenant, je vais être franc avec vous
+et je vais vous dire que l'essentiel
+n'est qu'une astuce,
+mais c'est une astuce qui fonctionne bel et bien.
+Alors pourquoi ne pas y aller et
+jeter un coup d'oeil à la démo maintenant.
+Voici Dimitri.
+Dimitri, remue le bras.
+Maintenant, vous remarquerez qu'il est assis.
+Il n'y a pas de contrôleurs,
+pas de claviers,
+ni de souris,
+ou de joystick ou de joypads.
+Il va seulement utiliser
+sa main, son corps et sa voix,
+tout comme les humains interagissent avec leurs mains, leur corps et leur voix.
+Avançons.
+Vous allez rencontrer Milo pour la première fois.
+Nous devions lui donner un problème,
+parce que quand nous avons créé Milo,
+nous nous sommes rendu compte qu'il donnait l'impression
+d'être un sale gosse, pour vous dire la vérité.
+C'était un monsieur je-sais-tout,
+et il voulait vous faire rire.
+Donc le problème que nous lui avons donné était le suivant:
+il vient de déménager.
+Il a quitté Londres
+pour venir en Nouvelle Angleterre aux Etats-Unis.
+Ses parents sont trop occupés
+pour écouter ses problèmes,
+et c'est à ce moment qu'il commence presque à vous évoquer.
+Donc le voici
+il marche dans l'herbe.
+Et vous pouvez interagir avec son monde.
+Ce qui est sympa, ce que nous faisons
+c'est changer les idées
+de Milo constamment.
+Cela signifie que les Milo de deux personnes différentes
+ne peuvent pas être identiques.
+En fait vous façonnez un être humain ici.
+Donc, il découvre le jardin.
+Vous l'aidez à découvrir le jardin
+simplement en indiquant ces escargots.
+Très simple au début.
+Au fait, si vous êtes un garçon, ce sont des escargots;
+si vous êtes une fille, ce sont des papillons,
+parce que nous avons découvert que les filles détestent les escargots.
+(Rires)
+Alors rappelez-vous, c'est la première fois que vous le rencontrez,
+et nous voulons vraiment attirer votre curiosité.
+Son visage, d'ailleurs,
+est entièrement piloté par intelligence artificielle.
+Nous contrôlons complètement quand il rougit,
+le diamètre de ses naries
+pour dénoter un stress.
+Nous faisons en fait quelque chose qui s'appelle body matching (appariement corporel).
+Si vous vous penchez en avant,
+il essayera de changer légèrement
+la nature neurolinguistique de son visage,
+parce que nous nous sommes lancés avec cette idée forte:
+comment pouvons-nous vous faire croire que quelque chose est réel?
+Nous avons utilisé la main.
+L'autre chose à utiliser c'est votre corps.
+Pourquoi, au lieu de pousser à droite ou à gauche
+avec une souris ou un joypad,
+pourquoi ne pas utiliser votre corps pour vous pencher dans le fauteuil --
+encore, détendu?
+Vous pouvez vous incliner en arrière,
+mais la caméra changera sa perspective
+selon la direction dans laquelle vous regardez.
+Donc Dimitri va maintenant utiliser --
+il a utilisé sa main, il a utilisé son corps.
+Il va utiliser l'autre chose qui est essentielle,
+et c'est sa voix.
+Maintenant, le truc avec sa voix,
+la reconnaissance vocale comme nous la connaissons
+est plutôt horrible, n'est-ce pas.
+Ça ne marche jamais.
+Vous commandez un billet d'avion, vous finissez à Tombouctou.
+Donc nous nous sommes attaqués à ce problème,
+et nous avons trouvé une solution que vous verrez dans une seconde
+Milo: je pourrais simplement l'écrabouiller.
+Peter Molyneux: Que vas-tu faire Dimitri?
+Voix féminine: Ecrabouiller un escargot peut sembler sans importance,
+mais rappelez-vous, même ce choix
+affectera la façon dont Milo se développe.
+Voulez-vous que Milo l'écrabouille?
+Quand vous voyez le micro,
+dites ... (PM: Ecrabouille) ... oui pour décider.
+Dimitri: Vas-y, Milo. Ecrabouille le.
+PM: Non, ce n'est pas bien de faire ça.
+Maintenant regardez sa réaction.
+Il a dit, "Vas-y, Milo. Ecrabouille-le."
+Ce que nous utilisons ici,
+c'est une technologie appelée Tellme.
+C'est une compagnie que Microsoft a racheté il y a quelques années.
+Nous avons une base de données de mots que nous reconnaissons.
+Nous choisissons ces mots.
+Nous référençons ça
+avec la base de données des tons de voix
+que nous construisons de la voix de Dimitri,
+ou la voix de l'utilisateur.
+Maintenant il faut que nous allions plus loin.
+Et là encore ce que nous pouvons faire
+c'est que nous pouvons regarder le corps.
+Et nous ferons ça dans une seconde.
+Milo: Je me demande si c'est profond.
+C'est profond.
+PM: Bon. Donc ce que nous allons faire maintenant
+c'est apprendre à Milo à faire des ricochets.
+Nous lui apprenons vraiment.
+C'est très, très intéressant
+que les hommes, plus que les femmes,
+ont tendance à être plus compétitifs ici.
+Ils sont d'accord pour apprendre à Milo pour les premiers lancers
+mais ensuite ils veulent battre Milo,
+alors que les femmes,
+elles sont plus encourageantes avec ça.
+Bon, ce sont des ricochets.
+Comment fait-on des ricochets?
+On se lève,
+et on lance la pierre.
+C'est aussi simple que ça.
+Reconnaitre votre corps,
+reconnaitre les mouvements de votre corps, la technique,
+comprendre que vous êtes passé
+de la position assise à la position debout.
+Une fois de plus, tout ça est fait
+de la façon dont les humains font les choses,
+et c'est crucial
+si nous voulons que Milo ai l'air réel.
+Voix féminine: voyons si on peut le motiver à faire mieux.
+Essaye de toucher le bateau.
+Milo: Ahhh. J'y étais presque.
+PM: C'est Dimitri quand il est au maximum de sa compétitivité.
+Il vient de battre un gamin de 11 ans. Bravo.
+Milo: C'est bon.
+PM: Alors, Milo est rappelé par ses parents,
+ce qui nous donne du temps pour être seul
+et pour l'aider.
+A la base -- ce que nous avons manqué au début --
+ses parents lui avaient demandé de ranger sa chambre.
+Et nous allons maintenant l'aider à le faire.
+Mais cela va être une introduction,
+et tout repose sur la psychologie profonde que nous essayons d'employer.
+Nous essayons de vous présenter
+ce que je crois être la partie la plus merveilleuse,
+le fait que vous soyez capable de parler
+à Milo avec votre voix naturelle.
+Et pour faire ça, nous avons besoin d'une installation,
+comme pour un tour de magie.
+Et ce que nous avons fait,
+il nous fallait donner ce gros problème à Milo.
+Donc, alors que Dimitri
+commence à ranger,
+vous pouvez entendre une conversation
+que Milo a avec ses parents.
+Maman de Milo: Oh, tu as mis de la sauce partout sur le sol. (Milo: Je ne l'ai pas fait exprès)
+Maman de Milo: Cette moquette est toute neuve.
+PM/ Donc il vient juste de renverser
+une assiette de saucisses par terre,
+sur la moquette toute neuve.
+On l'a tous fait en tant que parents. On l'a tous fait en tant qu'enfant.
+C'est une occasion pour Dimitri
+de rassurer et de calmer Milo.
+C'est trop pour lui.
+Il vient de déménager. Il n'a pas d'amis.
+C'est le moment
+où nous ouvrons ce portail
+et où nous vous permettons de parler à Milo.
+Voix féminine: Pourquoi n'essayes-tu pas de dire quelque chose d'encourageant
+pour remonter le moral de Milo.
+Dimitri: Allez Milo. Tu sais comment sont les parents.
+Ils stressent tout le temps.
+Milo: De toute façon, pourquoi ils veulent venir ici?
+On ne connait eprsonne.
+Dimitri: et bien, tu vas aller dans une nouvelle école.
+Tu vas faire connaissance avec des tas de nouveaux amis cools.
+Milo: Mon ancienne maison me manque vraiment, c'est tout.
+Dimitri: et bien cette maison est plutôt géniale, Milo.
+Tu as un chouette jardin pour jouer et un étang.
+Milo: C'était bien de faire des ricochets.
+C'est chouette.
+Tu as rangé ma chambre.
+Merci.
+PM: Donc après trois quart d'heure,
+il vous reconnait.
+Et je vous promet, si vous êtes assis devant cet écran,
+c'est vraiment un moment merveilleux.
+Et nous somme prêts maintenant
+à raconter l'histoire de son enfance et de sa vie,
+et ça continue,
+et il a de nombreuses aventures.
+Certaines de ces aventures sont un peu sombres ou ont un côté sombre.
+Certaines de ces aventures sont merveilleusement encourageantes --
+il ira à l'école.
+Ce qui est sympa c'est
+que nous le faisons aussi :
+pendant qu'on interagit avec lui,
+on peut mettre des choses dans son monde, et il reconnait les objets.
+Son esprit est basé dans un nuage.
+Ce qui veut dire que l'esprit de Milo,
+alors que des millions de gens l'utilisent,
+deviendra plus intelligent et plus malin.
+Il reconnaitra plus d'objets
+et donc comprendra plus de mots.
+Mais pour moi,
+c'est un merveilleuse possibilité
+dans laquellle on peut enfin être connecté avec la technologie,
+dans laquelle je ne suis plus limité
+par les doigts de ma main --
+en ce qui concerne un jeu vidéo --
+ou par le manque de piquant de ne pas être remarqué
+si on regarde un film ou un livre.
+Et j'adore ces révolutions,
+et j'adore le futur que Milo amène.
+Merci beaucoup, vraiment.
+(Applaudissements)

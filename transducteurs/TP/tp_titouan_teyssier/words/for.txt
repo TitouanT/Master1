@@ -1,0 +1,4 @@
+1 2 for f
+2 3 <eps> ao1
+3 4 <eps> r
+4

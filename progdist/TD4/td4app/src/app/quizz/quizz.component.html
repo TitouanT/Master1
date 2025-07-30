@@ -1,0 +1,9 @@
+<div *ngIf="show">
+	<label> quizz n°{{ index }} </label>
+	<br/><br/>
+	Guess the next number in the sequence: {{quizz.sequence}}
+	<br/><br/>
+	<label>Your answer:</label>
+	<intput [(nbModel)]="answer"/>
+	<br/><br/>
+</div>

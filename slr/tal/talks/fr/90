@@ -1,0 +1,345 @@
+Cette conférence est vraiment centrée sur la révolution digitale,
+mais je dois vous avouer que c'est fait. On a gagné !
+La révolution digitale a déjà eu lieu, on a pas besoin d'une révolution permanente.
+Et j'ai envie de voir plus loin,
+de voir ce qui nous attend après la revolution digitale.
+Projetons nous donc dans l'avenir.
+Voilà quelques projets dans lesquels je suis impliqué, au MIT,
+où nous regardons ce qui vient après les ordinateurs.
+Le premier, c'est "l'internet Zero", en haut à gauche. C'est un serveur web
+qui n'est pas plus complexe qu'une puce électronique et coute le même prix,
+à peu près un dollar-- elle peut être utilisée dans n'importe quelle ampoule ou interrupteur.
+et va etre commercialisée sous peu.
+Ce qui est intéressant, ce n'est pas tellement son coût,
+mais la façon dont internet est codé par cette puce.
+Elle utilise une sorte de signal en morse pour Internet
+qui peut être transmis par des ondes optiques, mais aussi acoustique,
+par les prises de courant, ou des ondes radios
+On a pris le principe même d'internet,
+qui est de créer des réseaux decentralisés d'ordinateurs
+et faire en sorte que les appareils eux-mêmes soient interconnectés.
+On peut prendre l'idée de base qui a donnée naissance à Internet
+et la transcrire au monde matériel dans ce concept d'Internet Zero.
+ce réseau qui connecte les appareils eux-mêmes.
+C'est la prochaine étape pour passer de là à là,
+et c'est en train d'être commercialisé en ce moment.
+L'étape d'après, c'est l'ordinateur en pâte.
+Les biens indiscernables peuvent etre echangés et achetés.
+Ainsi, moitié moins de grains, est moitié moins utile
+mais un demi-bébé ou un demi- ordinateur, c'est bien moins utile
+qu'un bébé ou qu'un ordinateur entier,
+et on a toujours essayé de ne faire que des ordinateurs comme ca.
+Ce que vous voyez en arrière plan, c est un prototype.
+C'était la thèse d'un étudiant, Bill Butow, maintenant à Intel,
+qui s'est posé la question, si plutôt que de faire des puces de plus en plus grosses,
+on ne pouvait pas faire des puces plus petites, mais les mettre dans un milieu visqueux,
+et déverser la puissance de calcul au kilogramme.
+Et c'est ce que vous voyez là.
+A gauche, c'est une image rendue par un ordinateur conventionel,
+et sur la droite, l'image est rendue par le prototype
+que nous avons fabriqué, sans mémoire tampon, processeur
+ni autre chose comme ca- c'est juste le matériel en lui même.
+A la différence de cet écran, où les pixels sont placés minutieusement,
+c'est de la matiére première.
+Si vous en avez deux fois plus, vous pouvez afficher deux fois plus de choses
+Si vous tirez une balle de pistolet au travers, rien ne se passe.
+Si vous désirez plus de ressources, vous n'avez qu'à étaler plus d'ordinateur.
+C'est l'étape d'après: l'informatique sous forme de matière étalable.
+Mais c'est encore des bits conventionels, et l'étape d'après est--
+et c'est un prototype naissant dans un labo
+c'est une vidéo ultra-rapide ralentie.
+Maintenant, on intègre la chimie dans le calcul, et les bits deviennent des bulles.
+Cette vidéo montre comment sont générés les bits, et là,
+une nouvelle fois, au ralentit pour que vous puissiez voir,
+les bits interagissent de façon logique en se combinant.
+Donc maintenant, on peut faire des calculs dont le résultat est un arrangement de la matière,
+tout autant que de l'information. Et, pour finir, voici des planches
+d'un de mes anciens projets, de calcul avec stockage de l'information
+de façon quantique dans le noyau des atomes. Ainsi,
+les programmes rearrangent la structure des noyaux des atomes et molécules.
+Tout ça existe dans les laboratoires, allant de plus en plus loin,
+et ce n'est pas une métaphore, mais on intègre littéralement les bits et les atomes,
+et ça nous ammène au constat suivant.
+Nous savons tous qu' on a eu une révolution digitale, mais qu'est ce c'est?
+En fait, Shannon nous a ammené dans les années 40, d'ici a ici:
+du téléphone qui était un simple haut parleur dont la qualité se dégrade avec la distance
+à Internet. Et il a prouvé le premier théorème sur les seuils, qui montre
+que si une information est additionnée puis retranchée à une porteuse,
+on peut calculer de façon exacte avec des instruments inexacts.
+Et c'est ça qui a donné Internet.
+Von Neumann, dans les années 50, a fait la même chose pour le calcul numérique.
+il a montré qu'on peut avoir un ordinateur imparfait, mais qu'en restaurant sa configuration,
+il peut être rendu parfait. Ce fut le dernier ordinateur analogique à MIT:
+un analyseur différentiel, qui, plus il était utilisé,
+plus il donnait une réponse fausse.
+Après Von Neumann, nous avons eu les Pentium, ou le milliardieme transisteur,
+est aussi fiable que le premier.
+Mais toute la fabrication est dans ce coin en bas à gauche.
+Une tour à métaux de nouvel génération pour l'industrie aéronautique,
+voir peut-être une machine pour faire fondre du plastique. Une machine a 10 million de dollars
+qui utilise un procédé que n'inporte quel artisan de village reconnaitrait:
+vous étendez de la matière et la faites cuire.
+Et toute l'ingéniosité du système est externe au système lui-même.
+la matière ne contient pas d'information.
+Hier, on entendait parler de biologie moléculaire,
+qui calcule pour construire.
+C'est un système qui traite de l'information.
+Nous avons eu des révolutions digitales en communication et calcul numérique,
+mais la même idée, précisément la même logique,
+qu'ont développée Shannon et Von Neuman, n'a pas encore éclos
+dans le monde physique, dans la fabrication. Ainsi, inspirés par cela,
+des collègues dans ce programmes, le Center for Bits and Atoms
+au MIT-- qui forment un groupe de personnes, comme moi
+qui n'ont jamais compris la limite entre la science du tangible
+et les sciences informatiques. Je dirais même plus,
+les sciences informatiques sont la pire chose qui soit arrivée
+à la fois aux ordinateurs et à la science---
+(rire)
+-- parce que les canons -- les sciences informatiques --
+nombres d'entre eux sont géniaux, mais les canons des sciences informatiques
+a gelé l'évolution des modèles de calcul
+selon la technologie qui était disponible dans les années 50,
+mais la nature est un ordinateur bien plus puissant que ça.
+Vous allez entendre demain Saul Griffith. C'est l'un des premiers élèves
+a être sorti de ce programme.
+Nous avions commencé a comprendre comment calculer pour fabriquer.
+Il a juste fait une preuve de principe, de tuiles
+qui interagissent comme des magnets. En écrivant un code,
+un peu comme le replis des protéines, on va imposer une certaine structure a ces tuiles.
+Ainsi, il n'y a pas de boucle de retour par un appareil de mesure,
+le matériau lui-même code pour sa propre structure, exactement comme
+sont fabriquées les protéines. Ainsi, vous pouvez faire ca par exemple.
+Vous pouvez faire bien d'autres choses. C'est du 2D, mais ça marche aussi en 3D.
+La vidéo dans le coin en haut à droite -- je ne vais pas la montrer par manque de temps --
+montre l'auto-réplication, l'arrangement. ainsi, quelque chose peut faire quelque chose d'autre
+qui peut faire encore autre chose. Et nous arrivons à faire ça, sur, peut-être,
+neuf ordres de grandeurs. Ces idées ont été utilisées pour montrer
+la ressemblance et le taux de réplication de l'ADN pour faire un organisme.
+en fonctionalisant des nanoclusters avec des queues de peptides
+qui codent pour leur assemblage. Ainsi, tout comme des magnets,
+mais à des échelles nanométriques.
+L'usinage laser: des imprimantes 3D qui fabriquent de façon digitale,
+des systèmes fonctionnels, jusqu'à la construction de bâtiments,
+non pas avec des plans d'architectes,
+mais en aillant des briques qui déterminent la forme du bâtiment.
+Ce sont des exemples de technologies emergeant dans les laboratoires
+pour la fabrication digitale. Des ordinateurs qui ne controllent pas des outils
+mais des ordinateurs qui sont des outils, pour lesquels le résultat d'un programme
+est un réarrangement d'atomes tout autant que des bits.
+Maintenant, pour faire ca -- avec l'argent de vos impots, merci --
+j'ai acheté toutes ces machines. Nous avons fait une demande modeste
+à notre organisme de financement. Nous voulions pouvoir créer tout, de n'importe quelle taille,
+le tout dans un seul espace, parce qu'on ne peut pas faire de ségregation pour la fabrication digitale
+par discipline ou par la taille.
+Ainsi, nous avons regroupé des imprimantes spécialisées,
+des machines pour découper avec de l'eau sous pression, des systèmes pour l'usinage de précision.
+Mais nous avions un problème. Une fois qu'on a reçu toutes ces machines,
+je passais un part trop importante de mon temps à former les élèves pour l'utilisation de ces machines.
+Ainsi, j'ai commencé à enseigner une classe, appelée modestement,
+"Comment fabriquer presque tout". Et je ne voulais pas être provocateur,
+c'était juste pour quelques élèves chercheurs.
+Mais le premier jour, la classe ressemblait à ça.
+Vous savez, des centaines de personnes, qui viennent en priant
+toute ma vie, j'ai voulu prendre un cours comme ca. Je ferais n'importe quoi pour le faire.
+Ensuite, ils demandent: Ca peut etre enseigné au MIT? Ca à l'air trop utile?
+Et ensuite...
+(rire)
+la chose la plus surprenante, c'est qu'ils n' étaient pas là pour faire de la recherche.
+Ils étaient là parce qu'ils voulaient fabriquer des choses.
+Ils n'avaient pas le bagages technique conventionel.
+Et après un semestre, ils avaient des compétences nouvelles.
+Je vais vous montrer une ancienne vidéo. Kelly était sculpteur, et voilà ce qu'elle a fait
+pour son projet de classe.
+(Video): Kelly: Bonjour, je m'appelle Kelly et c'est mon compagnon de cri.
+Vous êtes vous déjà trouvé dans une situation
+où vous voulez crier, mais vous ne pouvez pas parce que vous êtes au boulot,
+dans une salle de cours, en train de surveiller vos enfants,
+ou dans un tas d'autres situations où ce n'est juste pas permis?
+Et bien, le compagnon de cri est un espace portable pour crier.
+Quand l'utilisateur crie dans son compagnon de cri, son cri est silencieux.
+C'est aussi enregistré pour une libération ultérieure, où, quand et comment
+l'utilisateur le désire.
+(cri)
+(rires) (applaudissements)
+Einstein aurait adoré.
+Cet élève a fait un navigateur internet pour perroquets --
+laissons les perroquets surfer sur le net, et parler avec d'autres perroquets.
+Cet élève a fait un réveil contre lequel il faut se battre
+pour prouver que vous êtes bien réveillé, celui là défend--
+c'est un costume qui défend votre espace personnel.
+Ce n'est pas de la technologie pour la communication;
+c'est une technologie pour se protéger d'elle.
+C'est un instrument qui vous permet de voir votre musique.
+Là, c'est un élève qui fait une machine qui fait d'autres machines,
+et il fait cela grâce a des briques Légo qui transmettent l'information.
+Année après années-- et j'ai finalement pris conscience
+que les élèves prouvaient que les applications ultimes de la fabrication maison
+sont des produits pour un marché de une personne.
+Vous n'avez pas besoin de ça pour faire ce que vous pourriez acheter au Walmart;
+vous avez besoin de ça pour faire des choses uniques.
+Ken Olson a dit un jour, personne n'a besoin d'un ordinateur à la maison.
+Mais vous ne l'utilisez pas pour faire des inventaires ou vos comptes.
+#####. Vous n'avez pas besoin de la fabrication personnelle
+à la maison pour faire ce que vous pourriez acheter, parce que vous pourriez l'acheter.
+Vous en avez besoin pour faire ce qui vous rend unique, tout comme la personnalisation.
+Ainsi, aujourd hui, on peut faire ça avec 20 millions de dollars,
+dans 20 ans, on fera des replicateurs façon Star Trek qui feront n'importe quoi.
+Les élèves prenaient les machines que j'avais achetée en otages, pour faire de la fabrication personnelle.
+Aujourd'hui, quand vous depensez autant d'argent,
+le gouvernement demande que vous fassiez du travail de proximité, ce qui veut souvent dire
+des cours dans des écoles voisines, un site-internet; tout un tas d'activités pas très passionnantes.
+Donc je me suis mis d'accord avec le directeur du programme qui me finance que,
+plutôt que de parler du système, je donne aux gens l'accès aux machines.
+Ce n'était pas fait pour être important ou provocateur,
+mais nous avons assemblé ces laboratoires de fabrication. Environ 20,000 dollars d'équipement
+qui peuvent presque faire la même chose que notre laboratoire a 20 millions de dollars, et avoir les mêmes prétentions.
+Un machine laser pour découper et faire de l'assemblage 2D et 3D,
+des tables traçantes pour usiner le cuivre et faire de l'electromagnitque,
+à l'échelle microscopique,
+des tours numériques pour les structures précises,
+des outils de programmation pour moins d'un dollar,
+100 microcontrolleurs cadencés a une nanoseconde. Ca permet de travailler n'importe quoi, du microns
+et microseconde jusqu'a plus grand, et c'est en plein explosion dans le monde entier.
+Ce n'était pas prévu, mais ça a diffusé depuis le centre de Boston
+jusqu'á Pobal en Inde, Secondi-Takoradi sur la côte Ghanéenne
+à Soshanguve une banlieue d'Afrique du Sud,
+jsuqu au nord de la Norvége, révelant, ou aidant à réveler
+avec toute l'attention de la scission numérique,
+nous trouvions des ordinateurs usagers dans tous ces pays.
+Un fermier dans un petit village -- un enfant qui a besoin de mesurer et de modifier
+le monde, non pas juste en aillant des informations sur un écran.
+C'est qu'il y a a vraiment une différence entre la fabrication et l'instrumentation,
+plus grand que la différence en équipement informatique.
+Et la façon de resorber le problème, ce n'est pas de l'IT pour les masses, c est le développement de l'IT pour les masses.
+Ainsi, pays après pays,
+nous avons vu la même progression: nous ouvrions l'un de ces laboratoires
+où --nous n'y avions -- c'était trop fou de penser en installer.
+Nous n'avions pas pensé à l'avance, que nous serions attirés par ces sites,
+Cette première étape nous a mis en confiance.
+Vous pouvez le voir dans leurs yeux, cette joie de, "Je peux le faire".
+Ici, c'est une fille dans un quartier du centre de Boston, qui vient juste de faire
+un vente sur demande d'un objet high-tech dans un centre communautaire de la ville.
+Ca va de ça a des projets éducatifs ambitieux et participatifs
+,en dehors de l'école. Au Ghana, nous avons monté un de ces laboratoires.
+Nous avons mis au point un détecteur, et les enfants venaient
+et refusaient de quitter le labo.
+Il y avait cette fille qui insistait pour qu'on reste tard le soir --
+(Vidéo): L'enfant: J'adore le labo
+-- sa première nuit dans le labo, parce qu'elle était en train de fabriquer le capteur.
+Et elle insistait pour fabriquer le circuit imprimé, apprendre comment le monter,
+apprendre a le programmer. Elle ne savait pas trop
+ce qu'elle était en train de faire, ni pourquoi elle le faisait, mais elle savait
+qu'elle devait le faire. I y avait comme quelque chose de mystique.
+C'est tard , vous savez, genre 11 heure du soir
+et je pense que j'étais la seule personne surprise quand
+ce qu'elle venait de construire marcha au premier essai.
+Et j'ai montr's cette vidéo a des ingénieurs de grosses entreprises, et ils m'ont avoué
+qu'ils ne peuvent pas faire ça. Tous ce qu'elle fait, ils peuvent le faire mieux qu'elle
+mais c'est reparti entre plein de personnes et de sites différents
+et ils ne peuvent pas faire en une après-midi,
+ce que cette petite fille au Ghana faisait.
+(Vidéo): La fillette: Mon nom est Valentina Kofi, J'ai huit ans.
+Je construis une carte électronique.
+Et encore une fois, c'était juste pour le plaisir.
+Ensuite, ces laboratoires ce sont attaqués à résoudre des problèmes plus ambitieux --
+de l'instrumentation pour l'agriculture en Inde,
+des turbines à gaz pour la transformation d'énergie au Ghana,
+des antennes à forte amplifications dans des ordinateurs fins,
+et de là, cette entreprise a grossi
+comme la fabrication de ces antennes.
+Et enfin, ces labo ont commencé à découvrir leurs propres inventions.
+Nous apprenions plus d'eux que ce que nous leur enseignions.
+J'apprenais à ces enfants comment utiliser les laboratoires.
+Ils ont inventé comment faire un kit de construction en partant d'un carton --
+idée qui, comme vous le voyez, vient d'être commercialisée
+mais leur design était meilleur que celui de Saul à MIT,
+donc il y a maintenant trois élèves à MIT qui font leurs thèses
+sur la généralisation du travail d'un enfant de huit ans,
+parce que son design est meilleur.
+De vraies inventions sont faites dans ces laboratoires
+Et je dis toujours -- l'année dernière, j'ai passé mon temps
+avec des chef d'Etats, des généraux et des chefs de tribus, qui veulent tous ça,
+et je n'arrête pas de leur dire que ce n'est pas le produit final
+Qu'ils attendent 20 ans, et nous aurons fini.
+Et j'ai enfin compris ce qu'il se passait. C'est Kernigan et Ritchie
+inventant UNIX sur un PDP.
+PDPs sont apparus entre l'époque des ordinateurs centraux et des mini-ordinateurs.
+Ils coutaient des dizaines de milliers de dollars, étaient difficiles à utiliser,
+mais ils donnaient l'accès aux ordinateurs, à plein de groupes de travail
+et tout ce que nous faisons aujourd'hui a été inventé à cette époque.
+Ces laboratoires ont la complexité et le coût des PDP.
+L'image de la fabrication digitale
+n'est pas une image du futur. Nous sommes en ce moment dans l'ère du PDP.
+Nous n'osions pas parler des grosses découvertes à l'époque.
+c'était très cahotique, et ce qui se passait n'était pas très clair.
+De la même façon, nous sommes aujourd'hui dans cette période des mini-ordinateurs
+de la fabrication digitale.
+Le seul problème avec ça, c'est que ça casse les limites conventionnelles.
+A Washington, je vais voir toutes les agences gouvernementales qui veulent bien me parler,
+A San Fransisco, je vais voir toutes les entreprises auxquelles vous pouvez penser.
+Elles sont toutes d'accord pour parler de ça, mais ca casse
+toutes les limites organisationnelles. En fait, c'est même illégal pour elles
+dans de nombreux cas, d'équiper Monsieur Toulemonde pour créer
+au lieu de consommer la technologie.
+Et ce problème est si important, que l'invention ultime
+venant de ces communautés m'a surpris:
+c'est l'ingénierie sociale. Le labo dans le Grand Nord de la Norvège--
+si loin au Nord que les antennes satellites pointent le sol
+plutôt que le ciel, parce que c'est où sont les satellites--
+le labo a grossi bien plus vite que les locaux dans lesquels il était
+Il a été mis là parce qu'ils voulaient retrouver les animaux dans les montagnes
+mais ça a depassé les attentes, et ils ont construit un village entier autour du labo.
+Ce n'est pas une université, ce n'est pas une entreprise; c'est en fin de compte
+un village pour l'invention, c'est un village pour les gens en marge de la société
+et ceux qui ont grandi autours de ces laboratoires,
+partout dans le monde.
+Et ce programme s'est transformé en une ONG,
+une fondation pour le labo, pour aider au développement, une sorte de fond d'investiment pour ce labo.
+La personne qui s'en occupe, decrit ca de façon très juste comme
+"des machines qui font des machines ont besoin d'entreprises qui créent des entreprises".
+C'est un mutant entre de la micro-finance et des fonds d'investissement
+et ensuite, des partenariats avec le MIT pour
+rendre tout cela possible.
+Et je voudrais conclure avec deux réflexions.
+Il y a eu un changement dans l'attribution des aides, depuis les méga-projets centralisés
+à des projets décentralisés, la micro-finance investissant à la racine
+et tout le monde est d'accord pour dire que c'est ce qui marche.
+Mais nous considérons toujours la technologies comme des méga-projets.
+Le numérique, les communications, l'énergie pour la planète
+se sont des gros projets centralisés.
+Si cette salle pleine de héros est suffisamment intelligente,
+vous pouvez résoudre les problèmes vous-mêmes.
+Le message venant des laboratoires de fabrication, c'est que
+les cinq autres milliards d'individus sur cette planète
+ne sont pas juste la pour subir la technologie, mais peuvent la créer.
+La vraie opportunité, c'est de récolter la puissance innovatrice du monde
+pour concevoir et produire localement des solutions aux problèmes locaux.
+Je pensais que c'était une projection 20 ans dans le futur,
+mais c'est ou nous sommes aujourd 'hui.
+Ca casse toutes les frontières organisationnelles auxquelles ont peut penser.
+La chose la plus dur aujourd'hui est l'ingénierie sociale
+et l'ingénierie organisationnelle.
+Et enfin, toute présentation comme celle-ce sur le futur de numérique
+se doit de montrer la loi de Moore, mais ma version favorite--
+ça, c'est l'originale de Gordon Moore, de son article original--
+et c'est ce qui se produit, année après année,
+nous avons grandit, grandit, grandit
+et encore grandit, grandit, grandit
+et encore, et encore
+et voila le bug menaçant de ce qui va arriver
+à la fin de la loi de Moore; le bug ultime arrive.
+Mais nous allons apprecier, une transition du 2D au 3D,
+de la programmation des bits à la programmation des atomes,
+qui fait de la fin de la loi de Moore, non pas le bug ultime
+mais la fonction ultime.
+Donc nous sommes juste au bord de la révolution numérique dans la fabrication,
+où les résultats des programmes numériques programment le monde réel
+Et ensemble, ces deux projets répondent à la question
+que je n avais pas posé clairement. Cette classe au MIT montre que l'application ultime
+pour la fabrication personnelle dans les pays développés
+est la technologie pour un marché à un seul client: l'expression personnelle de la technologie
+qui met au jour une passion telle, que je n'ai pas vu
+depuis longtemps.
+Et l'application utlime pour le reste de la planète, c est l'instrumentation
+et la fabrication distribuée: les gens développant des solutions locales
+à des problèmes locaux. Merci

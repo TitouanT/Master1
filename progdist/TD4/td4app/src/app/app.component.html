@@ -1,0 +1,13 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+	<h1> Have Fun with Number quizz </h1>
+	<h3>Your score is : {{ score }}</h3>
+</div>
+<!-- pere -> fils -->
+<!-- fils -> pere -->
+<app-quizz
+	[index]="index"
+	(scoreChange)="chgScore($event)"
+>
+<button [disabled]="!show" (click)="guess()">Next quizz</button>
+<button [disabled]="show" (click)="reset()">Again ?</button>

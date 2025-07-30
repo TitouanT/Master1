@@ -1,0 +1,10 @@
+BLEU: a method for Automatic Evaluation of Machine Translation
+Bilangual Evalutation Under Study
+
+This work has been splited into tasks:
+	1. extract data from xml files          -> ./parsexml.py
+	2. translation of the english version   -> ./translate.py and ./translateOne.py
+	3. implementation of the Bleu algorithm -> ./bleu.py
+	4. evaluation of some talks translation -> ./evaluation.py
+
+to test the results, you only have to execute `python evaluation.py`

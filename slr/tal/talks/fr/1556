@@ -1,0 +1,267 @@
+J'aimerais vous parler de deux parties d'échecs.
+La première a eu lieu en 1997, et dans cette partie, Garry Kasparov,
+un humain, a perdu contre Deep Blue, une machine.
+Pour beaucoup, ce fut l'aube d'une ère nouvelle,
+où l'homme serait dominé par la machine.
+Mais nous voilà, 20 ans plus tard, et le plus grand changement
+dans nos rapports avec les ordinateurs est l'iPad,
+pas HAL.
+La deuxième partie était un tournoi d'échecs freestyle
+en 2005, au cours duquel l'homme et la machine se sont rencontrés
+en tant que partenaires, plutôt qu'adversaires, si c'est ce qu'ils choisissent.
+Au début, les résultats étaient prévisibles.
+Même un superordinateur a été battu par un grand maître
+et un ordinateur portable relativement faiblard.
+La surprise est venue à la fin. Qui a gagné ?
+Pas un grand maître avec un superordinateur,
+mais en fait deux Américains amateurs
+se servant de trois ordinateurs portables relativement faiblards.
+Leur capacité à entraîner et manipuler leurs ordinateurs
+pour explorer en profondeur des positions spécifiques
+qui contrecarraient efficacement les connaissances supérieures des échecs
+des grands maîtres et la puissance de calcul supérieure
+des autres adversaires.
+C'est un résultat étonnant : des hommes moyens,
+des machines moyennes qui battent le meilleur homme et la meilleure machine.
+D'ailleurs, est-ce que ce n'est pas censé être l'homme contre la machine ?
+Au lieu de ça, il s'agit de coopération, et du bon type de coopération.
+Nous avons accordé beaucoup d'attention à la vision
+de Marvin Minsky sur l'intelligence artificielle ces 50 dernières années.
+C'est une vision attirante, c'est sûr. Beaucoup l'ont adoptée.
+Elle est devenue l'école dominante de pensée en informatique.
+Mais alors que nous entrons dans l'ère des méga-données, des systèmes de réseaux,
+des plates-formes ouvertes et de la technologie embarquée,
+j'aimerais suggérer qu'il est temps de réévaluer une version alternative
+qui a été développée en fait à peu près à la même période.
+Je parle de la symbiose homme-machine de J.C.R. Licklider,
+peut-être mieux nommée "augmentation d'intelligence", A. I.
+Licklider était un titan de l'informatique qui a eu
+un effet profond sur le développement de la technologie et d'Internet.
+Sa vision était de permettre à l'homme et à la machine de coopérer
+pour prendre des décisions, contrôler des situations complexes
+sans dépendance inflexible
+à des programmes prédéterminés.
+Notez le mot "coopérer".
+Licklider nous encourage à ne pas prendre un grille-pain
+pour en faire Data de Star Trek,
+mais à prendre un Humain et le rendre plus capable.
+Les Humains sont si extraordinaires -- notre façon de penser,
+nos approches non linéaires, notre créativité,
+les hypothèses itératives, tout ça est difficile, voire impossible
+à faire pour des ordinateurs.
+Licklider a compris ça de manière intuitive, en observant les humains
+se fixer des objectifs, formuler des hypothèses,
+déterminer les critères et effectuer l'évaluation.
+Bien sûr, d'une autre manière, les humains sont tellement limités.
+Nous sommes très mauvais avec l'échelle, le calcul et le volume.
+Nous avons besoin d'une gestion des compétences de haut niveau
+pour garder ensemble un groupe de rock pour qu'il continue à jouer.
+Licklider a prévu que les ordinateurs feraient tout le travail de routine
+nécessaire pour préparer la voie aux idées et à la prise de décision.
+En silence, sans tambour ni trompette,
+cette approche accumule les victoires au-delà des échecs.
+Le repliement des protéines, un sujet qui partage l'incroyable expansivité des échecs --
+il y a plus de façons de replier une protéine qu'il n'y a d'atomes dans l'univers.
+C'est un problème qui peut changer le monde, aux implications énormes
+quant à notre capacité à comprendre et à traiter la maladie.
+Pour cette tâche, la force brute d'un superordinateur ne suffit pas.
+Foldit, un jeu créé par des chercheurs en informatique,
+illustre la valeur de l'approche.
+Des amateurs qui ne sont ni techniciens, ni biologistes, jouent à un jeu vidéo
+dans lequel ils réarrangent visuellement la structure de la protéine,
+permettant à l'ordinateur de gérer les forces et les interactions atomiques
+et d'identifier les problèmes structurels.
+Cette approche a battu les superordinateurs 50 % du temps
+et a obtenu l'égalité 30 % du temps.
+Foldit a fait une découverte scientifique remarquable et majeure récemment
+en déchiffrant la structure du virus simien de Mason-Pfizer.
+Une protéase qui avait échappé à la détermination pendant plus de 10 ans
+a été résolue par 3 joueurs en quelques jours,
+peut-être la première avancée scientifique majeure
+issue d'une partie de jeu vidéo.
+L'an dernier, sur le site des Tours Jumelles,
+on a inauguré le Mémorial du 11 Septembre.
+Il affiche les noms des milliers de victimes
+en utilisant un beau concept appelé "adjacence significative".
+Il place les noms les uns à côté des autres en fonction
+de leurs relations : amis, familles, collègues de travail.
+Quand on les met tous ensemble, c'est un sacré défi de calcul :
+3500 victimes, 1800 requêtes d'adjacence,
+l'importance des spécifications physiques globales
+et l'esthétique finale.
+Quand les médias en ont parlé pour la première fois,
+on a donné tout le crédit d'un tel exploit à un algorithme
+de la boite de design new-yorkaise Local Projects. La vérité est un peu plus nuancée.
+Tandis qu'un algorithme a été utilisé pour développer un cadre sous-jacent,
+des humains ont utilisé ce cadre pour concevoir le résultat final.
+Dans ce cas, un ordinateur avait évalué des millions
+d'agencements possibles, géré un système relationnel complexe,
+et gardé trace d'un très grand nombre de mesures
+et de variables, ce qui a permis aux humains de se concentrer
+sur les choix de design et de composition.
+Plus vous regardez autour de vous,
+plus vous voyez la vision de Licklider partout.
+Que ce soit la réalité augmentée dans votre iPhone ou votre GPS dans votre voiture,
+la symbiose homme-machine nous rend plus capables.
+Alors si vous voulez améliorer la symbiose homme-machine,
+que pouvez-vous faire ?
+Vous pouvez commencer par intégrer l'humain dans le processus de design.
+Au lieu de penser à ce qu'un ordinateur peut faire pour résoudre le problème,
+concevez la solution autour de ce que l'humain fera aussi.
+Quand vous ferez ça, vous vous rendrez vite compte que vous avez passé
+tout votre temps sur l'interface entre l'homme et la machine,
+particulièrement à gommer la friction dans l'interaction.
+En fait, cette friction est plus importante que la puissance
+de l'homme ou la puissance de la machine
+dans la détermination de la capacité globale.
+C'est pourquoi deux amateurs avec quelques ordinateurs portables
+ont battu facilement un superordinateur et un grand maitre.
+Ce que Kasparov appelle un processus est un dérivé de la friction.
+Meilleur est le processus, moins il y a de friction.
+Réduire la friction s'avère être la variable décisive.
+Ou prenez un autre exemple : les méga-données.
+Chaque interaction dans le monde est enregistrée
+par un nombre sans cesse croissant de capteurs : votre téléphone,
+votre carte de crédit, votre ordinateur. Le résultat, c'est les méga-données,
+elles nous offrent en fait une occasion
+de bien mieux comprendre la condition humaine.
+La plupart des approches des méga-données se concentrent principalement
+sur "Comment stocker ces données ? Comment les chercher ?
+Comment les traiter ?"
+Ce sont des questions nécessaires mais insuffisantes.
+L'indispensable n'est pas de comprendre comment calculer,
+mais quoi calculer. Comment imposer l'intuition humaine
+aux données à cette échelle ?
+Là encore, nous commençons par intégrer l'humain dans la conception du processus.
+Quand PayPal débutait en tant qu'entreprise, leur plus gros problème
+n'était pas : "Comment faire des transactions en ligne ?"
+C'était : " Comment le faire sans se faire escroquer par le crime organisé ?"
+Pourquoi est-ce un tel problème ? Parce que tandis que les ordinateurs peuvent apprendre
+à détecter et identifier des fraudes d'après des modèles,
+ils ne peuvent pas apprendre à le faire d'après des modèles
+qu'ils n'ont encore jamais vus, et le crime organisé
+a beaucoup en commun avec le public ici présent : des gens brillants,
+un esprit d'entreprise aux ressources inépuisables -- (Rires)
+avec une différence monumentale : un objectif.
+Alors que les ordinateurs seuls peuvent attraper tous les fraudeurs
+sauf les plus malins, attraper les plus malins fait la différence
+entre la réussite et l'échec.
+Il y a tout un ensemble de problèmes comme celui-là,
+avec des adversaires qui s'adaptent. Ils utilisent rarement, voire jamais
+un modèle répétitif que les ordinateurs peuvent discerner.
+Au lieu de ça, il y a une composante inhérente d'innovation ou de disruption,
+et de plus en plus, ces problèmes sont enfouis dans les méga-données.
+Par exemple, le terrorisme. Les terroristes s'adaptent toujours
+plus ou moins aux circonstances nouvelles, et en dépit de
+ce que vous voyez à la télé, ces adaptations,
+et leur détection, sont fondamentalement humaines.
+Les ordinateurs ne détectent pas les modèles et les comportements nouveaux
+mais les humains, si. Les humains, en se servant de la technologie, testent des hypothèses,
+recherchent des indices en demandant aux machines de faire des choses pour eux.
+Oussama Ben Laden n'a pas été attrapé grâce à l'intelligence artificielle.
+Il a été attrapé par des gens brillants, débrouillards et dévoués
+en partenariat avec différentes technologies.
+Pour aussi séduisant que cela semble, on ne peut pas
+trouver la réponse en fouillant des données avec des algorithmes.
+Il n'existe pas de bouton "Trouver le terroriste", et plus nous intégrons de données
+à partir d'une grande variété de sources
+en passant par une grande variété de formats de données
+issues de systèmes très disparates, moins le traitement de données peut être efficace.
+Au contraire, les gens devront examiner les données,
+et chercher à y voir clair, et comme Licklider l'a prévu il y a longtemps,
+la clé pour de grands résultats est le bon type de coopération.
+et comme Kasparov s'en est rendu compte,
+ça signifie limiter la friction au niveau de l'interface.
+Cette approche rend possible des choses comme
+le filtrage de toutes les données disponibles issues de sources très différentes,
+l'identification de relations-clés et leur rassemblement en un seul endroit,
+ce qui était presque impossible avant.
+Pour certains, ça a des implications terrifiantes pour la vie privée
+et les libertés civiles. Pour d'autres, ça prédit une ère de
+plus grande protection de la vie privée et des libertés civiles,
+mais la vie privée et les libertés civiles ont une importance fondamentale.
+On doit l'admettre, et on ne peut pas l'écarter,
+même avec les meilleures intentions.
+Explorons donc, au travers de deux exemples, l'impact
+que les technologies construites pour guider la symbiose homme-machine
+ont eu récemment.
+En octobre 2007, les forces américaines et celles de la coalition
+ont fait un raid sur un refuge d'Al Qaïda dans la ville de Sinjar,
+en Irak, à la frontière avec la Syrie.
+Ils ont trouvé un trésor de documents :
+700 esquisses biographiques de combattants étrangers.
+Ces combattants étrangers avaient laissé leurs familles dans le Golfe,
+le Levant et l'Amérique du Nord pour rejoindre Al Qaïda en Irak.
+Ces dossiers étaient des formulaires de ressources humaines.
+Les combattants étrangers les avaient remplis en s'engageant dans l'organisation.
+Il s'avère qu'Al Qaïda
+a aussi sa petite bureaucratie. (RIres)
+Ils ont répondu à des questions comme "Qui vous a recruté ?"
+"De quelle ville venez-vous ?" "Quel poste recherchez-vous ?"
+Dans cette dernière question, une information surprenante est ressortie.
+La grande majorité des combattants étrangers
+cherchaient à devenir des bombes humaines pour devenir des martyrs --
+extrêmement important, puisque, entre 2003 et 2007, l'Irak
+a connu 1382 attentats suicides, source majeure d'instabilité.
+Il était difficile d'analyser ces données. Les originaux étaient des feuilles
+de papier en arabe qui devaient être scannées et traduites.
+La friction dans le processus ne permettait pas
+d'obtenir des résultats significatifs dans une limite de temps opérationnelle
+en n'ayant recours qu'à des humains, des PDF et de la ténacité.
+Les chercheurs ont dû faire appel à la technologie
+pour réfléchir plus profondément, pour explorer
+les hypothèses qui n'étaient pas évidentes, et ainsi, des liens ont émergé.
+20 % des combattants étrangers venaient de Libye,
+50 % d'entre eux d'une seule ville en Libye,
+d'une importance énorme puisque les statistiques précédentes estimaient ce chiffre à 3 %.
+Ça a aussi contribué à cibler un personnage
+d'une importance grandissante au sein d'Al Qaïda, Abu Yahya al-Libi,
+un religieux majeur dans le groupe de combattants islamiques libyens.
+En mars 2007, il a fait un discours, à la suite duquel
+il y a eu une poussée de participation chez les combattants étrangers libyens.
+La chose la plus intelligente, cependant, et la moins évidente,
+a été, en retournant les données, de permettre aux chercheurs
+d'explorer profondément les réseaux de coordination en Syrie
+qui étaient au final en charge de recevoir
+et de transporter les combattants étrangers à la frontière.
+C'étaient des réseaux de mercenaires, pas d'idéologues,
+qui étaient dans la coordination pour faire du profit.
+Par exemple, ils faisaient payer aux combattants étrangers saoudiens
+substantiellement plus qu'aux Libyens, de l'argent qui autrement
+serait allé à Al Qaïda.
+L'adversaire modifierait peut-être son propre réseau
+s'il savait qu'ils escroquaient les aspirants jihadistes.
+En janvier 2010, un tremblement de terre dévastateur a frappé Haïti,
+le 3ème plus mortel de tous les temps, qui a laissé un million de gens,
+10 % de la population, sans abri.
+Un aspect apparemment minime de l'effort global d'aide
+est devenu de plus en plus important quand on a commencé
+à apporter de la nourriture et de l'eau.
+Janvier et février sont les mois secs en Haïti,
+pourtant des eaux stagnantes s'étaient accumulées dans beaucoup de camps.
+La seule institution qui avait une connaissance détaillée
+des zones inondables d'Haïti avait été détruite
+dans le tremblement de terre, avec leurs dirigeants à l'intérieur.
+La question était donc de savoir quels étaient les camps à risque,
+combien de gens étaient dans ces camps,
+quelle était la chronologie des inondations, et étant données les ressources
+et l'infrastructure très limitées, comment établir les priorités de déplacement ?
+Les données étaient incroyablement disparates. L'armée des États-Unis
+avait une connaissance détaillée d'une seule petite section du pays.
+Il y avait des données en ligne qui dataient d'une conférence
+sur l'environnement de 2006, d'autres données géospatiales, rien n'était intégré.
+L'objectif humain ici était d'identifier les camps à utiliser
+selon l'urgence.
+L'ordinateur devait intégrer une grande quantité
+d'informations géospatiales, de données des médias sociaux
+et des informations des organisations de secours pour répondre à cette question.
+En implémentant un processus supérieur, ce qui autrement
+était une tâche pour 40 personnes pendant 3 mois,
+c'est devenu un travail simple pour 3 personnes en 40 heures,
+tout ça à mettre au crédit de la symbiose homme-machine.
+Nous voici 50 ans après la vision d'avenir de Licklider
+et les données suggèrent que nous devrions être
+très enthousiastes à l'idée de nous attaquer aux problèmes les plus difficiles de ce siècle,
+l'homme et la machine coopérant ensemble.
+Merci. (Applaudissements)
+(Applaudissements)

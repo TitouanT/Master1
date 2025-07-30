@@ -1,0 +1,319 @@
+Bonjour. Pourrais-je avoir le premier slide s'il vous plait?
+Contrairement aux calculs de certains ingénieurs, les abeilles peuvent voler,
+les dauphins peuvent nager, et les geckos peuvent toujours
+grimper sur les surfaces les plus lisses. Maintenant ce que je veux faire, dans le peu de temps dont je dispose,
+c'est de permettre à chacun de vous d'essayer,
+en quelque sorte, de découvrir ce que la nature à su mettre au point.
+J'essaye de le faire tout le temps, c'est tout bonnement incroyable.
+Je vais essayer de vous le faire partager un peu avec cette présentation.
+"Le challenge de découvrir les inventions de la nature"
+et je vais vous dire la façon dont nous le percevons, et la façon dont nous l'utilisons.
+La difficulté bien sûr est de répondre à cette question :
+Quelle est l'extraordinaire capacité de cet animal
+qui lui permet d'aller où il le désire?
+Si nous pouvions l'utiliser, dans quel domaine pourrions-nous le faire?
+Donc, beaucoup de biologistes diront aux ingénieurs et aux autres,
+les êtres vivants ont eu des millions d'années pour tout mettre au point,
+ils sont spectaculaires, ils peuvent tout faire extrêmement bien.
+Et le mieux à faire est la "biomimicry" : juste copier directement ce que la nature a fait.
+Nous savons, à force de travailler sur les animaux, que ces solutions
+sont opposées à ce que chacun essaye de faire. En effet l'évolution est basée
+sur le principe du "juste suffisant", pas sur la perfection.
+Et les contraintes à l'origine de tout organisme sont, à bien y regarder,
+très strictes. Les technologies de la nature sont incroyablement contraintes.
+Réfléchissez y. Si vous étiez un ingénieur et que je vous disais
+que vous avez à construire une automobile qui doit être de cette taille au début,
+puis qui doit grandir jusqu'à avoir sa taille normale et qui enfin doit fonctionner à chaque étape de sa croissance.
+Dites vous aussi que si vous construisiez cette automobile, vous devriez aussi
+mettre une usine capable de fabriquer une seconde automobile à l'intérieur.
+(Rires)
+Or, vous ne pouvez jamais, absolument jamais, en raison de l'histoire
+et du principe d'héritage, commencer à partir de rien.
+Les organismes ont cet historique si important.
+En réalité, l'évolution fonctionne plus comme un réparateur que comme un ingénieur.
+C'est très important à cerner quand vous commencez à regarder les animaux.
+Plutôt que de croire qu'il faut toujours s'inspirer de la biologie,
+il vous faut découvrir les principes même qui régissent la nature
+et utiliser des analogies quand c'est avantageux.
+C'est vraiment complexe à faire car ces animaux,
+quand on commence à bien y regarder, la façon dont ils fonctionnent,
+apparait désespérément complexe. Il n'y a pas d'archive
+de plans, vous ne pouvez les trouver nulle part.
+Ils ont développé bien trop de libertés via leurs articulations, trop de muscles,
+même dans les plus simples des animaux, comme les insectes,
+et ils ont bien plus de neurones et de connections que vous pouvez l'imaginer.
+Comment pourrions nous concevoir tout cela? En fait nous croyons...
+et nous partons du principe... que dans un sens, les animaux fonctionneraient simplement,
+comme si le contrôle de leurs mouvements
+pouvaient être issus de leur corps eux même.
+Ce que nous avons découvert c'est que les animaux avec deux, quatres, six, huit pattes,
+exercent le même effort sur le sol lorsqu'ils se déplacent.
+Ils fonctionnent tous comme ce kangourou, ils sautent.
+Et peuvent être modélisés par un ensemble de masse et de ressorts, que nous appelons système masse-ressort
+parce que nous somme des bio-mécaniciens, mais en fait c'est un bâton-sauteur.
+Ils ont tous développés les caractéristiques d'un bâton-sauteur. Comment cela peut il être possible?
+En fait, pour un homme, une de vos jambes équivaut à deux pattes d'un chien qui trotte,
+ou trois pattes fonctionnant ensemble d'un insecte qui trotte,
+voir quatre pour un crabe.
+puis ils alternent pour se propulser,
+mais le principe est toujours le même. Comme presque chaque organisme que nous avons observé de cette manière
+- vous allez le voir la semaine prochaine - Je vais vous donner un indice,
+il va y avoir prochainement un article qui explique que certains animaux très gros
+comme le T. Rex ne pouvaient sans doutes pas faire cela, mais vous le verrez la semaine prochaine.
+Maintenant ce qui est intéressant c'est que l'on ai dit que les animaux bondissaient
+dans le plan vertical, et avec notre collaboration avec Pixar
+dans "1001 pattes" nous avons discutés
+de la nature bipède des fourmies.
+Et nous leur avons dit que bien sûr, ils se déplacent sur tous les plans de la même façon,
+et ils nous ont posé la question : "Pourquoi faire des modèles
+uniquement dans le plan sagital ou le plan vertical,
+alors que vous nous avez dit que ces animaux se déplacent
+dans le plan horizontal?" C'est une bonne question.
+Personne en biologie n'avait jamais modélisé de cette façon.
+Nous avons pris en compte leur conseil et nous avons modélisé les animaux se déplacant
+dans le plan horizontal aussi. Nous avons pris leurs trois jambes,
+que nous avons condensé en une seul,
+et nous avons cherché quelques uns des meilleurs mathématiciens du monde
+venant de Princeton pour travailler sur ce problème.
+Nous avons été capable de créer un modèle
+où les animaux ne bondissent pas uniquement de bas en haut,
+mais ils bondissent aussi de chaque coté en même temps.
+Or, beaucoup d'organismes fonctionnent de cette manière.
+Maintenant, pourquoi un tel modèle est il si important?
+Parce que c'est vraiment intéressant. Quand vous prenez ce modèle
+et que vous le perturbez, que vous lui donnez une poussée,
+comme s'il cognait contre quelquechose, il s'auto-stabilise, sans avoir besoin de cerveau,
+ou de réflexes, la structure suffit.
+C'est un magnifique modèle. Maintenant jetons un oeil aux mathématiques
+(Rires)
+C'est suffisant.
+(Rires)
+Les animaux, quand vous les regardez courir,
+semblent être auto-stabilisés de cette façon,
+en utilisant uniquement leurs "jambes sauteuses". C'est que les jambes peuvent
+se débrouiller seules, les algorithmes de contrôle sont, en un sens,
+compris dans la structure de l'animal elle-même.
+Pourquoi n'avons nous pas étés plus inspirés par la nature et ce type de découvertes?
+Et bien, j'aimerais dire que les technologies humaines sont vraiment différentes
+des technologie de la nature, ou du moins sont elles vraiment éloignées.
+Réfléchissez au type de robot classique que vous voyez.
+Les technologies humaines ont tendance à être larges, brutes,
+avec des angles vifs, rigide, fait de métal. Elles ont des roues
+et des axes. Elles ont très peu de moteurs, peu de capteurs.
+Alors que la nature tend à être petit, arrondi,
+elle se courbe et se tord et possède des jambes et des appendices,
+elle a beaucoup de muscles et beaucoup, beaucoup de capteurs.
+C'est donc un design très différent. Du moins, ce qui change,
+ce qui est vraiment excitant -- et je vais vous le présenter après --
+c'est que les technologies humaines se basent de plus en plus sur les caractéristiques
+de la nature, donc la nature devient vraiment de plus en plus un professeur incontournable.
+Et voici un exemple qui est vraiment intéressant.
+C'est une collaboration que nous avons avec Stanford.
+Et ils ont développé cette nouvelle technique appelée "Shape Deposition Manufacturing" (SDM)
+C'est une technique qui permet de mélanger des matériaux ensemble et de mouler
+toutes les formes qu'ils veulent, et de leurs donner les propriétés des matériaux.
+Ils peuvent inclure les capteurs et les servocommandes directement dans la forme elle-même.
+Par exemple, voici une jambe -- la partie transparente est rigide,
+la partie blanche est souple, et vous n'avez pas besoin du moindre axe ou quoique ce soit.
+Elle se plie juste parfaitement d'elle même.
+Vous pouvez donc mettre ces propriétés dans la jambe elle même. Ça les a poussé
+à présenter cette étude en créant un petit robot qu'ils ont appelé Sprawl.
+Nos travaux ont aussi inspiré un autre robot, un robot sautant inspiré de la biologie,
+fait par l'Université du Michigan et McGill,
+appelé RHex, pour Robot Hexapode, et celui ci est autonome.
+Passons à la vidéo et laissez moi vous montrer quelques-uns de ces animaux se déplaçant.
+Ainsi qu'une partie de ces robots basiques
+qui ont été inspirés par nos découvertes.
+C'est une partie de ce que vous avez fait ce matin, quoique vous le fassiez dehors
+même si ce n'est pas sur un tapis-roulant.
+Voilà ce que nous faisons
+(Rires)
+C'est une blatte tête-de-mort -- c'est une blatte Américaine
+vous pensez que vous n'en avez pas dans votre cuisine.
+C'est un scorpions avec 8 pattes, une fourmis à 6 pattes, un centipède avec 44 pattes.
+Maintenant, je vous ai dit que ces animaux marchent en quelque sorte comme des bâtons-sauteurs --
+ils sautent alors qu'ils se déplacent et vous pouvez le voir
+avec ce crabe fantôme des plages de Panama et de la Caroline du Nord.
+Il peut aller jusqu'à 4 mètre par seconde quand il court.
+Il bondit en fait dans les airs et a donc des phases aériennes
+quand il fait cela, comme un cheval, et vous voyez qu'il bondit ici.
+Ce que nous avons découvert est que même quand vous regardez les jambes d'un humain
+comme Richard, ou une blatte, ou un crabe, ou un kangourou,
+la partie rigide du ressort est la même dans tout ce que nous avons vu jusqu'ici.
+Ces jambes sauteuses sont très biens, mais que peuvent elles faire ?
+En fait, nous voulions voir si elles permettaient aux animaux
+d'avoir une meilleure stabilité et manœuvrabilité.
+Nous avons donc crée un terrain pourvu d'obstacles grand comme trois fois la hauteur de hanche
+des animaux que nous observions
+et nous étions certains qu'ils ne pourraient pas le franchir. Et voici ce qu'ils ont fait.
+L'animal le traverse et ne ralenti même pas.
+Ça ne réduit même pas sa vitesse de croisière du tout.
+Nous ne pouvions croire qu'il pouvait faire cela. Il nous a indiqué
+que si vous pouvez construire un robot avec des jambes sauteuses toutes simples,
+vous pourrez le rendre aussi manœuvrable que tout ce qui a été construit jusque là.
+Voici le premier exemple, voici le robot de Stanfort
+fait avec le principe de prototypage rapide (SDM) appelé Sprawl.
+Il a six jambes, ce sont les jambes sauteuses améliorées.
+Il se déplace avec la même démarche que les insectes et le voici
+se déplaçant sur le tapis roulant. Maintenant ce qui est vraiment important avec ce robot,
+comparé aux autres robots, c'est qu'il ne peut rien voir du tout,
+il ne peut rien ressentir, il n'a pas de cerveau, pourtant il peut manœuvrer
+à travers ces obstacles sans la moindre difficulté.
+C'est la technique qui consiste à incorporer les propriétés dans la forme.
+Voici un élève diplômé, voilà ce qu'il fait à son projet de thèse,
+extrêmement solide si un élève diplômé
+peut réussir à faire la même chose à son projet de thèse.
+(Rires)
+Celui-ci vient de McGill et de l'université du Michigan, c'est RHex,
+faisant sa première sortie pour une démonstration.
+(Rires)
+Même principe. Il possède uniquement six parties mobiles.
+Six moteurs, mais il a des jambes sauteuses améliorées. Il marche à la façon d'un insecte
+la jambe centrale est synchronisée avec celle de devant
+et de derrière du coté opposé. Une sorte de tripode alterné,
+et ils peuvent négocier les obstacles tout à fait comme les animaux.
+(Rires)
+Oh mon dieu.
+(Applaudissements)
+Il se déplace sur différentes surfaces, ici du sable,
+cependant nous n'avons pas optimisé le pied actuellement, mais je vous en parlerai après.
+Voici RHex entrant dans les bois.
+(Rires)
+Cette fois encore, ce robot ne peut rien voir, rien ressentir,
+il n'a pas de cerveau. Il fonctionne uniquement avec un système mécanique
+avec des pièces très simples. Mais inspiré des dynamiques fondamentales des animaux.
+Ah, je l'aime Bob. Là il descend un chemin.
+Je l'ai présenté au laboration de propulsion jet de la NASA, et ils ont dit
+qu'il n'avait pas la capacité de descendre dans des cratères pour chercher de la glace,
+et de la vie à terme, sur Mars. Et ils disent cela
+en particulier avec les robots marchants parce qu'ils sont trop compliqués.
+C'est impossible à faire. Puis j'ai pris la parole. Je leurs ai montré cette vidéo
+avec la conception basique de ce RHex, et juste pour les convaincre
+que nous devrions aller sur Mars en 2011, j'ai teint la vidéo en orange
+pour leur donner l'impression d'être sur Mars.
+(Rires)
+(Applaudissements)
+Une autre raison pour laquelle les animaux ont des performances extraordinaires
+et peuvent aller n'importe où, c'est parce qu'ils ont une interaction efficace
+avec leur environnement. L'animal que je vais vous présenter
+et sur lequel nous allons travailler est le gecko.
+Nous en avons un ici, notez sa position. Il ne bouge pas.
+Maintenant je vais vous mettre à l'épreuve. Je vais vous montrer une vidéo.
+L'un des animaux sera en train de courir à l'horizontale,
+et l'autre sera en train de monter à un mur. Qui est qui?
+Ils avancent à un mètre par seconde. Combien pensez que celui de gauche
+montait le mur?
+(Applaudissements)
+Okay. Le fait est que c'est vraiment dur à expliquer, n'est ce pas? C'est incroyable,
+nous avons observé des étudiants faisant cette expérience et ils n'ont pas pu expliquer.
+Ils peuvent monter à un mur à un mètre à la seconde, 15 pas par seconde
+et comme s'ils courraient sur une surface horizontale. Comment peuvent-ils faire cela?
+C'est juste phénoménal. Celui de droite monte sur un obstacle.
+Comment font ils cela -- ils ont des orteils étranges -- ils ont des orteils
+qui se déroulent comme un cracker quand vous le faites exploser,
+et se décrochent de la surface comme un ruban adhésif.
+Comme si nous avions du ruban adhésif et que nous le décrochions ainsi.
+Ils font cela avec leurs orteils. C'est bizarre. Ce décrochage a inspiré
+iRobot avec lequel nous avons travaillé, pour fabriquer des Meca-Geckos.
+Il y a une version avec pattes, une version tracteur et une version bulldozer.
+Voyons quelques mouvements du gecko avec quelques vidéos,
+et par la suite je vais vous montrer quelques extraits des robots.
+Ici un gecko court sur une surface verticale, il vient de passer
+en temps réel, il vient à nouveau de passer. Évidemment nous devons ralentir un petit peu.
+Vous ne pouvez pas utiliser des cameras standards.
+Vous devez prendre 1.000 images par seconde pour voir cela.
+Et voici quelques vidéos à 1.000 images par seconde.
+Maintenant je veux voir le dos de l'animal.
+Vous voyez à quel point il se plie comme cela? On n'arrive pas à comprendre pourquoi --
+c'est un mystère insoluble. Nous ne savons pas comment il fonctionne.
+Si vous avez un fils ou une fille qui veut venir à Berkeley,
+dans mon laboratoire, nous pourrions chercher à comprendre. Okay, envoyez les à Berkeley
+car c'est la prochaine chose que je veux réaliser. Voici le rouleau à gecko.
+(Rires)
+C'est un tapis roulant transparent car avec un tapis transparent,
+nous pouvons voir les pattes de l'animal, et les enregistrer
+à travers le tapis, pour voir comment ils avancent.
+Voici l'animal que nous avons ici, courant sur une surface verticale,
+choisissons une patte et essayons de voir l'orteil, et voyons si nous percevons ce que l'animal fait.
+Regardez le dérouler et décoller ses orteils.
+Il peut faire ça en 14 millisecondes. C'est incroyable.
+Voici les robots qu'ils ont inspirés, les Meca-Gecko d'iRobot.
+Premièrement nous verrons les orteils se décoller -- regardez ça.
+Et voici l'action de décollement du Meca-Gecko
+il utilise un adhésif sensible à la pression pour faire cela.
+Décollement chez l'animal, décollement chez le meca-gecko,
+ça lui permet de grimper de façon autonome sur une surface plate
+puis sur un mur, puis d'aller sur le plafond.
+Là c'est la version bulldozer. Cette fois il n'utilise pas une glu sensible à la pression.
+L'animal n'utilise pas ça.
+Mais c'est ça qui nous limite pour le moment.
+Que fait l'animal? Il a des orteils bizarres,
+et si vous regardez ces orteils ils ont des petites lamelles ici,
+et si vous les écartez et que vous zoomez vous verrez
+qu'il y a des petites stries dans ces lamelles.
+Et si vous zoomez 270 fois, vous verrez que ça ressemble à un tapis.
+Et si vous les écartez et zoomez 900 fois,
+vous voyez qu'il y a des poils ici, de minuscules poils, et si vous regardez attentivement
+ces minuscules poils ont des stries. Et si vous zoomez sur elles 30.000 fois,
+vous verrez que chaque poil est aplati au bout.
+Et si vous les séparez, ils ont ces petites structures au bout.
+La plus petite partie de ces poils ressemble à une spatule
+et un animal comme celui ci possède 1 milliard de ces bout aplatis nanoscopiques.
+pour aller très très près de la surface. En fait, ils ont le diamètre de vos cheveux,
+un gecko en possède 2 millions et chaque cheveu a entre 100 et 1.000 bout aplatis.
+Imaginez le contact qui en résulte.
+Nous avons eu la chance de travailler avec un autre groupe
+à Stanford qui nous a fabriqué un capteur spécial
+qui nous a permis de mesurer l'effort sur un seul poil.
+Voici un seul poil avec un léger écrasement au bout,
+quand nous avons mesuré les efforts ils étaient énormes,
+ils étaient si grands qu'avec un ensemble de poil de cette taille,
+la patte du gecko pourrait supporter le poids d'un petit enfant --
+autours de 40 livres facilement. Maintenant comment font ils cela?
+Nous avons récemment découvert cela. Font ils cela grâce à la friction?
+Non, les forces sont trop faibles. Font ils cela par électrostatique ?
+Non, vous pouvez changer la charge, ils tiennent toujours.
+Font ils ça par emboitement? C'est une sorte de Velcro.
+Non, vous pouvez les mettre sur des surfaces lisses au niveau moléculaire -- ça ne marche pas.
+Et la succion? Ils tiennent dans le vide.
+Et l'adhésion grâce à l'humidité? Ou l'adhésion capillaire?
+Ils n'ont pas de sorte de glu et tiennent sous l'eau comme si de rien n'était.
+Si vous passez leurs pattes sous l'eau ils tiennent toujours.
+Comment peuvent ils faire cela alors? Croyez le ou non ils tiennent
+grâce aux efforts intermoléculaires, les forces de Van der Waals.
+Vous en avez probablement entendu parlé il y a longtemps en chimie
+lorsque vous avez deux atomes, suffisamment proches,
+et que les électrons se déplacent autours. Ces petits efforts sont suffisants
+pour leur permettre de faire cela car ils sont sommés de nombreuses fois
+avec ces petites structures.
+Ce que nous avons fait c'est s'inspirer de ces poils
+et avec un autre collègue de Berkeley, nous les avons industrialisés.
+Et tout récemment nous avons fait une percée avec laquelle nous pensons à présent
+pouvoir créer le premier adhésif synthétique sec et auto-nettoyant.
+Beaucoup de sociétés s'y intéressent.
+(Rires)
+Nous l'avons également présenté à Nike.
+(Rires)
+(Applaudissements)
+Nous verrons où ça nous mènera. Nous étions si excités à propos de cela
+que nous avons réalisé qu'à une échelle plus petite,
+et dans un endroit où tout deviendrai collant, où la gravité n'aurait plus d'importance,
+nous devrions regarder les fourmis et leurs pattes, parce que
+un de mes autres collègues de Berkeley, a fabriqué un robot mobile en silicone
+de 6 millimètre. Mais il reste coincé. Il ne bouge pas très bien.
+Pourtant les fourmis y arrivent bien et nous allons voir comment, donc à terme
+nous pourrons faire ces mouvements. Et imaginez, vous aurez la possibilité
+d'avoir un essaim de ces robot de 6 millimètres capables de courir autour de vous.
+Où cela nous mène? Je pense que vous pouvez déjà l'imaginer.
+Internet a clairement déjà des yeux et des oreilles,
+vous avez des webcams et ainsi de suite. Mais il sera aussi capable d'avoir des jambes et des mains.
+Vous aurez la capacité de programmer
+des tâches via ce genre de robots, donc vous pourrez courir,
+voler ou nager n'importe où. Nous avons vu David Kelly's à l'origine de cela avec son poisson.
+Donc en conclusion, je pense que le message est clair.
+Si vous avez besoin d'un message, si la nature n'est pas suffisante, si vous vous intéressez
+à la recherche et au secours, ou au déminage, ou à la médecine
+ou aux diverses choses sur lesquelles nous travaillons, nous devons préserver
+les inventions de la nature, autrement ces secrets seront perdus à jamais.
+Merci
+(Applaudissements)

@@ -1,0 +1,236 @@
+Jusqu'à maintenant, notre communication avec les machines
+a toujours été limitée
+à des formes conscientes et directes.
+Que ce soit quelque chose de simple
+comme allumer les lumières avec un interrupteur,
+ou même aussi complexe que la programmation robotique,
+il nous a toujours fallu donner une commande à une machine,
+ou même une série de commandes,
+pour qu'elle fasse quelque chose pour nous.
+Par ailleurs,la communication entre les gens,
+est beaucoup plus complexe et beaucoup plus intéressante,
+parce que nous prenons en compte
+beaucoup plus que ce qui est exprimé explicitement.
+Nous observons les expressions faciales, le langage du corps,
+et nous pouvons deviner intuitivement des sentiments et des émotions
+en dialoguant avec l'autre.
+Cela constitue en fait une grande partie
+de notre processus décisionnel.
+Notre vision est d'introduire
+ce tout nouveau domaine d'interaction humaine
+dans l'interaction homme-machine,
+afin que l'ordinateur puisse comprendre
+non seulement ce que vous lui demandez de faire,
+mais il peut également réagir
+à vos expressions faciales
+et aux expériences émotionnelles.
+Et quelle meilleure façon de le faire
+que par l'interprétation des signaux
+que notre cerveau produit naturellement,
+notre centre de contrôle et d'expérience.
+Eh bien, cela semble une bonne idée,
+mais cette tâche, comme Bruno l'a mentionné,
+n'est pas facile pour deux raisons principales:
+Tout d'abord, les algorithmes de détection.
+Notre cerveau est composé de
+milliards de neurones actifs,
+environ 170 000 km
+de long en combinant les axones.
+Lorsque ces neurones interagissent,
+la réaction chimique émet une impulsion électrique
+qui peut être mesurée.
+La majorité de notre cerveau fonctionnel
+est répartie sur
+la couche superficielle externe du cerveau.
+Et pour augmenter la superficie disponible pour la capacité mentale,
+la surface du cerveau est très repliée.
+Et ce plissement cortical
+présente un défi de taille
+pour l'interprétation des impulsions électriques superficielles.
+Le cortex de chaque individu
+est replié différemment,
+un peu comme une empreinte digitale.
+Ainsi, même si un signal
+peut provenir de la même partie fonctionnelle du cerveau,
+au moment où la structure a été pliée,
+son emplacement physique
+est très différente d'un individu à l'autre,
+même chez de vrais jumeaux.
+Il n'y a plus de cohérence
+dans les signaux superficiels.
+Notre découverte a consisté à créer un algorithme
+qui déplie le cortex,
+afin que nous puissions cartographier les signaux
+plus près de leur source,
+et donc de pouvoir travailler sur une population de masse.
+Le deuxième défi
+est le périphérique lui-même pour l'observation des ondes cérébrales.
+Des mesures EEG impliquent généralement
+une résille avec un réseau de capteurs,
+comme celui que vous pouvez voir ici sur la photo.
+Un technicien place les électrodes
+sur le cuir chevelu
+avec un gel conducteur ou de la pâte
+et le plus souvent après une procédure de préparation du cuir chevelu
+par abrasion légère.
+Et c'est assez chronophage,
+et n'est pas le procédé le plus confortable.
+Et pour couronner le tout, ces systèmes
+coûtent en fait des dizaines de milliers de dollars.
+Donc, avec cela, je tiens à inviter sur scène
+Evan Grant, qui est l'un des orateurs de l'an dernier,
+qui a gentiment accepté
+de m'aider à faire la démonstration
+de ce que nous avons été en mesure de développer.
+(Applaudissements)
+Ainsi, le dispositif que vous voyez
+est un système d'acquisition encéphalographique
+à 14-canaux, haute-fidélité.
+Il ne nécessite aucune préparation du cuir chevelu,
+pas de gel ou de pâte conductrice.
+Cela ne prend que quelques minutes à mettre
+et pour que les signaux se réglent.
+Il est également sans fil,
+il vous donne la liberté de vous déplacer.
+Et par rapport aux dizaines de milliers de dollars
+pour un système traditionnel EEG,
+ce casque ne coûte que
+quelques centaines de dollars.
+Passons maintenant aux algorithmes de détection.
+Ainsi, les expressions du visage -
+comme je l'ai mentionné auparavant dans des expériences émotionnelles -
+sont en fait conçues pour fonctionner immédiatement
+avec quelques ajustements de sensibilité
+disponibles pour la personnalisation.
+Mais avec le temps limité dont nous disposons,
+je voudrais vous montrer la suite cognitive,
+qui est vous donne la possibilité
+de déplacer des objets virtuels essentiellement avec votre esprit.
+Maintenant, Evan débute avec ce système,
+donc nous devons commencer par
+créer un nouveau profil pour lui.
+Il n'est évidemment pas Joanne - donc nous allons "Ajouter un utilisateur."
+Evan. Très bien.
+Donc la première chose que nous devons faire avec la suite cognitive
+est de commencer par la formation
+d'un signal neutre.
+Avec neutre, il n'y a rien de particulier
+qu'Evan ait à faire.
+Il se contente d'être là. Il est détendu.
+Et l'idée est d'établir une base de référence
+ou l'état normal de son cerveau,
+parce que chaque cerveau est différent.
+Cela prend huit secondes.
+Et maintenant que c'est fait,
+on peut choisir une action de mouvement.
+Donc, Evan choisissez quelque chose
+que vous pouvez visualiser clairement dans votre esprit.
+Evan Grant: "Tirer".
+Tan Le: Très bien. Donc, nous choisissons "tirer".
+Donc, l'idée ici maintenant
+est que Evan doit
+imaginer l'objet qui vient vers lui
+dans l'écran.
+Et il y a une barre de progression qui défile à l'écran
+pendant qu'il le fait.
+La première fois, rien ne se passera,
+parce que le système n'a aucune idée de comment il pense à "tirer".
+Mais si on garde cette pensée
+sur toute la durée de huit secondes.
+Donc: un, deux, trois, partez.
+Okay.
+Donc, si nous acceptons cela,
+le cube est vivant.
+Donc, nous allons voir si Evan
+peut effectivement essayer d'imaginer qu'il le tire.
+Ah, bravo!
+(Applaudissements)
+C'est assez incroyable.
+(Applaudissements)
+Nous avons donc un peu de temps,
+alors je vais demander à Evan
+d'accomplir une tâche vraiment difficile.
+Et elle est difficile
+car il s'agit d'être capable de visualiser quelque chose
+qui n'existe pas dans notre monde physique.
+Il s'agit de "disparaître".
+Donc ce que vous voulez - du moins avec des actions de mouvement,
+nous le faisons tout le temps, afin que vous puissiez le visualiser.
+Mais avec "disparaître", il n'y a vraiment pas d'analogie.
+Donc, Evan, ce que vous voulez faire ici
+c'est d'imaginer le cube qui s'efface lentement, d'accord.
+Même genre d'exercice. Donc: un, deux, trois, partez.
+Très bien. Essayons cela.
+Oh, mon Dieu. Il est vraiment trop bon.
+Essayons encore une fois.
+EG: Perte de concentration.
+(Rires)
+TL: Mais nous pouvons voir que cela fonctionne réellement,
+même si vous ne pouvez tenir
+pendant peu de temps.
+Comme je le disais, c'est un processus très difficile
+d'imaginer cela.
+Et ce qui est génial, c'est que
+nous avons seulement donné au logiciel un exemple
+de la façon dont il pense à "disparaître".
+Comme il y a un algorithme qui apprend mécaniquement dans ce --
+(Applaudissements)
+Merci.
+Bravo. Bravo.
+(Applaudissements)
+Merci, Evan, vous êtes un merveilleux, merveilleux
+exemple de technologie.
+Donc comme vous avez pu le voir avant,
+il existe un système de mise à niveau intégré dans ce logiciel
+afin qu'Evan, ou tout autre utilisateur,
+se familiarise avec le système,
+il peut continuer à ajouter de plus en plus de détections,
+afin que le système commence à distinguer
+entre les différentes pensées distinctes.
+Et une fois que vous avez entraîné les détections,
+ces pensées peuvent être attribuées ou cartographiées
+pour toute plate-forme informatique,
+application ou un périphérique.
+Donc, je voudrais vous montrer quelques exemples,
+parce qu'il y a beaucoup d'applications possibles
+pour cette nouvelle interface.
+Dans les jeux et les mondes virtuels, par exemple,
+vos expressions faciales
+peuvent naturellement et intuitivement être utilisées
+pour contrôler un avatar ou un personnage virtuel.
+Évidemment, vous pouvez découvrir le fantastique de la magie
+et contrôler le monde avec votre esprit.
+Et aussi, les couleurs, l'éclairage,
+le son et les effets,
+peuvent répondre dynamiquement à votre état émotionnel
+pour augmenter l'expérience que vous vivez, en temps réel.
+Et on passe à certaines applications
+mises au point par les développeurs et les chercheurs du monde entier,
+avec des robots et des machines simples, par exemple -
+Dans ce cas, le pilotage d'un hélicoptère jouet
+tout simplement en pensant "soulever" dans votre esprit.
+La technologie peut également être appliquée
+dans le monde réel -
+Dans cet exemple, une maison intelligente.
+Vous savez, de l'interface utilisateur du système de contrôle
+à l'ouverture des rideaux
+ou la fermeture des rideaux.
+Et bien sûr aussi pour l'éclairage -
+allumer
+ou éteindre.
+Et enfin,
+pour des applications qui changent vraiment la vie.
+comme être en mesure de contrôler un fauteuil roulant électrique.
+Dans cet exemple,
+les expressions faciales sont cartographiées par rapport à la commande de mouvement.
+Homme: Maintenant cligne à droite pour aller à droite.
+Maintenant cligne à gauche pour revenir en arrière gauche.
+Maintenant souris pour aller tout droit.
+TL: En fait, nous -- Je vous remercie.
+(Applaudissements)
+En fait nous n'en sommes qu'à gratter la surface de ce qui est possible aujourd'hui.
+Et avec la participation de la communauté,
+et aussi avec la participation des développeurs
+et des chercheurs du monde entier,
+Nous espérons que vous pouvez nous aider à façonner
+les futures applications de cette technologie. Je vous remercie beaucoup.

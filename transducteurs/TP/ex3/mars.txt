@@ -1,0 +1,5 @@
+1 2 M <eps>
+2 3 a <eps>
+3 4 r <eps>
+4 5 s Mars
+5

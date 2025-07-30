@@ -1,0 +1,452 @@
+Aujourd'hui, je voudrais vous parler
+de bionique,
+le terme populaire
+pour la science qui remplace une partie d'un organisme vivant
+par un appareil mécatronique, ou un robot.
+C'est essentiellement
+la rencontre de la matière vivante et de la machine.
+Je voudrais vous parler spécifiquement
+de l'évolution de la bionique
+pour les personnes amputées d'un bras.
+C'est ce qui nous motive.
+L'amputation du bras provoque un handicap énorme.
+Le handicap fonctionnel est clair.
+Nos mains sont des instruments étonnants.
+Quand on en perd une, ou pire encore deux,
+il est beaucoup plus difficile de faire les choses
+que nous avons besoin de faire physiquement.
+Il y a aussi un énorme impact émotionnel.
+Je passe autant de temps en consultation
+à gérer l'ajustement émotionnel des patients
+que leur handicap physique.
+Finalement, il y a un impact social profond.
+Nous parlons avec nos mains.
+Nous saluons avec nos mains.
+Et nous interagissons avec le monde physique avec nos mains.
+Quand on ne les a plus,
+c'est une barrière.
+L'amputation du bras est en général provoquée par un traumatisme,
+avec des choses comme des accidents du travail,
+des collisions de véhicules à moteurs
+ou, c'est très poignant, la guerre.
+Il y a aussi des enfants nés sans bras,
+ce qu'on appelle déficience congénitale au niveau des membres.
+Malheureusement, nous ne sommes pas forts
+pour ce qui est de la prothétique des membres supérieurs.
+Il y a deux grands types.
+On les appelle les prothèses classiques,
+qui ont été inventées juste après la guerre de sécession,
+affinées lors des deux guerres mondiales.
+Vous voyez ici un brevet
+pour un bras en 1912.
+La prothèse n'est pas très différente
+de celle que vous voyez sur mon patient.
+Elles fonctionnent en s'appuyant sur la puissance de l'épaule.
+Donc quand vous bougez un peu vos épaules, elle tirent sur un câble de vélo.
+Ce câble de vélo peut ouvrir ou fermer une main ou un crochet
+ou plier un coude.
+Nous les employons encore couramment,
+parce que ce sont des appareils très solides
+et relativement simples.
+Le dernier cri
+est ce qu'on appelle les prothèses myoélectriques.
+Ce sont des appareils motorisés
+qui sont contrôlés
+par de petits signaux électriques envoyés par votre muscle.
+Chaque fois que vous contractez un muscle,
+il émet un peu d'électricité
+qu'on peut enregistrer avec des antennes ou des électrodes
+et qu'on peut utiliser pour faire fonctionner la prothèse motorisée.
+Ils fonctionnent assez bien
+pour les gens qui viennent juste de perdre leur main,
+parce que les muscles de la main sont toujours là.
+Vous serrez la main, ces muscles se contractent.
+Vous l'ouvrez, ces muscles se contractent.
+C'est donc intuitif, et ça fonctionne assez bien.
+Qu'en est-il de niveaux d'amputation plus élevés?
+Vous avez perdu un bras juste au-dessus du coude.
+il vous manque non seulement ces muscles,
+mais aussi la main et le coude.
+Que faites-vous?
+Nos patients doivent utiliser
+des systèmes très codifiés
+pour n'employer que les muscles des bras
+pour faire fonctionner les membres robotisés.
+Nous avons des membres robotisés.
+Il y en a plusieurs sur le marché, et vous en voyez quelques-uns ici.
+Ils comportent simplement une main qui s'ouvre et se ferme,
+un poignet qui tourne et un coude.
+Il n'y a pas d'autres fonctions.
+Si c'était le cas, comment leur dirions-nous quoi faire?
+Nous avons construit notre propre bras à l'Institut de Rééducation de Chicago (RIC)
+et nous avons ajouté la flexion du poignet et des articulations d'épaule
+pour monter à 6 moteurs, ou 6 degrés de liberté.
+Nous avons eu l'occasion de travailler avec des bras très avancés
+qui étaient financés par l'armée des Etats-Unis, en utilisant ces prototypes,
+qui avaient jusqu'à 10 degrés différentes de liberté
+y compris des mains mobiles.
+Mais en fin de compte,
+comment dire à ces bras robotisés ce qu'ils doivent faire?
+Comment les contrôlons-nous?
+Il nous faut une interface neutre,
+un moyen d'établir la connexion avec notre système nerveux
+ou nos processus de pensée
+pour que ce soit intuitif, naturel,
+comme pour vous et moi.
+Le corps fonctionne en lançant une commande motrice dans votre cerveau,
+qui descend le long de votre moelle épinière,
+jusqu'aux nerfs et à votre périphérie.
+Ce que vous ressentez est exactement le contraire.
+Vous vous touchez, il y a un stimulus
+qui remonte le long de ces mêmes nerfs jusqu'au cerveau.
+Quand vous perdez un bras, ce système nerveux fonctionne toujours.
+Ces nerfs peuvent émettre des signaux de commande.
+Si je sollicite la terminaison nerveuse
+d'un vétéran de la deuxième guerre mondiale,
+il sentira toujours sa main manquante.
+Alors vous pourriez dire,
+allons au cerveau
+et mettons quelque chose dans le cerveau pour enregistrer ces signaux,
+ou au bout des nerfs périphériques et enregistrons-les là.
+Ce sont des domaines de recherches très excitants,
+mais c'est vraiment très difficile.
+Vous devez mettre
+des centaines de câbles microscopiques
+pour enregistrer depuis de minuscules neurones individuels, des fibres ordinaires
+qui émettent de minuscules signaux,
+des microvolts.
+C'est tout bonnement trop difficile
+à employer pour mes patients aujourd'hui.
+Alors nous avons développé une approche différente.
+Nous utilisons un amplificateur biologique
+pour amplifier ces signaux nerveux, les muscles.
+Les muscles vont amplifier les signaux nerveux
+environ un millier de fois,
+pour que nous puissions les enregistrer par dessus la peau,
+comme vous l'avez vu plus tôt.
+Notre approche est donc ce que nous appelons la réinnervation sélective.
+Imaginez, avec quelqu'un qui a perdu tout son bras,
+nous avons encore quatre nerfs principaux
+qui descendent le long du bras.
+Nous enlevons le nerf du muscle de votre poitrine
+et laissons ces nerfs y pousser.
+Vous pensez, "Fermer la main", et une petite section de votre poitrine se contracte.
+Vous pensez, "Plier le coude",
+une section différente se contracte.
+Nous pouvons utiliser des électrodes ou des antennes
+pour capter ça et dire au bras de bouger.
+Voilà l'idée.
+Alors voici le premier homme sur qui nous l'avons essayé.
+Il s'appelle Jesse Sullivan.
+C'est un saint,
+un poseur de lignes électriques de 54 ans qui a touché le mauvais câble
+et a eu les deux bras tellement brûlés
+qu'il a fallu l'amputer au niveau de l'épaule.
+Jesse est venu au RIC
+pour se faire poser ces appareils dernier cri et vous les voyez ici.
+J'emploie toujours cette vieille technologie
+avec un câble de vélo sur son côté droit.
+Il sélectionne l'articulation qu'il veut bouger avec ces interrupteurs au menton.
+Sur le côté gauche, il a une prothèse motorisée moderne
+avec ces trois articulations,
+et il fait fonctionner de petits pavés sur son épaule
+qu'il touche pour faire bouger le bras.
+Jesse est un bon opérateur de grue,
+et il s'en est bien sorti selon nos critères.
+Il lui fallait une opération chirurgicale de révision sur sa poitrine.
+Cela nous a donné la possibilité
+de faire une réinnervation ciblée.
+Mon collègue, le docteur Greg Dumanian a pratiqué l'opération
+D'abord, nous avons coupé le nerf de son propre muscle,
+puis nous avons pris les nerfs des bras
+et les avons en quelque sorte basculés sur sa poitrine
+et nous l'avons refermé.
+Au bout de trois mois environ,
+les nerfs ont poussé un petit peu et nous avons pu obtenir un petit soubresaut.
+Au bout de 6 mois, les nerfs poussaient bien,
+et on pouvait voir de fortes contractions.
+Voilà à quoi ça ressemble.
+Voilà ce qui se passe quand Jesse pense
+à ouvrir et fermer sa main,
+ou à plier ou étendre son coude.
+Vous pouvez voir les mouvements sur sa poitrine,
+et ces petites marques
+se trouvent là où nous avons implanté nos antennes, nos électrodes.
+Je mets quiconque dans cette salle au défi
+de faire faire ça à sa poitrine.
+Son cerveau pense à son bras.
+Il n'a pas appris comment faire ça avec la poitrine.
+Il n'y a pas de processus d'apprentissage.
+C'est pour ça que c'est intuitif.
+Voici donc Jesse lors de notre premier petit test.
+A gauche, vous voyez sa prothèse originale,
+et il utilise ces interrupteurs
+pour déplacer de petits blocs d'une boite à l'autre.
+Il a ce bras depuis 20 mois environ, donc il y arrive assez bien.
+A droite,
+deux mois après qu'on lui ai posé sa prothèse à réinnervation ciblée,
+qui d'ailleurs est le même bras physique,
+juste programmé un peu différemment,
+vous pouvez voir qu'il est beaucoup plus rapide
+et bien plus souple quand il déplace ces petits blocs.
+Nous sommes seulement capables d'utiliser trois des signaux à la fois.
+Puis nous avons eu une de ces petites surprises comme la science en réserve.
+Nous sommes tous motivés pour obtenir des commandes motrices
+pour piloter des bras robotisés.
+Après quelques mois,
+vous touchez Jesse sur la poitrine,
+et il sentait sa main manquante.
+La sensation de sa main a de nouveau grandi dans sa poitrine
+probablement parce que nous avions aussi enlevé beaucoup de graisse,
+alors la peau était directement sur le muscle
+et nous avions désinervé, si vous voulez, sa peau.
+Alors vous touchez Jesse ici, il sent son pouce ;
+vous touchez ici, il sent son petit doigt.
+Il sent un toucher léger
+jusqu'à un gramme force.
+Il ressent le chaud, le froid, ce qui est pointu ou émoussé,
+tout dans sa main manquante,
+ou à la fois dans sa main et sa poitrine,
+mais il peut réagir à l'une ou l'autre.
+C'est vraiment excitant pour nous,
+parce que maintenant nous avons un portail,
+un portail ou une façon de rendre potentiellement la sensation,
+pour qu'il puisse ressentir ce qu'il touche
+avec sa main prothétique.
+Imaginez les capteurs dans la main
+qui montent et pressent sur la nouvelle peau de sa main.
+Alors c'était très excitant.
+Nous l'avons aussi fait
+avec ce qui était initialement notre population
+d'origine avec des amputations au dessus du coude.
+Ici nous dénervons, ou nous coupons le nerf,
+seulement de petits segments de muscle
+et en laisser d'autres
+qui nous donnent des signaux alternatifs
+et deux autres qui nous donneront un signal de main ouverte et fermée.
+C'était un de nos premiers patients, Chris.
+Vous le voyez avec son appareillage d'origine
+à gauche là après 8 mois d'utilisation,
+et à droite, c'est deux mois.
+Il est environ 4 ou 5 fois plus vite
+avec cette simple petite mesure de performance.
+Bon.
+Une des meilleures parties de mon travail
+est de travailler avec ces patients vraiment géniaux
+qui sont aussi nos collaborateurs de recherche.
+Nous avons de la chance aujourd'hui
+qu'Amanda Kitts qui vienne se joindre à nous.
+merci d'accueillir Amanda Kitts.
+(Applaudissements)
+Alors Amanda, voulez-vous nous dire comment vous avez perdu votre bras?
+Amanda Kitts : Bien sûr. En 2006, j'ai eu un accident de voiture.
+Je revenais du travail en voiture,
+et un camion venant en sens opposé,
+est venu sur ma voie,
+a roulé sur le toit de ma voiture et son essieu m'a arraché le bras.
+Todd Kuiken : Bon, alors après votre amputation, vous avez récupéré.
+Vous avez eu un de ces bras conventionnels.
+Pouvez-vous nous dire comment ça marchait?
+AK : Et bien, c'était un peu difficile,
+parce que tout ce que j'avais pour travailler, c'était un biceps et un triceps.
+Alors pour des petits gestes comme ramasser quelque chose,
+je devrais plier mon coude,
+et puis il faudrait que je cocontracte
+pour changer de mode.
+Quand j'ai fait ça,
+il me fallait utiliser mon biceps
+pour fermer la main,
+utiliser mon triceps pour l'ouvrir,
+cocontracter encore
+pour faire fonctionner le coude,
+TK : C'était donc un peu lent?
+AK : Un peu lent, et un peu difficile à faire
+Il fallait se concentrer beaucoup.
+TK : Alors je pense que 9 mois plus tard
+après votre opération de réinervation ciblée,
+il a fallu encore 6 mois pour que toute la réinervation soit faite.
+Ensuite nous l'avons équipée d'une prothèse.
+Comment ça a marché pour vous?
+AK : Bien.
+J'ai pu me servi de mon coude
+et de ma main simultanément.
+J'ai pu les faire fonctionner par mes seules pensées.
+Pas besoin de cocontraction ni de tout ça.
+TK : Un peu plus vite?
+AK : Un peu plus vite. et bien plus facile, plus naturel.
+TK : C'était mon but.
+Pendant 20 ans mon but a été de permettre à quelqu'un
+d'utiliser son coude est sa main de façon intuitive
+et en même temps.
+Nous avons maintenant plus de 50 patients dans le monde qui ont subi cette opération,
+dont plus d'une douzaine de nos soldats blessés
+de l'armée des Etats-Unis.
+Le taux de réussite des transferts de nerfs est très élevé.
+96%.
+Parce que nous mettons un bon gros nerfs sur un petit bout de muscle.
+Et ça donne un contrôle intuitif.
+Nos test fonctionnels, ces petits tests,
+montrent tous qu'ils sont bien plus rapides et plus faciles.
+Le plus important
+est que nos patients l'apprécient.
+Tout ça est donc très excitant.
+Mais nous voulons faire mieux.
+Il y a beaucoup d'informations dans ces signaux nerveux,
+et nous voulions en avoir plus.
+Vous pouvez bouger chaque doigt. Vous pouvez bouger votre pouce, votre poignet.
+Pouvons-nous en tirer plus?
+Alors nous avons fait des expériences
+au cours desquelles nous avons saturé nos pauvres patients d'électrodes
+et puis nous leur avons demandé de tenter d'accomplir deux douzaines de taches ;
+de tortiller un doigt jusqu'à bouger tout un bras
+pour atteindre quelque chose,
+et nous avons enregistré ces données.
+Et puis nous avons utilisé des algorithmes
+qui ressemblent beaucoup aux algorithmes de reconnaissance vocale.
+et que l'on appelle reconnaissance de modèles.
+Voyez.
+(Rires)
+Ici vous voyez, sur la poitrine de Jesse,
+quand il essaye de faire trois choses différentes,
+vous pouvez voir trois modèles différents.
+Mais je ne peux pas implanter une électrode
+et dire "Va là."
+Nous avons donc collaboré avec nos collègues de l’Université du New Brunswick,
+et nous avons trouvé cet algorithme de contrôle
+dont Amanda fait à présent la démonstration.
+AK : Mon coude monte et descend.
+J'ai la rotation du poignet
+et elle est complète.
+J'ai la flexion et l'extension du poignet.
+Je ferme et j'ouvre la main.
+TK : Merci Amanda.
+Ce bras est un prototype,
+mais il est constitué de composants du commerce local
+et de quelques autres que j'ai empruntés dans le monde entier.
+Il pèse environ 3,5 kg,
+probablement ce que pèserait mon bras
+si je le perdais là tout de suite.
+Il est évident que c'est lourd pour Amanda.
+En fait il semble encore plus lourd,
+parce qu'il n'est pas collé au corps de la même façon.
+Elle porte tout le poids par le biais de harnais.
+Le côté enthousiasmant n'est pas tant la mécatronique,
+mais le contrôle.
+Nous avons développé un petit microordinateur
+qui clignote quelque part derrière son dos
+et qui opère ce bras
+en fonction de la façon dont elle l'entraine
+à utiliser ses signaux musculaires individuels.
+Amanda, quand vous avez commencé à vous servir de ce bras,
+combien de temps ça vous a pris?
+AK : Probablement 3 ou 4 heures
+pour l'entrainer.
+J'ai dû le connecter à un ordinateur,
+je ne pouvais donc pas l'entrainer n'importe où.
+Alors s'il arrêtait de fonctionner, je devais l'enlever.
+Maintenant il est capable de s'entrainer
+rien qu'avec ce petit équipement sur le dos.
+Je peux le porter partout.
+SI pour une raison ou une autre il arrête de fonctionner, je peux le ré-entrainer.
+Ça prend environ une minute.
+TK : Nous sommes donc très enthousiastes,
+parce que nous arrivons maintenant à un appareil clinique pratique
+Et c'est là notre but --
+avoir une chose qui soit pratique à porter cliniquement.
+Nous avons aussi donné à Amanda la possibilité d'utiliser
+certains de nos bras plus avancés que je vous ai montré précédemment.
+Amanda utilise ici un bras fabriqué par DEKA Research Corporation.
+Je crois que Dean Kamen l'a présenté à TED il y a quelques années.
+Vous voyez qu'Amanda
+le contrôle vraiment bien.
+Il s'agit de reconnaissance de modèle.
+Il a désormais une main qui peut saisir avec des pressions différentes.
+Ce que nous faisons, c'est faire ouvrir complètement la main au patient
+puis qu'il pense, "Quel modèle de saisie est-ce que je veux?"
+Il passe dans ce mode,
+et ensuite vous pouvez avoir 5 ou 6 saisies différentes avec cette main.
+Amanda, combien avez-vous pu en faire avec le bras DEKA?
+AK, j'ai pu en avoir 4.
+La saisie clé, la saisie rapide,
+la saisie ferme
+et la pincée fine.
+Mais ma préférée c'était quand la main était simplement ouverte,
+parce que je travaille avec des enfants,
+et on frappe des mains et on chante tout le temps,
+et donc j'ai pu faire ça de nouveau, et c'était vraiment bien.
+TK : Cette main n'est pas terrible pour applaudir.
+AK : Je ne peux pas applaudir avec celle-là.
+TK : Bon. Cela laisse bien augurer
+de vers quoi nous pouvons aller avec une meilleure mécatronique,
+si nous les réussissons assez bien
+pour les mettre sur le marché et faire un essai de terrain.
+Je veux que vous regardiez attentivement.
+(Vidéo) Claudia : Oooooh!
+TK : Voici Claudia,
+et c'était la première fois
+qu'elle avait une sensation de toucher avec sa prothèse.
+Elle avait un petit capteur au bout de sa prothèse
+qu'elle frottait sur différentes surfaces
+et elle pouvait ressentir différentes textures
+de papier de verre à différentes tailles de grain, de câbles
+lorsque ça appuyait sur la peau de sa main réinervée.
+Elle a dit que quand elle le faisait glisser en travers de la table,
+elle avait l'impression que son doigt se balançait.
+C'est donc une expérience de laboratoire enthousiasmante
+sur la manière de rendre potentiellement une certaine sensation cutanée.
+Mais voici une autre vidéo qui montre certains de nos problèmes.
+Voici Jesse. Il presse un jouet en mousse.
+Plus il presse fermement - vous voyez le petit truc noir au milieu
+qui pousse contre sa peau proportionnellement à la pression qu'il exerce.
+Mais regardez toutes les électrodes autour.
+J'ai un problème d'encombrement.
+On est censé mettre un tas de ces trucs à cet endroit,
+mais notre petit moteur fait toutes sortes de bruits
+juste à côté de mes électrodes.
+Nous avons donc ici un défi à relever.
+Le futur est souriant.
+Nous sommes enthousiastes d'en être où nous en sommes, et de ce que nous voulons faire.
+Par exemple,
+nous voulons entre autre nous débarrasser de mon problème d'encombrement
+et obtenir de meilleurs signaux.
+Nous voulons développer ces capsules minuscules
+d'environ la taille d'un grain de risotto
+pour pouvoir les implanter dans les muscles
+et télémétrer les signaux EMG,
+pour ne pas avoir à se préoccuper de contact d'électrode.
+Nous pouvons libérer de la place
+pour avoir plus de retour de sensation.
+Nous voulons construire un bras meilleur.
+Ce bras - ils sont toujours fabriqués pour ce 50ème centile masculin -
+ce qui signifie qu'ils sont trop gros pour les personnes d'1m70 de ce monde.
+Alors plutôt qu'un bras super fort ou super rapide,
+nous faisons un bras qui est,
+nous n'en sommes qu'au début,
+le 25ème centile femelle -
+qui aura une main qui enveloppe,
+qui s'ouvre complètement,
+deux degrés de liberté dans le poignet et le coude.
+Ce sera donc le bras le plus petit et le plus léger
+et le plus intelligent jamais réalisé.
+Une fois qu'on pourra le faire aussi petit,
+ce sera plus facile de les faire plus gros.
+Voilà donc quelques-uns de nos objectifs.
+Nous apprécions vraiment que vous soyez tous là aujourd'hui.
+J'aimerais vous parler un peu du côté obscur,
+avec le thème d'hier.
+Amada souffre du décalage horaire,
+elle se sert de son bras,
+µ
+Il y a un bug dans l'ordinateur,
+un câble est cassé,
+un convertisseur qui fait des étincelles.
+Nous avons sorti tout le circuit à l'hôtel
+et presque déclenché l'alarme incendie.
+Nous n'aurions pu faire face à aucun de ces problèmes,
+sauf que nous avons une équipe de recherches particulièrement brillante.
+Dieu merci, le Docteur Annie Simon était avec nous
+et a vraiment travaillé dur hier pour tout réparer.
+C'est ça la science.
+Et heureusement, ça a marché aujourd'hui.
+Merci beaucoup.
+(Applaudissements)

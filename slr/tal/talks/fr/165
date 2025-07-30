@@ -1,0 +1,116 @@
+Où sont les robots?
+On nous dit depuis 40 ans qu'ils arrivent bientôt.
+Que bientôt ils feront tout pour nous:
+la cuisine, le nettoyage, les achats, les courses, la construction. Mais ils ne sont pas là.
+A la place, nos avons des immigrés qui font toutes ces tâches,
+mais pas de robots.
+Que pouvons-nous y faire? Que pouvons-nous dire?
+Je veux vous laisser entrevoir une perspective différente,
+un point de vue différent sur ces choses.
+Voici une radio
+d'un vrai scarabée, et d'une montre suisse, qui date de 1988. Regardez --
+ce qui était vrai alors l'est toujours aujourd'hui.
+Nous savons toujours créer les pièces, les bonnes pièces,
+le circuit pour obtenir la puissance de calcul nécessaire,
+mais nous ne savons pas les combiner pour créer quelque chose
+qui fonctionnera réellement et sera aussi adaptif que ces systèmes.
+Essayons donc d'observer sous une autre perspective.
+Appelons le meilleur architecte, le plus grand architecte de tous les temps :
+regardons ce que l'évolution peut faire pour nous.
+Donc nous nous sommes lancés, nous avons créé une soupe primaire
+avec beaucoup de morceaux de robots : des barres, des moteurs, des neurones.
+on les a assemblés, et soumis à une sorte de sélection naturelle,
+à une mutation, et récompensé les choses selon leur capacité à avancer.
+Un travail très simple, mais il est intéressant de voir ce qui en est sorti.
+Observez : vous pouvez voir plein de machines différentes
+émerger. Elles se déplacent toutes,
+elles bougent de plein de façons, et vous pouvez voir à droite,
+que nous en avons créé un certain nombre,
+qui fonctionnent vraiment. Ce ne sont pas des robots extraordinaires,
+mais ils évoluent pour faire ce pour quoi nous les récompensons :
+pour avancer. Tout cela a été fait sur ordinateur,
+mais on peut aussi le faire dans le monde réel.
+Voici un vrai robot à qui nous avons en fait
+donné un ensemble de cerveaux,
+qui s'affrontent, ou évoluent, sur la machine.
+C'est comme un rodéo, ils sont tous sur la machine,
+et ils sont récompensés selon leur vitesse ou leur capacité
+à faire évoluer la machine.
+Vous voyez que ces robots ne sont pas prêts
+à dominer le monde, mais
+ils apprennent peu à peu comment évoluer,
+et ce, de manière autonome.
+Dans ces deux exemples, nous avons simplement
+des machines qui ont appris à marcher en laboratoire,
+mais aussi des machines qui ont appris à marcher dans le monde réel.
+Je veux vous montrer une autre approche,
+ce robot, là-bas, qui a quatre jambes,
+huit moteurs, quatre sur les genoux et quatre sur les hanches.
+Il a aussi deux capteurs de verticalité qui lui disent
+comment il est incliné.
+Mais cette machine ne sait pas à quoi elle ressemble.
+Vous la regardez et vous voyez ses quatre jambes,
+la machine ne sait pas si c'est un serpent, un arbre,
+elle n'a aucune idée de ce à quoi elle ressemble,
+mais elle va essayer de le deviner.
+Au début, elle fait des mouvements au hasard,
+et elle essaye de deviner à quoi elle peut ressembler --
+vous voyez un tas de choses lui traverser l'esprit,
+un tas de modèles qui essayent d'expliquer le lien
+entre la mise en action et la perception -- et puis elle essaie de
+faire un second mouvement qui crée le plus grand contraste
+parmi les prédictions de ces modèles alternatifs,
+tel un scientifique dans un labo. Elle le fait
+et essaye de l'expliquer, et d'éliminer ses propres modèles.
+Ceci est le dernier cycle, et vous voyez qu'elle a plutôt
+deviné à quoi elle ressemble, et une fois qu'elle sait quel est son modèle,
+elle s'en sert pour déterminer son mode de déplacement.
+Vous voyez ici des machines --
+un modèle de déplacement.
+Nous espérions qu'il acquerrait une sorte de démarche d'araignée,
+mais au contraire, elle a créé cette manière plutôt boiteuse d'avancer.
+En voyant cela, vous devez toutefois vous rappeler
+que cette machine n'a pas pu tester physiquement comment avancer,
+et n'avait pas modèle d'elle-même.
+En gros, elle a deviné à quoi elle ressemble, et comment avancer,
+et a ensuite essayé de le faire.
+(Applaudissements)
+Passons maintenant à une autre idée.
+Que se passerait-il si nous avions un couple --
+ce qui arrive quand vous avez un couple -- OK, OK, OK --
+(Rires)
+-- ils ne s'aiment pas.
+Voici un autre robot.
+Voici ce qui arrive quand les robots sont effectivement
+récompensés pour avoir fait quelque chose.
+Que se passe-t-il si vous ne les récompensez jamais, vous les laissez seuls?
+Nous avons ces cubes, comme montrés sur le diagramme.
+Le cube peut pivoter, tourner sur le côté,
+nous lançons 1000 cubes dans une soupe --
+en simulation du moins -- et nous ne les récompensons pas,
+nous les laissons se retourner. Nous envoyons de l'énergie
+et regardons les mutations qui peuvent arriver.
+Au départ, rien ne se passe, ils se contentent de pivoter.
+Mais peu après, vous pouvez voir ces choses bleues
+sur la droite commencer à dominer.
+Elles commencent à s'auto-répliquer. En l'absence de récompense,
+la récompense intrinsèque est l'auto-réplication.
+Nous en avons donc construit des comme cela,
+qui sont un morceau d'un plus grand robot créé à partir de ces cubes,
+voici en vue accélérée, le robot effectivement
+en train de s'auto-répliquer.
+Vous leur donnez plus de matériaux -- des cubes en l'occurrence --
+et plus d'énergie, et cela crée un autre robot.
+Bien sûr, c'est un robot très grossier,
+mais nous travaillons à une version microscopique,
+et nous espérons que les cubes seront comme une poudre à répandre.
+Qu'apprenons-nous? Ces robots ne sont bien sûr
+pas très utiles en eux-mêmes, mais ils pourraient nous apprendre
+comment construire de meilleurs robots,
+et peut-être comment les humains et les animaux créent leurs modèles et apprennent.
+La chose la plus importante, est, je pense
+que si nous devons sortir de cette idée
+de concevoir des machines "à la main"
+mais au contraire de les laisser évoluer et apprendre, comme des enfants,
+peut-être nous y arriverons ainsi. Merci.
+(Applaudissements)

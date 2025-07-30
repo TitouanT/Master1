@@ -1,0 +1,20 @@
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ Pourquoi l’interface ITask ne peut pas hériter de l’interface ITaskObserver ? │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+L'interface ITask ne peut pas hériter de ITaskObserver car ITask désigne une interface locale alors que ITaskObserver est une interface distante.
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Pourquoi les instances de la classe TaskObserverImpl n’ont pas besoin d’être publiées,          │
+│ alors que l’instance de la classe ComputeEngineFactory doit être publiée dans un registre RMI ? │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Les instances de TaskObserverImpl sont utile localement pour le client et ne sont pas partagées alors que l'instance de la classe ComputeEngineFactory doit être accessible par tous les clients.
+
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Expliquez en quelques lignes le fonctionnement de l’exécution d’une tâche synchrone en indiquant les différents objets et méthodes utilisées. │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Le client commence par creer une Tache (instance de la classe Pi). Puis il demande à l'instance distante de ComputeEngineFactory d'exécuté la tâche à travers l'interface ICompute. La méthode utilisée est ICompute.executeTask.
+L'instance de ComputeEngineFactory demande à son instance de DComputeEngine d'executer la tâche en lui passant une instance de TaskDescriptor décrivant la tâche à travers la methode DComputeEngine.execute.
+

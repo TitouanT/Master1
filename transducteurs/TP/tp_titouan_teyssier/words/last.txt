@@ -1,0 +1,5 @@
+1 2 last l
+2 3 <eps> ae1
+3 4 <eps> s
+4 5 <eps> t
+5

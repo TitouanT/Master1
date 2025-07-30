@@ -1,0 +1,163 @@
+Il y a environ un an et demi
+Stephen Lawler qui a lui aussi fait une conférence
+ici à TED en 2007 au sujet de Virtual Earth
+m’a fait venir pour devenir l’architecte de Bing Maps,
+le projet de cartographie en ligne de Microsoft.
+Pendant les deux dernières années et demie, nous avons travaillé très dur
+pour redéfinir la manière dont les cartographies en ligne fonctionnent.
+Et nous voyons vraiment ça de façon très différente
+des sites qui proposent des cartes et des directions
+et auxquels on est habitués.
+La première chose que vous remarquerez à propos du site de cartographie,
+est simplement la fluidité du zoom et du défilement,
+qui, si vous êtes familier avec Seadragon
+c'est de là que ça vient.
+Créer une carte est, bien sûr,
+plus que simplement la cartographie,
+c'est aussi de l'imagerie.
+Donc, quand nous zoomons au-delà d'un certain niveau
+on arrive à une sorte de vue virtuelle à 45 degrés
+du genre Sim City.
+On peut la regarder depuis n'importe lequel des points cardinaux,
+pour voir la structure en 3D de la ville et de ses façades.
+Maintenant, nous voyons cet espace, cet environnement en 3D
+comme un canevas sur lequel
+toutes sortes d'applications peuvent se greffer.
+Et les directions en sont juste un exemple.
+Si vous cliquez ici, vous verrez
+quelques unes de celles que l'on vient juste de sortir ces derniers mois,
+depuis que nous avons lancé ce produit.
+Par exemple, quelques jours après la catastrophe en Haïti,
+nous avions une carte du tremblement de terre qui montrait
+des vues aériennes avant et après.
+Cette fantastique application que je n'ai pas le temps de vous montrer
+incorpore les blogs hyper-locaux en temps réel
+et joint ces histoires, ces billets
+aux endroits mentionnés dans les blogs.
+C'est merveilleux.
+Mais je vais vous montrer d'autres choses qui sont impressionnantes.
+Donc nous voyons les images bien sûr,
+mais pas seulement les vues aériennes.
+Ces petites bulles vertes représentent
+des Photosynths créés par les utilisateurs.
+Je ne vais pas entrer dans le détail, mais ces Photosynths sont intégrés dans la carte.
+Tout ce qui est encadré en bleu
+représente les zones où nous avons aussi pris des vues terrestres.
+Et donc, quand vous vous rapprochez du sol --
+(applaudissements)
+Merci. Quand vous vous rapprochez du sol
+et que vous voyez cette sorte d'image panoramique,
+la première chose que vous remarquerez c'est que ce n'est pas seulement une image,
+il y a autant d'éléments tri-dimensionels dans cet environement
+qu'il y en a dans la ville en 3D que nous avons vu du ciel,
+donc si je clique sur quelque chose pour le voir de plus près,
+alors la transition peut être rendue comme cela
+grâce à toute cette géométrie,
+à toute cette recherche en 3D qui est derrière ce modèle.
+Maintenant je vais vous montrer une appli très sympa
+pour laquelle nous avons collaboré avec nos amis de Flickr.
+Elle prend les images géo-localisées de Flickr
+et utilise des processus similaires aux photosynths
+pour connecter ces images aux nôtres, pour --
+je ne suis pas sûr que ce soit l'image que je voulais cliquer, mais --
+(rires)
+Mais regardez -- c'est, bien sûr, un site touristique populaire,
+et il y a beaucoup de photos de cet endroit,
+et ces photos ont été prises à différents moments.
+Celle-ci à été prise vers 17 heures.
+Donc ça c'est la photo de Flickr,
+ça c'est notre imagerie.
+Et vous voyez comment ces images venant des utilisateurs
+s'intègrent presque nativement au coeur de la carte elle-même.
+(applaudissements)
+Merci.
+(applaudissements)
+Il y a plusieurs raisons pour lesquelles ceci est intéressant
+et l'une d'elles, bien sûr, est de pouvoir voyager dans le temps.
+Et je ne vais pas vous montrer maintenant de superbes images historiques
+mais il y en a aussi avec des chevaux et des carrosses et tout ça.
+Mais ce qui est formidable avec ça, c'est que non seulement cela enrichit
+cette représentation virtuelle du monde
+avec des éléments qui viennent des utilisateurs,
+mais c'est aussi la base de la réalité augmentée,
+et c'est quelque chose que je vais vous montrer dans un instant.
+Je viens juste de faire une transition en intérieur. C'est intéressant aussi.
+D'accord, remarquez que maintenant il y a toit au-dessus de nous.
+Nous sommes à l'intérieur du marché de Pike Place.
+Et c'est quelque chose que nous somme capables de faire avec un appareil dans un sac à dos.
+Donc nous ne prenons pas seulement des images dans la rue,
+avec cet appareil photo sur le toit de voitures,
+nous prenons aussi des images à l'intérieur.
+A partir de là nous sommes capables de faire la même sorte d'intégration,
+non seulement d'images, mais aussi de vidéos.
+Et c'est quelque chose que nous allons essayer de faire maintenant
+pour le première fois, en direct,
+et ça, ça fait vraiment peur.
+(rires)
+D'accord.
+(sonnerie)
+Bien, les gars, vous êtes là ?
+(bruit)
+Bien. J'appuie dessus. J'appuie sur "lecture".
+Je suis en direct. Bien. C'est parti.
+Donc, voici nos amis au marché Pike Place, le labo.
+(applaudissements)
+Ils transmettent ça en direct.
+Bien, Georges, peux-tu reculer et filmer le coin du marché ?
+Parce que je veux vous montrer un point d'intérêt.
+Non, non, de l'autre côté.
+Oui, oui, retourne vers le coin. Vers le coin.
+Je ne veux pas encore vous voir les gars.
+D'accord, d'accord. Retour vers le coin. Retour vers le coin, vers le coin.
+D'accord, c'est pas grave.
+Ce que je voulais vous montrer c'est ces points d'intérêt
+là, par dessus l'image,
+parce que ça vous donne une idée de comment,
+si vous êtes à cet endroit....
+vous pouvez voir ça comme --
+c'est aller un pas plus loin que la réalité augmentée.
+Hey les gars qu'est-ce que vous -- oh, désolé.
+(rires)
+Nous faisons deux ...
+D'accord, je raccroche maintenant...
+Nous faisons deux choses différentes ici.
+L'une est de prendre cette vraie...
+(rires)
+D'accord, laissez moi remercier l'équipe.
+Ils ont fait un boulot fantastique à faire marcher tout ça.
+(applaudissements)
+Je vais les abandonner maintenant et retourner à l'extérieur.
+Et pendant que je me dirige vers l'extérieur, je mentionnerai juste
+que dans le cas présent nous utilisons ça pour la téléprésence,
+mais vous pouvez aussi l'utiliser
+immédiatement, pour la réalité augmentée.
+Quand vous l'utilisez sur le champ, cela veut dire que
+vous êtes capable d'accéder à toutes les métadonnées
+et les informations sur le monde.
+Et ici, nous faisons la démarche supplémentaire d'émettre aussi cette information.
+Et au fait c'était transmis sur un réseau 4G
+depuis le marché.
+Bien, et maintenant il y a un dernier TED talk
+que Microsoft a fait ces dernières années.
+Et c'est Curtis Wong, le WorldWide Telescope.
+Donc nous allons partir vers les bennes,
+où il est traditionnel, après une longue journée au marché,
+d'aller faire une pause, et de regarder le ciel.
+Ça c'est l'intégration
+du WorldWide Telescope avec nos cartes.
+(applaudissements)
+C'est le temps -- merci --
+C'est le temps présent, mais si nous effaçons le temps,
+alors on peut voir à quoi le ciel ressemblera à différentes heures,
+et nous pouvons avoir toutes ces informations
+très détaillées sur des heures différentes, à des dates différentes.
+Elevons un peu la lune dans le ciel,
+peut-être que nous changeons la date.
+Je voudrais zoomer un peu sur la lune.
+Donc c'est une complète représentation
+astronomique du ciel
+intégrée avec la terre.
+Bien, maintenant je dépasse mon temps de parole,
+donc je dois m'arrêter.
+Merci beaucoup à tous.
+(applaudissements)

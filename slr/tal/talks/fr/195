@@ -1,0 +1,299 @@
+Je veux que vous imaginiez être un de mes étudiants au labo.
+Je veux que vous créiez un design inspiré biologiquement.
+Et voilà donc le défi:
+Vous allez m'aider à créer un prototype de contact paramétré, en 3D et dynamique.
+Ce qui se traduit par : M'aideriez-vous à construire un pied?
+Or c'est un vrai défi et je veux réellement que vous m'aidiez.
+Bien sûr, pour ce défi il y a un lot à gagner.
+Pas exactement le Prix TED, mais en exclusivité, un t-shirt de notre labo.
+Alors envoyez-moi vos idées sur la façon de concevoir un pied.
+Si on veut concevoir un pied, que doit-on faire?
+On doit d'abord savoir ce qu'est un pied.
+Dans le dictionnaire on lit, "extrémité inférieure d'une jambe
+en contact direct avec le sol en position debout ou en marche"
+C'est la définition traditionnelle.
+Mais pour faire une vraie recherche, que devez-vous faire?
+Vous devez étudier la littérature et voir ce qu'on sait des pieds.
+Alors vous allez étudier la littérature. (Rires)
+Peut-être que vous connaissez bien cette littérature.
+Le problème c'est qu'il y a beaucoup de pieds différents.
+Comment faire?
+Il faut observer tous les pieds et extraire des principes de fonctionnement.
+Et je veux que vous m'aidiez à le faire dans ce clip vidéo.
+En regardant, cherchez des principes
+et pensez aussi aux expériences que vous pourriez élaborer
+afin de comprendre le fonctionnement d'un pied.
+Voyez-vous des thèmes communs? Des principes?
+Que feriez-vous?
+Quelles expériences tenteriez-vous?
+Wow. (Applaudissements)
+Notre recherche sur la biomécanique du déplacement animal
+nous a permis de créer un plan détaillé pour un pied.
+C'est un design inspiré par la nature mais ce n'est pas la copie d'un des pieds que l'on vient de voir,
+c'est une synthèse des atouts secrets de nombreux pieds différents.
+On se rend compte que les animaux peuvent aller partout.
+Ils se déplacent sur des substrats qui varient -- comme on a pu le voir --
+en probabilité de contact, en mouvement de surface
+et en type de points d'ancrage présents.
+Pour étudier comment marche un pied,
+on va devoir simuler ces surfaces, ou simuler ces débris.
+Cela fait, voilà une nouvelle expérience qu'on a tentée :
+on a pris un animal qu'on a fait courir -- cette araignée --
+sur une surface où 99% de la zone de contact a été retirée
+Mais ça ne l'a même pas ralentie.
+Elle coure toujours à l'équivalent pour nous de 480 km/h.
+Alors comment fait-elle? Observez plus attentivement.
+Quand on ralenti 50 fois, on voit comment sa jambe touche le débris simulé.
+Sa jambe agit comme un pied.
+Et en fait, elle utilise les autres parties de sa jambe
+plus fréquemment que le pied à proprement parler.
+Le pied est réparti le long de toute la jambe.
+Vous pouvez faire une autre expérience avec un cafard
+auquel vous retirez un pied.
+Je fais passer des cafards, regardez bien leurs pieds.
+Sans pied, voilà ce qui se passe. Il ne ralentit même pas.
+Sans cet appui, il peut courir exactement à la même vitesse.
+Pas de problème pour le cafard -- et leur jambe repousse, si ça vous inquiète.
+Comment font-ils?
+Regardez bien : la vidéo est ralentie cent fois
+et regardez ce qu'il fait du reste de sa jambe.
+Elle agit, encore une fois, comme un pied réparti.
+Très efficace.
+La question ainsi posée est, ce type de pied est il courant?
+La première fois, l'attitude de l'animal suivant nous a ébahi.
+Messieurs les journalistes, ceci est non-officiel --
+regardez ce que l'on voit!
+Voici une pieuvre bipède déguisée en noix de coco roulante.
+Elle a été découverte par Christina Huffard
+et filmée par Sea Studios, ici-même à Monterey.
+Nous avons également décrit une autre espèce de pieuvre bipède.
+Celle-ci se déguise en algue flottante.
+Elle marche sur deux jambes et lève ses bras pour se camoufler.
+(Applaudissements)
+Et regardez ce qu'elle fait de ses pieds pour traverser des terrains difficiles.
+Elle utilise ce beau pied réparti, faisant comme si les obstacles n'existaient même pas.
+Réellement extraordinaire.
+En 1951, Escher fait ce dessin. Il pensait avoir créé un animal fantaisiste.
+Mais nous savons que l'art imite la vie
+et il semble que la nature a créé cet animal il y a 3 millions d'années.
+C'est un stomatopode, qui ressemble à une crevette,
+et voilà comment il se déplace sur les plages de Panama :
+il roule sur lui-même et peut même rouler sur une pente ascendante.
+C'est le pied réparti ultime; son corps entier est utilisé comme un pied.
+Alors, pour ajouter à notre prototype la première fonctionnalité importante,
+nous voulons en faire un pied à contact réparti.
+Non seulement pour ce qu'on appelle le pied, mais pour toute la jambe,
+et même le corps.
+Est-ce que cela peut nous aider à dessiner de nouveaux robots?
+Nous avons été inspiré par la biologie pour ce robot appelé RHex,
+construit ces dernières années par d'extraordinaires ingénieurs.
+Le pied de RHex était très simple au début,
+et il a évolué jusqu'à être ce demi-cercle.
+Et pourquoi? La vidéo va vous le montrer.
+Regardez comment le robot utilise sa jambe pour surmonter les difficultés du terrain.
+Ce que vous voyez, c'est l'utilisation de la jambe semi-circulaire comme un pied à contact réparti.
+Regardez-le dépasser ça.
+On le voit bien dans ces débris.
+Extraordinaire.
+Très simple mais magnifique.
+Vous avez peut-être remarque quelque chose d'autre quand les animaux
+couraient sur ce terrain difficile.
+Mon assistant va m'aider pour ce coup-là.
+Quand tu as touché la patte du cafard -- on peut lui trouver un micro?
+Quand tu as touché la patte du cafard, qu'as-tu senti?
+Tu as remarqué quelque chose?
+Garçon: C'est épineux.
+Robert Full: Épineux hein? Très épineux même? Ça fait un peu mal.
+Peut-être que tu peux le donner au conservateur et voir s'il a le courage de le toucher.
+(Rires)
+Chris Anderson: Tu l'as touché?
+RF: Si vous regardez attentivement vous verrez des épines
+et jusqu'à quelques semaines, personne ne savait qu'il y en avait.
+Ils se sont dit que c'était un moyen de défense et des capteurs sensoriels.
+Nous avons découvert que ce n'est pas ça -- voilà un segment d'épine.
+Ils sont prévus pour se pencher facilement dans une direction
+pour retirer la jambe des décombres,
+mais ils se raidissent dans l'autre direction pour s'appuyer sur les disparités de la surface.
+Ces points d'ancrage ne manquent pas aux crabes car ils se déplacent sur du sable --
+jusqu'à leur arrivée dans notre labo --
+où ils découvrent leur problème avec ce genre de filets,
+parce qu'ils n'ont pas d'épines.
+Les crabes n'ont pas d'épines alors ils ont des difficultés sur ce genre de terrain abrupt.
+Mais bien sûr, nous pouvons remédier à cela,
+car nous pouvons créer des épines artificielles.
+Nous pouvons fabriquer des épines qui s'accrochent aux débris synthétiques
+et se couchent lors du retrait pour les retirer facilement.
+Nous avons fait cela en fixant ces épines aux crabes,
+comme vous le voyez ici, et nous les avons testées.
+Est-ce que nous comprenons vraiment ce principe de mise au point? La réponse est, oui!
+Ceci est ralenti 20 fois, le crabe traverse les décombres à toute vitesse.
+(Rires) (Applaudissements)
+Un petit peu mieux que la nature.
+Alors à notre prototype, nous devons ajouter des épines bien réglées.
+Ceci va-t-il nous aider à penser un design plus efficace pour des robots grimpeurs?
+Eh bien, voici RHex, qui a des problèmes sur les rails lisses, comme on le voit ici.
+Alors pourquoi ne pas ajouter une épine? Mes collègues l'ont fait à U Penn.
+Dan Koditschek a mis des ongles d'acier -- une version très simple -- sur le robot --
+et voilà RHex qui dépasse maintenant ces rails. Sans problème!
+Comment fait-il?
+Ralentissons la vidéo et voyons les épines en action.
+Regardez la jambe pivoter et vous voyez le robot s'accrocher juste ici.
+Il ne pouvait pas le faire avant, il glissait, se bloquait et basculait.
+Regardons encore, juste ici -- succès!
+Ceci dit, ce pied réparti et ces épines
+ne suffisent pas pour grimper des surfaces verticales.
+C'est très, très difficile.
+Mais regardez ces animaux le faire!
+L'un de ceux que je vous fais passer grimpe des surfaces verticales en métal lisse.
+La vitesse à laquelle il le fait est extraordinaire --
+mais si vous ralentissez, vous voyez quelque chose d'encore plus extraordinaire.
+C'est un secret. L'animal grimpe très bien en glissant et regardez --
+il se débrouille en fait très mal pour s'accrocher à la surface.
+On dirait presque qu'il nage sur cette surface.
+On peut mieux représenter ce comportement si on le regarde comme un fluide.
+Le pied réparti fonctionne en fait comme une rame.
+C'est également vrai pour ce lézard courant sur des sables mouvants.
+Regardez ses pieds.
+Ils fonctionnent comme une rame
+même si l'interaction se fait avec une surface solide.
+C'est assez proche de la découverte d'une de mes anciennes étudiantes
+qui a compris comment les lézards courent sur l'eau.
+Pouvons-nous utiliser cela pour améliorer notre robot?
+Martin Buehler qui travaille maintenant chez Boston Dynamics, l'a fait.
+Il a pris cette idée et a transformé RHex en Aqua RHex.
+Maintenant voilà RHex avec des palmes,
+converti en robot nageur extrêmement manœuvrable.
+Pour les surfaces inégales cependant, les animaux ont des griffes.
+Et vous les avez senties si vous les avez attrapés.
+Tu les as touchés?
+CA: Oui
+RF: Et ils s'accrochent très bien aux surfaces avec ces griffes.
+Mark Cutkosky à l'Université de Stanford, un de mes collaborateurs, est un ingénieur extraordinaire
+qui a développé cette technique appelée Shape Deposition Manufacturing
+qui consiste à inclure des griffes dans un pied artificiel.
+Voilà la version simplifiée du pied d'un nouveau robot que vous verrez tout à l'heure.
+Alors rajoutons des griffes à notre prototype.
+En regardant les animaux qui manœuvrent dans tous types de surfaces,
+on voit qu'ils utilisent des mécanismes hybrides
+qui incluent des griffes, des épines, des poils, des coussinets collants,
+une adhésion capillaire et toute sorte d'autres choses.
+Ces mécanismes viennent de différents insectes.
+Voilà une fourmi qui grimpe une surface verticale.
+Observons cette fourmi.
+Voici son pied. Vous pouvez voir les poils, les griffes et cette chose ici.
+Voici le pied quand il est en l'air.
+Regardez ce qui arrive quand le pied se pose sur votre sandwich.
+Vous voyez ce qui se passe?
+Ce coussinet sort. Et c'est là que se trouve la colle.
+Voici une vue du dessous d'un pied de fourmi
+quand les griffes ne peuvent s'accrocher à rien, le coussinet sort sans que la fourmi ne fasse quoi que ce soit.
+Il se projette tout simplement.
+C'était une photo dure à prendre -- Je pense que c'est un pied de fourmi sur des fils très fins.
+C'est assez difficile à faire.
+Voilà à quoi cela ressemble de très près --
+voici le pied de la fourmi et voilà la colle.
+On a découvert que cette colle est probablement une mixture biphasée intéressante.
+Cela aide sûrement la fourmi à tenir.
+Alors nous rajoutons des coussinets collants à notre prototype.
+Maintenant pour les surfaces lisses, nous pourrions nous inspirer de cela.
+Mais nous avons trouvé mieux.
+Le gecko est un excellent exemple de nano-technologie dans la nature.
+Voilà ses pieds.
+Ils ont l'air presque extra-terrestres. Le secret auxquels ils s'attachent
+implique leur doigts poilus.
+Ils peuvent grimper une surface en courant à un mètre par seconde,
+faisant 30 pas pendant cette seconde -- on les distingue à peine.
+Si l'on ralentit, ils attachent leurs pieds à 8 millisecondes
+et les détachent à 16 millisecondes.
+Et quand vous regardez comment ils les détachent, c'est bizarre.
+Ils pèlent leur pied hors de la surface comme un morceau de scotch.
+Très étrange. Comment tiennent-ils?
+En regardant leurs pieds, on voit une structure appelées linalae qui ressemblent à des feuilles
+avec des millions de poils.
+Et chaque poil est le pire cas possible de pointes sèches et cassantes.
+Entre une centaine et un millier de pointes cassées,
+qui permettent en fait un contact très proche avec la surface.
+Le gecko a un milliard de ces pointes de 200 nanomètres de longueur.
+Et ils ne tiennent pas grâce à de la colle, comme le velcro ou des ventouses.
+Nous avons découvert qu'ils marchent grâce à de simples forces intermoléculaires.
+Alors à notre prototype, nous rajoutons des pointes cassantes.
+Ceci à inspiré le design du premier scotch auto-nettoyant --
+nous sommes fiers que le brevet ait été déposé.
+Voici la version la plus simple dans la nature,
+et voilà la tentative de mon collaborateur Ron Fearing
+d'une version artificielle de cet adhésif, faite de polyuréthane.
+Et voilà la première tentative de le faire fonctionner avec un poids.
+Il y a un grand intérêt pour cette recherche dans de nombreux domaines.
+Vous pouvez imaginer des milliers d'utilisation, j'en suis sûr.
+Beaucoup de gens l'ont fait et nous sommes enthousiastes à l'idée de réaliser ceci pour un produit.
+Nous avons imaginé des produits, par exemple, celui-ci :
+nous avons imaginé un pansement d'inspiration biologique en supprimant la colle.
+Nous avons pris des poils d'une mue de gecko;
+mis trois rouleaux de ceux-ci ensemble et fabriqué ce pansement.
+Voilà un étudiant volontaire --
+nous avons 30 000 étudiants de premier cycle que nous pouvons mobiliser --
+c'est seulement une marque au feutre rouge.
+Mais cela fait un pansement incroyable.
+Il est aéré, peut être enlevé facilement, ne cause pas d'irritation et tient sous l'eau.
+Je pense que c'est un exemple extraordinaire de l'application inimaginable à la base
+de recherches effectuées par curiosité sur la façon dont
+les animaux grimpent sur certaines surfaces.
+C'est juste un exemple de la raison pour laquelle il faut soutenir ce type de recherche curieuse.
+Voilà, on retire le pansement.
+Nous avons donc redéfini ce qu'est un pied.
+La question est de savoir si nous pouvons utiliser ces secrets
+pour inspirer le design d'un meilleur pied que ceux vus dans la nature?
+Voici le nouveau projet :
+nous essayons de créer le premier robot secouriste grimpeur -- sans ventouses ni aimants --
+qui peut seulement se déplacer sur un nombre limité de type de surfaces.
+Je l'ai appelé RiSE pour "Robot in Scansorial Environment " -- pour un environnement d'escalade --
+et nous avons une équipe incroyable de biologistes et d'ingénieurs créant ce robot.
+Voilà RiSE.
+Il a six pattes et une queue. Le voilà sur une barrière et un arbre.
+Voilà ses premiers pas sur un plan incliné.
+Vous avez le son? On peut l'entendre grimper.
+Le voilà qui grimpe vers vous, effectuant ses premiers pas sur un mur.
+À ce moment il utilise seulement son pied le plus simple, ici, c'est tout à fait nouveau.
+Mais nous pensons que la dynamique trouvée est la bonne pour le robot.
+Mark Cutkosky cependant, mène le projet un peu plus loin encore.
+C'est lui qui est capable de construire ces pieds et doigts manufacturés.
+L'étape suivanet est de fabriquer des doigts adaptés,
+d'essayer de rajouter des épines et des griffes et de les préparer pour de l'adhésif.
+L'idée est de réussir d'abord les doigts et un pied,
+puis de tenter de les faire escalader et finalement de les ajouter à un robot.
+Et c'est exactement ce qu'il a fait.
+Il a construit en fait, un robot-pied grimpeur inspiré par la nature.
+Voici le design de Cutkosky et de ses incroyables élèves.
+Voilà les doigts de pieds mis au point -- il y en a six,
+et ils fonctionnent selon les principes discutés collectivement pour le prototype.
+Donc il n'y a ni ventouses, ni colle,
+et il sera à terme capable, une fois rattaché au robot --
+inspiré biologiquement comme les animaux --
+d'escalader tout type de surface.
+Ici vous le voyez gravir la façade d'un bâtiment à Stanford.
+La vidéo est accélérée -- encore une fois, c'est le pied qui grimpe.
+Ce n'est pas encore le robot entier, nous sommes en train d'y travailler --
+là vous voyez comment il s'accroche.
+Ces structures mises au point permettent aux épines, aux coussinets de frottement et enfin aux poils adhésifs
+de s'accrocher à des surfaces très difficiles et inégales.
+Et ils ont réussi à obtenir ça -- ici c'est accéléré 20 fois --
+Pouvez-vous l'imaginer escalader et sauver quelqu'un à l'étage? OK?
+Vous pouvez voir maintenant que ce n'est pas impossible.
+C'est un très grand défi. Mais nous en reparlerons.
+Pour finir : nous avons utilisé des design naturels secrets en observant la construction des pieds.
+Nous avons appris que nous devons répartir le contrôle à plusieurs petites parties.
+Il ne faut pas compter uniquement sur un contrôle central par l'ordinateur,
+mais donner du contrôle via le réglage des pieds, des pattes et même du corps.
+La nature donne des solutions hybrides et non pas une solution unique à ces problèmes,
+et elles sont intégrées et très résistantes.
+Troisièmement, nous croyons fermement qu'il ne faut pas imiter la nature mais s'inspirer de la biologie
+et utiliser ces nouveaux principes avec les meilleurs solutions d'ingénierie existantes
+pour créer -- potentiellement -- quelque chose de mieux que la nature.
+Le message est très clair :
+que vous vous intéressiez à la recherche fondamentale de base
+sur des animaux intéressants, bizarres et incroyables,
+ou que vous vouliez construire un robot secouriste
+qui vous aidera pendant un tremblement de terre ou à sauver quelqu'un des flammes,
+ou que vous vous sentiez concerné par la médecine, nous devons préserver le design de la nature.
+Sinon ces secrets seront perdus pour toujours.
+Merci.

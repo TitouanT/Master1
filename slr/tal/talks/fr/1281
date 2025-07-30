@@ -1,0 +1,80 @@
+Laissez-moi vous présenter Rezero.
+Ce petit ami a été développé
+par un groupe de 10 étudiants
+du Laboratoire des Systèmes Autonomes
+à l'École polytechnique fédérale de Zurich.
+Notre robot appartient à une famille de robots
+qui s’appelle Ballbots.
+A la place des roues, un Ballbot se tient en équilibre
+et se déplace sur une boule.
+La principale caractéristique de ce système
+est qu'il y a qu'un seul point de contact avec le sol.
+Cela signifie que le robot
+est en soi instable.
+C’est un peu comme si je devais me tenir
+sur un pied.
+Vous pourriez vous demander, quelle est l’utilité
+d’un robot instable ?
+Nous allons vous l’expliquer tout de suite.
+Avant tout, laissez-moi vous expliquer comment Rezero
+se tient en fait en équilibre.
+Rezero se tient en équilibre en mesurant
+constamment son inclinaison avec un détecteur.
+Ensuite il se contrebalance et évite de basculer
+en utilisant ses moteurs de façon appropriée.
+Ça se produit 160 fois par seconde,
+et si quelque chose ne marche pas dans le processus,
+Rezero tombe immédiatement par terre.
+Pour se déplacer et se tenir en équilibre,
+Rezero doit tourner la boule.
+La boule est actionnée par trois roues spéciales
+qui permettent à Rezero de se déplacer dans n’importe quelle direction
+et se déplacer également sur son axe
+en même temps.
+A cause de son instabilité, Rezero est toujours
+en mouvement. Voici le secret.
+C'est précisément cette instabilité qui permet
+au robot de se déplacer de manière très dynamique.
+Jouons un peu.
+Vous vous êtes peut-être demandé ce qui se passerait
+si je poussais un peu le robot.
+Dans ce mode, il essaye de maintenir
+sa position.
+Pour la prochaine démo, j’aimerais vous présenter
+mes collègues Michael, à l’ordinateur,
+et Thomas qui me donne un coup de main sur scène.
+Dans le mode suivant, Rezero est passif,
+et nous pouvons le déplacer.
+Presque sans aucune force je peux contrôler
+sa position et sa vitesse.
+Je peux même le faire tourner.
+Dans le mode suivant, nous pouvons le faire
+suivre une personne.
+Là il maintient une distance constante avec Thomas.
+Ça marche avec un détecteur laser
+monté au sommet de Rezero.
+Avec la même méthode, nous pouvons aussi
+le faire tourner autour d’une personne.
+Nous appelons cela le mode orbitant.
+Très bien, merci, Thomas.
+(Applaudissements)
+Quelle est l’utilité de cette technologie ?
+Pour l’instant, c’est une expérience mais laissez-moi
+vous montrer quelques applications futures possibles.
+Rezero pourrait être utilisé dans des expositions ou des parcs.
+Avec un écran il pourrait informer les personnes
+ou les faire visiter de manière amusante et divertissante.
+Dans un hôpital, cet appareil pourrait être utilisé
+pour transporter les équipements médicaux.
+Grâce au système Ballbot, il a un faible
+encombrement et se déplace facilement.
+Et bien sûr, qui ne souhaiterait pas
+faire un tour sur un de ces appareils.
+Ce sont des applications plus pratiques.
+Mais il y a aussi une certaine beauté
+dans cette technologie.
+(Musique)
+(Applaudissements)
+(Merci)
+(Applaudissements)
+Merci.

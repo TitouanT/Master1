@@ -1,0 +1,398 @@
+Donc je vais parler aujourd'hui du recueil d'histoires
+de façon peu conventionnelle.
+Voici une photo de moi quand j'étais dans l'âge ingrat.
+Vous apprécierez les pyjamas affreusement justes et serrés avec des ballons.
+Peu importe. C'était une époque durant laquelle je m'intéressais particulièrement
+à recueillir des histoires imaginaires.
+Donc voici une photo de moi
+tenant une de mes toutes premières aquarelles.
+Et récemment je me suis beaucoup plus intéressé à recueillir des histoires
+de la réalité -- donc, de vraies histoires.
+Et plus exactement, je m'interesse au recueil de mes propres histoires,
+des histoires tirées d'internet, et plus récemment, des histoires de la vie,
+ce qui représent un nouvel espace de travail dont je m'occupe depuis peu.
+Donc je vais en parler aujourd'hui.
+Alors, premièrement -- mes propres histoires. Voici deux de mes cahiers de dessin.
+J'en ai beaucoup,
+et je les conserve depuis ces huit ou neuf dernières années.
+Ils m'accompagnent où que j'aille dans la vie,
+et je les remplis de toute sorte de choses,
+des archives de mes expériences personnelles.
+Des aquarelles, des dessins de ce que je vois,
+des fleurs séchées, des insectes morts, des tickets collés, des pièces qui rouillent,
+des cartes de visite, des écrits.
+Et dans ces cahiers vous pouvez trouver ces petits aperçus
+des moments et des expériences et des personnes que je rencontre.
+Et, vous savez, après avoir gardé ces cahiers pendant un certain nombre d'années,
+j'ai commencé à m'intéresser au recueil de
+non seulement mes propres artéfacts,
+mais aussi ceux des autres.
+Alors j'ai commencé à collectionner des objets trouvés.
+Voici une photo que j'avais trouvé gisant dans une gouttière à New York
+il y a environs dix ans.
+Au recto vous pouvez voir la photo en lambeaux en noir et blanc du visage d'une femme,
+et au verso, il est écrit, "A Judy, la fille à la voix de Bill Bailey,
+Profite à fond de ce que tu fais."
+Et j'ai vraiment aimé l'idée d'un aperçu partiel de la vie de quelqu'un d'autre,
+en opposition à connaître toute l'histoire; juste connaître un petit bout de l'histoire
+et laisser son esprit en compléter le reste.
+Et cette idée d'un aperçu partiel est quelque chose
+qui reviendra beaucoup dans le travail dont je vais vous parler dans quelques instants.
+Donc à cette époque-là j'étudiais l'informatique à Princeton,
+et j'ai remarqué que, tout à coup, il était possible
+de recueillir ce genre d'objets personnels,
+non seulement des coins de rue, mais aussi d'internet.
+Et que, tout à coup, des masses de gens laissaient des milliers et des milliers
+d'empreintes digitales en ligne qui racontaient l'histoire de leur vie.
+Des blogs, des photos, des pensées, des sentiments, des opinions,
+toutes ces choses-là étaient exprimées en ligne par des gens,
+et laissaient des traces derrière.
+Alors j'ai commencé à écrire des logiciels
+qui étudient des échantillons très très larges de ces empreintes sur le web.
+Un de ces projets date d'un an et demi.
+Ça s'appelle "We Feel Fine" ("Nous allons bien").
+C'est un projet qui scanne les articles de blog les plus récents dans le monde
+toutes les deux ou trois minutes, cherchant les occurrences des locutions
+"I feel" et "I am feeling" ("je me sens..."). Et quand il trouve une de ces phrases
+il prend toute la phrase jusqu'à la fin
+et essaie aussi d'identifier les informations démographiques de l'auteur.
+Donc, le sexe, l'âge, et l'emplacement géographique
+et aussi quel temps il faisait quand l'auteur a écrit cette phrase.
+Il recueille près de 20 000 phrases par jour
+et le logiciel est en marche depuis un an et demi,
+et a recueilli plus de dix millions et demi de sentiments aujourd'hui.
+Voilà comment ils sont ensuite présentés.
+Les points ici représentent les sentiments d'une partie
+du monde anglophone datant de quelques heures.
+Chaque point est une phrase unique, exprimée par un seul blogueur.
+Et la couleur de chaque point correspond au type de sentiment,
+alors les couleurs vives représentent la joie, et les couleurs sombres la tristesse.
+Et le diamètre de chaque point correspond
+à la longueur de la phrase.
+Donc les petits points sont des phrases courtes, les plus gros des phrases plus longues.
+"Je me sens bien dans ma peau, mais c'est difficile d'expliquer
+pourquoi je me sens toujours aussi mal à l'aise dans l'intimité avec mon copain,"
+phrase d'une personne de 22 ans au Japon.
+"J'ai eu cela d'un commerce local,
+mais je me sens pas d'humeur à bricoler."
+Quelques-uns de ces sentiments sont illustrés par des photos dans les blogs
+et quand c'est le cas, des montages sont automatiquement créés,
+qui consistent en la combinaison de la phrase et de l'image.
+Et on peut les ouvrir pour en dévoiler le contenu.
+"Je me sens bien."
+"Je me sens pas très bien maintenant, j'ai probablement pris 100 000 kilos,
+mais ça valait le coup."
+"J'aime comment ils ont pu préserver le plus possible de chaque chose
+qui fasse qu'on se sente plus proche de la nature -- les papillons,
+les forêts artificielles, les caves calcaires, et devinez quoi, même un énorme python."
+Donc le prochain mouvement s'appelle "mobs" ("foules").
+Cela donne un point de vue légèrement plus statistique.
+Voilà les sentiments les plus communs du monde en ce moment,
+dominés par "mieux", puis "mal", puis "bien", puis "coupable", etc.
+La météo donne aux sentiments les traits physiques
+du temps qu'ils représentent. Donc ceux qui sont ensoleillés dansent,
+les nuageux flottent, les pluvieux tombent,
+et les enneigés tourbillonnent jusqu'au sol.
+On peut aussi arrêter une goutte de pluie et ouvrir le sentiment à l'intérieur.
+Finalement, l'emplacement géographique permet aux sentiments de se positionner
+sur une carte du monde, donnant ainsi une idée de leur répartition géographique.
+Donc je vais vous montrer quelques-uns de mes montages préférés de "We Feel Fine".
+Ce sont des images qui ont été construites automatiquement.
+"Je me sens comme casé en diagonale dans un monde parallèle."
+(Rires)
+"J'ai embrassé beaucoup d'autres gars, et ce n'était pas bien,
+les baisers étaient brouillons et incorrects,
+mais embrasser Lucas semble beau et presque spirituel."
+"Je sens grandir mon cancer."
+"Je me sens jolie."
+"Je me sens maigrichonne, mais je ne le suis pas."
+"J'ai 23 ans, et je me remets de ma dépendance aux méthamphétamines et à l'héroine,
+et je me sens bénie d'être en vie."
+"Je suis impatient de les voir concourir pour la première fois à Daytona le mois prochain,
+parce que je ressens un besoin de vitesse."
+(Rires)
+"Je me sens classe."
+"Je me sens tellement sexy avec cette nouvelle perruque."
+Comme vous pouvez le voir, "We Feel Fine" recueille
+des histoires personnelles à petite échelle.
+Parfois des histoires d'à peine deux ou trois mots.
+Et ainsi, défiant la notion
+de ce qu'est une histoire.
+Et depuis peu, je m'intéresse plus à explorer plus profondément une seule histoire.
+Et cela m'a amené à travailler sur le monde réel,
+et non sur internet,
+et à utiliser internet seulement au dernier moment comme un moyen de présentation.
+Donc ce sont de nouveaux projets qui
+n'ont pas encore été lancés publiquement.
+Le premier de la sorte s'appelle "The Whale Hunt" ("La Chasse aux Baleines")
+En mai dernier, j'ai passé neuf jours à Barrow, en Alaska,
+le hameau le plus au nord des Etats-Unis,
+avec une famille d'Esquimaux Inupiat,
+relatant leur chasse à la baleine annuelle au printemps.
+Voici le camp de chasse, à quelques neuf kilomètres du rivage,
+où nous campons sur de la glace épaisse de plus d'un mètre cinquante.
+Et cette eau que vous voyez est la piste ouverte
+à travers laquelle les baleines Bowhead migrent vers le nord au printemps.
+Et la communauté Esquimaude campent au bord de la glace ici,
+et attend qu'une baleine arrive assez près pour l'attaquer,
+et il lui lance un harpon, et la hisse à la surface,
+et la découpe.
+Et cela constituera la réserve de nourriture de la communauté pendant un bon bout de temps.
+Donc je suis allé tout au nord, et j'ai vécu avec ces gens
+dans leur camp de chasse, et j'ai photographié toute cette expérience,
+en commençant par le trajet en taxi jusqu'à l'aéroport de Newark à New York,
+et finissant avec la boucherie de la deuxième baleine, sept jours et demi plus tard.
+J'ai photographié toute cette expérience avec des intervalles de cinq minutes.
+Donc toutes les cinq minutes, j'ai pris une photo.
+Quand j'étais éveillé, j'avais l'appareil autour du cou;
+quand je dormais, c'était avec un trépied et un minuteur.
+Et puis dans des moments de grande excitation,
+quand quelque chose d'important se passait,
+j'augmentais la fréquence de prise de photo
+à presque 37 photos en 5 minutes.
+Donc ceci a créé des battements de coeur photographiques
+qui s'accéléraient et ralentissaient, plus ou moins en accord
+avec le changement de mon propre pouls.
+Voilà donc le premier concept.
+Le second concept était d'utiliser cette expérience pour réfléchir
+sur les composants de base de toute histoire.
+Quelles sont les choses qui font une histoire?
+Les histoires ont des personnalités. Les histoires ont des concepts.
+Les histoires se passent dans un endroit précis. Elles connaissent des contextes.
+Elles ont des couleurs. A quoi ressemblent-elles?
+Elles ont un temps. Quand ça s'est passé? Des dates, quand est-ce que c'est survenu?
+Et dans le cas d'une chasse à la baleine, nous avons aussi l'idée d'un seuil d'excitation.
+Le truc à propos des histoires, c'est qu'à travers la plupart des médias existants
+auxquels nous sommes habitués -- les romans, la radio,
+les photos, les films, même les conférences comme celle-ci --
+nous sommes habitués à cette idée du point de vue du narrateur, ou de la position de la caméra.
+Comme une sorte de corps externe omniscient
+à travers les yeux duquel on voit l'histoire.
+Nous sommes très habitués à cela.
+Mais si nous pensons à la vie réelle, ça n'est pas comme ça.
+Je veux dire que dans la vie réelle, les choses sont plus complexes et nuancées,
+et nous avons beaucoup de ces histoires qui se superposent,
+se croisent et se touchent.
+Et donc j'ai pensé que ça serait intéressant de construire une structure
+pour représenter toutes ces sortes d'histoires. Dans le cas de la "Chasse à la Baleine",
+comment pouvions-nous extraire l'histoire de Simeon et Crawford,
+incluant les concepts de vie sauvage, d'outils et de sang, tout cela se passant dans l'océan arctique,
+tout cela dominé par le rouge, et se passant aux alentours de 10h00, le 3 mai,
+avec un seuil d'excitation élevé?
+Donc comment extraire cette ordre narrative de cette histoire plus grande?
+J'ai construit une interface web pour visualiser "La Chasse à la Baleine" qui essaie de le faire.
+Donc voici les 3.214 photos prises.
+Voici mon studion à Brooklyn. Voici l'océan arctique,
+et la boucherie de la deuxième baleine, sept jours plus tard.
+Vous pouvez déjà voir une partie de l'histoire ici, comme démontré par les couleurs.
+Cette bande rouge est la couleur du papier peint
+dans l'appartement au sous-sol où j'habitais.
+Et les choses deviennent blanches à mesure que nous bougeons vers l'océan arctique.
+L'introduction du rouge ici, quand les baleines sont découpées.
+Vous pouvez voir une ligne temporelle, montrant les moments d'excitation à travers l'histoire.
+Et ces photos sont classées de façon chronologique.
+La visualisation en roue en donne une version plus enjouée,
+ce sont aussi toutes les photos classées chronologiquement.
+Et on peut cliquer sur chacune d'elles,
+c'est alors que la narration est introduite.
+Ici je suis en train de dormir dans l'avion en direction de l'Alaska.
+Voici Moby Dick.
+Voici notre nourriture.
+Voici le salon de la famille Patkotak
+dans leur maison à Barrow. Le vin qu'ils nous ont servi.
+Une pause clope dehors -- je ne fume pas.
+Voici une séquence de moi en train de dormir.
+Là on est au camp, sur l'océan arctique.
+Le graphique sur lequel je clique représente ici
+le graphique médical des battements de coeur,
+montrant les moments de pure adrénaline.
+Voici la glace qui commence à geler. La barrière de glace qu'ils ont construite.
+Et donc je vais vous montrer maintenant comment extraire des histoires secondaires.
+Vous voyez ici le casting. Toutes les personnes de la Chasse,
+et les deux baleines qui ont été tuées.
+Nous pourrions faire une chose aussi arbitraire que, disons,
+extraire l'histoire de Rony, qui met en scène des concepts de sang
+et de baleines et d'outils, tout cela se passant dans l'océan arctique,
+au camp Ahkivgaq, avec des battements de coeur accélérés.
+Et maintenant nous avons réduit toute cette histoire
+à seulement 29 photos magiques,
+et nous pouvons entrer dans la trame narrative à cet endroit.
+Et vous pouvez voir Rony qui découpe la baleine ici.
+Les baleines font douze mètres de long,
+et pèsent plus de quarante tonnes. Et elles sont la source de nourriture
+de la communauté pour une grande partie de l'année.
+Si nous avançons un peu, voici Rony sur la carcasse de la baleine.
+Ils n'utilisent pas de scies, que des lames,
+et un procédé incroyablement efficace.
+Voici les gars qui tirent sur la corde, pour ouvrir la carcasse.
+Le muktuk, ou le blanc de baleine, aligné pour la distribution à la communauté.
+C'est de la baleine. Continuons.
+Ce dont je vais vous parler maintenant
+est une chose très nouvelle. Ce n'est pas encore un projet.
+Hier encore, j'arrivais de Singapour, et avant cela,
+je passais deux semaines au Bhoutan, le petit royaume
+niché entre le Tibet et l'Inde.
+Et j'y faisais un projet sur le bonheur,
+j'interviewais beaucoup de natifs.
+Le Bhoutan a cette pratique incroyable de baser
+la plupart de leurs plus importantes décisions gouvernementales sur le concept
+de bonheur national brut à la place du PIB,
+et ils font cela depuis les années 70.
+Et cela amène à un système de valeurs totalement différent.
+C'est une culture incroyablement non-matérialiste
+où les gens ne possèdent pas beaucoup, mais ils sont incroyablement heureux.
+J'ai parcouru le pays et j'ai parlé aux gens de quelques-unes de ces idées.
+J'ai fait une série de choses. J'ai posé aux gens une série de questions,
+et j'ai pris des séries de photos,
+et je les ai interviewés en les enregistrant, et j'ai aussi pris des photos d'eux.
+Je commençais par leur demander de noter leur bonheur
+sur une échelle d'un à dix, ce qui est plutôt absurde.
+Et quand ils répondaient, je gonflais le nombre de ballons
+et les leur donnais.
+Donc voici des personnes très heureuses qui tiennent dix ballons,
+et quelque pauvre âme ayant un seul ballon.
+Mais vous savez, même tenir un seul ballon est quelque peu bienheureux.
+(Rires)
+Et je leur posais alors une série de questions, par exemple,
+quel était le jour le plus heureux de leur vie, qu'est-ce qui les rend heureux.
+Et finalement, je leur demandais de faire un voeu.
+Et quand ils faisaient un voeu, je l'écrivais
+sur un des ballons et je prenais une photo d'eux le tenant.
+Je vais maintenant vous montrer quelques brefs moments
+de quelques interviews que j'ai faites, des quelques personnes avec qui j'ai parlé.
+Voici un écolier de onze ans.
+Il jouait aux gendarmes et aux voleurs avec ses amis, courant à travers la ville,
+et ils avaient des pistolets en plastique.
+Son souhait était de devenir gendarme.
+Il s'y mettait tôt. Voici ses mains.
+J'ai pris des photos des mains de tout le monde,
+parce que je pense que l'on peut dire beaucoup de quelqu'un
+rien qu'en regardant ses mains. J'ai pris un portrait de chacun,
+et j'ai demandé à chacun de faire une grimace.
+Une étudiante de 17 ans. Son voeu aurait été de naître en garçon.
+Elle pense que les femmes n'ont pas la vie facile au Bhoutan,
+et que les choses sont plus faciles si on est un garçon.
+Un propriétaire de magasin de téléphones mobiles de 28 ans.
+Si vous saviez comment était Paro, vous comprendriez
+à quel point c'était fascinant qu'il y ait un magasin de téléphones mobiles là-bas.
+Il voulait aider les pauvres.
+Une fermière de 53 ans. Elle triait le blé,
+et cette pile de blé derrière elle
+lui a pris près d'une semaine.
+Elle voulait continuer à être fermière jusqu'à sa mort.
+Vous pouvez vraiment voir les histoires racontées à travers les mains ici.
+Elle portait cet anneau en argent qui avait le mot "amour" gravé dessus,
+et qu'elle avait trouvé sur une route quelconque.
+Un travailleur de carrière de 16 ans.
+Ce gars brisait les roches avec un marteau en plein soleil,
+mais il voulait juste passer sa vie à être fermier.
+Un moine de 21 ans. Il était très heureux.
+Il voulait vivre une longue vie au monastère.
+Il avait cette touffe incroyable de poils qui poussait d'un grain de beauté sur la partie gauche de son visage,
+qu'il m'a dit être "porte bonheur".
+Il était trop timide pour faire une grimace.
+Une étudiante de 16 ans.
+Elle voulait devenir une femme indépendante.
+Je l'ai questionnée là-dessus, et elle a dit qu'elle voulait dire
+qu'elle ne voulait pas se marier,
+parce que, d'après elle, quand vous vous mariez au Bhoutan en tant que femme,
+vos chances de vivre une vie indépendante s'évaporent plus ou moins,
+et donc elle n'y voyait aucun intérêt.
+Un camionneur de 24 ans.
+Voici des camions indiens terriblement énormes
+qui roulent sur des routes à une voie comme si elles en avaient deux,
+avec des chutes de 900 mètres juste à côté de la route,
+et il conduisait un de ces camions.
+Mais tout ce qu'il voulait c'était vivre une vie confortable comme les autres.
+Une balayeuse de 24 ans. Je l'ai rencontrée pendant sa pause déjeuner.
+Elle avait fait un petit feu pour se garder au chaud.
+Son voeu était d'épouser quelqu'un qui aurait une voiture.
+Elle voulait changer de vie.
+Elle vit dans un petit camp de travailleurs à côté de la route,
+et elle voulait connaître autre chose.
+Un fermier nomade de 81 ans.
+J'ai vu cet homme sur le bord de la rue,
+et il n'a pas de maison.
+Il voyage de ferme en ferme chaque jour pour trouver du travail,
+et il essaie de dormir là où il trouve du travail.
+Donc son voeu a été de venir avec moi, comme ça il aurait eu un toit.
+Il avait ce magnifique couteau qu'il a retiré de son gho
+et qu'il a brandi quand je lui ai demandé de faire une grimace.
+Rien de méchant.
+Un gosse de 10 ans.
+Il voulait aller à l'école et apprendre à lire,
+mais ses parents n'avaient pas assez d'argent pour l'envoyer à l'école.
+Il mangeait cette friandise orange
+dans laquelle il mettait les doigts,
+et comme il y avait trop de salive sur ses mains,
+cette croûte orange a commencé à se former sur ses paumes.
+(Rires)
+Un travailleur de 37 ans.
+Un des sujets les plus sensibles au Bhoutan
+est l'utilisation de main-d'oeuvre indienne bon marché
+qu'on importe d'Inde pour construire les routes,
+et quand les routes sont faites, on les renvoie chez eux.
+Donc ces hommes étaient dans une bande de travailleurs
+qui mélangeaient l'asphalt un matin au bord de la rue.
+Son souhait était de se faire un peu d'argent et d'ouvrir une boutique.
+Une fermière de 75 ans. Elle vendait des oranges sur la route.
+Je lui ai demandé quel est son voeu, et elle a dit,
+"Tu sais, peut-être que je vais vivre, peut-être que je vais mourir, mais je n'ai pas de voeu."
+Elle mâchait de la noix de bétel, ce qui rendait ses dents
+rouges au fil des années.
+Finalement, voici une nonne de 26 ans à qui j'ai parlé.
+Son voeu était d'aller en pélerinage au Tibet.
+Je lui ai demandé pendant combien de temps elle pensait vivre au couvent, et elle a dit,
+"Bah, vous savez, bien sûr que ce n'est pas permanent,
+mais je projette de vivre ici jusqu'à mes trente ans, et ensuite d'entrer à l'ermitage."
+Et j'ai dit, "Vous voulez dire, comme une cave?" Et elle a dit, "Oui, comme une cave."
+Et j'ai demandé, "Wow, et combien de temps pensez-vous vivre dans la cave?"
+Et elle a répondu, "Vous savez,
+je pense que j'aimerais vivre toute ma vie dans une cave."
+J'ai pensé que c'était magnifique. Je veux dire, elle parlait d'une telle façon --
+avec un anglais magnifique, un sens de l'humour magnifique, et un rire magnifique --
+qui faisait d'elle quelqu'un que j'aurais pu rencontrer
+dans les rues de New York, ou de Vermont, là d'où je viens.
+Mais là elle vivait dans un couvent depuis sept ans.
+Je lui ai demandé un peu plus sur la cave
+et ce qu'elle envisageait comme avenir quand elle y serait.
+Que se passerait-il si elle voit la vérité après tout juste un an,
+que ferait-elle pendant les 35 années suivantes de sa vie?
+Et voici ce qu'elle a dit.
+La femme: Je pense que je vais y rester pendant 35 ans, peut-être -- peut-être que je mourrai.
+Jonathan Harris: Peut-être que vous mourrez? La femme: Oui.
+JH: Dix ans? La femme: Oui, oui. JH: Dix ans, c'est beaucoup de temps.
+La femme: Oui, mais peut-être pas une ou dix ans, peut-être que je mourrai
+au bout d'un an, ou quelque chose du genre.
+JH: L'espérez-vous?
+La femme: Ah, vous savez, ce n'est pas permanent.
+JH: Oui, mais -- oui, d'accord. Espérez-vous --
+préféreriez-vous vivre dans la cave pendant quarante ans,
+ou vivre pendant un an?
+La femme: Mais je préfère quarante à cinquante ans.
+JH: Quarante à cinquante? OK.
+La femme: Oui. De là j'irai au paradis.
+JH: Bien, je vous souhaite bonne chance.
+La femme: Merci.
+JH: J'espère que ça sera comme vous le souhaitez.
+Donc merci encore, merci beaucoup.
+La femme: De rien.
+Donc si vous avez bien saisi, elle a dit qu'elle espérait mourir
+quand elle aurait quarante ans. C'était assez vivre pour elle.
+Donc la dernière chose qu'on a faite, très vite,
+c'était de prendre tous ces ballons avec les voeux -- il y avait eu 117 interviews,
+117 voeux -- et je les ai apportés à un endroit appelé Dochula,
+qui est un sentier de montagne au Bhoutan à 10 300 pieds d'altitude,
+un des endroits les plus sacrés au Bhoutan.
+Et en haut, il y a des milliers de drapeaux de prières
+que les gens y ont mis au fil du temps.
+Et nous avons re-gonflé les ballons, et nous les avons mis sur une ficelle,
+et les avons attachés parmi les drapeaux de prières.
+Et ils y sont toujours aujourd'hui.
+Donc si l'un d'entre vous va au Bhoutan un de ces jours,
+allez les voir. En voici quelques images.
+Nous avons prononcé une prière bouddhiste pour que tous ces voeux se réalisent.
+Vous pouvez voir quelques-uns des ballons qui vous sont familiers ici.
+"Se faire un peu d'argent et ouvrir un magasin" du travailleur indien.
+Merci beaucoup.
+(Applaudissements)

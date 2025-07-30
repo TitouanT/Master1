@@ -1,0 +1,132 @@
+L'an dernier, ici à TED,
+je vous ai demandé de me donner vos données,
+de mettre vos données sur le web, en partant du principe
+que si les gens mettent leurs données sur le web,
+les données gouvernementales, scientifiques, communautaires,
+quoi que ce soit, ce sera utilisé par d'autres personnes
+pour faire des choses merveilleuses, d'une manière
+qu'ils n'auraient jamais pu imaginer.
+Alors aujourd'hui, je suis de retour pour vous montrer quelques petites choses,
+vous montrer, en fait, qu'il y a
+un mouvement pour les données libres qui s'est lancé,
+aujourd'hui partout dans le monde.
+Le cri pour "des données brutes, maintenant"
+que j'ai fait pousser aux gens dans l'auditorium
+a été entendu dans le monde entier.
+Alors balançons cette vidéo.
+L'histoire classique, la première que beaucoup de gens ont relevée
+c'était quand, en mars, le 10 mars en fait, juste après TED,
+Paul Clarke, du gouvernement britannique,
+a blogué "Oh, je viens de recevoir des données brutes. Les voilà,
+c'est à propos des accidents de vélo."
+Ça a pris deux jours au "Times Online"
+pour faire une carte, une carte composite,
+on appelle ces trucs des mash-ups,
+un mash-up, une interface utilisateur qui vous permet d'aller
+regarder pour voir si la piste cyclable
+qui mène à votre travail, était concernée.
+Il y a d'autres données, des données d'enquête de circulation
+encore, qui ont été diffusées par le gouvernement britannique,
+et comme ils les publient en utilisant les standards Linked data
+un utilisateur a la possibilité de créer une carte,
+juste en cliquant.
+Est-ce que ces données ont des effets ? Eh bien, en fait, revenons en 2008.
+Regardons le cas de Zanesville, Ohio.
+Voici une carte faite par un avocat, il y a dessiné le réseau d'eau potable,
+on y voit les maisons,
+et lesquelles sont raccordées au réseau d'eau potable.
+Et il a eu, par d'autres sources de données,
+des informations qui montrent
+quelles maisons sont occupées par des blancs.
+Eh bien, il a eu l'impression qu'il y avait une trop grande corrélation
+entre les maisons qui étaient occupées par des blancs
+et celles qui avaient l'eau, et le juge ne s'est pas laissé impressionner.
+Le juge a été frappé à hauteur de 10,9 millions de dollars.
+C'est toute la force de prendre un bout d'une donnée,
+un autre bout de donnée, de les mettre ensemble,
+et de montrer le résultat.
+Regardons maintenant quelques données du Royaume-Uni.
+Ce sont des données du gouvernement britannique, sur un site entièrement indépendant,
+"Où va mon argent",
+qui permet à n'importe qui d'aller creuser.
+Vous pouvez fouiner sur un type particulier de dépenses
+ou vous pouvez passer en revue les différentes régions et les comparer.
+Donc, c'est ce qui se passe au Royaume-Uni avec les données du gouvernement britannique.
+Oui, on peut certainement le faire par ici.
+Voici un site qui vous permet de regarder les dépenses publiques
+en Californie.
+Et prenez un exemple au hasard, Long Beach, Californie,
+vous pouvez aller regarder combien ils ont dépensé en fonds publics
+pour différentes choses comme l'énergie.
+En fait, voici le graphique du nombre de jeux de données
+dans les référentiels de data.gov,
+sur data.gov.uk.
+Et je suis ravi de voir une forte concurrence
+entre le Royaume-Uni en bleu, et les Etats-Unis en rouge.
+Comment on peut utiliser ce truc ?
+Eh bien, par exemple, si vous avez une quantité de données sur des lieux
+vous pouvez prendre, à partir d'un code postal anglais,
+qui est comme un code postal américain plus quatre chiffres,
+pour un groupe précis de maisons, vous pouvez faire un rapport,
+imprimer un article avec des choses
+très très précises sur les arrêts de bus,
+les choses spécialement près de vous.
+A une plus grand échelle, voici un mash-up
+des données publiées au sujet des élections afghanes.
+Ça vous permet de choisir vos propres critères
+sur le genre de choses que vous voulez regarder.
+Les cercles en rouge sont des centres de vote,
+sélectionnés selon vos critères.
+Et ensuite vous pouvez sélectionner également d'autres choses sur la carte
+pour voir d'autres facteurs comme le niveau de menace.
+Donc, ça c'était pour les données gouvernementales.
+J'ai aussi parlé des données générées par les communautés -- en fait j'ai coupé la vidéo --
+voici la carte wiki, c'est la carte libre d'OpenStreetMap
+Le Terrace Theater, en fait je l'ai mis
+sur le plan parce qu'il n'y était pas avant le TED de l'an dernier.
+Je n'étais pas le seul à modifier la carte libre d'OpenStreetMap
+Chaque flash sur cette visualisation
+assemblée par ITO World
+montre une modification apportée en 2009
+sur la carte libre d'OpenStreetMap.
+Faisons maintenant tourner le globe au cours de la même année.
+Chaque flash est une mise à jour. Quelqu'un quelque part
+en train de regarder le plan d'OpenStreetMap, et de réaliser qu'on pourrait l'améliorer.
+Vous voyez que l'Europe est embrasée de mises à jour.
+D'autres endroits, peut-être pas autant qu'ils le devraient.
+Zoomons ici sur Haïti.
+La carte de Port-au-Prince à la fin
+de 2009 n'était pas complète,
+pas aussi bonne que celle de la Californie.
+Heureusement, juste après le tremblement de terre,
+GeoEye, une entreprise commerciale,
+a sorti des images satellite
+avec une licence qui permettait
+à la communauté open-source de les utiliser.
+Voici la durée du mois de janvier,
+les gens font des modifications, voilà le tremblement de terre.
+Après le tremblement de terre, immédiatement,
+des gens partout dans le monde, des mappers
+qui voulaient aider, et le pouvaient,
+ont regardé ces images, construit la carte, qui se développe rapidement.
+Nous nous centrons à présent sur Port-au-Prince.
+La couleur bleue indique les camps de réfugiés que ces bénévoles avaient repérés depuis le ciel.
+Donc, maintenant nous avons, immédiatement, une carte en temps réel
+qui montre où il y a des camps de réfugiés,
+et qui rapidement est devenue la meilleure carte
+à utiliser si vous faites un travail de secours à Port-au-Prince.
+Vous êtes témoins du fait qu'elle est là, sur l'appareil Garmin
+utilisé par une équipe de secours.
+Et pour Haïti, voici la carte qui montre
+sur le côté gauche là,
+cet hôpital, en fait c'est un navire-hôpital.
+Voici une carte en temps réel qui montre les routes bloquées
+les bâtiments endommagés, les camps de réfugiés.
+Elle montre des choses dont on a besoin.
+Alors, si vous avez participé à ça de près ou de loin,
+je voulais juste dire que quoi que vous ayez fait,
+que vous ayez juste mis en forme des données brutes,
+ou que vous ayez mis en ligne des données gouvernementales ou scientifiques,
+je voulais profiter de cette occasion pour vous dire un grand merci,
+et ce n'est pour nous que le début.
+(Applaudissements)

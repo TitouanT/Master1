@@ -1,0 +1,341 @@
+L'électricité qui alimente les lumières de ce théâtre
+a été générée il y a à peine quelques instants.
+Parce que telles que les choses sont aujourd'hui,
+la demande d'électricité doit être en équilibre constant
+avec l'approvisionnement en électricité.
+Si dans le temps qu'il m'a fallu pour venir sur cette scène,
+quelques dizaines de mégawatts d'énergie éolienne
+arrêtaient de se déverser dans le réseau,
+la différence devrait être compensée
+immédiatement par d'autres générateurs.
+Mais les centrales au charbon, les centrales nucléaires
+ne peuvent pas répondre assez vite.
+Une batterie géante le pourrait.
+Avec une batterie géante,
+nous serions en mesure de résoudre le problème de l'intermittence
+qui empêche le vent et l'énergie solaire
+de contribuer au réseau
+de la même manière que le charbon, le gaz et le nucléaire aujourd'hui.
+Vous voyez, la batterie
+est l'appareil activateur clé ici.
+Avec elle, nous pourrions tirer de l'électricité du soleil
+même quand le soleil ne brille pas.
+Et cela change tout.
+Parce qu'alors les énergies renouvelables,
+comme l'énergie éolienne et solaire
+sortent des ailes,
+pour venir ici au centre de la scène.
+Aujourd'hui, je veux vous parler d'un tel appareil.
+C'est ce qu'on appelle la batterie métal liquide.
+C'est une nouvelle forme de stockage de l'énergie
+que j'ai inventé au MIT
+avec une équipe de mes étudiants
+et post-doctorants.
+Le thème de TED cette année est Full Spectrum, [tout le spectre].
+Le Dictionnaire Oxford définit spectre
+comme «L'ensemble des longueurs d'onde
+d'un rayonnement électromagnétique,
+depuis les ondes radio les plus longues aux rayons gamma les plus courts
+dont la plage de lumière visible
+n'est qu'une petite partie. »
+Donc, je ne suis pas ici aujourd'hui que pour vous dire
+comment mon équipe au MIT a tiré de la nature
+une solution à l'un des grands problèmes du monde.
+Je veux parcourir tout le spectre et vous dire comment,
+dans le processus de développement
+de cette nouvelle technologie,
+nous avons découvert quelques hétérodoxies surprenantes
+qui peuvent servir de leçons pour l'innovation,
+des idées qui méritent d'être partagées.
+Et vous le savez,
+si nous devons sortir ce pays de sa situation énergétique actuelle,
+nous ne pouvons pas nous en sortir sans changement ;
+nous ne pouvons pas nous en sortir en forant ;
+nous ne pouvons pas nous en sortir à coups de bombes.
+Nous allons le faire à la bonne vielle manière américaine,
+nous allons nous en sortir en inventant,
+en travaillant ensemble.
+(Applaudissements)
+Maintenant, commençons.
+La batterie a été inventée il y a 200 ans
+par un professeur, Alessandro Volta,
+à l'Université de Padoue en Italie.
+Son invention a donné naissance à un nouveau domaine scientifique,
+l'électrochimie,
+et les nouvelles technologies
+telles que la galvanoplastie.
+Peut-être négligée,
+l'invention de la pile par Volta
+pour la première fois a aussi
+démontré l'utilité d'un professeur.
+(Rires)
+Jusqu'à Volta, personne ne pouvait imaginer
+qu'un professeur pouvait être d'une utilité quelconque.
+Voici la première batterie -
+une pile de pièces de monnaie, de zinc et d'argent,
+séparées par du carton trempé dans de la saumure.
+C'est le point de départ
+pour la conception d'une batterie -
+deux électrodes,
+dans le cas présent des métaux de composition différente,
+et un électrolyte,
+dans le cas présent le sel dissous dans l'eau.
+La science est aussi simple que cela.
+Certes, j'ai laissé de côté quelques détails.
+Maintenant, je vous ai enseigné
+que la science de la batterie est simple
+et la nécessité de stockage au niveau du réseau
+est convaincante,
+mais le fait est
+qu'aujourd'hui, il n'y a tout simplement pas de technologie des batteries
+capable de répondre
+aux exigences de performance du réseau -
+à savoir une énergie anormalement élevée,
+une durée de vie longue
+et un coût ultra-faible.
+Nous devons réfléchir au problème différemment.
+Nous devons penser grand,
+nous devons penser bon marché.
+Donc, abandonnons l'idée
+de chercher la chimie la plus cool
+et puis d'espérer faire baisser les coûts
+en faisant simplement des tas et des tas de produits.
+Au lieu de cela, inventons
+au niveau de prix du marché de l'électricité.
+Cela signifie donc
+que certaines parties de la table périodique
+sont axiomatiquement hors-limites.
+Cette batterie doit être faite
+à partir d'éléments abondants sur terre.
+Je dis que si vous voulez faire quelque chose de vraiment pas cher,
+prenez de la terre pour le faire --
+(Rires)
+de préférence de la poussière
+qui est d'origine locale.
+Et nous devons être en mesure de construire ce truc
+en utilisant des techniques de fabrication simples et des usines
+qui ne nous coûtent pas une fortune.
+Donc, il y a environ six ans,
+j'ai commencé à réfléchir à ce problème.
+Et afin d'adopter une nouvelle perspective,
+j'ai cherché l'inspiration au-delà du domaine du stockage de l'électricité.
+En fait, je me suis tourné vers une technologie
+qui ne stocke pas et ne génère pas d'électricité,
+mais au lieu de ça consomme de l'électricité,
+en quantités énormes.
+Je parle de la production d'aluminium.
+Le procédé a été inventé en 1886
+par deux hommes de 22 ans -
+Hall aux États-Unis et Héroult en France.
+Et à peine quelques années après leur découverte,
+l'aluminium est passé
+du statut de métal précieux coûtant aussi cher que l'argent
+à celui d'un matériau ordinaire.
+Vous avez devant vous là la halle d'électrolyse d'une aluminerie moderne.
+Elle mesure environ 15 mètres de large
+et s'étend sur environ 800 mètres -
+rangée après rangée de cellules
+qui, à l'intérieur, ressemble à la pile de Volta,
+avec trois différences importantes.
+La pile de Volta fonctionne à température ambiante.
+Elle est munie d'électrodes solides
+et d'un électrolyte qui est une solution saline.
+La cellule de Hall-Héroult
+fonctionne à haute température,
+une température suffisamment élevée
+pour que le produit de l'aluminium métallique soit liquide.
+L'électrolyte
+n'est pas une solution saline,
+mais plutôt du sel fondu.
+C'est cette combinaison de métal liquide,
+de sel fondu et la température élevée
+qui nous permet d'envoyer du courant élevée à travers cette chose.
+Aujourd'hui, nous pouvons produire du métal vierge à partir du minerai
+à un coût inférieur à 50 cents la livre.
+C'est le miracle économique
+de l'électrométallurgie moderne.
+C'est ce qui a attiré et retenu mon attention
+au point qu'inventer une batterie capable de capturer
+cette économie d'échelle gigantesque est devenue pour moi une obsession.
+Et je l'ai fait.
+J'ai fait une batterie entièrement liquide -
+des métaux liquides pour les deux électrodes
+et un sel fondu pour l'électrolyte.
+Je vais vous montrer comment.
+Donc, j'ai mis du métal liquide de faible densité
+dans la partie supérieure,
+un métal liquide à haute densité au fond,
+et le sel fondu entre les deux.
+Alors maintenant,
+comment choisir les métaux ?
+Pour moi, l'exercice de conception
+commence toujours ici
+avec la classification périodique,
+énoncée par un autre professeur,
+Dimitri Mendeleïev.
+Tout ce que nous savons
+est constitué d'une combinaison
+de ce que vous voyez représenté ici.
+Et cela inclut notre propre corps.
+Je me souviens du moment où un jour
+quand j'étais à la recherche d'une paire de métaux
+qui répondrait aux contraintes
+de l'abondance sur terre,
+de densité différente et opposée,
+et d'une grande réactivité mutuelle.
+J'ai ressenti le frisson de la réalisation
+quand j'ai su que j'avais trouvé la réponse.
+Le magnésium pour la couche supérieure.
+Et l'antimoine
+pour la couche inférieure.
+Vous savez, je dois vous dire,
+un des plus grands avantages d'être un professeur:
+la craie de couleur.
+(Rires)
+Donc, pour produire du courant,
+le magnésium perd deux électrons
+pour devenir ion magnésium,
+qui migre ensuite à travers l'électrolyte,
+accepte deux électrons de l'antimoine,
+et se mélange ensuite avec lui pour former un alliage.
+Les électrons se mettent au travail
+dans le monde réel ici,
+et alimentent nos appareils.
+Maintenant, pour charger la batterie,
+nous connectons une source d'électricité.
+Ce pourrait être quelque chose comme un parc éolien.
+Et puis, nous inversons le courant.
+Et cela contrait le magnésium à quitter l'alliage
+et à revenir à l'électrode supérieure,
+ce qui restaure la constitution initiale de la batterie.
+Et le courant qui passe entre les électrodes
+génère suffisamment de chaleur pour le garder à la température.
+C'est plutôt cool,
+du moins en théorie.
+Mais ça marche vraiment ?
+Alors, que faire ensuite?
+Nous allons au laboratoire.
+Maintenant est-ce que j'embauche des professionnels chevronnés ?
+Non, j'embauche un étudiant
+et je l'épaule,
+je lui apprends à réfléchir au problème,
+à le voir de mon point de vue
+puis je le laisse faire.
+C'est lui l'étudiant, David Bradwell,
+qui, dans cette image,
+semble se demander si cette chose fonctionnera un jour.
+Ce que je n'ai pas dit David à l'époque
+c'est que je n'étais moi-même pas convaincu que cela fonctionnerait.
+Mais David est jeune et il est intelligent
+et il veut un doctorat,
+et il procède à la construction -
+(Rires)
+Il procède à la construction
+de la première batterie en métal liquide
+de cette chimie.
+Et sur la base des premiers résultats prometteurs de David,
+qui ont été payés
+avec des fonds d'amorçage au MIT,
+J'ai pu attirer des fonds de recherche majeurs
+du secteur privé
+et du gouvernement fédéral.
+Et ce qui m'a permis d'élargir mon groupe à 20 personnes,
+un mélange d'étudiants diplômés, de post-doctorants
+et même des étudiants de premier cycle.
+Et j'ai pu attirer des gens vraiment, vraiment bons,
+des gens qui partagent ma passion
+pour la science et le service à la société,
+pas pour la science et le service pour le développement de carrière.
+Et si vous demandez à ces gens
+pourquoi ils travaillent sur la batterie en métal liquide,
+leur réponse ferait écho
+aux remarques du Président Kennedy
+à l'Université Rice en 1962
+quand il a dit - et je prends des libertés ici -
+« Nous avons choisi de travailler sur le réseau au niveau de stockage,
+non pas parce que c'est facile,
+mais parce que c'est dur. »
+(Applaudissements)
+C'est donc l'évolution de la batterie en métal liquide.
+Nous commençons ici avec notre pile d'un wattheure.
+Je l'ai appelé le petit verre.
+Nous en avons exploité plus de 400,
+en perfectionnant leurs performances avec une pluralité de chimies -
+pas seulement du magnésium et de l'antimoine.
+Au fil du temps nous sommes passés à la pile de 20 watts-heure.
+C'est ce que j'appelle le palet de hockey.
+Et nous avons obtenu les mêmes résultats remarquables.
+Et puis, il était sur la soucoupe.
+C'est 200 wattheures.
+La technologie s'est avérée
+être robuste et adaptable.
+Mais le rythme n'était pas assez rapide pour nous.
+Donc, il y a un an et demi,
+David et moi,
+avec un autre membre du personnel de recherche,
+nous avons formé une société
+pour accélérer le rythme des progrès
+et la course pour fabriquer un produit.
+Donc, aujourd'hui, au LMBC,
+nous construisons des cellules de 41 cm de diamètre
+d'une capacité de un kilowattheure -
+1000 fois la capacité
+de cette cellule petit verre initiale.
+Nous l'appelons la pizza.
+Et puis nous avons une cellule de quatre kilowattheures en préparation.
+Elle fera 91 cm de diamètre.
+Nous l'appelons la table de bistro,
+mais elle n'est pas encore prête à montrer au public.
+Et une variante de la technologie
+nous fait empiler ces plateaux de bistrot en modules,
+agréger les modules en une pile géante
+qui entre dans un conteneur d'expédition de 12 mètres
+pour le placement sur le terrain.
+Et cela a une capacité nominale de deux mégawatts-heures -
+deux millions de watts-heures.
+C'est assez d'énergie
+pour répondre aux besoins quotidiens électriques
+de 200 ménages américains.
+Alors là, vous l'avez, le stockage au niveau du réseau :
+silencieux, sans émissions,
+pas de pièces mobiles,
+télécommandé,
+conçu pour le prix de refernce sur le marché
+sans subvention.
+Alors qu'avons-nous appris de tout cela?
+(Applaudissements)
+Alors qu'avons-nous appris de tout cela?
+Permettez-moi de partager avec vous
+quelques-unes des surprises, des hétérodoxies.
+Elles se trouvent au-delà du visible.
+Température :
+La sagesse conventionnelle dit de la régler à un niveau faible.
+à ou près de la température ambiante,
+puis installer un système de contrôle pour la maintenir.
+Eviter l'emballement thermique.
+La batterie de métal liquide est conçue pour fonctionner à une température élevée
+avec une régulation minimale.
+Notre batterie peut gérer les hausses très importantes de température
+qui viennent des surtensions.
+Changement d'échelle : La sagesse conventionnelle dit
+de réduire les coûts en produisant en grand nombre.
+La batterie métal liquide est conçue pour réduire les coûts
+en produisant moins, mais elles seront plus grandes.
+Et enfin, les ressources humaines :
+La sagesse conventionnelle dit
+d'engager des experts de la batterie,
+des professionnels chevronnés,
+qui peuvent tirer parti de leurs vastes expérience et connaissances.
+Pour développer la batterie en métal liquide,
+j'ai embauché des étudiants et des post-doctorants et les ai encadrés.
+Dans une batterie,
+je m'efforce de maximiser le potentiel électrique;
+quand j'encadre,
+je m'efforce de maximiser le potentiel humain.
+Donc, vous voyez,
+l'histoire de la batterie de métal liquide
+est plus qu'un compte-rendu
+sur l'invention d'une technologie,
+c'est un plan
+pour inventer les inventeurs, à spectre complet.
+(Applaudissements)

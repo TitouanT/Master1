@@ -1,0 +1,339 @@
+Je voudrais vous raconter une histoire
+qui fait le lien entre le célèbre incident qui s'est produit
+dans la vie privée d'Adam et Eve,
+et le remarquable déplacement de la frontière
+entre vie publique et vie privée qui s'est produit
+dans les 10 dernières années.
+Vous connaissez l'incident.
+Adam et Eve, un jour, au Jardin d'Eden,
+réalisent qu'ils sont nus.
+Ils paniquent.
+On connait la suite.
+De nos jours, Adam et Eve
+se comporteraient sans doute différemment.
+[@Adam Cette nuit était trop top ! Adoré 7 pom LOL]
+[@Eve Ok...Baby, T sais ce ki est arrivé à mon pantalon ?
+Nous révélons tellement plus d'informations
+sur nous-mêmes, en ligne, que jamais auparavant,
+et tant d'informations qui nous concernent
+sont collectées par des organisations.
+Nous avons certes beaucoup à gagner et à bénéficier
+de cette analyse géante d'informations personnelles,
+ou Big Data,
+mais il y a aussi des contreparties complexes
+à abandonner notre vie privée.
+Mon histoire parle de ces contreparties.
+Commençons par une observation qui, dans mon esprit,
+est devenue de plus en plus claire ces dernières années :
+toute information personnelle
+peut devenir une information sensible.
+En 2000, environ 100 milliards de photos
+ont été prises dans le monde,
+mais seule une infime proportion de celles-ci
+ont été mises en ligne.
+En 2010, rien que sur Facebook, en un seul mois,
+2,5 milliards de photos ont été mises en ligne,
+la plupart identifiées.
+Pendant ce temps,
+la capacité des ordinateurs à reconnaître des personnes sur photo
+s'est améliorée de trois ordres de grandeur.
+Que se passe-t-il quand on combine
+ces technologies ?
+Disponibilité croissante des données faciales ;
+capacité améliorée de reconnaissance faciale par les ordinateurs ;
+mais aussi le cloud computing,
+qui donne à chacun de nous dans cette salle
+la puissance de calcul
+qui, il y a quelques années à peine, était du registre
+des services spéciaux ;
+et l'informatique omniprésente,
+qui permet à mon téléphone, pourtant pas un super-ordinateur,
+de se connecter à Internet
+et d'y réaliser des centaines de milliers
+de mesures faciales en quelques secondes.
+Et bien, nous émettons l'hypothèse
+que le résultat de cette combinaison de technologies
+sera un changement radical de nos conceptions mêmes
+de la vie privée et de l'anonymat.
+Pour tester cela, on a réalisé une expérience
+sur le campus de l'Université Carnegie Mellon.
+On a demandé à des étudiants qui passaient
+de participer à une étude,
+on a pris une photo d'eux avec une webcam,
+et on leur a demandé de répondre à un sondage sur un PC portable.
+Pendant qu'ils répondaient au sondage,
+on a téléchargé leur photo sur un groupe de cloud-computing,
+et on a utilisé un outil de reconnaissance faciale
+pour faire correspondre cette photo à une base de données
+de centaines de milliers d'images,
+qu'on avait téléchargée depuis des profils Facebook.
+Avant que le sujet n'ait atteint la dernière page du sondage,
+celle-ci avait été mise à jour de façon dynamique
+avec les 10 meilleures photos correspondantes
+que l'outil de reconnaissance avait trouvées,
+et on a demandé aux sujets d'indiquer
+si ils ou elles s'étaient reconnus sur la photo.
+Vous voyez le sujet ?
+Et bien, l'ordinateur l'avait vu, et en fait, il l'a vu
+chez un sujet sur trois.
+On peut donc partir d'un visage anonyme,
+en ligne ou hors ligne, et on peut utiliser la reconnaissance faciale
+pour donner un nom à ce visage anonyme
+grâce aux données des réseaux sociaux.
+Mais quelques années auparavant, on a fait quelque chose d'autre.
+A partir des données des réseaux sociaux,
+combinées statistiquement avec les données
+de la Sécurité Sociale du gouvernement américain,
+on a réussi à déduire les numéros de sécurité sociale,
+ce qui est, aux Etats-Unis,
+une information extrêmement sensible.
+Vous voyez où je veux en venir ?
+Si vous combinez les deux études,
+la question devient :
+peut-on partir d'un visage et,
+en utilisant la reconnaissance faciale, trouver le nom
+et les informations disponibles de façon publique
+sur ce nom et sur cette personne,
+puis, à partir de ces informations publiques,
+en déduire des informations non publiques,
+beaucoup plus sensibles,
+que l'on peut relier au visage ?
+Et la réponse est, oui, on peut, et on l'a fait.
+Bien sûr, la précision est de pire en pire.
+[27% des 5 premiers chiffres du numéro de SS identifiés (après 4 essais)]
+En fait, nous avons même décidé de développer une application iPhone
+qui utilise la caméra interne du téléphone
+pour prendre un sujet en photo
+et la télécharger sur le cloud
+et puis faire ce que je vous ai décrit en temps réel :
+chercher une correspondance, trouver des informations publiques,
+essayer d'en déduire des informations sensibles,
+et la renvoyer sur le téléphone
+pour qu'elle s'affiche sur le visage du sujet,
+un exemple de réalité augmentée,
+probablement un exemple effrayant de réalité augmentée.
+En fait, nous n'avons pas développé l'appli pour la rendre publique,
+mais seulement comme une preuve du concept.
+En fait, prenez ces technologies,
+et poussez-les jusqu'à leur extrémité logique.
+Imaginez un futur où des inconnus autour de vous
+vous regarderont à travers leurs Google Glasses
+ou bien, un jour, leurs lentilles de contact,
+et utiliseront 7 ou 8 données sur vous
+pour en déduire n'importe quoi d'autre
+qui pourrait être connu à votre sujet.
+A quoi ressemblera ce futur sans secrets ?
+Et devons-nous nous en préoccuper ?
+On pourrait aimer croire
+qu'un futur avec une telle richesse de données
+serait un futur sans plus de parti-pris,
+mais en fait, avoir autant d'informations
+ne veut pas dire que nous prendrons des décisions
+plus objectives.
+Dans une autre expérience, nous avons présenté à nos sujets
+des informations à propos d'un candidat potentiel à un emploi.
+Nous avons inclus dans ces informations des références à des choses
+plutôt drôles, absolument légales,
+mais peut-être un peu embarrassantes
+que le sujet avait postées en ligne.
+De façon intéressante, parmi nos sujets,
+certains avaient posté des choses de même nature,
+et d'autres non.
+Quel groupe, d'après vous,
+a été le plus enclin à juger durement notre sujet ?
+De façon paradoxale, c'est le groupe
+qui avait posté des choses similaires,
+un exemple de dissonance morale.
+Vous pourriez vous dire,
+ceci ne s'applique pas à moi,
+parce que je n'ai rien à cacher.
+Mais en réalité, la vie privée n'a rien à voir
+avec le fait d'avoir quelque chose de négatif à cacher.
+Imaginez que vous êtes le directeur des R.H.
+d'une certaine organisation, et que vous receviez des CV,
+et que vous décidiez de trouver plus d'informations au sujet de vos candidats.
+Pour cela, vous Googlez leur noms
+et dans un certain univers,
+vous trouvez ces informations.
+Ou, dans un univers parallèle, vous trouvez celles-ci.
+Pensez-vous que chaque candidat aurait autant de chance
+que vous l'appeliez pour un entretien ?
+SI vous pensez ça, alors vous n'êtes pas
+comme les employeurs américains qui, en fait, font
+partie de notre expérience, je veux dire que c'est exactement ce qu'on a fait.
+On a créé des profils Facebook, déformé certains faits,
+et on a commencé à envoyer nos CV à des sociétés aux Etats-Unis,
+puis nous avons détecté et suivi
+s'ils faisaient des recherches sur nos candidats,
+et s'ils agissaient en fonction des informations
+qu'ils avaient trouvées sur les réseaux sociaux. Et ils le faisaient.
+La discrimination se faisait à travers les réseaux sociaux
+pour des candidats de même niveau de qualification.
+Les spécialistes du marketing voudraient nous faire croire
+que toutes les informations nous concernant seront toujours
+utilisées pour notre bénéfice.
+Mais pensez-y. Pourquoi devrait-ce toujours être le cas ?
+Dans un film sorti il y a quelques années,
+« Minority Report », une scène célèbre
+montre Tom Cruise marchant dans un centre commercial
+alors qu'une une publicité holographique personnalisée
+apparaît autour de lui.
+Ce film était censé se passer en 2054,
+dans environ 40 ans,
+et aussi excitante que semble cette technologie,
+elle sous-estime déjà largement
+la quantité d'informations que les organisations
+peuvent recueillir à votre sujet, et comment elles peuvent les utiliser
+pour vous influencer d'une manière que vous ne détecterez même pas.
+A titre d'exemple, voici une autre expérience
+qui est encore en cours, pas encore terminée.
+Imaginez qu'une organisation ait accès
+à votre liste d'amis sur Facebook,
+et grâce à une sorte d'algorithme
+elle peut détecter les deux amis que vous aimez le plus.
+Puis elle crée, en temps réel,
+un composé du visage de ces deux amis.
+Des études avant les nôtres ont démontré que les gens
+ne se reconnaissent même plus eux-mêmes
+dans des visages composés, mais ils réagissent
+envers ces composés d'une manière favorable.
+Ainsi, la prochaine fois que vous chercherez un produit donné,
+et qu'il y aura une pub vous proposant de l'acheter,
+ce ne sera pas juste un acteur standard.
+Ce sera l'un de vos amis,
+et vous ne remarquerez même pas que cela se passe comme ça.
+Aujourd'hui, le problème est que
+les mécanismes de régulations actuels
+pour nous protéger contre les abus liés à l'utilisation des informations personnelles
+sont comme affronter une mitraillette armé seulement d'un couteau.
+L'un de ces mécanismes est la transparence,
+on doit informer les personnes de ce que l'on va faire avec leurs données.
+Et, en principe, c'est une très bonne chose.
+C'est nécessaire, mais pas suffisant.
+La transparence peut être détournée.
+Vous pouvez dire aux gens ce que vous allez faire,
+et les pousser encore à divulguer
+des quantités arbitraires d'informations personnelles.
+Ainsi, dans une autre expérience, menée avec des étudiants,
+nous leur avons demandé de fournir des informations
+sur leur comportement sur le campus,
+y compris des questions très sensibles, comme celle-ci :
+[Avez-vous déjà triché à un examen ? ]
+Nous avons dit à un groupe de sujets :
+«Seuls d'autres étudiants vont voir vos réponses.»
+Nous avons dit à un autre groupe :
+«Les étudiants et les professeurs vont voir vos réponses.»
+Transparence. Notification. Et, bien sûr, ça a marché,
+dans le sens où le premier groupe de sujets
+était beaucoup plus enclin à donner des informations que le second.
+C'est logique, n'est-ce pas ?
+Mais nous avons ensuite ajouté le détournement.
+Nous avons répété l'expérience avec les deux mêmes groupes,
+cette fois-ci, en ajoutant un délai
+entre le moment où on a dit aux sujets
+comment nous utiliserions leurs données
+et le moment où on a commencé à leur poser des questions.
+Combien de temps pensez-vous que nous ayonsdû ajouter
+pour neutraliser l'effet inhibiteur
+de savoir que les professeurs verraient vos réponses ?
+Dix minutes ?
+Cinq minutes ?
+Une minute ?
+Que diriez-vous de 15 secondes ?
+Quinze secondes ont suffit pour que les deux groupes
+divulguent la même quantité d'informations,
+comme si le deuxième groupe ne se souciait plus
+que les professeurs puissent lire ses réponses.
+Je dois reconnaître que cette conférence, jusqu'ici,
+peut sembler excessivement sombre,
+mais ce n'est pas l'essentiel de mon message.
+En fait, je veux vous montrer
+qu'il existe des alternatives.
+La façon dont on fait les choses aujourd'hui
+n'est pas la seule manière de faire,
+ni certainement la meilleure.
+Si quelqu'un vous dit, « Les gens se fichent de préserver leur vie privée »,
+demandez-vous si le jeu n'a pas été conçu
+et truqué dans le but qu'ils ne puissent pas s'en soucier.
+Réaliser que ces manipulations se produisent,
+c'est déjà être à mi-chemin du processus
+qui nous rend capables de nous protéger nous-mêmes.
+Si quelqu'un vous dit que la protection de la vie privée est incompatible
+avec les avantages du Big Data,
+considérez qu'au cours des 20 dernières années,
+les chercheurs ont créé des technologies
+qui permettent à virtuellement toutes les transactions électroniques
+de se dérouler d'une manière plus respectueuse de la vie privée.
+On peut naviguer sur Internet de façon anonyme.
+On peut envoyer des mails qui ne pourront être lus
+que par le destinataire, pas même par la NSA.
+Il peut même y avoir une exploitation des bases de données respectueuse de la vie privée.
+En d'autres termes, nous pouvons avoir les avantages du Big Data
+tout en protégeant la vie privée.
+Bien sûr, ces technologies impliquent un changement
+de la répartition des coûts et des revenus
+entre les détenteurs de données et les personnes concernées,
+ce qui explique peut-être pourquoi vous n'en entendez pas beaucoup parler.
+Ce qui me ramène au Jardin d'Eden.
+Il y a une seconde interprétation à propos de la vie privée
+dans l'histoire du Jardin d'Eden
+qui n'a rien à voir avec le fait
+qu'Adam et Eve se sentent nus
+et honteux.
+Vous pouvez trouver les échos de cette interprétation
+dans "Le Paradis perdu" de John Milton.
+Dans le jardin, Adam et Eve sont contentés sur le plan matériel.
+Ils sont heureux. Ils sont satisfaits.
+Cependant, ils n'ont ni la connaissance,
+ni la conscience d'eux-mêmes.
+Au moment où ils mangent le bien nommé
+fruit de la connaissance,
+c'est là qu'ils se découvrent eux-mêmes.
+Ils prennent conscience. Ils parviennent à l'autonomie.
+Cependant, le prix à payer, c'est de quitter le jardin.
+La vie privée, d'une certaine manière, c'est à la fois le moyen
+et le prix à payer pour la liberté.
+Encore une fois, les spécialistes du marketing nous disent
+que le Big Data et les réseaux sociaux
+ne sont pas seulement pour eux un paradis du profit,
+mais aussi un Jardin d'Eden pour nous autres.
+Nous bénéficions de contenus gratuits.
+Nous avons la chance de jouer à Angry Birds. Nous avons des applications ciblées.
+Mais en fait, dans quelques années, ces organisations
+sauront tant de choses sur nous,
+qu'ils seront en mesure de déduire nos désirs
+avant que nous les ayons formés, et peut-être
+d'acheter des produits en notre nom
+avant qu'on ne réalise qu'on en a besoin.
+Il y a un auteur anglais
+qui a anticipé ce genre de futur
+dans lequel nous abandonnerions
+notre autonomie et notre liberté pour du confort.
+Plus encore que George Orwell,
+cet auteur est, bien sûr, Aldous Huxley.
+Dans « Le Meilleur des Mondes », il imagine une société
+dans laquelle les technologies que nous avons créées
+à l'origine pour la liberté
+finissent par nous contraindre.
+Toutefois, dans ce livre, il nous offre aussi une porte de sortie
+de cette société, semblable au chemin
+qu'Adam et Ève ont eu à suivre pour quitter le jardin.
+Selon les termes du Sauvage,
+retrouver l'autonomie et la liberté est possible,
+bien que le prix à payer soit élevé.
+Je crois fermement que l'un des combats décisifs
+de notre époque sera le combat
+pour le contrôle des informations personnelles,
+le combat pour savoir si les Big Data peuvent devenir un vecteur
+de liberté,
+plutôt qu'un moyen de nous manipuler à notre insu.
+À l'heure actuelle, bon nombre d'entre nous
+ne savent même pas que le combat a commencé,
+mais c'est le cas, que ça vous plaise ou non.
+Et au risque de jouer les serpents,
+je vous dirais que les outils pour ce combat
+sont là, la conscience de ce qui est en train de se passer,
+et dans vos mains,
+à quelques clics seulement.
+Merci.
+(Applaudissements)

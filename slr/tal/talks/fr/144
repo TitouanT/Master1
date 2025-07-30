@@ -1,0 +1,369 @@
+Je me considère vraiment comme un narrateur.
+Mais je ne raconte pas les histoires de manière classique,
+dans le sens où je ne raconte pas mes propres histoires.
+Par contre, je suis très intéressé par la construction d'outils qui permettent
+à un grand nombre de personnes de raconter leurs histoires,
+quelles que soient leurs origines.
+Je le fais parce que je pense que les gens ont beaucoup en commun.
+Je pense que les gens se ressemblent beaucoup,
+mais je pense aussi que nous avons du mal à le voir.
+Vous savez, lorsque je regarde tout autour de moi, je vois beaucoup de différences,
+et je pense que nous voyons tous beaucoup de différences.
+Nous nous définissons par nos différences.
+Vous savez, il y a des différences linguistiques,
+des différences ethniques et raciales, des différences d'âge,
+des différences de sexe, des différences d'orientation sexuelle,
+des différences de richesse, des différences d'éducation,
+il y a aussi des différences religieuses.
+Vous savez, nous avons tous ces différences et je pense que nous aimons nos différences,
+parce qu'elles nous font nous identifier à quelque chose,
+à une petite communauté.
+Mais je pense qu'en réalité, malgré nos différences,
+nous avons vraiment beaucoup de choses en commun.
+Et je pense que ce que nous avons en commun,
+c'est un besoin très profond de nous exprimer.
+Je pense que c'est un désir très ancien. Ce n'est pas nouveau.
+Mais en ce qui concerne l'expression de soi,
+il y a toujours eu ce déséquilibre
+entre le désir que nous avons de nous exprimer
+et le nombre d'amis sympathiques
+qui sont prêts à être là et à écouter.
+(Rires)
+Ça aussi, ce n'est pas nouveau.
+Depuis l'aube de l'histoire humaine, nous avons essayé de corriger ce déséquilibre
+à travers l'art, l'écriture de poèmes, la chanson,
+l'écriture de scripts éditoriaux et leur publication dans un journal,
+les bavardages avec des amis. Ce n'est pas nouveau.
+La nouveauté, c'est que depuis ces dernières années
+beaucoup de ces activités traditionnelles à l'homme, très physiques,
+ces actes d'auto-expression, sont passés sur Internet.
+Et ce qui s'est passé, c'est que les gens ont laissé derrière eux des empreintes,
+des empreintes qui racontent les histoires de leurs instants d'auto-expression.
+Et donc, voilà ce que j'ai fais, j'ai écrit des programmes informatiques
+qui étudient de larges échantillons de ces empreintes,
+et ensuite, j'ai essayé d'en tirer des conclusions sur les personnes qui les ont laissées --
+ce qu'ils ressentent, ce qu'ils pensent,
+ce qui est différent dans le monde d'aujourd'hui par rapport à d'habitude.
+Ce genre de questions.
+Un projet qui explore ces idées
+a été lancé il y a environ un an,
+et est intitulé We Feel Fine (nous nous sentons bien).
+C'est un outil qui, tous les deux ou trois minutes,
+scanne les nouveaux posts de blog dans le monde
+pour les occurrences des mots "I feel" (je ressens) ou "I am felling" (je me sens)
+Et quand il trouve l'une de ces phrases,
+il la capture à la virgule près,
+puis tente automatiquement d'en déduire l'âge, le sexe
+et la situation géographique de la personne qui a écrit cette phrase.
+Puis, connaissant la situation géographique et la date,
+nous pouvons alors trouver le temps qu'il faisait quand
+cette personne a écrit la phrase.
+Toutes ces informations sont enregistrées dans une base de données
+qui collecte environ 20.000 sentiments par jour.
+Il fonctionne depuis environ un an et demi.
+Il a rassemblé actuellement environ 7,5 millions de sentiments humains,
+et je vais vous donner un aperçu
+de la façon dont cette information est alors visualisée. Voici donc We Feel Fine.
+Ce que vous voyez ici est une masse grouillante de particules,
+chacune d'elle représentant un sentiment humain unique
+qui a été exprimé dans les dernières heures.
+La couleur de chaque particule correspond au type de sentiment qu'il contient -
+de sorte que, les sentiments positifs soient de couleurs vives.
+Et les sentiments négatifs de couleur sombre.
+Le diamètre de chaque point
+représente la longueur de la phrase,
+les gros points contiennent de grandes phrases,
+et les petits points contiennent des petites phrases.
+Tout point peut être cliqué et élargi. Nous voyons ici,
+"Je me sentirais beaucoup mieux
+si je pouvais me blottir dans ses bras en ce moment et sentir son affection pour moi
+dans l'étreinte de son corps et la tendresse de ses lèvres"
+Ainsi, les choses deviennent un peu chaudes, parfois
+dans le monde des émotions humaines.
+Et tout cela est exprimé par des personnes :
+"Je sais que objectivement, ça ne signifie vraiment pas grand chose,
+mais après avoir passé tant d'années comme un petit poisson dans un grand étang,
+il est agréable de se sentir encore plus grand."
+Les points montrent des qualités humaines. Ils ont comme leurs propres lois physiques,
+et ils fourmillent, égarés, comme en train d'explorer le monde de la vie.
+Et puis, ils montrent aussi la curiosité.
+Vous pouvez voir quelques-uns de ces spécimens qui nagent autour du curseur en ce moment.
+Vous pouvez en voir quelques autres
+qui fourmillent autour du coin inférieur gauche de l'écran
+autour de six mots. Ces six mots représentent les six mouvements
+de We Feel Fine. Nous regardons actuellement Madness (la folie).
+Il y a aussi Mumurs, Montage, Mobs, Metric et Mounds.
+Et je vais vous guider à travers quelques-uns d'entre eux.
+Murmurs fait s'envoler tous les sentiments.
+Et puis, un par un, par ordre chronologique inverse,
+ils s'excusent, entrant dans la liste déroulante des sentiments.
+"Je me sens un peu mieux maintenant."
+(Rires)
+"Je me sens confus et incertain de ce que je veux faire."
+"Je me sens dépouillé de quelque chose de génial ici."
+"Je me sens libre, je me sens si bien."
+"Je me sens comme si j'étais dans le brouillard de la dépression, que je ne peux quitter"
+Et vous pouvez cliquer sur n'importe quelle phrase
+et visiter le blog d'où elle provient. Et de cette manière,
+vous pouvez prendre contact avec les auteurs de ces déclarations,
+si vous sentez une certaine empathie.
+Le mouvement suivant est appelé Montage.
+Montage concerne tous les sentiments qui sont contenus dans les photographies,
+ils sont extraits, et s'affichent dans une grille.
+Cette grille est sensée représenter en image les sentiments du monde entier
+pendant ces dernières heures, si vous voulez.
+On peut cliquer sur chacun d'eux et les ouvrir.
+On peut voir, "J'ai l'impression que je n'aurais du plaisir
+que s'il est partagé" ça a été écrit par quelqu'un du Michigan.
+On peut voir "Je me sens comme si j'avais été devant un ordinateur toute la journée"
+(Rires)
+Ils sont automatiquement construits en utilisant les objets trouvés:
+"Je n'ai plus faim"
+Le mouvement suivant est appelé mobs.
+Mobs prévoit différentes ventilations statistiques
+de la population des sentiments du monde de ces dernières heures.
+On voit que "mieux" est le sentiment le plus fréquent en ce moment,
+suivi par bon, mauvais, coupable, droit, bas, malade et ainsi de suite.
+On peut également obtenir une ventilation par sexe.
+On peut voir que dans ces dernières heures, les femmes ont été légèrement plus enclines
+à parler de leurs émotions que les hommes.
+Nous pouvons faire une répartition par âge, ce qui nous donne un histogramme
+de la distribution émotionnelle du monde selon l'âge.
+On voit que les gens qui ont la vingtaine sont les plus prolifiques,
+suivis des adolescents, et ensuite les gens qui ont la trentaine,
+et très peu de monde au delà.
+Par beau temps, les sentiments suivent les caractéristiques physiques
+de la météo qu'ils représentent,
+de sorte que celles recueillies lors d'une journée ensoleillée
+tourbillonnent comme s'ils faisaient partie du soleil.
+Les plus nuageux flottent comme s'ils étaient dans le vent.
+Les pluvieux tombent, comme si c'était une averse,
+et les neigeux tombent sur le sol.
+Enfin, la localisation pousse les sentiments à se positionner
+sur une carte du monde, mettant en évidence leur répartition géographique.
+Metrics fournit des vues numériques sur les données.
+Nous voyons que le monde "se sent" actuellement utilisé
+à 3,3 fois le niveau normal.
+(Rires)
+La sensation de chaleur est à 2,9 fois le niveau normal, et ainsi de suite.
+D'autres vues sont également disponibles.
+Voici le sexe, l'âge, la météo, l'emplacement.
+Le dernier mouvement est appelé Mounds.
+Il est un peu différent des autres.
+Mounds permet de visualiser l'ensemble des données, des "blobs" gélatineux
+qui en quelque sorte se trémoussent.
+Et si je tiens mon curseur vers le bas, ils font une petite danse.
+On voit que "mieux" est le sentiment le plus fréquent, suivi de "mauvais".
+Et puis, si je le déplace ici, la liste commence à défiler,
+et il y a effectivement des milliers de sentiments qui ont été collectés.
+Vous pouvez voir que le petit curseur rose se déplacer en longueur,
+il représente notre position.
+Ici nous voyons des gens qui se sentent "glissants", "nauséeux", "responsables".
+Il y a aussi une possibilité d'effectuer des recherches,
+si vous êtes intéressé par une population donnée.
+Par exemple, vous pourriez trouver des femmes d'une vingtaine d'année
+qui se sentent "accro" alors qu'il fait nuageux au Bangladesh.
+(Rires)
+Mais je vais vous épargner ça.
+Voici donc certains de mes montages préférés qui ont été recueillis:
+"Je sens tellement mon père vivant en moi qu'il n'y a même plus de place pour moi."
+"Je me sens très seule."
+"J'ai besoin d'être dans un village de campagne
+afin de me sentir belle."
+"J'ai le sentiment d'être invisible pour toi."
+"Je ne l'aurais pas caché, si la société ne m'a pas fait sentir combien j'en avais besoin."
+"J'aime Carolyn." "Je me sens si vilain."
+"Je sens que ces gens bizarres sont en réalité un plus de la vie au collège"
+(Rires)
+"J'aime comment je me sens aujourd'hui."
+Donc, comme vous pouvez le constater, We Feel Fine utilise une technique
+que j'appelle "l'observation passive.
+Ce que je veux dire par là c'est qu'il observe passivement les gens,
+comme ils vivent leur vie. Il scanne les blogs du monde entier
+et examine ce que les gens ont écrit,
+et ces gens ne savent pas qu'ils sont observés ou interrogés.
+Et grâce à ça,
+vous finissez par être très honnête, franc, sincère
+et les réponses sont souvent très émouvantes.
+C'est une technique que j'apprécie généralement dans mon travail
+parce que les gens ne savent pas qu'ils sont interrogés.
+Ils vivent simplement leur vie - et ils finissent par agir comme ça.
+Une autre technique consiste à interroger directement les gens.
+Et c'est une technique que j'étudie dans un projet différent,
+Yahoo! Time Capsule,
+qui a été conçu pour prendre une empreinte du monde en 2006.
+Il était divisé en dix thèmes très simples -
+l'amour, la colère, la tristesse et ainsi de suite -
+dont chacun contenait une seule question, très ouverte,
+posée au monde: Qu'est-ce que vous aimez ? Qu'est-ce qui vous met en colère ?
+Qu'est ce qui vous rend triste ? En quoi croyez-vous ? Et ainsi de suite.
+La "Time Capsule" a été disponible pendant un mois en ligne,
+traduite en 10 langues, et voici à quoi elle ressemblait.
+C'est un globe en rotation,
+dont la surface est entièrement composée d'images,
+de mots et de dessins de personnes
+qui les ont soumis à la "Time Capsule".
+Les dix thèmes se propagent et tournent autour de la "Time Capsule".
+Vous pouvez passer en revue ces données et voir ce que les gens ont proposé.
+Ceci est en réponse à Qu'est-ce qui est beau ? "Miss Monde".
+Il y a deux modes à la "Time Capsule"
+Il y a "One World" (Un Monde), qui présente le globe en rotation,
+et "Many Voices" (Beaucoup de Voix) qui sépare les données en bandes de films
+et vous permet de les passer en revue une par une.
+Ce projet a été ponctué par un événement vraiment extraordinaire
+qui a eu lieu dans le désert près d'Albuquerque au Nouveau Mexique
+à la Jemez Pueblo, où pendant trois nuits consécutives,
+le contenu de la capsule, était projeté sur les parois
+des murs antiques de Red Rock Canyon,
+hauts de 200 pieds. C'était vraiment incroyable.
+Et nous avons aussi projeté le contenu de la "Time Capsule"
+sous forme de code binaire dans l'espace extra-atmosphérique en utilisant un laser de 35 watts.
+Vous pouviez voir la ligne orange quitter le sol du désert,
+avec un angle d'environ 45 degrés. C'était étonnant
+parce que la première nuit, je regardais toute ces informations
+et j'ai vraiment commencé à voir les différences dont j'ai parlé plus tôt -
+les différences d'âge, le sexe et la richesse et ainsi de suite.
+Mais, vous savez, pendant que je le regardais encore, encore et encore,
+et que je voyais ces images aller à travers les rochers,
+j'ai réalisé que je voyais les mêmes archétypes
+représentés encore, encore et encore.
+Vous savez : mariages, naissances, funérailles, la première voiture, le premier baiser,
+le premier chameau ou cheval - selon la culture.
+C'était très émouvant. Cette photo là a été prise
+la dernière nuit d'une falaise éloigné d'environ deux miles,
+où le contenu de la capsule était projeté dans l'espace.
+Et il y avait quelque chose de très émouvant
+à propos de cette expression humaine envoyée dans le ciel nocturne.
+Ça a commencé à me faire penser à beaucoup de choses sur le ciel nocturne,
+et comment les humains l'ont toujours utilisé
+pour projeter leurs grandes histoires.
+Vous savez, quand j'était enfant dans le Vermont, dans là ferme où j'ai grandi,
+je regardais souvent le ciel sombre
+et je voyais la ceinture d'étoiles d'Orion, le chasseur.
+Et en tant qu'adulte, j'ai été plus au courant
+des grands mythes grecs qui se jouent dans le ciel tous les soirs.
+Vous savez, Orion face au taureau rugissant.
+Persée volant au secours d'Andromède.
+Zeus battant Chronos pour le contrôle du mont Olympe
+Je veux dire, ce sont les grands récits des Grecs.
+Et ça m'a fait m'interroger sur notre monde d'aujourd'hui.
+Et Je me suis demandé précisément,
+si nous pouvions faire de nouvelles constellations aujourd'hui,
+A quoi ressembleraient-elles ? Que seraient-elles ?
+Si nous pouvions faire de nouveaux dessins dans le ciel, que dessinerions-nous ?
+Quelles sont les grandes histoires d'aujourd'hui ?
+Ce sont ces questions qui ont inspiré mon nouveau projet,
+qui fait ses débuts aujourd'hui à TED.
+Personne n'avait encore vu ça, publiquement.
+Ça s'appelle "Universe" (Univers), et ça révéle notre mythologie moderne.
+Il utilise cette métaphore d'un ciel nocturne interactif.
+Donc, c'est mon grand plaisir maintenant de vous le montrer.
+Universe commencera ici.
+Et vous verrez qu'il mène avec un champ de déplacement étoiles,
+et il y a une aurore boréale dans le fond,
+une sorte de morphing de couleur. La couleur de l'aurore boréale
+peut être contrôlé à l'aide de cette seule barre de couleur en bas,
+et nous la mettrons ici en rouge.
+Donc, vous voyez ces étoiles qui se déplacent.
+Maintenant, ce ne sont pas juste des petits points de lumière, des petits pixels.
+Chacune de ces étoiles représente en fait
+un événement précis dans le monde réel -
+une citation qui a été dite par quelqu'un, une image,
+des nouvelles, une personne, une entreprise. Vous savez,
+une sorte de personnalité héroïque.
+Et vous remarquerez peut-être que, comme le curseur commence
+à toucher certaines de ces étoiles, des formes commencent à émerger.
+Nous voyons ici qu'il y a un petit homme marchant, ou peut-être une femme.
+Et nous voyons ici, une photographie avec une tête.
+Vous pouvez commencer à voir les mots émergeant ici.
+Et ce sont les constellations ;
+ce sont les constellations d'aujourd'hui.
+Et je peux les allumer toutes,
+et vous pouvez les voir se déplacer dans le ciel maintenant.
+C'est l'univers de 2007, les deux derniers mois.
+Ces données couvrent
+des milliers de sources de nouvelles dans le monde.
+Il s'agit d'utiliser l'API d'une société vraiment super avec qui je travaille
+à New York, en fait, appelée Daylife.
+Et c'est un peu une vue à la Zeitgeist à ce niveau
+de la mythologie courante du monde au cours des deux derniers mois.
+Ainsi nous pouvons voir où il est train de naître, comme le président Ford,
+l'Irak, Bush. Et nous pouvons en fait isoler seulement les mots -
+je les appelle les "secrets" - et nous pouvons les amener à former
+une liste alphabétique. Et nous voyons que Anna Nicole Smith
+a joué un grand rôle récemment.
+Le président Ford - il s'agit des funérailles de Gerald Ford.
+Nous pouvons en fait cliquer sur quoi que ce soit dans Universe
+et le faire devenir le centre de l'univers,
+et tout le reste entrera dans son orbite.
+Donc, nous allons cliquer sur Ford, et maintenant cela devient le centre.
+Et les choses qui se rapportent à Ford entrent dans son orbite
+et tourbillonnent autour de lui.
+Nous pouvons isoler seulement les photographies, et nous les voyons maintenant.
+On peut cliquer sur l'une d'elles
+et avoir cette photo au centre de l'univers.
+Maintenant les choses qui s'y rapportent tourbillonnent autour.
+On peut cliquer sur ce point et nous voyons cette image iconique
+de Betty Ford embrassant le cercueil de son mari.
+Dans l'univers, il n'y a pas de fin. Il s'étend à l'infini,
+et vous n'avez qu'à cliquer sur des trucs.
+Il s'agit d'une représentation photographique, appelé Snapshots.
+Mais on peut en fait être plus précis dans la définition de notre univers.
+Donc, si nous le voulons,
+regardons à quoi l'univers de Bill Clinton ressemble.
+Et voyons, durant cette dernière semaine, ce qu'il a fait.
+Alors maintenant, nous avons un nouvel univers, restreint
+aux choses concernant Bill Clinton.
+Nous pouvons avoir ses constellations qui apparaissent ici.
+Nous pouvons extraire ses secrets,
+et on voit qu'il y a beaucoup de candidats,
+Hillary, les présidentielles, Barack Obama.
+Nous pouvons voir les histoires
+auxquelles Bill Clinton participe en ce moment.
+Toutes peuvent être ouvertes.
+Ainsi, nous voyons Obama et les Clinton se rencontrant en Alabama.
+Vous pouvez voir qu'il s'agit d'une histoire importante,
+il ya beaucoup de choses dans son orbite. Si nous ouvrons ceci,
+nous obtenons des perspectives différentes sur cette histoire.
+Vous pouvez cliquer sur chaque réponse et lire l'article
+à la source. Celui-ci est d'Al-Jazira.
+Nous pouvons aussi voir les superstars. Ce serait les gens
+qui sont un peu des héros et des héroïnes
+qui apparaissent dans l'univers de Bill Clinton. Donc il y a Bill Clinton, Hillary,
+l'Irak, George Bush, Barack Obama, Scooter Libby -
+c'est le genre de personnes autour de Bill Clinton.
+Nous pouvons aussi voir une carte du monde, donc cela nous montre la portée géographique
+de Bill Clinton durant la dernière semaine.
+Nous pouvons voir que c'est centré sur l'Amérique
+parce qu'il y a fait campagne, sans doute,
+mais il y a un peu d'action ici dans le Moyen-Orient.
+Et puis on peut voir aussi une chronologie.
+Nous voyons donc qu'il était un peu discret le samedi,
+mais il était de retour au travail le dimanche matin,
+et puis ça s'est réduit depuis, cette semaine.
+Et ce n'est pas limité à des personnes ou des dates,
+mais nous pouvons actuellement le filtrer par concepts.
+Donc, si je mets le changement climatique pour l'ensemble de 2006,
+nous allons voir à quoi cet univers ressemble.
+Ici, nous avons notre champ d'étoiles, ici nous avons nos formes,
+ici nous avons nos secrets.
+Donc, nous voyons encore, le changement climatique est important.
+Nairobi, conférence mondiale, l'environnement.
+Et il y a également des citations que vous pouvez voir,
+si vous êtes intéressé par les citations sur le changement climatique.
+Vous savez, c'est vraiment une chose infinie.
+Les superstars du changement climatique en 2006 :
+les Etats-Unis, la Grande-Bretagne, la Chine. Vous savez,
+ce sont les pays imposant qui définissent ce genre de concept.
+Donc, c'est un outil qui demande à être d'exploré.
+Ce sera en ligne dans quelques jours, probablement mardi prochain.
+Et vous serez tous en mesure de l'utiliser et d'explorer
+ce que votre mythologie personnelle pourrait être.
+Vous remarquerez que, dans Daylife - plutôt, dans Universe,
+cela soutient aussi bien la notion d'une mythologie mondiale,
+qui est représentée par quelque chose d'aussi large que, disons, 2007,
+qu'une mythologie personnelle.
+Pendant que vous recherchez ce qui est important pour vous dans votre monde,
+vous pouvez voir à quoi les constellations vont ressembler.
+Ça a été un plaisir. Merci beaucoup. Merci.
+(Applaudissements)

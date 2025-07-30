@@ -1,0 +1,331 @@
+Sur l'océan,
+quel est le point commun
+entre le pétrole, le plastique, et la radioactivité ?
+En haut, c'est la marée noire de BP :
+des millions de barils de pétrole qui se déversent
+dans le golfe du Mexique.
+Au milieu, ce sont des millions de tonnes de
+débris en plastique qui s'accumulent dans notre océan,
+et en bas ce sont les matières radioactives
+qui fuient de la centrale nucléaire de Fukushima
+dans l'océan Pacifique.
+Hé bien, le point commun entre ces trois problèmes
+est qu'ils ont été créés par l'homme
+mais ils sont contrôlés par des forces naturelles.
+Cela devrait nous faire sentir terriblement mal
+autant que ça devrait nous faire espérer,
+parce que si nous avons le pouvoir de créer ces problèmes,
+nous pouvons aussi avoir le pouvoir
+de remédier à ces problèmes.
+Mais qu'en est-il des forces naturelles ?
+C'est exactement ce dont je veux parler aujourd'hui :
+comment pouvons-nous utiliser ces forces naturelles
+pour corriger ces problèmes créés par l'homme ?
+Quand la marée noire de BP s'est produite,
+je travaillais au MIT, et j'étais en charge
+du développement d'une technologie de nettoyage des marées noires.
+Et j'ai eu l'opportunité d'aller dans le golfe du Mexique,
+de rencontrer des pêcheurs, et de voir
+les conditions terribles dans lesquelles ils travaillaient.
+Plus de 700 de ces bateaux,
+qui sont des bateaux de pêche reconditionnés,
+avec des produits absorbant le pétrole en blanc
+et des produits de confinement du pétrole en orange, ont été utilisés,
+mais ils ne recueillaient que 3 % du pétrole en surface,
+et la santé des nettoyeurs
+a été très profondément affectée.
+Je travaillais sur une technologie très intéressante
+au MIT, mais c'était un projet à très long terme
+sur la manière de développer une technologie,
+et ça allait être une technologie très coûteuse,
+et elle aurait été aussi brevetée.
+Je voulais donc développer quelque chose qu'on pourrait
+développer très rapidement, qui serait bon marché,
+et qui serait open-source, donc, parce que
+les marées noires n'arrivent pas que dans le golfe du Mexique,
+et qui utiliserait des énergies renouvelables.
+Alors j'ai quitté mon emploi de rêve,
+et j'ai déménagé à la Nouvelle-Orléans,
+et j'ai continué à étudier comment se passait la marée noire.
+A ce moment-là, ce qu'ils faisaient, c'est
+qu'ils utilisaient ces petits bateaux de pêche,
+et ils nettoyaient des lignes dans un océan de saleté.
+Si vous utilisez la même quantité exacte de surface
+d'absorbants, mais que vous ne prêtez attention
+qu'aux modèles naturels, et si vous remontez le vent,
+vous pouvez recueillir beaucoup plus de matériaux.
+Si vous multipliez votre dispositif,
+vous multipliez le nombre de couches d'absorbants
+que vous utilisez, et vous pouvez récolter beaucoup plus.
+Mais il est extrêmement difficile de déplacer les produits absorbants
+contre les vents, les courants de surface, et les vagues.
+Ce sont des forces énormes.
+L'idée très simple a donc été d'utiliser l'ancienne technique
+de navigation maritime de prise de vent
+pour capturer ou intercepter le pétrole
+qui est à la dérive avec le vent.
+Cela n'exigeait aucune invention.
+Nous avons juste pris un simple bateau
+et nous avons essayé de traîner quelque chose de long et lourd,
+mais lorsqu'on changeait de direction,
+nous perdions deux choses :
+nous perdions de la puissance ainsi que notre trajectoire.
+Alors je me suis dit : et si on mettait le gouvernail
+à l'avant du bateau et non à l'arrière,
+aurions-nous un meilleur contrôle ?
+Alors j'ai construit ce petit bateau-robot
+avec la gouverne de direction à l'avant,
+et j'essayais de tirer quelque chose de très long et lourd,
+c'était donc un objet de quatre mètres de long à tirer,
+et j'ai été surpris avec seulement un gouvernail de 14 centimètres,
+de voir que je pouvais contrôler quatre mètres de produits absorbants.
+Puis j'étais tellement heureux que je continuais à jouer avec le robot,
+donc vous voyez que le robot
+a un gouvernail à l'avant ici.
+Normalement, c'est à l'arrière.
+Et, en jouant, j'ai compris que la maniabilité
+était vraiment incroyable,
+et que je pouvais éviter un obstacle à la dernière seconde,
+qu'il était plus maniable qu'un bateau normal.
+Puis j'ai commencé à publier en ligne,
+et certains amis de Corée ont commencé à
+s'y intéresser, et nous avons fait un bateau
+avec un gouvernail à l'avant et un à l'arrière,
+donc nous avons commencé à interagir avec,
+et c'était un peu mieux,
+Bien qu'il était très petit et un peu déséquilibré,
+mais ensuite, nous nous sommes dit :
+et si nous avions plus de deux points de contrôle ?
+Et si le bateau tout entier devenait un point de contrôle ?
+Et si le bateau tout entier pouvait changer de forme ?
+Ainsi — (Applaudissements)
+Merci beaucoup. (Applaudissements)
+C'était le début de Protei,
+et c'est le premier bateau dans l'histoire
+qui change complètement la forme de la coque
+pour être contrôlé,
+et les propriétés de navigation que nous obtenons
+sont bien meilleures qu'un bateau normal.
+Quand nous tournons, nous avons l'impression de glisser,
+et la façon dont il navigue face au vent est très efficace.
+Par vent faible,
+la maniabilité est très accrue,
+et ici, je vais virer au vent,
+et regardez la position de la voile.
+Ce qui se passe est que, parce que le bateau change de forme,
+la position de la voile avant et la grand voile
+sont différents au vent.
+Nous prenons le vent des deux côtés.
+Et c'est exactement ce que nous recherchons
+si nous voulons tirer quelque chose de long et lourd.
+Nous ne voulons pas perdre en puissance de traction, ni en trajectoire.
+Donc, je voulais savoir si c'était possible
+de faire cela à un niveau industriel,
+alors nous avons fait un grand bateau avec une grande voile,
+et avec une coque très légère, gonflable,
+de très petite surface,
+pour que nous ayons un très bon rapport de taille et de puissance.
+Après cela, nous voulions voir si nous pouvions
+mettre en œuvre et automatiser le système,
+donc nous avons utilisé le même système mais nous avons ajouté
+une structure afin que nous puissions activer la machine.
+Ainsi, nous avons utilisé le même système gonflable,
+et nous l'avons pris pour le tester.
+Cela se passe aux Pays-Bas.
+Nous avons essayé dans l'eau sans peau ou ballast
+juste pour voir comment ça fonctionne.
+Et puis nous avons monté une caméra pour le contrôler,
+mais rapidement nous avons vu que nous aurions besoin
+de beaucoup plus de poids à l'arrière,
+donc nous avons dû le ramener au laboratoire,
+et puis nous avons construit une peau autour,
+nous avons mis des batteries, des contrôleurs à distance,
+puis nous l'avons mis dans l'eau,
+et nous l'avons laisser aller dans l'eau pour voir si ça fonctionnait,
+on a donné du mou, en espérant que ça allait marcher,
+et ça a bien marché, mais nous avons encore du chemin à faire.
+Notre petit prototype nous a donné un bon aperçu
+de son bon fonctionnement,
+mais nous avons encore besoin de travailler beaucoup plus dessus.
+Ce que nous faisons est donc une évolution accélérée
+de la technologie de la voile.
+Nous sommes passés d'un gouvernail arrière à un gouvernail avant,
+à deux gouvernails, puis à plusieurs gouvernails,
+jusqu'au bateau entier changeant de forme,
+et plus nous allons de l'avant,
+plus le design paraît simple et joli. (Rires)
+Mais je voulais vous montrer un poisson parce que--
+En fait, c'est très différent d'un poisson.
+Un poisson se déplacera comme ça,
+mais notre bateau est propulsé par le vent,
+et la coque contrôle la trajectoire.
+Donc je vous ai apporté pour la première fois sur la scène de TED
+Protei Numéro Huit. Ce n'est pas le dernier modèle,
+mais c'est un bon pour faire des démonstrations.
+Donc la première chose comme je vous le montre dans la vidéo
+est que nous pourrions être en mesure de contrôler la trajectoire
+d'un bateau à voile de manière plus efficace,
+ou bien nous pourrions ne jamais être face au vent,
+ne jamais faire face au vent,
+nous pouvons toujours prendre le vent des deux côtés.
+De nouvelles propriétés d'un bateau à voile.
+Donc, si vous regardez le bateau de ce côté,
+cela peut vous rappeler un profil d'avion.
+Un avion, lorsque vous allez dans cette direction,
+commence à s'élever, et c'est comme ça qu'il décolle.
+Maintenant, si vous prenez le même système,
+et vous le mettez à la verticale, vous le plier,
+et si vous aller comme ça vers l'avant,
+votre instinct vous dira que vous devriez aller dans cette direction,
+mais si vous avancez assez rapidement,
+vous pourriez créer ce que nous appelons la portance latérale,
+afin que nous puissions être plus loin ou plus près du vent.
+Une autre propriété est la suivante :
+Un bateau à voile normal a une quille ici
+et un gouvernail à l'arrière,
+et ces deux choses sont à l'origine de l'essentiel
+de la résistance et de la turbulence derrière le bateau,
+mais parce que celui-là n'a ni
+de quille, ni de gouvernail,
+nous espérons que si nous continuons à travailler sur le design de cette coque
+nous pouvons nous améliorer et avoir moins de résistance.
+L'autre chose est que, la plupart des bateaux, lorsqu'ils atteignent
+une certaine vitesse, et qu'ils vont sur les vagues,
+ils commencent à frapper la surface de l'eau,
+et beaucoup d'énergie est perdue pour aller en avant.
+Mais si nous naviguons avec le courant,
+et si nous faisons attention aux modèles naturels
+au lieu d'essayer d'être résistants,
+mais si nous prenons le courant, nous pourrions absorber
+beaucoup de l'environnement, l'énergie des vagues,
+pour économiser de l'énergie pour aller de l'avant.
+Nous avons donc peut-être développé une technologie
+qui est très efficace pour tirer quelque chose de long et lourd,
+mais quel est le but de la technologie
+si elle n'est pas utilisée par ceux qui en ont besoin ?
+La technologie habituelle ou l'innovation arrivent comme ça :
+quelqu'un a une idée intéressante,
+un autre chercheur ou ingénieur
+l’amènent à un autre niveau, ils font une théorie à ce sujet
+et peut-être qu'ils la brevètent,
+et puis certaines industries feront un contrat
+d'exclusivité pour la fabriquer et la vendre,
+et puis, finalement, un client l'achètera,
+et nous espérons qu'ils l'utiliseront à bon escient.
+Ce que nous voulons vraiment, c'est que cette innovation se déroule
+continuellement. L'inventeur et les ingénieurs
+et aussi les fabricants et tout le monde
+œuvrent en même temps, mais ce serait stérile
+si cela se passait dans un processus parallèle et séparé.
+Ce que vous voulez vraiment n'est pas un développement
+séquentiel ou parallèle.
+Vous voulez avoir un réseau de l'innovation.
+Vous voulez que tout le monde, comme nous le faisons maintenant,
+puisse travailler en même temps, et ça ne peut se faire
+que si ces gens tous ensemble décident de partager l'information,
+et c'est exactement ce que représente le matériel libre.
+C'est remplacer la compétition par la collaboration.
+C'est transformer n'importe quel nouveau produit en un nouveau marché.
+Qu'est-ce donc que le matériel libre ?
+Essentiellement, le matériel libre est une licence.
+C'est juste une configuration de la propriété intellectuelle.
+Cela signifie que tout le monde est libre d'utiliser,
+de modifier et de distribuer, et en échange
+nous ne demandons que deux choses :
+Le nom est crédité -- le nom du projet --
+et aussi les gens qui font des améliorations
+doivent les partager avec la communauté.
+C'est donc une condition très simple.
+Et j'ai commencé ce projet seul dans un garage à la Nouvelle Orléans,
+mais rapidement après je voulais publier et partager
+cette information, donc j'ai créé Kickstarter,
+qui est une plate-forme de collecte de fonds en réseau,
+et en environ un mois, nous levions 30 000 dollars.
+Avec cet argent, j'ai engagé une équipe de jeunes ingénieurs
+de partout dans le monde, et nous avons loué une usine
+à Rotterdam aux Pays-Bas.
+Nous apprenions ensemble, nous conceptualisions,
+on créait des choses, des prototypes,
+mais plus important encore, nous essayions nos prototypes
+dans l'eau aussi souvent que possible,
+pour échouer aussitôt, et en tirer des leçons.
+C'est un fier membre de Protei de Corée,
+et sur le côté droit, c'est un design de multiple-mâts
+proposé par une équipe au Mexique.
+Cette idée plaisait vraiment à Gabriella Levine
+à New York, et elle a donc décidé de créer le prototype
+de cette idée qu'elle avait vue, et elle a documenté
+chaque étape du processus,
+et elle l'a publié sur Instructables,
+qui est un site Web pour le partage des inventions.
+Moins d'une semaine après,
+voici une équipe à Eindhoven, c'est une école d'ingénieurs.
+Ils l'ont fait, mais ils ont finalement publié
+une conception simplifiée.
+Ils ont également publié sur Instructables,
+et en moins d'une semaine, ils avaient
+presque 10 000 vues et ils se sont fait beaucoup de nouveaux amis.
+Nous travaillons également sur une technologie plus simple,
+peu complexe, avec des jeunes
+et aussi des personnes plus âgées,
+comme ce dinosaure de Mexico. (Rires)
+Protei est donc maintenant un réseau international
+de l'innovation pour la technologie de bateaux
+qui utilisent cette coque à forme changeante.
+Et ce qui nous rassemble, c'est que nous avons une compréhension commune,
+au moins globale,
+de ce que le mot « business » veut dire, ou de ce qu'il devrait être.
+C'est la façon dont la plupart des gens travaillent aujourd'hui.
+Selon le monde habituel des affaires, ce qui est le plus important,
+c'est de faire beaucoup de profit, et que utiliseriez
+la technologie pour cela, et les gens seraient votre force de travail,
+instrumentalisés,
+et l'environnement est généralement la dernière priorité.
+Ce serait juste un moyen d'aveugler votre clientèle
+et, disons, d'augmenter votre prix.
+Ce que nous essayons de faire, ou ce que en quoi nous croyons,
+parce que c'est la façon dont nous croyons que le monde fonctionne vraiment,
+c'est que sans l'environnement vous n'avez rien.
+Nous avons les gens et nous devons donc nous protéger les uns les autres, oui,
+et nous sommes une entreprise de technologie,
+et le profit est nécessaire pour que cela se produise. (Applaudissements)
+Merci beaucoup. (Applaudissements)
+Si nous avons le courage de comprendre ou d'accepter
+que c'est en fait comme ça que le monde fonctionne vraiment,
+et que c'est l'ordre de priorité que nous avons besoin de choisir,
+alors il apparaît évident pourquoi nous avons besoin
+de choisir le matériel libre pour le développement de technologies environnementales,
+car nous avons besoin de partager l'information.
+Quelle est la prochaine étape pour nous ?
+Cette petite machine que vous avez vu,
+nous espérons faire de petits jouets comme
+un Protei télécommandé d'un mètre que vous pouvez améliorer
+en remplaçant les pièces de contrôle à distance par Android,
+pour que le téléphone mobile et le micro-contrôleur Arduino,
+vous permettent de le contrôler
+depuis votre téléphone portable, votre tablette.
+Puis, ce que nous voulons, c'est créer des versions de six mètres,
+afin que nous puissions tester la performance maximale de ces machines,
+pour que nous puissions aller à très très haute vitesse.
+Imaginez-vous.
+Vous êtes allongés dans une torpille flexible,
+navigant à grande vitesse,
+en contrôlant la forme de la coque avec vos jambes
+et en contrôlant la voile avec vos bras.
+C'est ce que nous cherchons à développer. (Applaudissements)
+Et nous remplaçons l'être humain--
+pour aller, par exemple, mesurer la radioactivité,
+vous ne voulez pas un homme en train de manœuvrer ces robots--
+avec des batteries, des moteurs, des micro-contrôleurs, et des capteurs.
+C'est ce dont nous rêvons la nuit avec nos coéquipiers.
+Nous espérons pouvoir un jour nettoyer les marées noires,
+ou recueillir et collecter le plastique dans l'océan,
+ou nous pouvons avoir un essaim de nos machines
+contrôlé par des dispositifs de jeux multijoueurs
+pour contrôler ces machines,
+pour surveiller les récifs coralliens,
+ou pour surveiller les pêches.
+Notre espoir est que nous puissions utiliser la technologie de matériel libre
+pour mieux comprendre et protéger nos océans.
+Merci beaucoup. (Applaudissements)
+(Applaudissements)

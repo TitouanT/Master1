@@ -1,0 +1,76 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage{amsmath}
+\usepackage[french]{babel}
+
+\begin{document}
+
+\title{Compte rendu TP West}
+\author{Titouan Teyssier}
+\date{\today}
+\maketitle
+
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+\pagenumbering{arabic}
+
+
+\section{Modèle de l'élève}
+Le modèle de l'élève est composé de 6 concepts. Ces concepts sont séparés en stratégies et en actions.
+
+Chaque concept est décrit par 5 compteurs:
+\begin{itemize}
+	\item \textbf{achieved}: incrémenté à chaque fois que le concept est appliqué.
+	\item \textbf{overused}: incrémenté à chaque fois que le concept est appliqué, alors que l'expert ne l'utilise pas.
+	\item \textbf{bestuse}: incrémenté à chaque fois que le concept est appliqué, lorsque l'expert l'utilise.
+	\item \textbf{avoided}: incrémenté à chaque fois que le concept n'est pas appliqué, alors que le joueur a la possibilité de le faire.
+	\item \textbf{missed}: incrémenté à chaque fois que le concept est appliqué par l'expert mais pas par le joueur.
+\end{itemize}
+
+Ces compteurs permettent de calculer 3 métriques: la précision, le rappel et le F1-score.
+
+\subsection{Les Stratégies}
+Trois stratégies sont observées:
+\begin{itemize}
+	\item \textbf{valeur maximale}: Elle consiste à maximiser la valeurs de l'expression choisie.
+	\item \textbf{distance maximale}: Elle consiste à maximiser la distance parcouru, souvent en utilisant les villes et les raccourcis.
+	\item \textbf{écart maximal}: Elle consiste à maximiser la distance avec l'adversaire, souvent en utilisant les villes, les raccourcis et les collisions.
+\end{itemize}
+
+\subsection{Les Actions}
+Trois évènements, où actions, peuvent se produire pendant le tour d'un joueur.
+\begin{itemize}
+	\item \textbf{saut de ville}: Lorsque un joueur bouge son pion sur une ville, alors il fait un bond vers la ville suivante (Il avance de 10 cases).
+	\item \textbf{raccourci}: Certaine cases sont liée à une case plus proche de l'arrivée, lorsque le joueur fini sur une de ces cases, alors il avance jusqu'à la case correspondante.
+	\item \textbf{collision}: Lorsque le joueur arrive sur la même case que son adveraisre (et qu'il n'est pas sur une ville) alors son adversaire recule de 2 villes.
+\end{itemize}
+
+
+\section{Calcul des valeurs du modèle}
+À chaque fois que le joueur joue, son coup est comparé au choix que l'expert aurait fait dans les même conditions.
+En fonction des différences et des points commun entre le choix du joueur et celui de l'expert chaque concept est mis à jour.
+
+Une fois que les compteurs de chaque concepts sont mis à jours, leurs métriques le sont également:
+
+\begin{align*}
+	Precision &= \frac{bestuse}{bestuse + overused}\\
+	Rappel    &= \frac{bestuse}{bestuse + missed}\\
+	F1Score   &= 2*\frac{Precision * Rappel}{Precision + Rappel}
+\end{align*}
+
+\section{Conseils donnés}
+Lorsque le joueur ne joue pas de façons optimale, l'expert peut donner un conseils.
+Ces derniers sont donnés dans le respect des principes du guidage discret car:
+\begin{itemize}
+	\item L'expert ne donne pas de conseils pendant la première partie afin de laisser le temps au joueur de découvrir le jeu.
+	\item Ils n'arrivent jamais deux fois de suite.
+	\item Ils conservent l'intérêt du jeu en donnant le concept à utiliser sans donner le meilleur coups à jouer. De cette façons le joueur doit quand même réfléchir pour jouer de façons optimale.
+	\item Certain conseil dépendent du niveau du joueur.
+	\item Ils sont donnés pour les concepts où le joueur est faible.
+	\item Ils sont également donnés pour les concepts où le joueur est fort car il s'agit sans doute d'une erreur. (Cela ne signifie pas que les conseils sont donnés systématiquement car il y a une marge entre être faible et être fort)
+	\item Après chaque conseils, le joueur a la possibilité de rejouer.
+	\item Lorsque le joueur joue de façons optimale, l'expert le félicite.
+\end{itemize}
+
+\end{document}
